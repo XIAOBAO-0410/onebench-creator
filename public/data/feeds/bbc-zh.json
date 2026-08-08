@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "feedUrl": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+  "sourceId": "bbc-zh",
+  "title": "BBC 中文",
+  "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad#0",
+      "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T10:34:10.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad#0",
+      "title": "人工智能被用於設計全新病毒",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T09:24:48.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#1",
+      "title": "「免冷藏」疫苗首次人體實驗，可望減少浪費",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T03:43:54.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad#0",
+      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T02:50:00.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad#0",
+      "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
+      "meta": "BBC 中文 · 2026/8/7",
+      "url": "https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T00:06:39.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#0",
+      "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T13:34:05.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad#4",
+      "title": "SpaceX火箭殘骸據信擊中了月球，科學家能學到甚麼？",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T09:35:23.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad#2",
+      "title": "SpaceX火箭撞擊月球 NASA將啟動調查事故",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T09:13:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad#1",
+      "title": "Meta證實其AI模型「越獄」上網黑進別家公司",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T06:45:36.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad#1",
+      "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T05:59:42.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#4",
+      "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T00:36:59.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad#1",
+      "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T00:35:47.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad#1",
+      "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
+      "meta": "BBC 中文 · 2026/8/6",
+      "url": "https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T00:35:37.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad#5",
+      "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T10:59:27.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#1",
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T08:40:02.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad#1",
+      "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T08:20:14.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad#4",
+      "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T00:03:04.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad#1",
+      "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
+      "meta": "BBC 中文 · 2026/8/5",
+      "url": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T00:02:37.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#4",
+      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
+      "meta": "BBC 中文 · 2026/8/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T12:16:12.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad#2",
+      "title": "陸委會主委專訪：北京每年「已讀不回」3000封信 民進黨執政十年兩岸溝通未斷",
+      "meta": "BBC 中文 · 2026/8/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T11:17:07.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad#2",
+      "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
+      "meta": "BBC 中文 · 2026/8/4",
+      "url": "https://www.bbc.com/zhongwen/articles/czxeng4lw2yo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T11:15:40.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
+      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
+      "meta": "BBC 中文 · 2026/8/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T00:01:45.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#4",
+      "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
+      "meta": "BBC 中文 · 2026/8/3",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:11:26.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad#2",
+      "title": "不再「買買買」：為何中國消費者開始省錢過日子？",
+      "meta": "BBC 中文 · 2026/8/3",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yv09l9k9po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T14:08:15.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#5",
+      "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
+      "meta": "BBC 中文 · 2026/8/3",
+      "url": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:19:18.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "meta": "BBC 中文 · 2026/8/1",
+      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T09:56:01.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad#3",
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "meta": "BBC 中文 · 2026/7/29",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T11:14:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2kqgn3n3ro/trad#2",
+      "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
+      "meta": "BBC 中文 · 2026/7/28",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2kqgn3n3ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T13:41:25.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#3",
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "meta": "BBC 中文 · 2026/7/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T08:43:16.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyezy3l60qo/trad#3",
+      "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
+      "meta": "BBC 中文 · 2026/7/24",
+      "url": "https://www.bbc.com/zhongwen/articles/clyezy3l60qo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T04:45:44.000Z"
+    }
+  ],
+  "updatedAt": "2026-08-08T14:49:40.173Z",
+  "provider": "OneBench 公共资讯快照"
+}

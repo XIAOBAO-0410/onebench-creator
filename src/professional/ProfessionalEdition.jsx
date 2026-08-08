@@ -1,0 +1,354 @@
+import { useEffect, useMemo, useRef, useState } from 'react'
+import {
+  ArrowCounterClockwise, BookOpen, CalendarBlank, ChartBar, Check, CheckCircle,
+  ClockCountdown, DownloadSimple, FileText, GearSix, GraduationCap, House,
+  Kanban, Lightbulb, ListChecks, NotePencil, Notebook, PhoneCall, Plus, Rabbit, Smiley, Star, Student,
+  Target, Trash, UploadSimple, UsersThree, VideoCamera, WarningCircle, X,
+} from '@phosphor-icons/react'
+import './professional-edition.css'
+import { LifestyleFlagship } from './LifestyleFlagship.jsx'
+
+const uid = () => `${Date.now()}-${Math.random().toString(16).slice(2)}`
+const today = () => new Date().toISOString().slice(0, 10)
+
+const editions = {
+  exam: { label: '考公冲刺台', icon: GraduationCap, subtitle: '刷题、错题与申论闭环' },
+  teacher: { label: '班主任工作台', icon: Student, subtitle: '学生、成绩与班级事务' },
+  hu: { label: '生活创作旗舰版', icon: Smiley, subtitle: '每日计划、内容灵感与长期学习' },
+  creator: { label: '创作者工作台', icon: VideoCamera, subtitle: '选题、制作、发布与复盘' },
+}
+
+const defaults = {
+  exam: {
+    profile: { name: '小兔子', compact: false },
+    tasks: [{ id: 'e-t1', text: '言语理解 20 题', done: true }, { id: 'e-t2', text: '申论素材积累', done: false }, { id: 'e-t3', text: '错题二刷', done: false }],
+    countdowns: [{ id: 'e-c1', title: '国家公务员考试', date: '2026-11-29' }, { id: 'e-c2', title: '省考笔试', date: '2027-03-14' }],
+    practices: [{ id: 'e-p1', category: '资料分析', questions: 20, correct: 17, minutes: 31, date: today() }, { id: 'e-p2', category: '言语理解', questions: 20, correct: 15, minutes: 18, date: today() }],
+    mockExams: [{ id: 'e-x1', title: '2025 国考行测套卷', year: '2025', questions: 120, correct: 86, minutes: 112, date: today(), review: '资料分析耗时偏长，明天二刷错题。' }],
+    mistakes: [{ id: 'e-m1', category: '资料分析', title: '基期量计算', knowledge: '增长率', reason: '公式代入顺序错误', reviewDate: today(), reviews: 0, mastered: false }, { id: 'e-m2', category: '判断推理', title: '位置规律', knowledge: '图形推理', reason: '遗漏旋转方向', reviewDate: today(), reviews: 1, mastered: true }],
+    essays: [{ id: 'e-s1', title: '基层治理归纳概括', type: '小题', words: 260, score: 16, minutes: 35, insight: '先列关键词，再压缩表达。', date: today() }],
+    studyLogs: [{ id: 'e-l1', title: '行测套卷', minutes: 105, date: today() }],
+  },
+  teacher: {
+    profile: { name: '陈老师', compact: false },
+    classSize: 42,
+    tasks: [{ id: 't-t1', text: '批改 3 班周记', done: true }, { id: 't-t2', text: '联系小宇家长', done: false }, { id: 't-t3', text: '整理月考数据', done: false }],
+    students: [{ id: 't-s1', name: '林小宇', tag: '数学波动', status: '需跟进' }, { id: 't-s2', name: '王思雨', tag: '作业稳定', status: '良好' }, { id: 't-s3', name: '陈可欣', tag: '课堂进步', status: '观察' }],
+    scores: [{ id: 't-g1', name: '林小宇', subject: '数学', score: 78 }, { id: 't-g2', name: '王思雨', subject: '数学', score: 93 }, { id: 't-g3', name: '陈可欣', subject: '数学', score: 88 }],
+    assignments: [{ id: 't-a1', title: '周记', submitted: 36, total: 42 }, { id: 't-a2', title: '数学练习册', submitted: 39, total: 42 }],
+    attendance: [{ id: 't-at1', name: '林小宇', type: '迟到', reason: '公交延误', date: today(), handled: false }, { id: 't-at2', name: '周宁', type: '请假', reason: '就医', date: today(), handled: true }],
+    parentMessages: [{ id: 't-p1', student: '林小宇', channel: '电话', content: '沟通近期数学波动与晚间作业节奏。', next: '周五前反馈一次完成情况', done: false, date: today() }],
+    conversations: [{ id: 't-c1', student: '林小宇', summary: '了解最近学习状态', date: today(), done: false }],
+    discipline: [{ id: 't-d1', student: '周宁', summary: '课堂迟到，已提醒', date: today() }],
+    seats: ['林小宇', '王思雨', '陈可欣', '周宁', '赵一然', '许嘉', '沈清', '陆遥', '方越', '宋禾', '顾川', '韩笑'],
+  },
+  hu: {
+    profile: { name: '小满', role: '创作与生活练习者', status: '稳定更新中', compact: false },
+    tasks: [
+      { id: 'h-t1', text: '普拉提 1 小时', note: '每日必做', done: true },
+      { id: 'h-t2', text: '小提琴练习 45 分钟', note: '每日必做', done: false },
+      { id: 'h-t3', text: '英语精听 30 分钟', note: '每日必做', done: false },
+    ],
+    creativeTasks: [],
+    ideas: [
+      { id: 'h-i1', title: '把「内耗」拍成一个能开始的小动作', tag: '思考', summary: '从一个很小的自救动作切入，展示不完美但真实的执行。', saved: true, taskAdded: false },
+      { id: 'h-i2', title: '成年人的慢速周日，留给自己一点空白', tag: '搞笑', summary: '用反差把忙乱和安静并置，结尾留一个可复制的仪式。', saved: false, taskAdded: false },
+      { id: 'h-i3', title: '30 秒低成本通勤整理术', tag: '化妆', summary: '把步骤控制在三步，前后对比直接出现。', saved: false, taskAdded: false },
+      { id: 'h-i4', title: '小个子也能穿出松弛感的搭配公式', tag: '服装', summary: '用一套固定比例，解释为什么上下装要留出呼吸感。', saved: false, taskAdded: false },
+      { id: 'h-i5', title: '用一首热门 BGM 记录今天的小胜利', tag: '唱歌', summary: '把日常碎片剪成节奏点，让音乐帮助完成叙事。', saved: false, taskAdded: false },
+      { id: 'h-i6', title: '练琴第 100 天，原来进步是这样发生的', tag: '成长', summary: '用第一天、第五十天和今天的三个片段做真实对照。', saved: false, taskAdded: false },
+      { id: 'h-i7', title: '我如何给低能量日安排一个小计划', tag: '生活', summary: '删去宏大目标，只保留能在十分钟里完成的一件事。', saved: false, taskAdded: false },
+      { id: 'h-i8', title: '周日复盘时，我只问自己的三个问题', tag: '创作', summary: '把数据、感受和下一步动作放在同一个画面。', saved: false, taskAdded: false },
+      { id: 'h-i9', title: '一个人也能完成的居家拍摄布置', tag: '技巧', summary: '展示机位、光线和收音最小可行组合。', saved: false, taskAdded: false },
+      { id: 'h-i10', title: '给未来自己的一句真话', tag: '思考', summary: '用一段短独白代替鸡汤，让观众写下自己的版本。', saved: false, taskAdded: false },
+    ],
+    trends: [
+      { id: 'h-v1', title: '#feelLoveandtalk 舞蹈挑战', category: '唱歌', platform: '抖音', heat: '全网热度上升', publishedAt: '示例 · 07-08', source: '挑战赛公开页', why: '节奏辨识度高，容易让观众在前两秒理解内容，并愿意模仿自己的版本。', remix: '拍一条“从不擅长跳舞，到连续练习七天”的成长记录。', note: '挑战适合用练习过程做反差：镜头少、动作可拆，重点是记录进步。', saved: false, taskAdded: false },
+      { id: 'h-v2', title: 'very demure 端庄体变装挑战', category: '化妆', platform: 'TikTok', heat: '近两日回升', publishedAt: '示例 · 07-16', source: '热门话题页', why: '前后反差明确，用户能在一秒内理解内容钩子。', remix: '把变装替换成工作台改造前后对比。', note: '一条内容只保留一个反差点，避免把信息塞得太满。', saved: false, taskAdded: false },
+      { id: 'h-v3', title: '30 秒防焦虑通勤整理术', category: '生活', platform: '小红书', heat: '收藏增长', publishedAt: '示例 · 07-21', source: '本地示例条目', why: '步骤短、结果直接，适合清单型内容。', remix: '延伸为“出门前的三分钟稳定感仪式”。', note: '用一张纸条或一个小组件承接行动，收藏会更有理由。', saved: true, taskAdded: false },
+    ],
+    reviews: [
+      { id: 'h-r1', title: '晨间工作流', channel: '小红书', views: 18600, likes: 920, saves: 1280, insight: '开头直接给清单，收藏明显高于讲故事开场。', next: '下一条继续使用“结果先行”，并把步骤压缩到五个。', date: today() },
+    ],
+    memos: [
+      { id: 'h-m1', text: '周三预约体检', tag: '生活', done: false, archived: false },
+      { id: 'h-m2', text: '购买小提琴琴弦', tag: '采购', done: true, archived: false },
+    ],
+    violinPractice: [
+      { id: 'h-vp1', stage: 0, title: '空弦热身（每弦 5×10）', detail: '开弦、找音色，约 5 分钟。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp2', stage: 0, title: '认识乐器与调音', detail: '认识四根弦；用调音工具确认音高。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp3', stage: 0, title: '夹琴与持弓姿势', detail: '肩颈放松，拇指与中指建立稳定支点。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp4', stage: 0, title: '中弓短弓 → 全弓', detail: '从短弓开始，逐步拉长并保持声音均匀。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp5', stage: 0, title: '连弓换弦', detail: '一弓跨两弦，感受手臂高度的自然变化。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp6', stage: 1, title: '一指落点与抬指', detail: '用慢弓确认手型，听清每次音高。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp7', stage: 1, title: 'D 大调音阶第一组', detail: '分弓练习，先稳住节拍再加速度。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp8', stage: 1, title: '两小节旋律模仿', detail: '模仿一段简单旋律并录音回听。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp9', stage: 2, title: '换弦稳定练习', detail: '保持右手高度变化最小。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp10', stage: 2, title: '节拍器短句', detail: '从 60 BPM 开始完成四小节。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp11', stage: 2, title: '录音回听标记', detail: '写下一个最想调整的声音问题。', minutes: 10, done: false, date: today() },
+      { id: 'h-vp12', stage: 3, title: '连弓音色控制', detail: '每一弓保持相同的音量和速度。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp13', stage: 3, title: '小节连接', detail: '把两段练习连成完整乐句。', minutes: 20, done: false, date: today() },
+      { id: 'h-vp14', stage: 3, title: '带表情演奏', detail: '给一句旋律设计渐强或渐弱。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp15', stage: 4, title: '完整片段排练', detail: '从头到尾不断弓演奏一段作品。', minutes: 25, done: false, date: today() },
+      { id: 'h-vp16', stage: 4, title: '问题段慢练', detail: '只挑一个困难小节，放慢到可控。', minutes: 15, done: false, date: today() },
+      { id: 'h-vp17', stage: 4, title: '录制一版成品', detail: '回听后记录一条值得保留的进步。', minutes: 20, done: false, date: today() },
+    ],
+    violinProgress: { activeStage: 0, masteredStages: [] },
+    englishPractice: [
+      { id: 'h-ep1', title: 'BBC 六分钟英语精听', minutes: 20, done: true, date: today() },
+      { id: 'h-ep2', title: '跟读并录下 5 句', minutes: 15, done: false, date: today() },
+      { id: 'h-ep3', title: '整理今天的 8 个表达', minutes: 15, done: false, date: today() },
+    ],
+    learning: [],
+    lastIdeaRefresh: '',
+    lastTrendRefresh: '',
+  },
+  creator: {
+    profile: { name: '一位创作者', compact: false },
+    tasks: [{ id: 'c-t1', text: '写完「效率系统」脚本', done: true }, { id: 'c-t2', text: '录制周四视频', done: false }, { id: 'c-t3', text: '回复合作邮件', done: false }],
+    pipeline: [{ id: 'c-p1', title: '我的 AI 工作流', stage: 1, platform: '小红书' }, { id: 'c-p2', title: '夏日效率挑战', stage: 0, platform: '视频号' }, { id: 'c-p3', title: 'Notion 模板复盘', stage: 2, platform: '小红书' }],
+    schedule: [{ id: 'c-s1', title: '完成脚本', date: today(), time: '10:00' }, { id: 'c-s2', title: '录制主视频', date: today(), time: '15:00' }],
+    reviews: [{ id: 'c-r1', title: 'AI 工作流', views: 18600, saves: 1280, insight: '教程步骤前置，收藏明显提升' }],
+    okrs: [{ id: 'c-o1', title: '发布 12 条有用内容', current: 7, target: 12 }, { id: 'c-o2', title: '完成 3 次深度复盘', current: 2, target: 3 }],
+  },
+}
+
+const navs = {
+  exam: [['今日冲刺', House], ['行测记录', ListChecks], ['套卷复盘', Notebook], ['错题本', FileText], ['申论写作', NotePencil], ['学习数据', ChartBar]],
+  teacher: [['班级总览', House], ['学生管理', UsersThree], ['成绩分析', ChartBar], ['作业管理', Notebook], ['考勤登记', CalendarBlank], ['家校沟通', PhoneCall], ['谈话与纪律', Smiley], ['排座位', Kanban]],
+  hu: [['每日计划', House], ['选题每日灵感', Lightbulb], ['热点视频/二创', VideoCamera], ['内容复盘', ChartBar], ['备忘录', FileText], ['小提琴练习', Star], ['英语学习', BookOpen]],
+  creator: [['今日推进', House], ['内容管线', Kanban], ['发布档期', CalendarBlank], ['复盘实验室', Notebook], ['阶段目标', Target]],
+}
+
+function clone(value) { return JSON.parse(JSON.stringify(value)) }
+function mergeSeedRows(seed, saved) {
+  if (!Array.isArray(saved)) return clone(seed)
+  const byId = new Map(saved.map((item) => [item?.id, item]))
+  const seeded = seed.map((item) => ({ ...item, ...(byId.get(item.id) || {}) }))
+  const additions = saved.filter((item) => item?.id && !seed.some((seedItem) => seedItem.id === item.id))
+  return [...seeded, ...additions]
+}
+function readStore(edition, seedData = null) {
+  try {
+    const stored = JSON.parse(localStorage.getItem(`onebench.professional.${edition}`) || '{}')
+    const initial = seedData && typeof seedData === 'object' ? seedData : stored
+    const merged = { ...clone(defaults[edition]), ...initial, profile: { ...defaults[edition].profile, ...(initial.profile || {}) } }
+    if (edition === 'hu') {
+      for (const key of ['ideas', 'trends', 'violinPractice', 'englishPractice']) merged[key] = mergeSeedRows(defaults.hu[key], initial[key])
+      merged.violinProgress = { ...defaults.hu.violinProgress, ...(initial.violinProgress || {}) }
+    }
+    for (const [key, value] of Object.entries(merged)) {
+      if (key !== 'seats' && Array.isArray(value)) merged[key] = value.map((item) => typeof item === 'object' && item !== null ? { id: item.id || uid(), ...item } : item)
+    }
+    return merged
+  } catch { return clone(defaults[edition]) }
+}
+function daysUntil(date) { return Math.max(0, Math.ceil((new Date(`${date}T00:00:00`) - new Date()) / 86400000)) }
+
+export function ProfessionalEdition({ onBackToBasic, onDownloadLocal, initialData, initialEdition }) {
+  const initial = initialEdition || localStorage.getItem('onebench.edition')
+  const [edition, setEdition] = useState(editions[initial] ? initial : 'exam')
+  const [data, setData] = useState(() => readStore(editions[initial] ? initial : 'exam', initialData))
+  const [active, setActive] = useState(0)
+  const [settings, setSettings] = useState(false)
+  const [toast, setToast] = useState('')
+  const importRef = useRef(null)
+
+  useEffect(() => { localStorage.setItem('onebench.edition', edition) }, [edition])
+  useEffect(() => { localStorage.setItem(`onebench.professional.${edition}`, JSON.stringify(data)) }, [edition, data])
+  useEffect(() => { if (!toast) return; const timer = setTimeout(() => setToast(''), 1800); return () => clearTimeout(timer) }, [toast])
+
+  const switchEdition = (next) => {
+    if (next === 'basic') { setSettings(false); onBackToBasic(); return }
+    setData(readStore(next)); setEdition(next); setActive(0); setSettings(false); setToast(`已切换到${editions[next].label}`)
+  }
+  const update = (key, next) => setData((old) => ({ ...old, [key]: typeof next === 'function' ? next(old[key] || []) : next }))
+  const updateItem = (key, id, patch) => update(key, (items) => items.map((item) => item.id === id ? { ...item, ...patch } : item))
+  const removeItem = (key, id) => update(key, (items) => items.filter((item) => item.id !== id))
+  const exportData = () => {
+    const blob = new Blob([JSON.stringify({ edition, data }, null, 2)], { type: 'application/json' })
+    const url = URL.createObjectURL(blob); const link = document.createElement('a'); link.href = url; link.download = `onebench-${edition}.json`; link.click(); URL.revokeObjectURL(url); setToast('备份已下载')
+  }
+  const importData = async (event) => {
+    const file = event.target.files?.[0]; if (!file) return
+    try { const parsed = JSON.parse(await file.text()); setData({ ...clone(defaults[edition]), ...(parsed.data || parsed) }); setToast('数据已导入') } catch { setToast('文件格式不正确') }
+    event.target.value = ''
+  }
+  const reset = () => { if (!window.confirm('恢复当前版本的示例数据？你的修改会被覆盖。')) return; setData(clone(defaults[edition])); setToast('已恢复示例数据') }
+  const Page = { exam: ExamEdition, teacher: TeacherEdition, hu: HuEdition, creator: CreatorEdition }[edition]
+  const CurrentIcon = editions[edition].icon
+  const dateLabel = new Date().toLocaleDateString('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' })
+
+  if (edition === 'hu') return <>
+    <LifestyleFlagship
+      active={active}
+      data={data}
+      onNavigate={setActive}
+      onOpenSettings={() => setSettings(true)}
+      update={update}
+      updateItem={updateItem}
+      removeItem={removeItem}
+      showToast={setToast}
+    />
+    {settings && <SettingsPanel edition={edition} data={data} setData={setData} onClose={() => setSettings(false)} onSwitch={switchEdition} onExport={exportData} onImport={() => importRef.current?.click()} onReset={reset} onDownloadLocal={() => onDownloadLocal?.(edition, data)} />}
+    <input ref={importRef} type="file" accept="application/json" hidden onChange={importData} />
+    {toast && <div className="professional__toast" role="status">{toast}</div>}
+  </>
+
+  return <main className={`professional professional--${edition} ${data.profile?.compact ? 'is-compact' : ''}`}>
+    <aside className="professional__sidebar">
+      <div className="professional__brand"><span className="brand-orb"><CurrentIcon weight="fill" /></span><span>OneBench</span></div>
+      <nav aria-label={`${editions[edition].label}导航`}>{navs[edition].map(([label, Icon], index) => <button type="button" className={active === index ? 'is-active' : ''} onClick={() => setActive(index)} key={label}><Icon weight={active === index ? 'fill' : 'regular'} /><span>{label}</span></button>)}</nav>
+      <button className="professional__settings" type="button" onClick={() => setSettings(true)}><GearSix weight="duotone" /><span>设置</span></button>
+    </aside>
+    <section className="professional__content">
+      <header className="professional__topbar"><div><b>{editions[edition].label}</b><span>{editions[edition].subtitle}</span></div><div className="professional__date">{dateLabel}</div></header>
+      <Page active={active} data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+    </section>
+    {settings && <SettingsPanel edition={edition} data={data} setData={setData} onClose={() => setSettings(false)} onSwitch={switchEdition} onExport={exportData} onImport={() => importRef.current?.click()} onReset={reset} onDownloadLocal={() => onDownloadLocal?.(edition, data)} />}
+    <input ref={importRef} type="file" accept="application/json" hidden onChange={importData} />
+    {toast && <div className="professional__toast" role="status">{toast}</div>}
+  </main>
+}
+
+function PageHeader({ eyebrow, title, subtitle, action }) { return <header className="pro-page-header"><div><p>{eyebrow}</p><h1>{title}</h1><span>{subtitle}</span></div>{action}</header> }
+function IconButton({ label, onClick, children }) { return <button className="icon-button" type="button" aria-label={label} title={label} onClick={onClick}>{children}</button> }
+function AddForm({ fields, submitLabel = '添加', onAdd }) {
+  const initial = useMemo(() => Object.fromEntries(fields.map((field) => [field.key, field.default ?? ''])), [fields])
+  const [form, setForm] = useState(initial)
+  const submit = (event) => { event.preventDefault(); if (!fields.some((field) => `${form[field.key]}`.trim())) return; onAdd({ id: uid(), ...form }); setForm(initial) }
+  return <form className="pro-add-form" onSubmit={submit}>{fields.map((field) => <label key={field.key}>{field.label}<input type={field.type || 'text'} min={field.min} max={field.max} placeholder={field.placeholder} value={form[field.key]} onChange={(event) => setForm((old) => ({ ...old, [field.key]: field.type === 'number' ? Number(event.target.value) : event.target.value }))} /></label>)}<button type="submit"><Plus weight="bold" />{submitLabel}</button></form>
+}
+function TaskPanel({ tasks, update, title = '今日待办' }) {
+  const [draft, setDraft] = useState('')
+  const done = tasks.filter((item) => item.done).length
+  const add = (event) => { event.preventDefault(); if (!draft.trim()) return; update([...tasks, { id: uid(), text: draft.trim(), done: false }]); setDraft('') }
+  return <section className="pro-panel task-panel"><div className="panel-heading"><div><small>{title}</small><h2>{done}/{tasks.length} 已完成</h2></div><CheckCircle weight="fill" /></div><div className="task-list">{tasks.map((task) => <div className={task.done ? 'done' : ''} key={task.id}><button type="button" onClick={() => update(tasks.map((item) => item.id === task.id ? { ...item, done: !item.done } : item))}><span className="tick">{task.done && <Check weight="bold" />}</span>{task.text}</button><IconButton label="删除" onClick={() => update(tasks.filter((item) => item.id !== task.id))}><Trash /></IconButton></div>)}</div><form className="quick-add" onSubmit={add}><input value={draft} onChange={(event) => setDraft(event.target.value)} placeholder="添加一件真实要做的事…" /><button type="submit" aria-label="添加"><Plus /></button></form></section>
+}
+function Empty({ children }) { return <div className="empty-state">{children}</div> }
+function Metric({ value, label, tone }) { return <article className={tone || ''}><strong>{value}</strong><span>{label}</span></article> }
+
+function ExamEdition({ active, data, update, updateItem, removeItem }) {
+  const total = data.practices.reduce((sum, item) => sum + Number(item.questions || 0), 0)
+  const correct = data.practices.reduce((sum, item) => sum + Number(item.correct || 0), 0)
+  const reviewQueue = data.mistakes.filter((item) => !item.mastered && (!item.reviewDate || item.reviewDate <= today()))
+  if (active === 0) return <div className="edition-page exam-home"><div className="exam-hero"><div><p>下午好，{data.profile.name}</p><h1>今天也稳稳向前</h1><span>最近一场考试还有</span><strong>{daysUntil(data.countdowns[0]?.date)} <small>天</small></strong></div><Rabbit weight="duotone" /></div><div className="countdown-strip">{data.countdowns.map((item) => <label key={item.id}><span>{item.title}</span><b>{daysUntil(item.date)} 天</b><input type="date" value={item.date} onChange={(event) => updateItem('countdowns', item.id, { date: event.target.value })} /></label>)}</div><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="今日学习清单" /><div className="metric-row"><Metric value={`${total}题`} label="累计刷题" /><Metric value={`${total ? Math.round(correct / total * 100) : 0}%`} label="综合正确率" /><Metric value={`${reviewQueue.length}题`} label="今日待二刷" /></div></div>
+  if (active === 1) return <div className="edition-page"><PageHeader eyebrow="行测记录" title="每一次练习，都留下可比较的数据" subtitle="记录题量、正确数和用时，正确率自动计算；数字可随时改正。" /><AddForm fields={[{ key: 'category', label: '模块', placeholder: '资料分析' }, { key: 'questions', label: '题量', type: 'number', min: 1, default: 20 }, { key: 'correct', label: '正确', type: 'number', min: 0, default: 15 }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 30 }]} onAdd={(item) => update('practices', (rows) => [{ ...item, date: today() }, ...rows])} /><section className="data-table"><div className="data-table__head"><span>模块</span><span>题量</span><span>正确率</span><span>用时</span><span></span></div>{data.practices.map((item) => <div key={item.id}><b>{item.category}</b><input aria-label={`${item.category}题量`} type="number" min="1" value={item.questions} onChange={(event) => updateItem('practices', item.id, { questions: Number(event.target.value) })} /><span>{Math.round(item.correct / Math.max(1, item.questions) * 100)}%</span><input aria-label={`${item.category}用时`} type="number" min="1" value={item.minutes} onChange={(event) => updateItem('practices', item.id, { minutes: Number(event.target.value) })} /><IconButton label="删除记录" onClick={() => removeItem('practices', item.id)}><Trash /></IconButton></div>)}</section></div>
+  if (active === 2) return <MockExamPage data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+  if (active === 3) return <div className="edition-page"><PageHeader eyebrow="错题本" title="把错题变成今天要回收的任务" subtitle="记录知识点、错因和下次复习日；每次二刷都会累计进度。" /><AddForm fields={[{ key: 'category', label: '题型', placeholder: '判断推理' }, { key: 'title', label: '错题', placeholder: '位置规律' }, { key: 'knowledge', label: '知识点', placeholder: '图形推理' }, { key: 'reason', label: '错因', placeholder: '为什么会错' }, { key: 'reviewDate', label: '下次复习', type: 'date', default: today() }]} onAdd={(item) => update('mistakes', (rows) => [{ ...item, reviews: 0, mastered: false }, ...rows])} /><div className="mistake-grid">{data.mistakes.map((item) => <article className={item.mastered ? 'reviewed' : ''} key={item.id}><span>{item.category} · {item.knowledge || '未分类'}</span><h3>{item.title}</h3><p>{item.reason}</p><small>下次复习：{item.reviewDate || '今天'} · 已复习 {item.reviews || 0} 次</small><div><button type="button" onClick={() => updateItem('mistakes', item.id, item.mastered ? { mastered: false } : { reviews: Number(item.reviews || 0) + 1, reviewDate: today(), mastered: Number(item.reviews || 0) + 1 >= 2 })}>{item.mastered ? '重新放入队列' : '完成一次二刷'}</button><IconButton label="删除" onClick={() => removeItem('mistakes', item.id)}><Trash /></IconButton></div></article>)}</div></div>
+  if (active === 4) return <div className="edition-page"><PageHeader eyebrow="申论写作" title="把素材积累变成限时作答" subtitle="保留题型、字数、用时、得分和下一次能复用的结论。" /><AddForm fields={[{ key: 'title', label: '题目', placeholder: '基层治理' }, { key: 'type', label: '类型', placeholder: '大作文/小题' }, { key: 'words', label: '字数', type: 'number', min: 0, default: 800 }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 60 }, { key: 'score', label: '得分', type: 'number', min: 0, default: 0 }]} onAdd={(item) => update('essays', (rows) => [{ ...item, insight: '', date: today() }, ...rows])} /><div className="review-cards">{data.essays.map((item) => <article key={item.id}><span>{item.type} · {item.date}</span><h3>{item.title}</h3><p>{item.words} 字 · {item.minutes || 0} 分钟 · {item.score || 0} 分</p><label className="inline-edit">下次怎么改<input value={item.insight || ''} onChange={(event) => updateItem('essays', item.id, { insight: event.target.value })} placeholder="写一条具体动作" /></label><IconButton label="删除申论记录" onClick={() => removeItem('essays', item.id)}><Trash /></IconButton></article>)}</div></div>
+  return <ExamInsights data={data} update={update} />
+}
+
+function MockExamPage({ data, update, updateItem, removeItem }) {
+  return <div className="edition-page"><PageHeader eyebrow="套卷复盘" title="一套卷，就是一次可以比较的阶段测试" subtitle="记录年份、题量、正确数和用时，复盘结论会跟着这套卷保存。" /><AddForm fields={[{ key: 'title', label: '套卷名称', placeholder: '2025 国考行测套卷' }, { key: 'year', label: '年份', placeholder: '2025' }, { key: 'questions', label: '题量', type: 'number', min: 1, default: 120 }, { key: 'correct', label: '正确', type: 'number', min: 0, default: 80 }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 120 }]} onAdd={(item) => update('mockExams', (rows) => [{ ...item, date: today(), review: '' }, ...rows])} /><div className="review-cards">{data.mockExams.map((item) => <article key={item.id}><span>{item.year || '模拟'} · {item.date}</span><h3>{item.title}</h3><p>{item.correct}/{item.questions} 正确 · {Math.round(Number(item.correct || 0) / Math.max(1, Number(item.questions || 0)) * 100)}% · {item.minutes} 分钟</p><label className="inline-edit">复盘结论<input value={item.review || ''} onChange={(event) => updateItem('mockExams', item.id, { review: event.target.value })} placeholder="下一套卷先改哪里" /></label><IconButton label="删除套卷" onClick={() => removeItem('mockExams', item.id)}><Trash /></IconButton></article>)}</div></div>
+}
+
+function ExamInsights({ data, update }) {
+  const grouped = Object.values(data.practices.reduce((map, item) => { const row = map[item.category] || { category: item.category, q: 0, c: 0 }; row.q += Number(item.questions); row.c += Number(item.correct); map[item.category] = row; return map }, {}))
+  const reviewQueue = data.mistakes.filter((item) => !item.mastered && (!item.reviewDate || item.reviewDate <= today()))
+  return <div className="edition-page"><PageHeader eyebrow="学习数据" title="薄弱项从真实记录中生成" subtitle="练习、套卷、错题回收和时长都会从你的记录即时计算。" /><div className="analytics-grid"><section className="pro-panel"><h2>模块正确率</h2>{grouped.length ? grouped.map((item) => <div className="bar-row" key={item.category}><span>{item.category}</span><progress value={item.c} max={Math.max(1, item.q)} /><b>{Math.round(item.c / Math.max(1, item.q) * 100)}%</b></div>) : <Empty>先在“行测记录”添加一次练习</Empty>}<h2 className="subsection-title">今日错题回收</h2>{reviewQueue.length ? reviewQueue.map((item) => <div className="attention-row" key={item.id}><b>{item.title}</b><span>{item.knowledge || item.category}</span><em>待复习</em></div>) : <Empty>今天没有待二刷错题</Empty>}</section><section className="pro-panel"><h2>学习时长</h2><AddForm fields={[{ key: 'title', label: '内容', placeholder: '行测套卷' }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 60 }]} onAdd={(item) => update('studyLogs', (rows) => [{ ...item, date: today() }, ...rows])} /><strong className="big-number">{data.studyLogs.reduce((sum, item) => sum + Number(item.minutes || 0), 0)}<small> 分钟</small></strong><RecordCards rows={data.studyLogs.slice(0, 4)} titleKey="title" meta={(item) => `${item.minutes} 分钟 · ${item.date}`} onDelete={(id) => update('studyLogs', (rows) => rows.filter((item) => item.id !== id))} /></section></div></div>
+}
+
+function TeacherEdition({ active, data, update, updateItem, removeItem }) {
+  const average = Math.round(data.scores.reduce((sum, item) => sum + Number(item.score), 0) / Math.max(1, data.scores.length))
+  const pendingAttendance = (data.attendance || []).filter((item) => !item.handled).length
+  if (active === 0) return <div className="edition-page teacher-home"><PageHeader eyebrow="高二（3）班 · 班主任工作台" title={`上午好，${data.profile.name}`} subtitle="把琐碎交给系统，把时间留给学生。" /><div className="metric-row"><Metric value={data.classSize || data.students.length} label="班级学生" /><Metric value={`${average}分`} label="当前成绩均分" /><Metric value={data.students.filter((item) => item.status === '需跟进').length + pendingAttendance} label="需要关注" tone="warning" /></div><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="班级待办" /><section className="pro-panel attention-panel"><div className="panel-heading"><div><small>学生动态</small><h2>本周需要跟进</h2></div><WarningCircle weight="fill" /></div>{[...data.students.filter((item) => item.status !== '良好'), ...(data.attendance || []).filter((item) => !item.handled).map((item) => ({ id: `attendance-${item.id}`, name: item.name, tag: `${item.type} · ${item.reason || '待补充原因'}`, status: '待跟进' }))].map((item) => <div className="attention-row" key={item.id}><b>{item.name}</b><span>{item.tag}</span><em>{item.status}</em></div>)}</section></div>
+  if (active === 1) return <StudentManager data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+  if (active === 2) return <div className="edition-page"><PageHeader eyebrow="成绩分析" title="录入成绩后，趋势即时计算" subtitle="支持按学生与学科记录，不再展示写死的数据。" /><AddForm fields={[{ key: 'name', label: '学生', placeholder: '姓名' }, { key: 'subject', label: '学科', placeholder: '数学' }, { key: 'score', label: '分数', type: 'number', min: 0, max: 150, default: 90 }]} onAdd={(item) => update('scores', (rows) => [{ ...item }, ...rows])} /><section className="score-board"><div className="score-summary"><strong>{average}</strong><span>当前平均分</span></div>{data.scores.map((item) => <div className="score-row" key={item.id}><b>{item.name}</b><span>{item.subject}</span><progress value={item.score} max="150" /><input aria-label={`${item.name}分数`} type="number" min="0" max="150" value={item.score} onChange={(event) => updateItem('scores', item.id, { score: Number(event.target.value) })} /><IconButton label="删除成绩" onClick={() => removeItem('scores', item.id)}><Trash /></IconButton></div>)}</section></div>
+  if (active === 3) return <div className="edition-page"><PageHeader eyebrow="作业管理" title="发布、收集与补交放在一起" subtitle="直接修改提交人数，完成率自动更新。" /><AddForm fields={[{ key: 'title', label: '作业', placeholder: '周末练习' }, { key: 'submitted', label: '已交', type: 'number', min: 0, default: 0 }, { key: 'total', label: '总人数', type: 'number', min: 1, default: 42 }]} onAdd={(item) => update('assignments', (rows) => [{ ...item }, ...rows])} /><div className="assignment-grid">{data.assignments.map((item) => <article key={item.id}><div><b>{item.title}</b><span>{Math.round(item.submitted / Math.max(1, item.total) * 100)}%</span></div><progress value={item.submitted} max={Math.max(1, item.total)} /><label>已交 <input type="number" min="0" max={item.total} value={item.submitted} onChange={(event) => updateItem('assignments', item.id, { submitted: Number(event.target.value) })} /> / {item.total}</label><IconButton label="删除作业" onClick={() => removeItem('assignments', item.id)}><Trash /></IconButton></article>)}</div></div>
+  if (active === 4) return <AttendancePanel data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+  if (active === 5) return <ParentMessagePanel data={data} update={update} updateItem={updateItem} removeItem={removeItem} />
+  if (active === 6) return <TeacherRecords data={data} update={update} removeItem={removeItem} />
+  return <Seating data={data} update={update} />
+}
+
+function StudentManager({ data, update, updateItem, removeItem }) {
+  const edit = (item) => {
+    const name = window.prompt('修改学生姓名', item.name)
+    if (name?.trim()) updateItem('students', item.id, { name: name.trim() })
+    const tag = window.prompt('修改关注点', item.tag || '')
+    if (tag !== null) updateItem('students', item.id, { tag: tag.trim() })
+  }
+  return <div className="edition-page"><PageHeader eyebrow="学生管理" title="每一条关注，都能被修改和删除" subtitle="状态、关注点和学生姓名都由班主任本人维护，不做公开排名。" /><AddForm fields={[{ key: 'name', label: '姓名', placeholder: '学生姓名' }, { key: 'tag', label: '关注点', placeholder: '近期表现' }]} onAdd={(item) => update('students', (rows) => [{ ...item, status: '观察' }, ...rows])} /><section className="student-roster">{data.students.map((item) => <article key={item.id}><span className="student-avatar">{item.name.slice(-1)}</span><button className="student-copy" type="button" onClick={() => edit(item)}><b>{item.name}</b><small>{item.tag || '点击补充关注点'}</small></button><button type="button" onClick={() => updateItem('students', item.id, { status: item.status === '良好' ? '观察' : item.status === '观察' ? '需跟进' : '良好' })}>{item.status}</button><IconButton label="删除学生" onClick={() => removeItem('students', item.id)}><Trash /></IconButton></article>)}</section></div>
+}
+
+function AttendancePanel({ data, update, updateItem, removeItem }) {
+  return <div className="edition-page"><PageHeader eyebrow="考勤登记" title="异常到校记录，当天处理清楚" subtitle="默认只保存在这台设备；记录原因、日期和处理状态，避免贴永久标签。" /><AddForm fields={[{ key: 'name', label: '学生', placeholder: '姓名' }, { key: 'type', label: '类型', placeholder: '迟到/请假/缺勤' }, { key: 'reason', label: '原因', placeholder: '如已知可填写' }, { key: 'date', label: '日期', type: 'date', default: today() }]} onAdd={(item) => update('attendance', (rows) => [{ ...item, handled: false }, ...rows])} /><div className="record-cards">{(data.attendance || []).map((item) => <article key={item.id}><button className="record-copy" type="button" onClick={() => { const reason = window.prompt('修改原因', item.reason || ''); if (reason !== null) updateItem('attendance', item.id, { reason: reason.trim() }) }}><b>{item.name} · {item.type}</b><span>{item.date} · {item.reason || '未填写原因'}</span></button><button className={item.handled ? 'record-state is-done' : 'record-state'} type="button" onClick={() => updateItem('attendance', item.id, { handled: !item.handled })}>{item.handled ? '已处理' : '待处理'}</button><IconButton label="删除考勤记录" onClick={() => removeItem('attendance', item.id)}><Trash /></IconButton></article>)}</div></div>
+}
+
+function ParentMessagePanel({ data, update, updateItem, removeItem }) {
+  return <div className="edition-page"><PageHeader eyebrow="家校沟通" title="把沟通重点和下一步留在班主任手里" subtitle="记录沟通渠道、内容和下一次动作；完成后可标记结案。" /><AddForm fields={[{ key: 'student', label: '学生', placeholder: '姓名' }, { key: 'channel', label: '渠道', placeholder: '电话/面谈/消息' }, { key: 'content', label: '沟通重点', placeholder: '客观描述' }, { key: 'next', label: '下一步', placeholder: '何时跟进' }]} onAdd={(item) => update('parentMessages', (rows) => [{ ...item, date: today(), done: false }, ...rows])} /><div className="review-cards">{(data.parentMessages || []).map((item) => <article className={item.done ? 'reviewed' : ''} key={item.id}><span>{item.channel || '沟通'} · {item.date}</span><h3>{item.student}</h3><p>{item.content}</p><label className="inline-edit">下一步<input value={item.next || ''} onChange={(event) => updateItem('parentMessages', item.id, { next: event.target.value })} /></label><div><button type="button" onClick={() => updateItem('parentMessages', item.id, { done: !item.done })}>{item.done ? '重新打开' : '标记已结案'}</button><IconButton label="删除沟通记录" onClick={() => removeItem('parentMessages', item.id)}><Trash /></IconButton></div></article>)}</div></div>
+}
+
+function TeacherRecords({ data, update, removeItem }) {
+  return <div className="edition-page"><PageHeader eyebrow="谈话与纪律" title="必要记录集中保存，随时可删" subtitle="不做永久标签，只为下一次跟进提供上下文。" /><div className="record-columns"><section><h2>谈话记录</h2><AddForm fields={[{ key: 'student', label: '学生', placeholder: '姓名' }, { key: 'summary', label: '摘要', placeholder: '沟通重点' }]} onAdd={(item) => update('conversations', (rows) => [{ ...item, date: today(), done: false }, ...rows])} /><RecordCards rows={data.conversations} titleKey="student" meta={(item) => `${item.summary} · ${item.date}`} onDelete={(id) => removeItem('conversations', id)} /></section><section><h2>纪律记录</h2><AddForm fields={[{ key: 'student', label: '学生', placeholder: '姓名' }, { key: 'summary', label: '情况', placeholder: '客观描述' }]} onAdd={(item) => update('discipline', (rows) => [{ ...item, date: today() }, ...rows])} /><RecordCards rows={data.discipline} titleKey="student" meta={(item) => `${item.summary} · ${item.date}`} onDelete={(id) => removeItem('discipline', id)} /></section></div></div>
+}
+function Seating({ data, update }) {
+  const [selected, setSelected] = useState(null)
+  const choose = (index) => { if (selected === null) { setSelected(index); return } const seats = [...data.seats]; [seats[selected], seats[index]] = [seats[index], seats[selected]]; update('seats', seats); setSelected(null) }
+  return <div className="edition-page"><PageHeader eyebrow="排座位" title="点击两名学生即可交换座位" subtitle="第一排靠近讲台，座位变化会自动保存。" /><div className="teacher-desk">讲台</div><div className="seat-grid">{data.seats.map((name, index) => <button type="button" className={selected === index ? 'selected' : ''} onClick={() => choose(index)} key={`${name}-${index}`}><span>{index + 1}</span><b>{name}</b></button>)}</div></div>
+}
+
+function HuEdition({ active, data, update, updateItem, removeItem }) {
+  if (active === 0) return <div className="edition-page hu-home"><PageHeader eyebrow="SUNDAY · ONE DAY AT A TIME" title={`慢慢生活，${data.profile.name}`} subtitle="今天的节奏，由你定义。" /><div className="hu-layout"><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="每日计划" /><section className="hu-quote"><Star weight="fill" /><p>认真完成一个小动作，也是在把生活慢慢变成喜欢的样子。</p><span>今日给自己的话</span></section></div><div className="hu-glance"><button type="button"><Lightbulb /><span>灵感库</span><b>{data.ideas.length} 条</b></button><button type="button"><Kanban /><span>内容推进</span><b>{data.content.filter((item) => item.status < 2).length} 个</b></button><button type="button"><BookOpen /><span>本周学习</span><b>{data.learning.reduce((sum, item) => sum + Number(item.minutes), 0)} 分</b></button></div></div>
+  if (active === 1) return <StageBoard eyebrow="灵感库" title="随手记下，再决定要不要做" subtitle="灵感可从收集推进到选题和完成。" rows={data.ideas} stages={['收集', '已选题', '已完成']} fields={[{ key: 'title', label: '灵感', placeholder: '突然想到的选题' }, { key: 'tag', label: '标签', placeholder: '生活/成长' }]} metaKey="tag" onAdd={(item) => update('ideas', (rows) => [{ ...item, status: 0 }, ...rows])} onAdvance={(item) => updateItem('ideas', item.id, { status: (item.status + 1) % 3 })} onDelete={(item) => removeItem('ideas', item.id)} />
+  if (active === 2) return <StageBoard eyebrow="内容进度" title="从想法到发布，保留每一步" subtitle="点击状态推进，不再只是静态展示。" rows={data.content} stages={['待开始', '制作中', '已发布']} fields={[{ key: 'title', label: '内容', placeholder: '内容标题' }, { key: 'format', label: '形式', placeholder: '图文/视频' }]} metaKey="format" onAdd={(item) => update('content', (rows) => [{ ...item, status: 0 }, ...rows])} onAdvance={(item) => updateItem('content', item.id, { status: (item.status + 1) % 3 })} onDelete={(item) => removeItem('content', item.id)} />
+  if (active === 3) return <div className="edition-page"><PageHeader eyebrow="内容复盘" title="只记录下一次真的会用到的结论" subtitle="指标、结论和作品绑定保存。" /><AddForm fields={[{ key: 'title', label: '作品', placeholder: '作品名称' }, { key: 'metric', label: '指标', placeholder: '收藏率 10%' }, { key: 'insight', label: '结论', placeholder: '下次怎么做' }]} onAdd={(item) => update('reviews', (rows) => [{ ...item }, ...rows])} /><div className="review-cards">{data.reviews.map((item) => <article key={item.id}><span>{item.metric}</span><h3>{item.title}</h3><p>{item.insight}</p><IconButton label="删除复盘" onClick={() => removeItem('reviews', item.id)}><Trash /></IconButton></article>)}</div></div>
+  if (active === 4) return <SimpleChecklist title="备忘录" subtitle="随手写下，完成后勾选，也可以删除。" rows={data.memos} update={(rows) => update('memos', rows)} />
+  return <div className="edition-page"><PageHeader eyebrow="长期学习" title="把喜欢的事，做得更久一点" subtitle="英语、小提琴、阅读都可以记录真实时长。" /><AddForm fields={[{ key: 'title', label: '学习内容', placeholder: '英语精听' }, { key: 'minutes', label: '分钟', type: 'number', min: 1, default: 30 }]} onAdd={(item) => update('learning', (rows) => [{ ...item, date: today() }, ...rows])} /><div className="learning-total"><ClockCountdown /><div><strong>{data.learning.reduce((sum, item) => sum + Number(item.minutes), 0)}</strong><span>累计投入分钟</span></div></div><RecordCards rows={data.learning} titleKey="title" meta={(item) => `${item.minutes} 分钟 · ${item.date}`} onDelete={(id) => removeItem('learning', id)} /></div>
+}
+
+function CreatorEdition({ active, data, update, updateItem, removeItem }) {
+  if (active === 0) return <div className="edition-page creator-home"><PageHeader eyebrow="CREATOR OS" title={`让今天的推进看得见，${data.profile.name}`} subtitle="不靠灵感焦虑，靠清晰的下一步。" action={<div className="streak"><b>{data.pipeline.filter((item) => item.stage === 2).length}</b><span>已发布作品</span></div>} /><div className="creator-dashboard"><TaskPanel tasks={data.tasks} update={(items) => update('tasks', items)} title="今日推进" /><MiniPipeline data={data} updateItem={updateItem} /></div><div className="metric-row"><Metric value={data.pipeline.length} label="内容项目" /><Metric value={data.schedule.length} label="已安排档期" /><Metric value={data.reviews.reduce((sum, item) => sum + Number(item.saves || 0), 0)} label="累计收藏" /></div></div>
+  if (active === 1) return <StageBoard eyebrow="内容管线" title="选题、制作、发布连续推进" subtitle="新增内容后直接进入待选题列，点击状态即可推进。" rows={data.pipeline} stages={['选题', '制作中', '已发布']} fields={[{ key: 'title', label: '选题', placeholder: '内容标题' }, { key: 'platform', label: '平台', placeholder: '小红书' }]} metaKey="platform" onAdd={(item) => update('pipeline', (rows) => [{ ...item, stage: 0 }, ...rows])} stageKey="stage" onAdvance={(item) => updateItem('pipeline', item.id, { stage: (item.stage + 1) % 3 })} onDelete={(item) => removeItem('pipeline', item.id)} />
+  if (active === 2) return <div className="edition-page"><PageHeader eyebrow="发布档期" title="明确什么时候做、什么时候发" subtitle="时间可直接修改，刷新后仍会保留。" /><AddForm fields={[{ key: 'title', label: '事项', placeholder: '完成脚本' }, { key: 'date', label: '日期', type: 'date', default: today() }, { key: 'time', label: '时间', type: 'time', default: '10:00' }]} onAdd={(item) => update('schedule', (rows) => [...rows, item].sort((a, b) => `${a.date}${a.time}`.localeCompare(`${b.date}${b.time}`)))} /><div className="schedule-list">{data.schedule.map((item) => <article key={item.id}><CalendarBlank weight="duotone" /><input aria-label="日期" type="date" value={item.date} onChange={(event) => updateItem('schedule', item.id, { date: event.target.value })} /><input aria-label="时间" type="time" value={item.time} onChange={(event) => updateItem('schedule', item.id, { time: event.target.value })} /><b>{item.title}</b><IconButton label="删除档期" onClick={() => removeItem('schedule', item.id)}><Trash /></IconButton></article>)}</div></div>
+  if (active === 3) return <div className="edition-page"><PageHeader eyebrow="复盘实验室" title="让数据变成下一条内容的动作" subtitle="记录播放、收藏和一句可复用结论。" /><AddForm fields={[{ key: 'title', label: '作品', placeholder: '作品标题' }, { key: 'views', label: '播放', type: 'number', min: 0, default: 0 }, { key: 'saves', label: '收藏', type: 'number', min: 0, default: 0 }, { key: 'insight', label: '结论', placeholder: '下次继续/停止什么' }]} onAdd={(item) => update('reviews', (rows) => [{ ...item }, ...rows])} /><div className="review-cards creator-reviews">{data.reviews.map((item) => <article key={item.id}><span>{item.views} 播放 · {item.saves} 收藏</span><h3>{item.title}</h3><p>{item.insight}</p><IconButton label="删除复盘" onClick={() => removeItem('reviews', item.id)}><Trash /></IconButton></article>)}</div></div>
+  return <div className="edition-page"><PageHeader eyebrow="阶段目标" title="把大目标拆成今天能推进的数字" subtitle="目标和当前进度都可以直接调整。" /><AddForm fields={[{ key: 'title', label: '目标', placeholder: '发布 12 条内容' }, { key: 'current', label: '当前', type: 'number', min: 0, default: 0 }, { key: 'target', label: '目标值', type: 'number', min: 1, default: 10 }]} onAdd={(item) => update('okrs', (rows) => [...rows, item])} /><div className="okr-list">{data.okrs.map((item) => <article key={item.id}><div><h3>{item.title}</h3><span>{item.current} / {item.target}</span></div><progress value={item.current} max={Math.max(1, item.target)} /><div className="okr-actions"><button type="button" onClick={() => updateItem('okrs', item.id, { current: Math.max(0, Number(item.current) - 1) })}>−1</button><button type="button" onClick={() => updateItem('okrs', item.id, { current: Number(item.current) + 1 })}>+1</button><IconButton label="删除目标" onClick={() => removeItem('okrs', item.id)}><Trash /></IconButton></div></article>)}</div></div>
+}
+
+function MiniPipeline({ data, updateItem }) { return <section className="pro-panel mini-pipeline"><div className="panel-heading"><div><small>内容管线</small><h2>点击推进状态</h2></div><Kanban weight="fill" /></div>{data.pipeline.slice(0, 5).map((item) => <button type="button" key={item.id} onClick={() => updateItem('pipeline', item.id, { stage: (item.stage + 1) % 3 })}><span>{['选题', '制作中', '已发布'][item.stage]}</span><b>{item.title}</b><small>{item.platform}</small></button>)}</section> }
+function StageBoard({ eyebrow, title, subtitle, rows, stages, fields, metaKey, stageKey = 'status', onAdd, onAdvance, onDelete }) { return <div className="edition-page"><PageHeader eyebrow={eyebrow} title={title} subtitle={subtitle} /><AddForm fields={fields} onAdd={onAdd} /><div className="stage-board">{stages.map((stage, index) => <section key={stage}><header><b>{stage}</b><span>{rows.filter((item) => item[stageKey] === index).length}</span></header>{rows.filter((item) => item[stageKey] === index).map((item) => <article key={item.id}><small>{item[metaKey]}</small><h3>{item.title}</h3><div><button type="button" onClick={() => onAdvance(item)}>{index === stages.length - 1 ? '重新开始' : `推进到${stages[index + 1]}`}</button><IconButton label="删除" onClick={() => onDelete(item)}><Trash /></IconButton></div></article>)}{!rows.some((item) => item[stageKey] === index) && <Empty>暂无内容</Empty>}</section>)}</div></div> }
+function SimpleChecklist({ title, subtitle, rows, update }) { const [draft, setDraft] = useState(''); const add = (event) => { event.preventDefault(); if (!draft.trim()) return; update([{ id: uid(), text: draft.trim(), done: false }, ...rows]); setDraft('') }; return <div className="edition-page"><PageHeader eyebrow="随手记录" title={title} subtitle={subtitle} /><form className="memo-add" onSubmit={add}><input value={draft} onChange={(event) => setDraft(event.target.value)} placeholder="写下一件不想忘记的事…" /><button type="submit"><Plus />添加</button></form><div className="memo-list">{rows.map((item) => <article className={item.done ? 'done' : ''} key={item.id}><button type="button" onClick={() => update(rows.map((row) => row.id === item.id ? { ...row, done: !row.done } : row))}><span className="tick">{item.done && <Check />}</span>{item.text}</button><IconButton label="删除" onClick={() => update(rows.filter((row) => row.id !== item.id))}><Trash /></IconButton></article>)}</div></div> }
+function RecordCards({ rows, titleKey, meta, onDelete }) { return <div className="record-cards">{rows.map((item) => <article key={item.id}><div><b>{item[titleKey]}</b><span>{meta(item)}</span></div><IconButton label="删除" onClick={() => onDelete(item.id)}><Trash /></IconButton></article>)}</div> }
+
+function SettingsPanel({ edition, data, setData, onClose, onSwitch, onExport, onImport, onReset, onDownloadLocal }) {
+  const updateProfile = (patch) => setData((old) => ({ ...old, profile: { ...old.profile, ...patch } }))
+  const loadAvatar = (event) => {
+    const file = event.target.files?.[0]
+    if (!file) return
+    const reader = new FileReader()
+    reader.onload = () => updateProfile({ avatar: reader.result })
+    reader.readAsDataURL(file)
+  }
+
+  return <div className="settings-backdrop" role="presentation" onMouseDown={(event) => event.target === event.currentTarget && onClose()}>
+    <section className="settings-panel" role="dialog" aria-modal="true" aria-label="专业版设置">
+      <header><div><small>OneBench</small><h2>设置</h2></div><IconButton label="关闭设置" onClick={onClose}><X /></IconButton></header>
+      <div className="settings-section">
+        <h3>个人资料与显示</h3>
+        <label>工作台称呼<input value={data.profile?.name || ''} onChange={(event) => updateProfile({ name: event.target.value })} /></label>
+        {edition === 'hu' && <>
+          <label>个人角色<input value={data.profile?.role || ''} onChange={(event) => updateProfile({ role: event.target.value })} placeholder="例如：创作与生活练习者" /></label>
+          <label>近况状态<input value={data.profile?.status || ''} onChange={(event) => updateProfile({ status: event.target.value })} placeholder="例如：稳定更新中" /></label>
+          <label>个人头像<input type="file" accept="image/png,image/jpeg,image/webp" onChange={loadAvatar} /></label>
+          <label>旗舰版主题<select value={data.profile?.theme || 'forest'} onChange={(event) => updateProfile({ theme: event.target.value })}><option value="forest">橄榄森林</option><option value="clay">暖陶生活</option><option value="ink">雾蓝手账</option></select></label>
+        </>}
+        {edition === 'teacher' && <label>班级人数<input type="number" min="1" max="100" value={data.classSize || 42} onChange={(event) => setData((old) => ({ ...old, classSize: Number(event.target.value) }))} /></label>}
+        <label className="switch-row"><span><b>紧凑布局</b><small>在一屏显示更多内容</small></span><input type="checkbox" checked={Boolean(data.profile?.compact)} onChange={(event) => updateProfile({ compact: event.target.checked })} /></label>
+      </div>
+      <div className="settings-section">
+        <h3>切换工作台版本</h3><p>每个版本的数据独立保存，切换不会丢失。</p>
+        <div className="edition-settings-grid"><button type="button" onClick={() => onSwitch('basic')}><House /><span><b>基础版</b><small>通用模块与模块市场</small></span></button>{Object.entries(editions).map(([key, item]) => { const Icon = item.icon; return <button type="button" className={edition === key ? 'selected' : ''} key={key} onClick={() => onSwitch(key)}><Icon /><span><b>{item.label}</b><small>{item.subtitle}</small></span>{edition === key && <CheckCircle weight="fill" />}</button> })}</div>
+      </div>
+      <div className="settings-section">
+        <h3>带走这份工作台</h3><p>下载后得到一个完整 HTML 文件，放到桌面双击即可打开；当前专业版和你的内容会一起保留。</p>
+        <div className="settings-actions"><button type="button" onClick={onDownloadLocal}><DownloadSimple />下载此版本到电脑</button></div>
+      </div>
+      <div className="settings-section">
+        <h3>本地数据</h3><p>内容默认只保存在这台设备的浏览器中。</p>
+        <div className="settings-actions"><button type="button" onClick={onExport}><DownloadSimple />导出备份</button><button type="button" onClick={onImport}><UploadSimple />导入备份</button><button type="button" className="danger" onClick={onReset}><ArrowCounterClockwise />恢复示例</button></div>
+      </div>
+    </section>
+  </div>
+}
