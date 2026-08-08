@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "id": "b53f42c0-9bbb-4393-a5e5-6ee11baf7bd8",
+  "name": "我的内容创作工作台",
+  "sourcePack": "creator",
+  "intent": "灵感收集库、剪辑进度、待办、记账、目标",
+  "profile": {
+    "displayName": "朋友",
+    "avatarId": "role"
+  },
+  "createdAt": "2026-08-08T15:22:55.459Z",
+  "updatedAt": "2026-08-08T15:22:55.460Z",
+  "theme": {
+    "id": "creator-coral",
+    "name": "创作珊瑚",
+    "accent": "#b95f72"
+  },
+  "layout": "focus-first",
+  "modules": [
+    {"id":"calendar","enabled":true,"placement":"home","size":"small","order":0},
+    {"id":"weather","enabled":true,"placement":"sidebar","size":"small","order":1},
+    {"id":"tasks","enabled":true,"placement":"home","size":"medium","order":2},
+    {"id":"quick-note","enabled":true,"placement":"sidebar","size":"medium","order":3},
+    {"id":"habits","enabled":true,"placement":"sidebar","size":"medium","order":4},
+    {"id":"news","enabled":true,"placement":"home","size":"medium","order":5},
+    {"id":"profile","enabled":true,"placement":"sidebar","size":"medium","order":6},
+    {"id":"appearance","enabled":true,"placement":"sidebar","size":"medium","order":7},
+    {"id":"sync","enabled":true,"placement":"sidebar","size":"medium","order":8},
+    {"id":"settings","enabled":true,"placement":"sidebar","size":"medium","order":9},
+    {"id":"inbox","enabled":true,"placement":"home","size":"medium","order":10},
+    {"id":"content-pipeline","enabled":true,"placement":"home","size":"wide","order":11},
+    {"id":"content-calendar","enabled":true,"placement":"home","size":"medium","order":12},
+    {"id":"analytics","enabled":true,"placement":"home","size":"medium","order":13},
+    {"id":"goals","enabled":true,"placement":"sidebar","size":"medium","order":14},
+    {"id":"review","enabled":true,"placement":"home","size":"medium","order":15},
+    {"id":"files","enabled":true,"placement":"sidebar","size":"wide","order":16},
+    {"id":"reading","enabled":true,"placement":"sidebar","size":"medium","order":17},
+    {"id":"diary","enabled":true,"placement":"sidebar","size":"medium","order":18},
+    {"id":"bookkeeping","enabled":true,"placement":"sidebar","size":"medium","order":19}
+  ],
+  "professionalEdition": "creator"
+}
