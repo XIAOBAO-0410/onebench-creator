@@ -5,6 +5,20 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/prime/story/direct-power-supply-mod",
+      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+      "meta": "少数派 · 2026/8/10",
+      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
+      "publishedAt": "2026-08-10T13:50:02.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113283",
+      "title": "派评 | 近期值得关注的 App",
+      "meta": "少数派 · 2026/8/10",
+      "url": "https://sspai.com/post/113283",
+      "publishedAt": "2026-08-10T10:00:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113115",
       "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
       "meta": "少数派 · 2026/8/10",
@@ -59,22 +73,8 @@
       "meta": "少数派 · 2026/8/7",
       "url": "https://sspai.com/post/113144",
       "publishedAt": "2026-08-07T02:15:51.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113162",
-      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
-      "meta": "少数派 · 2026/8/7",
-      "url": "https://sspai.com/post/113162",
-      "publishedAt": "2026-08-07T00:51:06.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113139",
-      "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-      "meta": "少数派 · 2026/8/6",
-      "url": "https://sspai.com/post/113139",
-      "publishedAt": "2026-08-06T09:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-10T10:45:24.320Z",
+  "updatedAt": "2026-08-10T15:35:29.873Z",
   "provider": "OneBench 公共资讯快照"
 }

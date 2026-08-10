@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T10:45:24.320Z",
-  "expiresAt": "2026-08-10T16:45:24.320Z",
+  "generatedAt": "2026-08-10T15:35:29.873Z",
+  "expiresAt": "2026-08-10T21:35:29.873Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675290.shtml",
-      "title": "黑龙江年度首趟电影主题列车开行 千里铁道线展现光影文化",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675448.shtml",
+      "title": "中星4B卫星发射失利",
       "category": "综合",
-      "summary": "中新网哈尔滨8月10日电 (史轶夫 孙涛)8月10日13时，哈尔滨西站开往上海的Z174次列车缓缓驶出站台，三节经过精心布置的主题车厢，成为今年黑龙江首趟“悠享龙江”电影主题列车，将流动的光影文化带上千里铁道线。",
+      "summary": "8月10日20时02分，我国在文昌航天发射场使用长征七号改运载火箭发射中星4B卫星，火箭飞行异常，发射任务失利。具体原因正在进一步分析排查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675290.shtml",
-      "publishedAt": "2026-08-10T10:35:59.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675448.shtml",
+      "publishedAt": "2026-08-10T15:16:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675268.shtml",
-      "title": "中法人士向重庆市档案馆捐赠日军侵华轰炸史料",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-10/10675447.shtml",
+      "title": "中国驻尼泊尔大使张茂明拜会尼总理巴伦德拉",
       "category": "综合",
-      "summary": "中新网重庆8月10日电 (记者 钟旖)由法国友人马库斯·德雷特斯、白士杰与中国青年钟灏松搜集整理的一批日军侵华轰炸档案扫描件，10日正式移交给重庆市档案馆，作为馆藏档案永久收藏、研究利用。",
+      "summary": "中新社加德满都8月10日电 中国驻尼泊尔大使张茂明10日在尼泊尔首都加德满都拜会尼泊尔总理巴伦德拉，双方就中尼关系、两国各领域互利合作和共同关心的问题交换意见。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675268.shtml",
-      "publishedAt": "2026-08-10T10:35:17.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675447.shtml",
+      "publishedAt": "2026-08-10T15:12:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675300.shtml",
-      "title": "自然资源部对冀辽鲁启动海洋灾害四级应急响应",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675445.shtml",
+      "title": "资本引擎驱动 广东为科创企业送上成长“加速包”",
       "category": "综合",
-      "summary": "中新网8月10日电 据自然资源部微信公众号消息，今年第13号台风“白海豚”已经登陆，但仍将继续影响我国东部和北部海区。国家海洋预报台8月10日16时发布风暴潮黄色和海浪蓝色警报，根据《海洋灾害应急预案》规定，自然资源部针对河北、辽宁和山东启动海洋灾害四级应急响应，终止江苏、上海、浙江、福建海洋灾害应急响应。",
+      "summary": "中新网深圳8月10日电 (记者 索有为)“资本引擎驱动，科技创新腾飞——走进深交所项目对接会”10日在深圳证券交易所举行，超200家科创企业到场对接，“科技—产业—金融”循环正从宏观命题落地为具体服务。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675300.shtml",
-      "publishedAt": "2026-08-10T10:32:29.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675445.shtml",
+      "publishedAt": "2026-08-10T15:08:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675298.shtml",
-      "title": "两部门紧急预拨1.8亿元 支持浙江、内蒙古等7省（区）及新疆生产建设兵团做好自然灾害应急抢险救灾工作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675446.shtml",
+      "title": "中国学者领衔研究：21世纪末全球高温日极端高温时长或增加4小时",
       "category": "综合",
-      "summary": "中新网8月10日电 据财政部网站消息，近日，受今年第13号台风“白海豚”影响，我国华东地区多省份迎来新一轮强降雨，引发严重洪涝灾害；同时，西北地区降雨较少，旱情持续发展。8月10日，财政部、应急管理部紧急预拨1.8亿元中央自然灾害救灾资金，其中：一是预拨1.2亿元，支持江苏、浙江、安徽、福建、江西5省做好防汛防台风应急抢险救灾工作，重点做好搜救转移安置受灾人",
+      "summary": "中新网北京8月10日电 (记者 孙自法)施普林格·自然旗下专业学术期刊《自然-气候变化》北京时间8月10日夜间上线发表中国学者领衔的一项研究发现，在高排放场景下，到21世纪末，全球平均每个高温日的极端高温时长可能额外增加4个小时。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675298.shtml",
-      "publishedAt": "2026-08-10T10:31:59.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675446.shtml",
+      "publishedAt": "2026-08-10T15:07:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675292.shtml",
-      "title": "中国一重集团原副总经理陆文俊一审获刑15年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-10/10675444.shtml",
+      "title": "从“一县试验”到“全域推开” 民进中央“智”扶乌蒙结硕果",
       "category": "综合",
-      "summary": "中新社北京8月10日电 (记者 张素)记者从中国最高人民法院获悉，8月10日，湖南省湘潭市中级人民法院一审公开宣判中国一重集团有限公司原党委常委、副总经理陆文俊受贿案。",
+      "summary": "民进中央主席蔡达峰近日率调研组赴毕节、金沙，推进“地域+领域”组团式帮扶毕节工作。民进中央帮扶毕节三十余载积淀而成的“金沙经验”，正从一个个“点”上的突破，向毕节全市乃至更广区域“移植”推广。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675292.shtml",
-      "publishedAt": "2026-08-10T10:30:05.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-10/10675444.shtml",
+      "publishedAt": "2026-08-10T14:58:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675291.shtml",
-      "title": "最新统计：台湾人口连续31个月下跌",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-10/10675443.shtml",
+      "title": "港澳大学生逐浪海南自贸港：探寻一颗“星”的奥秘",
       "category": "综合",
-      "summary": "中新社台北8月10日电 台当局内部事务主管部门10日公布最新数据，2026年7月台湾出生7906人，年减约11.56%，死亡逾1.7万人，各县市死亡人数皆超过出生人数。台湾总人口也连续31个月下跌至约2323.5万人。",
+      "summary": "中新网三亚8月10日电 (张月和)遥感卫星上天入轨，究竟发挥着怎样的作用？8月10日，参加2026年海南自贸港“逐浪计划”暑期实习活动的港澳大学生们走进三亚中科遥感信息产业园，探寻一颗卫星的奥秘。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675291.shtml",
-      "publishedAt": "2026-08-10T10:28:29.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-10/10675443.shtml",
+      "publishedAt": "2026-08-10T14:49:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675293.shtml",
-      "title": "前7个月广西对东盟进出口创历史同期新高",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-10/10675442.shtml",
+      "title": "向实、向新、向未来 专家谈新时代侨务工作",
       "category": "综合",
-      "summary": "中新社南宁8月10日电 (韦佳秀 梁颖)南宁海关10日介绍，2026年前7个月，广西外贸进出口4942.8亿元人民币，同比增长8.9%。出口2683.6亿元；进口2259.2亿元，同比增长23.8%。",
+      "summary": "中新网北京8月10日电(记者 韩辉)从“凝聚侨心”到“汇聚侨力”，从“联络联谊”到“精准服务”，从传统“引资引智”到充分发挥侨胞融通中外的独特优势，多位接受中新社记者采访的专家认为，面对海外侨情新变化和中国式现代化建设新要求，新时代侨务工作呈现“向实、向新、向未来”的鲜明特征。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675293.shtml",
-      "publishedAt": "2026-08-10T10:25:32.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-10/10675442.shtml",
+      "publishedAt": "2026-08-10T14:48:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675294.shtml",
-      "title": "商务部就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675441.shtml",
+      "title": "今年英仙座流星雨将至 公众或可同观“六星连珠”",
       "category": "综合",
-      "summary": "中新网8月10日电 据商务部网站消息，商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问。",
+      "summary": "中新社广州8月10日电 (郭军 梁海棠)据广州市五羊天象馆10日预测，今年英仙座流星雨即将来临，六大行星近日也汇聚在太阳的西面，公众或可观测到“六星连珠”天象。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675294.shtml",
-      "publishedAt": "2026-08-10T10:24:02.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675441.shtml",
+      "publishedAt": "2026-08-10T14:46:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675287.shtml",
-      "title": "应急管理部针对河北、河南、湖北启动国家地质灾害四级应急响应",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675440.shtml",
+      "title": "中国警方深化扫黑除恶专项斗争第一轮集中收网",
       "category": "综合",
-      "summary": "中新网8月10日电 据应急管理部网站消息，据气象部门预测，受今年第13号台风“白海豚”影响，未来三天，河北中南部、河南、湖北中北部和西部等地有暴雨或大暴雨，局地有特大暴雨。经与自然资源部联合会商研判，河北南部、河南南部和北部、湖北西部等地部分地区发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月10日针对河北、河南、湖北启动",
+      "summary": "中新社北京8月10日电 (记者 郭超凯)记者10日从中国公安部获悉，近日，公安部指挥全国公安机关同步开展深化扫黑除恶专项斗争第一轮集中收网行动，成功打掉各类犯罪团伙1000余个，抓获犯罪嫌疑人8200余名，破获各类刑事案件5400余起。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675287.shtml",
-      "publishedAt": "2026-08-10T10:15:26.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675440.shtml",
+      "publishedAt": "2026-08-10T14:45:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675274.shtml",
-      "title": "银川开通经广州至新加坡国际航线 搭建西北连通东南亚空中走廊",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675439.shtml",
+      "title": "柬埔寨卫生大臣高度评价中国援柬中医医疗队",
       "category": "综合",
-      "summary": "中新网银川8月10日电 (记者 李佩珊)8月10日，银川=广州=新加坡国际航线在银川河东国际机场完成首航，首趟航班搭载185名旅客出发，宁夏新增一条通往东南亚的空中通道。",
+      "summary": "【东盟专线】柬埔寨卫生大臣高度评价中国援柬中医医疗队",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675274.shtml",
-      "publishedAt": "2026-08-10T10:12:38.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675439.shtml",
+      "publishedAt": "2026-08-10T14:44:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675280.shtml",
-      "title": "广东持续高温酷热 全省最高气温超37℃",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675438.shtml",
+      "title": "海内外美业精英赴辽宁探寻美丽经济",
       "category": "综合",
-      "summary": "中新网广州8月10日电 (记者 王坚)广东大部市县10日出现超过35℃的高温天气。9日到10日早晨，惠州博罗录得全省最高气温达37.7℃。",
+      "summary": "中新社沈阳8月10日电 (记者 李晛 韩宏)2026全国服务消费季暨华人美业经贸交流活动10日在沈阳举行。活动以“潮起东方 美动世界”为主题，来自英国、法国、韩国、新加坡、马来西亚等20余个国家和地区的美业精英齐聚沈阳，共探美丽经济新赛道。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675280.shtml",
-      "publishedAt": "2026-08-10T10:09:03.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675438.shtml",
+      "publishedAt": "2026-08-10T14:41:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675283.shtml",
-      "title": "（长江十年行）湖北枝江三代“护绿人”的接力与坚守",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675434.shtml",
+      "title": "青海首个版权服务工作站落户果洛",
       "category": "综合",
-      "summary": "中新网宜昌8月10日电 题：湖北枝江三代“护绿人”的接力与坚守",
+      "summary": "中新网西宁8月10日电 (英毛措 多杰昂秀 孙睿)8月10日，青海省果洛州版权服务工作站揭牌仪式在州融媒体中心举行，标志着该省首个版权服务工作站落户果洛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675283.shtml",
-      "publishedAt": "2026-08-10T10:07:21.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675434.shtml",
+      "publishedAt": "2026-08-10T14:39:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675284.shtml",
-      "title": "应急管理部针对河北、河南、湖北启动国家地质灾害四级应急响应",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-10/10675433.shtml",
+      "title": "徐𬱖的“新”尝试：从新中式餐厅到新一代侨团",
       "category": "综合",
-      "summary": "据气象部门预测，受今年第13号台风“白海豚”影响，未来三天，河北中南部、河南、湖北中北部和西部等地有暴雨或大暴雨，局地有特大暴雨。经与自然资源部联合会商研判，河北南部、河南南部和北部、湖北西部等地部分地区发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月10日针对河北、河南、湖北启动地质灾害四级应急响应。",
+      "summary": "中新网北京8月10日电 题：徐#183382;的“新”尝试：从新中式餐厅到新一代侨团",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675284.shtml",
-      "publishedAt": "2026-08-10T10:05:37.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-10/10675433.shtml",
+      "publishedAt": "2026-08-10T14:38:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675272.shtml",
-      "title": "黄河岸边“守艺人”：将非遗故事讲给游客听",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-10/10675429.shtml",
+      "title": "澳大利亚前总理质疑AUKUS：核潜艇交付存风险",
       "category": "综合",
-      "summary": "中新网中卫8月10日电 题：黄河岸边“守艺人”：将非遗故事讲给游客听",
+      "summary": "中新社悉尼8月10日电 (记者 薄雯雯)澳大利亚前总理特恩布尔10日在悉尼质疑美英澳三边安全伙伴关系(AUKUS)核潜艇计划，称澳方面临无法按计划获得美国“弗吉尼亚”级核潜艇的现实风险。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675272.shtml",
-      "publishedAt": "2026-08-10T10:04:27.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-10/10675429.shtml",
+      "publishedAt": "2026-08-10T14:34:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675275.shtml",
-      "title": "“三江源起·玉见北京”京玉文化交流周即将启幕",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-10/news1064946.shtml",
+      "title": "台风侵袭致大棚大面积受损 经济损失达上百万 温州果农哽咽发声",
       "category": "综合",
-      "summary": "中新网北京8月10日电 (记者 高凯)记者10日从活动主办方获悉，由青海省商务厅、玉树藏族自治州人民政府、北京市支援合作工作领导小组-青海玉树指挥部主办的“三江源起·玉见北京”京玉文化交流周将在2026年服贸会期间举办。",
+      "summary": "台风“白海豚”来袭，持续强风暴雨导致浙江温州鹿城藤桥镇葡萄种植大棚薄膜大面积破损。在藤桥果留香葡萄专业合作社，不少葡萄种植大棚棚架倒伏、园地积水。“经过清点，20亩果园中有18亩共计5万斤葡萄受到影响，预计经济损失达百万元。”合作社负责人吴伯和介绍。(记者 胡丰盛 诸葛承凯 制作 王宁)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675275.shtml",
-      "publishedAt": "2026-08-10T10:01:21.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-10/news1064946.shtml",
+      "publishedAt": "2026-08-10T14:33:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-10/10675282.shtml",
-      "title": "“不建议大家买深色蛋糕”上热搜！专家回应→",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-10/news1064945.shtml",
+      "title": "记者直击上海暴雨时险些摔跤 呼吁“能不出门就别出门了”",
       "category": "综合",
-      "summary": "近日",
+      "summary": "8月10日，记者在现场直播上海城区积水情况时，险些摔跤滑倒。从现场来看，上海普陀区部分区域积水已至记者小腿，目前当地抢险排涝工作正在进行。(记者 李秋莹 狄权 编辑 曾思琦 方敏)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/08-10/10675282.shtml",
-      "publishedAt": "2026-08-10T09:59:36.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-10/news1064945.shtml",
+      "publishedAt": "2026-08-10T14:32:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-10/10675265.shtml",
-      "title": "入秋暑未消 长春植物园成市民纳凉赏景好去处",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675431.shtml",
+      "title": "甘肃敦煌景区被曝现“昂贵饮料” 调查显示系设备系统故障",
       "category": "综合",
-      "summary": "8月10日，吉林长春，市民在长春植物园拍照留念。中新社记者 张瑶 摄 8月10日，吉林长春，市民在长春植物园拍照留念。中新社记者 张瑶 摄 8月10日，吉林长春，市民在长春植物园拍照留念。中新社记者 张瑶 摄 8月10日，吉林长春，市民在长春植物园拍照留念。中新社记者 张瑶 摄 8月10日，吉林长春，市民在长春植物园拍照留念。中新社记者 张瑶 摄",
+      "summary": "中新网甘肃敦煌8月10日电 (记者 冯志军 李亚龙)10日，一段“月牙泉景区售货机芬达标价180元”的网络视频引发网友关注和热议。后经敦煌鸣沙山月牙泉景区核查，视频拍摄画面内容属实，但该标价并非景区商品实际售价，系一处自助售货机设备系统故障，造成的价格显示异常。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675265.shtml",
-      "publishedAt": "2026-08-10T09:58:52.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675431.shtml",
+      "publishedAt": "2026-08-10T14:20:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-10/10675273.shtml",
-      "title": "台风“白海豚”影响南京",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675430.shtml",
+      "title": "从生肖书签到“猫脸”关公 传统元素闪耀台湾文博会",
       "category": "综合",
-      "summary": "8月10日，受今年第13号台风“白海豚”影响，江苏南京迎来风雨天气。图为市民在雨中出行。中新社记者 泱波 摄 8月10日，受今年第13号台风“白海豚”影响，江苏南京迎来风雨天气。图为市民在雨中出行。中新社记者 泱波 摄 8月10日，受今年第13号台风“白海豚”影响，江苏南京迎来风雨天气。图为市民在雨中出行。中新社记者 泱波 摄",
+      "summary": "中新社台北8月10日电 (记者 朱贺)一只只招财三脚“揪吉”，一群长着“猫脸”的关公、城隍爷，一张张刻有吉祥纹饰的生肖书签……正在举行的台湾文博会上，生肖、宫庙信俗等传统元素文创品成为“流量密码”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675273.shtml",
-      "publishedAt": "2026-08-10T09:57:08.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675430.shtml",
+      "publishedAt": "2026-08-10T14:14:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675271.shtml",
-      "title": "市场监管总局批准发布一批重要国家标准",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-10/10675424.shtml",
+      "title": "2026鲁台民乐交流音乐会在济南举行",
       "category": "综合",
-      "summary": "中新网8月10日电 据“市说新语”微信公众号消息，近日，市场监管总局(国家标准委)批准发布338项重要国家标准。其中，强制性国家标准15项，推荐性国家标准323项，涉及高新技术领域、传统产业、安全生产、百姓生活等方面。该批标准发布后将在推动产业高质量发展、提升人民群众生活品质、保障生命财产安全等方面发挥重要作用。",
+      "summary": "8月10日，“丝竹雅韵 乐聚泉城”2026鲁台民乐交流音乐会在济南举行。图为望亭荷塘乐团、雅风筝乐团带来古筝合奏《高山青》。中新社记者 李明芮 摄 8月10日，“丝竹雅韵 乐聚泉城”2026鲁台民乐交流音乐会在济南举行。图为彰化社区大学带来戏曲《歌仔戏组曲》。中新社记者 李明芮 摄 8月10日，“丝竹雅韵 乐聚泉城”2026鲁台民乐交流音乐会在济南举行。图为",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675271.shtml",
-      "publishedAt": "2026-08-10T09:55:38.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675424.shtml",
+      "publishedAt": "2026-08-10T14:09:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675278.shtml",
-      "title": "商务部：初步认定原产于墨西哥和美国的进口碧根果存在倾销",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675428.shtml",
+      "title": "大连化物所研制高能量密度一次电池功率获突破 放电倍率可提高百倍",
       "category": "综合",
-      "summary": "中新网8月10日电 据商务部网站消息，根据《中华人民共和国反倾销条例》(以下简称《反倾销条例》)的规定，2025年9月25日，商务部(以下称调查机关)发布2025年第52号公告，决定对原产于墨西哥和美国的进口碧根果(以下称被调查产品)进行反倾销立案调查。",
+      "summary": "中新网大连8月10日电 (记者 杨毅)中国科学院大连化学物理研究所10日发布消息称，该所能源催化转化全国重点实验室陈忠伟团队近日成功研制出25安时级软包金属锂一次电池，其放电倍率可提高百倍，实现10C(电池放电速度单位)短时大电流放电。这一成果标志着中国在高功率一次电池领域迈入国际前列。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675278.shtml",
-      "publishedAt": "2026-08-10T09:51:20.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675428.shtml",
+      "publishedAt": "2026-08-10T14:09:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-10/10675276.shtml",
-      "title": "“白海豚”已造成太湖流域及浙东沿海地区74条河流超警",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-10/10675423.shtml",
+      "title": "格萨尔史诗古乐专场音乐会在青海西宁上演",
       "category": "综合",
-      "summary": "今天上午，水利部组织滚动会商，分析研判第13号台风“白海豚”移动路径、影响范围以及全国雨情水情汛情态势，安排部署重点防御工作。",
+      "summary": "图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为指挥边巴正在指挥演奏。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄 图为演出现场。中新社记者 张忠苹 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-10/10675276.shtml",
-      "publishedAt": "2026-08-10T09:48:16.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-10/10675423.shtml",
+      "publishedAt": "2026-08-10T14:09:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675270.shtml",
-      "title": "暑气未消秋意至 石家庄多元文旅业态解锁惬意暑期",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675426.shtml",
+      "title": "宁夏首次实现向内蒙古送电 外送省份扩展至23个",
       "category": "综合",
-      "summary": "中新网石家庄8月10日电 (李玉素 韩晓欧)立秋已至，暑气仍未完全消散。河北省石家庄市统筹主城休闲、太行避暑、滨湖度假等多元文旅资源，构建全域休闲游玩产品矩阵，让市民游客漫游清凉石家庄。",
+      "summary": "中新网银川8月10日电 (记者 于晶)记者10日从国网宁夏电力有限公司获悉，今年7月，宁夏外送电量达112.59亿千瓦时，同比增长5.3%；其中外送新能源电量32.72亿千瓦时，同比增长12.7%，单月外送电量及新能源外送电量双双创历史新高。同日，宁夏首次完成电力外送内蒙古，外送省份由此扩展至23个。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675270.shtml",
-      "publishedAt": "2026-08-10T09:46:28.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675426.shtml",
+      "publishedAt": "2026-08-10T14:02:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675267.shtml",
-      "title": "长春测试东北亚词元跨境服务中心 深化区域数字合作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675421.shtml",
+      "title": "宁夏发布循环经济发展“十五五”规划 全域构建绿色循环新格局",
       "category": "综合",
-      "summary": "中新网长春8月10日电 (记者 郭佳)在人工智能加速发展的背景下，数据、算力与智能体成为数字经济竞争的重要资源。10日，东北亚词元跨境服务中心在长春启动先行测试，探索人工智能服务跨境流通新路径。",
+      "summary": "中新网银川8月10日电 (记者 于晶)8月10日，记者从宁夏回族自治区发展和改革委员会获悉，《宁夏循环经济发展“十五五”规划》(以下简称《规划》)正式发布，明确未来五年宁夏资源节约与低碳转型路径，标志着宁夏全域绿色循环发展新格局建设全面启动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675267.shtml",
-      "publishedAt": "2026-08-10T09:39:51.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675421.shtml",
+      "publishedAt": "2026-08-10T14:01:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675262.shtml",
-      "title": "台风致浙江舟山单站雨量破400毫米 数字折射坚守",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675420.shtml",
+      "title": "59名港澳台侨代表访问广东茂名 寻合作发展机遇",
       "category": "综合",
-      "summary": "中新网舟山8月10日电(张斌)台风“白海豚”近期携风裹雨袭击浙江舟山。8月7日20时至10日11时，舟山全市面雨量达242.3毫米，单站最大雨量出现在当地毛竹山站，达400.5毫米。舟山市气象台10日11时发布台风紧急警报，预计该市当天仍有暴雨，局部大暴雨。",
+      "summary": "中新网茂名8月10日电 (梁盛 吴咏蔚)8日至10日，59名港澳台侨代表相聚广东茂名，在观看广东省运会开幕式及体育赛事后，实地走访城市发展点位，近距离感受当地生态风貌、产业活力与人文底蕴，寻找合作发展机遇。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675262.shtml",
-      "publishedAt": "2026-08-10T09:38:43.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675420.shtml",
+      "publishedAt": "2026-08-10T14:00:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675261.shtml",
-      "title": "武汉一泡花碱厂因无证排污被罚",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675425.shtml",
+      "title": "青海东部农业区遭遇极端高温天气",
       "category": "综合",
-      "summary": "中新网8月10日电(吴家驹)武汉市生态环境局网站显示，近日，武汉市新洲区昌盛泡花碱厂被武汉市生态环境局罚款36万元。违法事实显示，2022年至2026年，该单位一直存在购买、贮存、分装、销售硅酸钠的生产情况，生产过程中液态硅酸钠贮存池一直有固体废弃物产生(硅酸钠沉淀物，呈碱性)。截至2026年5月27日，该单位未依法取得排污许可证，但存在排放污染物的行为。",
+      "summary": "中新网西宁8月10日电 (赵海梅 孙睿)青海省气象局10日发布数据显示，8月9日，该省东部农业区遭遇极端高温天气，多地气温突破或接近历史同期极值。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675261.shtml",
-      "publishedAt": "2026-08-10T09:35:27.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675425.shtml",
+      "publishedAt": "2026-08-10T14:00:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675257.shtml",
-      "title": "绿电突围：一个北方县城的能源转型试验",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-10/10675422.shtml",
+      "title": "AI演员商业化提速 真人表演价值引行业思辨",
       "category": "综合",
-      "summary": "中新网乌兰察布8月10日电 题：绿电突围：一个北方县城的能源转型试验",
+      "summary": "中新网北京8月10日电 (记者 高凯)近期，AI女演员60秒广告报价25.8万元的行业消息，让AI虚拟演艺的商业化能力再度引发公众热议。该报价已超越多数千万级网红的商业报价，也让大众再次关注AI演员快速落地背后的行业争议：在人工智能技术深度渗透影视、广告创作的当下，标准化、可量产的AI表演，是否会逐步挤压真人演员的生存空间，文艺创作的人本核心又该如何坚守。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675257.shtml",
-      "publishedAt": "2026-08-10T09:34:55.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675422.shtml",
+      "publishedAt": "2026-08-10T13:59:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675256.shtml",
-      "title": "京津冀共建“e注册”服务品牌 打造统一服务新名片",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675413.shtml",
+      "title": "广西（人工智能）公共实训基地开建 面向东盟育AI人才",
       "category": "综合",
-      "summary": "中新网北京8月10日电 (记者 吕少威)记者10日从北京市市场监管局获悉，京津冀三地市场监管部门日前签署《京津冀深化商事制度领域合作框架协议》。此次协议的签署，标志着京津冀商事制度协同从“规则衔接”向“数智赋能”“服务共建”的深度一体化阶段迈进。",
+      "summary": "中新网南宁8月10日电(记者 黄艳梅)广西(人工智能)公共实训基地建设项目10日在南宁开工。该项目建成后将成为广西首个省级公共实训基地，推动广西与东盟国家开展技能培训合作与交流，促进技能、人才“出海”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675256.shtml",
-      "publishedAt": "2026-08-10T09:34:17.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-10/10675413.shtml",
+      "publishedAt": "2026-08-10T13:58:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-10/10675255.shtml",
-      "title": "数智赋能 浙江“新农人”让乡村“花路”越走越宽",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-10/10675410.shtml",
+      "title": "北京市民族传统体育运动会开赛两日 特色项目尽显文化魅力",
       "category": "综合",
-      "summary": "中新网嘉兴8月10日电 (王潇婧)在浙江嘉兴海宁市盐官镇桃园村，百余亩连栋大棚内，绣球、月季次第盛放，姹紫嫣红。这片花海的主人，是海宁市盐官镇新联会副会长、浙江塔莎园艺有限公司联合创始人王天云。",
+      "summary": "中新网北京8月10日电 (记者 陈杭 徐婧 吕少威)8日，以“京彩与共·榴铸华章”为主题的北京市第十二届民族传统体育运动会正式开幕。截至10日，赛事已完成两个比赛日的比拼，整体运行平稳顺畅。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-10/10675255.shtml",
-      "publishedAt": "2026-08-10T09:33:27.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-10/10675410.shtml",
+      "publishedAt": "2026-08-10T13:57:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-10/10675253.shtml",
-      "title": "“金鹿奖”广纳新锐新作 长春电影节赋能青年电影创作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675418.shtml",
+      "title": "海南自贸港首单油田装备保税维修业务落地",
       "category": "综合",
-      "summary": "中新网长春8月10日电 (李彦国 高龙安)第二十一届中国长春电影节组委会副主任、执委会主任赵永波10日在吉林省政府新闻办举行的新闻发布会上介绍，本届电影节共有36部影片报名角逐“金鹿奖”处女作奖。作为“新中国电影摇篮”，长春着力发掘青年创作潜能，为新人新作搭建展示平台。",
+      "summary": "中新网海口8月10日电 (刘驰 李权)海口海关10日介绍，海南龙盘油田科技有限公司承接的境外油田工业设备配套柴油发动机维修业务，在海口海关所属椰城海关完成保税维修手册设立及进口申报全流程手续。标志着海南自贸港首单油田装备保税维修业务正式落地，为封关后高端装备全球维修产业拓展注入新动能。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-10/10675253.shtml",
-      "publishedAt": "2026-08-10T09:32:43.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675418.shtml",
+      "publishedAt": "2026-08-10T13:57:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +554,56 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-10/1200696.shtml",
-      "title": "直击台风“白海豚”过境后的台州三门县",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-10/10675417.shtml",
+      "title": "东西问丨宇树科技IPO，外媒“酸葡萄”里吃出“回甘”：这波中国智造黑不动",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网北京8月10日电 题：宇树科技IPO，外媒“酸葡萄”里吃出“回甘”：这波中国智造黑不动",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-10/1200696.shtml",
-      "publishedAt": "2026-08-10T09:30:31.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-10/10675417.shtml",
+      "publishedAt": "2026-08-10T13:56:31.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/prime/story/direct-power-supply-mod",
+      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+      "category": "科技",
+      "summary": "去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
+      "publishedAt": "2026-08-10T13:50:02.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113283",
+      "title": "派评 | 近期值得关注的 App",
+      "category": "科技",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113283",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -1029,24 +1065,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113162",
-      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
-      "category": "科技",
-      "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113162",
-      "publishedAt": "2026-08-07T00:51:06.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#5",
       "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
       "category": "国际",
@@ -1149,24 +1167,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113139",
-      "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-      "category": "科技",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113139",
-      "publishedAt": "2026-08-06T09:30:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
