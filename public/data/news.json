@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T09:43:52.191Z",
-  "expiresAt": "2026-08-11T15:43:52.191Z",
+  "generatedAt": "2026-08-11T12:32:07.525Z",
+  "expiresAt": "2026-08-11T18:32:07.525Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675870.shtml",
-      "title": "古都大同以文塑旅 打造国际知名文化旅游城市",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675962.shtml",
+      "title": "马斯克母子“安利”外国网友游中国，夸赞中国有魅力、干净、安全",
       "category": "综合",
-      "summary": "中新网太原8月11日电 (胡健 高天瑜)云冈石窟、恒山悬空寺、大同古城持续“出圈”，避暑游、研学游、康养游热度攀升。如何把游客“引进来”变成“留下来”，把文旅流量转化为产业增量，成为山西大同“十五五”时期转型发展的重要课题。",
+      "summary": "中新网8月11日电 8月11日，美国企业家、特斯拉首席执行官马斯克在社交媒体平台回复网友时表示：“中国太棒了。我强烈鼓励大家去旅游。”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675870.shtml",
-      "publishedAt": "2026-08-11T09:37:16.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675962.shtml",
+      "publishedAt": "2026-08-11T12:24:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,158 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675855.shtml",
-      "title": "国际锐评丨日本防卫预算创新高凸显扩军备武野心",
-      "category": "综合",
-      "summary": "8月6日和9日分别是日本广岛、长崎遭原子弹轰炸81周年的日子。在本该深刻反省侵略历史、吸取战争教训之际，日媒曝出的一则消息让人不寒而栗：日本防卫省拟提交的2027财年防卫预算申请高达8.9万亿日元，再创历史新高；由于防卫预算中存在大量未标明具体金额的项目，最终规模可能达到10万亿日元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675855.shtml",
-      "publishedAt": "2026-08-11T09:36:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675854.shtml",
-      "title": "砂归河，树归林，人归岸——“长江大保护”十年，上游守护的三个切片丨长江十年行",
-      "category": "综合",
-      "summary": "砂、树、鱼，听起来都是小事。但平通河底1.8万吨砂被偷走，河里的生态不会自己恢复回来；洪雅山中一棵国家级保护树木被砍掉，再没人认得它原来的样子；白龙江里一条鱼消失，赔不起的人两手空空。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675854.shtml",
-      "publishedAt": "2026-08-11T09:36:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675867.shtml",
-      "title": "河南本轮强降雨持续多久？雨势有多强？气象部门权威解读",
-      "category": "综合",
-      "summary": "中新网郑州8月11日电(记者 韩章云)受台风“白海豚”影响，8月11日，河南大部分地区风雨交加。河南省气象台于11日11时30分继续发布暴雨黄色预警。河南本轮强降雨还要持续多久？雨势有多强？记者就此采访河南气象部门。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675867.shtml",
-      "publishedAt": "2026-08-11T09:36:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675864.shtml",
-      "title": "山西大同定调“十五五”农业方向：打造国家级冷凉蔬菜产业基地",
-      "category": "综合",
-      "summary": "中新网太原8月11日电 (胡健 高天瑜)黄花、小米、苦荞……近年来，一批带有鲜明地域特色的农产品，正成为山西大同推进乡村振兴、带动农民增收的重要抓手。进入“十五五”，大同将进一步深耕农业赛道，把“土特产”做成富民大产业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675864.shtml",
-      "publishedAt": "2026-08-11T09:35:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675856.shtml",
-      "title": "菲律宾国调局对莎拉·杜特尔特提出严重威胁指控",
-      "category": "综合",
-      "summary": "总台记者11日获悉，菲律宾司法部确认，菲律宾国调局对副总统莎拉·杜特尔特提出严重威胁指控，该指控已经于当天13时30分左右提交至奎松市地区审判法院。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675856.shtml",
-      "publishedAt": "2026-08-11T09:34:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675863.shtml",
-      "title": "大连金融监管局：上半年累计为85个重点项目授信775.4亿元",
-      "category": "综合",
-      "summary": "中新网大连8月11日电 (记者 杨毅)记者11日从国家金融监督管理总局大连监管局(下称“大连金融监管局”)召开的新闻发布会上获悉，今年以来，大连金融监管局聚焦重点领域发力，激活实体经济发展动能。据统计，上半年累计为85个重点项目授信775.4亿元，为38个重大项目发放贷款110亿元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675863.shtml",
-      "publishedAt": "2026-08-11T09:33:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675871.shtml",
-      "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
-      "category": "综合",
-      "summary": "新华社北京8月11日电#8195;8月11日，国家主席习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675871.shtml",
-      "publishedAt": "2026-08-11T09:27:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675868.shtml",
-      "title": "中央气象台对台风“白海豚”停止编号",
-      "category": "综合",
-      "summary": "中新网8月11日电 据中央气象台网站消息，台风“白海豚”今天上午在湖北省境内减弱为热带低压，目前其风力进一步减弱，已很难确定其环流中心，中央气象台17时对其停止编号。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675868.shtml",
-      "publishedAt": "2026-08-11T09:26:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-11/10675869.shtml",
-      "title": "直播：台风“白海豚”影响河南 直击晚高峰交通保障一线",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675959.shtml",
+      "title": "直播海报：直击2026熊猫中心大熊猫生日派对现场",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-11/10675869.shtml",
-      "publishedAt": "2026-08-11T09:24:03.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675959.shtml",
+      "publishedAt": "2026-08-11T12:19:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-11/10675849.shtml",
-      "title": "德隆·威廉姆斯：NBA速度变快，若年轻十岁能场均送十几次助攻",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675956.shtml",
+      "title": "国家防总、应急管理部针对山西启动防汛四级应急响应",
       "category": "综合",
-      "summary": "中新网8月11日电 记者获悉，美职篮(NBA)3X区域赛广州站于近日收官。探博体育队、火花队分获女子组、男子组冠军。NBA名宿德隆·威廉姆斯来到现场，与球迷互动并为获奖队伍颁奖。",
+      "summary": "据气象部门预报，未来三天，受台风“白海豚”残余环流和冷空气共同影响，山西东部有暴雨或大暴雨。中央气象台8月11日18时发布暴雨橙色预警。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675849.shtml",
-      "publishedAt": "2026-08-11T09:18:17.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675956.shtml",
+      "publishedAt": "2026-08-11T12:11:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675865.shtml",
-      "title": "叙利亚一法院缺席判处前总统巴沙尔死刑",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675955.shtml",
+      "title": "中俄举行第二十四轮领事磋商",
       "category": "综合",
-      "summary": "卡塔尔半岛电视台直播画面显示，大马士革第四刑事法院11日缺席判处叙利亚前总统巴沙尔·阿萨德死刑。其表亲、德拉省前政治安全部门负责人阿提夫·纳吉布也被判处死刑。",
+      "summary": "图片来源：外交部网站 2026年8月11日，外交部领事司司长龙舟同俄罗斯外交部领事司司长克利莫夫在北京共同主持中俄第二十四轮领事磋商。双方重点就领事工作形势和中俄领事关系、便利人员往来、维护各自公民和机构安全与合法权益等议题深入交换意见。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675865.shtml",
-      "publishedAt": "2026-08-11T09:16:41.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675955.shtml",
+      "publishedAt": "2026-08-11T12:10:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675850.shtml",
-      "title": "白山跑出高质量发展加速度",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675950.shtml",
+      "title": "从电子卖场到科创地标 鼎好焕新北京中关村AI产业加速集聚",
       "category": "综合",
-      "summary": "提到长白山，几乎人人耳熟能详。但说起白山，不少人会一脸茫然。很多游客奔着天池而来，路过这座城市，歇一脚就匆匆离开。",
+      "summary": "中新网北京8月11日电(牛琳 温展博 曾稳庭 杜心怡)北京中关村地标建筑之一——鼎好DH3(以下简称“鼎好”)，正在经历新一轮产业集聚。昔日，它(原为鼎好电子商城)与海龙电子城、中关村e世界，组成中关村电子卖场“黄金三角”。如今的鼎好华丽转身，变身科技商务综合体中关村鼎好DH3，汇聚AI(人工智能)、通用算力、机器人等领域科技企业。作为北京中关村产业升级的缩",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675850.shtml",
-      "publishedAt": "2026-08-11T09:14:39.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675950.shtml",
+      "publishedAt": "2026-08-11T12:09:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675861.shtml",
-      "title": "中国印尼海军舰艇将位台岛以东海域开展通航演练",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675947.shtml",
+      "title": "福建省北纬26度30分以北海域四类专项特许捕捞渔船开捕",
       "category": "综合",
-      "summary": "中新网8月11日电 据“国防部发布”微信公众号消息，8月中旬，中国海军红河舰将与印度尼西亚海军“莱”号护卫舰位台岛以东海域举行通航演练，重点开展通信操演、海上补给等科目演练，旨在提升两国海军联合行动能力，深化双方务实合作，共同维护地区和平稳定。",
+      "summary": "中新网福州8月11日电 (记者 闫旭)随着今年第13号台风“白海豚”的影响逐渐消退，福建省北纬26度30分以北海域原定8月5日出海作业的桁杆拖虾、笼壶类、刺网、灯光围网四类专项特许捕捞渔船及部分配套辅助船，推迟至8月11日14时开捕，近1700艘渔船结束休渔奔赴渔场投入生产。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675861.shtml",
-      "publishedAt": "2026-08-11T09:12:04.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675947.shtml",
+      "publishedAt": "2026-08-11T12:08:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675859.shtml",
-      "title": "湖北襄阳全力应对台风 已安全转移9705人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675946.shtml",
+      "title": "世界最大冲击式水电机组转子成功吊装",
       "category": "综合",
-      "summary": "中新网襄阳8月11日电 (张倩龙 周胤伍)受台风“白海豚”外围环流影响，湖北襄阳11日9时57分升级暴雨预警信号为橙色，各地各部门全力做好防御应对工作。",
+      "summary": "中新网西藏左贡8月11日电 (陈昊星)8月11日，世界最大冲击式水电机组在大唐扎拉水电站顺利完成转子吊装。这标志着我国超高水头、大容量冲击式水电装备核心技术跻身世界领先行列，有力助推藏东南清洁能源基地建设，项目全面进入投产前的最后冲刺阶段。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675859.shtml",
-      "publishedAt": "2026-08-11T09:11:26.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675946.shtml",
+      "publishedAt": "2026-08-11T12:05:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675857.shtml",
-      "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675953.shtml",
+      "title": "紧急提醒！暴雨来袭，这份保命避险指南请立刻转发家人朋友～",
       "category": "综合",
-      "summary": "新华社快讯：习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电。",
+      "summary": "紧急提醒！暴雨来袭，这份保命避险指南请立刻转发家人朋友～ | 应急医课堂",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675857.shtml",
-      "publishedAt": "2026-08-11T09:07:52.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675953.shtml",
+      "publishedAt": "2026-08-11T12:04:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675852.shtml",
-      "title": "近、快、凉、绿、稳——解码大同算力产业“五字诀”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675945.shtml",
+      "title": "湖北：政企协同守护网络餐饮食品安全",
       "category": "综合",
-      "summary": "中新网太原8月11日电 (记者 胡健)“大同和北京直线距离300公里，是距离北京很近的算力腹地；网络延时3毫秒以内——我们眨一下眼是300毫秒，3毫秒就能完成大同到北京的数据传输。”在中共山西省委宣传部、山西省人民政府新闻办公室11日举行的“开局起步‘十五五’”系列主题新闻发布会上，山西省大同市委常委、常务副市长翟永清用一组直观的对比，道出了大同发展算力产业",
+      "summary": "中新网武汉8月11日电 (张会娜)湖北省市场监管局11日与美团、淘宝闪购、京东外卖平台签订《网络餐饮食品安全政企协同治理合作协议》，双方将围绕食品安全领域开展合作，打造政府监管、平台自治、商户自律、骑手监督、公众参与的多元共治体系。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675852.shtml",
-      "publishedAt": "2026-08-11T09:07:46.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675945.shtml",
+      "publishedAt": "2026-08-11T12:04:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675827.shtml",
-      "title": "“China Chic”圈粉外国消费者——把中国“好物”带回家",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-11/10675951.shtml",
+      "title": "以“微治理”撬动“大幸福”",
       "category": "综合",
-      "summary": "浙江省宁波市镇海区古村落，外国留学生换上中国传统服饰，沉浸式体验拓印等非遗手作；安徽省黄山市宏村的夜色中，挪威游客手提鱼灯加入巡游队伍，感受“身临其境”的东方美学；海外社交平台上，#hanfu#标签的帖子浏览量数以亿计，仅山东曹县一地，汉服年出口额超千万美元……",
+      "summary": "【好评中国·街巷新声】以“微治理”撬动“大幸福”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675827.shtml",
-      "publishedAt": "2026-08-11T09:04:52.000Z",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-11/10675951.shtml",
+      "publishedAt": "2026-08-11T12:01:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675842.shtml",
-      "title": "台风预警不是讲“狼来了”的故事",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675949.shtml",
+      "title": "新旧动能转换按下“加速键”激活中国经济增长潜力",
       "category": "综合",
-      "summary": "台风登陆了、减弱了，为什么还要继续提醒？路径变了，是不是之前的预报错了？面对“白海豚”，类似疑问再次出现。",
+      "summary": "晶采观察丨新旧动能转换按下“加速键”激活中国经济增长潜力",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675842.shtml",
-      "publishedAt": "2026-08-11T09:04:10.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675949.shtml",
+      "publishedAt": "2026-08-11T12:00:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675844.shtml",
-      "title": "融合发展，老区文旅更红火（经济聚焦·老区新产业）",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675948.shtml",
+      "title": "国合署发言人：中国愿向哥伦比亚提供人道主义地震救灾援助",
       "category": "综合",
-      "summary": "融合发展，老区文旅更红火(经济聚焦·老区新产业)",
+      "summary": "中新网8月11日电 据国家国际发展合作署微信公众号消息，2026年8月11日，国家国际发展合作署新闻发言人汤瑛表示，哥伦比亚近日发生强震，造成重大人员伤亡和财产损失。中方密切关注地震灾害，愿根据哥方需要，以适当方式提供力所能及的帮助，支持哥地震救灾。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675844.shtml",
-      "publishedAt": "2026-08-11T09:03:50.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675948.shtml",
+      "publishedAt": "2026-08-11T11:52:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +248,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675840.shtml",
-      "title": "长江十年行｜何处“鲟”家？",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9347v9np5xo/trad#0",
+      "title": "「我根本沒想過要停下來」：美國物理學家講述長崎原爆內幕",
+      "category": "国际",
+      "summary": "1945年8月9日，一枚鈽彈被投向日本長崎市，為第二次世界大戰畫上句號。30年後接受BBC訪問時，一名參與組裝該炸彈的美國物理學家披露了為何當時無法阻止這次爆炸，以及後續更多核攻擊的計劃。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c9347v9np5xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T11:46:20.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675944.shtml",
+      "title": "贵州盘州建成“心电一张网” 守护大众健康安全",
       "category": "综合",
-      "summary": "宜宾是一个很特别的地方。金沙江、岷江在此交汇，自此开始才有了真正意义上的“长江”。作为长江上游最核心的水域，也是千万年来长江鲟赖以生存的原生家园。",
+      "summary": "中新网贵州盘州8月11日电(周燕玲 曾浩洋 杨承涛)“以前病人胸口疼，送往县城路上随时有生命危险；如今在镇卫生院做完心电图，几分钟就能收到市级专家诊断，危急病例可直接为患者开通急救绿色通道，大家看病踏实多了。”贵州省盘州市大山镇卫生院医师黄盘泥谈及“心电一张网”带来的改变，感触颇深。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675840.shtml",
-      "publishedAt": "2026-08-11T09:03:38.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675944.shtml",
+      "publishedAt": "2026-08-11T11:44:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675837.shtml",
-      "title": "一人摆渡，引来百舸争流 ——解读“时代楷模”王戟的育人格局",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-11/10675923.shtml",
+      "title": "福州：夏日书香伴暑假",
       "category": "综合",
-      "summary": "师者，不是知识的“搬运工”，而是灵魂的“摆渡人”。从教30余年，王戟以轮椅为战车，一次次向科研高地发起冲锋；以师德为扁舟，将一批批学子摆渡至理想的彼岸。",
+      "summary": "8月11日，福建福州，家长带着孩子在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄 8月11日，福建福州，小朋友在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄 8月11日，福建福州，小朋友在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄 8月11日，福建福州，市民在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675837.shtml",
-      "publishedAt": "2026-08-11T09:03:26.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10675923.shtml",
+      "publishedAt": "2026-08-11T11:39:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675835.shtml",
-      "title": "5年，10万亿元增量！底气藏在能消费、敢消费、愿消费的每一笔账单里→",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-11/10675940.shtml",
+      "title": "我驻泰使馆：已收到在泰失联女性家属求助并将提供协助",
       "category": "综合",
-      "summary": "央视网消息：“十五五”开局之年，各专项规划自5月起陆续发布，截至7月底，我国已印发30份左右国家级“十五五”专项规划，覆盖扩大消费、城市更新、就业优先等各个领域，多个重点领域实现 顶层规划从无到有的历史性突破。《扩大消费“十五五”规划》(以下简称《规划》)是消费领域第一份国家级专项规划，明确了“十五五”时期消费领域发展的思路目标、重点任务和政策举措。这背后释",
+      "summary": "当地时间8月11日，就网络关注的中国女性祁某赴泰后失联一事，中国驻泰国使馆向总台记者确认，祁某家属已向使馆求助。使馆已向家属告知泰国警方受理相关案件的程序和要求，并将继续为家属提供必要协助。(总台记者 杨探骊)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675835.shtml",
-      "publishedAt": "2026-08-11T09:03:16.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-11/10675940.shtml",
+      "publishedAt": "2026-08-11T11:36:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675843.shtml",
-      "title": "“白海豚”过程面雨量列1949年来登陆浙江台风首位",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200775.shtml",
+      "title": "台风“白海豚”影响北京",
       "category": "综合",
-      "summary": "中新网杭州8月11日电(记者 王逸飞)今年第13号台风“白海豚”日前在浙江两次登陆。据浙江省气象台11日发布的“白海豚”气象评估，7日20时至11日6时，浙江全省面雨量215毫米，位列1949年以来登陆该省台风过程面雨量第一位。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675843.shtml",
-      "publishedAt": "2026-08-11T09:03:10.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200775.shtml",
+      "publishedAt": "2026-08-11T11:35:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675831.shtml",
-      "title": "尺素金声丨中国新兴产业快速发展是因为产业补贴吗？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675936.shtml",
+      "title": "内蒙古自贸试验区牛羊国际采销联盟成立",
       "category": "综合",
-      "summary": "尺素金声丨中国新兴产业快速发展是因为产业补贴吗？",
+      "summary": "中新网呼和浩特8月11日电 (记者 李爱平)内蒙古自治区商务厅11日对外发布消息称，深圳、北京、重庆及内蒙古四地21家市场经营主体参与发起的内蒙古自贸试验区牛羊国际采销联盟，11日宣告成立。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675831.shtml",
-      "publishedAt": "2026-08-11T09:02:50.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675936.shtml",
+      "publishedAt": "2026-08-11T11:33:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675845.shtml",
-      "title": "云南楚雄野生菌资源家底刷新 发现并确认野生大型真菌1564种",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-11/10675937.shtml",
+      "title": "2026亚运会足球、垒球项目赛程出炉",
       "category": "综合",
-      "summary": "中新网云南楚雄8月11日电 (袁慧仁 慕丽琴)云南省楚雄彝族自治州人民政府新闻办公室11日消息，经多机构联合调查确认，目前该州已发现并确认野生大型真菌共130科361属1564种。其中，食药用菌466种、毒菌174种，其余种类食毒不明，还有大量不定种和未知种有待发掘。",
+      "summary": "北京时间8月11日，2026年爱知·名古屋亚运会足球、垒球项目赛程公布。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675845.shtml",
-      "publishedAt": "2026-08-11T09:02:40.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675937.shtml",
+      "publishedAt": "2026-08-11T11:31:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675829.shtml",
-      "title": "逐渐深入内陆 多地有大风暴雨 台风“白海豚”最新情况→",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-11/10675935.shtml",
+      "title": "今年前7个月海口海关签发原产地证书量同比增逾七成",
       "category": "综合",
-      "summary": "8月11日8时，中国气象局处于台风、暴雨、强对流二级应急响应。预计未来三天，受台风“白海豚”及其残余环流和冷空气共同影响，浙江、江苏、安徽、湖北、河南、山东、山西、河北、北京等地有强降雨。",
+      "summary": "中新网海口8月11日电 (林清政 彭伟艳)海口海关11日披露，2026年1—7月，海口海关累计签发各类原产地证书15588份，签证总货值75.97亿元，分别同比增长76.14%、47.89%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675829.shtml",
-      "publishedAt": "2026-08-11T09:01:24.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-11/10675935.shtml",
+      "publishedAt": "2026-08-11T11:29:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675847.shtml",
-      "title": "受贿2.61亿余元 南京市人大常委会原党组书记、主任龙翔一审被判死缓",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675933.shtml",
+      "title": "中美青少年用5500余件创意作品助力“鸟类友好城市”建设",
       "category": "综合",
-      "summary": "2026年8月11日，湖北省荆州市中级人民法院一审公开宣判江苏省南京市人大常委会原党组书记、主任龙翔受贿、贪污、滥用职权、内幕交易一案，对被告人龙翔以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；以贪污罪判处有期徒刑九年，并处罚金人民币一百万元；以滥用职权罪判处有期徒刑九年；以内幕交易罪判处有期徒刑五年，并处罚金人民币一百万元，决定执",
+      "summary": "中新网重庆8月11日电 (梁钦卿 杨茗涵)11日，“鹰飞之城·第二届中美青少年鸟类友好城市创想大赛”中国赛区颁奖仪式在重庆渝中举行。本届大赛共收到中美两地创意作品5510件，涵盖图文创作、防鸟撞贴纸设计、短视频、创意装置等多种类型，吸引中美青少年超1万人次参与。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675847.shtml",
-      "publishedAt": "2026-08-11T09:01:08.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675933.shtml",
+      "publishedAt": "2026-08-11T11:27:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-11/10675811.shtml",
-      "title": "上海天佑医院以技术创新打通危重症救治与昏迷促醒新路径",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200780.shtml",
+      "title": "浙江温岭：千帆竞发赴渔场",
       "category": "综合",
-      "summary": "“高压氧治疗累计12万余人次，其中气管切开患者2.9万余人次，带呼吸机患者4481人次，脑外伤、脑出血、脑梗死患者超5万人次，成功促醒220余人……”上海天佑医院高压氧治疗大厅的这组实时数据，记录着高压氧脑复苏学科自2020年8月开科以来的“成绩单”，也诉说着数以万计危重患者重获生机的真实故事。",
+      "summary": "8月11日，浙江温岭石塘镇，渔船开赴东海海域开启捕捞作业。受今年第13号台风“白海豚”影响，浙江台州温岭市原定于8月5日启动的四种作业专项捕捞渔船出海生产时间推迟。随着台风影响减弱，当地于8月11日14时正式解除渔船避风管控指令，温岭市获批专项捕捞许可的1100余艘桁杆拖虾、笼壶类、刺网、灯光围(敷)网作业渔船扬帆起航、驶向深蓝。(无人机照片)中新社发 徐伟",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-11/10675811.shtml",
-      "publishedAt": "2026-08-11T08:59:41.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200780.shtml",
+      "publishedAt": "2026-08-11T11:27:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +427,199 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675841.shtml",
-      "title": "财政部拟发行2026年记账式贴现（四十九期）国债",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675922.shtml",
+      "title": "中国首架以地铁枢纽名为主题的彩绘飞机在广州正式亮相",
       "category": "综合",
-      "summary": "中新网8月11日电 据财政部网站消息，财政部拟发行2026年记账式贴现(四十九期)国债。现就本次发行工作有关事宜通知如下：",
+      "summary": "中新网广州8月11日电 (郭军 梁海棠)九元航空(9air)11日在广州白云国际机场正式发布“嘉禾望岗”号主题彩绘飞机，并举行新飞机交付揭幕仪式。这是国内首个以地铁枢纽名为主题的彩绘飞机涂装，串联城市记忆和航空梦想，以特色航空文化载体向全球传递广州白云宜居宜业宜游的城市温度。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675841.shtml",
-      "publishedAt": "2026-08-11T08:54:33.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675922.shtml",
+      "publishedAt": "2026-08-11T11:26:53.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675932.shtml",
+      "title": "灵巧手有“慧”思 专家建言加速推进具身智能新发展",
+      "category": "综合",
+      "summary": "中新网北京8月11日电 题：灵巧手有“慧”思 专家建言加速推进具身智能新发展",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675932.shtml",
+      "publishedAt": "2026-08-11T11:26:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675924.shtml",
+      "title": "护航黄河流域生态保护 陕西发布“鹮栖高原”生态环境检察品牌",
+      "category": "综合",
+      "summary": "中新网陕西铜川8月11日电 (记者 张一辰)“陕北高原地区人民检察院立足公益诉讼办案实际，对内打通跨区域检察协作渠道，对外搭建重点领域专项保护平台，打破行政区划限制，构建多方联动公益保护共同体。”陕西省陕北高原地区人民检察院(以下简称：陕北高原检察院)检察长南崇敬11日表示。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675924.shtml",
+      "publishedAt": "2026-08-11T11:26:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675925.shtml",
+      "title": "7月中国乘用车出口量同比增87.8%",
+      "category": "综合",
+      "summary": "中新社北京8月11日电 (记者 刘文文)中国汽车流通协会乘用车市场信息联席分会(“乘联分会”)11日发布的数据显示，7月乘用车出口91.8万辆，同比增长87.8%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675925.shtml",
+      "publishedAt": "2026-08-11T11:24:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675930.shtml",
+      "title": "中方敦促太平洋岛国论坛秘书处妥善处理涉台问题",
+      "category": "综合",
+      "summary": "中新社北京8月11日电 中国外交部发言人郭嘉昆11日在答记者问时表示，中方敦促太平洋岛国论坛秘书处恪守一个中国原则，妥善处理涉台问题。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675930.shtml",
+      "publishedAt": "2026-08-11T11:23:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675928.shtml",
+      "title": "陇上“乡”遇“和美”进阶",
+      "category": "综合",
+      "summary": "中新网兰州8月11日电 (刘薛梅 田羽芷瑄 赵峥)“十四五”期间，甘肃省陇南市创新实施“百千万全”工程，建成省级和美乡村33个，清洁村庄实现行政村全覆盖，创建和美家庭3.3万户，城乡面貌显著改善，民众幸福指数明显提升。站在“十五五”新起点，陇南市如何乘势而上，推动和美乡村建设由“单点出彩”向“全域提质”跨越？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675928.shtml",
+      "publishedAt": "2026-08-11T11:22:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675921.shtml",
+      "title": "台胞青少年：怀揣“先忧后乐”情怀 愿当两岸交流桥梁",
+      "category": "综合",
+      "summary": "中新网山东滨州8月11日电 (记者 孙婷婷)“不以物喜，不以己悲”“先天下之忧而忧，后天下之乐而乐”……在山东省滨州市邹平市范仲淹政德教育基地范文正公祠内，台胞少年曹维洋驻足展板前，轻声诵读《岳阳楼记》传世名句，感悟先贤千年传承的家国担当。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675921.shtml",
+      "publishedAt": "2026-08-11T11:22:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675918.shtml",
+      "title": "融入京津冀 山西大同从“过路”到“支点”的跃升",
+      "category": "综合",
+      "summary": "中新网太原8月11日电 (记者 胡健)“区位优势只是考卷，协同发展才是答卷。”在中共山西省委宣传部、山西省人民政府新闻办公室11日在山西太原举行的“开局起步‘十五五’”系列主题新闻发布会上，大同市副市长高新文这样概括大同融入京津冀协同发展的核心理念。大同目标很明确——从“通道过路城”变为“区域支点城”，把“区位红利”转化为“发展动能”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675918.shtml",
+      "publishedAt": "2026-08-11T11:21:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-11/10675920.shtml",
+      "title": "铀系测年确认云南芒关岩画至少已有4220年历史",
+      "category": "综合",
+      "summary": "中新网昆明8月11日电(记者 缪超)据云南省文物考古研究所11日消息，该研究所联合南京师范大学等单位组成的研究团队，对云南省临沧市耿马县芒关岩画遗址的系统考古调查与高精度铀系测年取得突破性进展。这一成果不仅为构建中国西南地区区域性岩画完整年代框架提供关键新材料，也为理解中国西南及东南亚大陆史前艺术演变打开全新窗口。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10675920.shtml",
+      "publishedAt": "2026-08-11T11:21:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad#2",
+      "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
+      "category": "国际",
+      "summary": "台灣2026年「城鎮韌性演習」首次加入「斷網場景」，BBC中文記者前往台中現場直擊，了解民眾對網路降速措施的看法。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T11:00:58.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113304",
+      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
+      "category": "科技",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113304",
+      "publishedAt": "2026-08-11T09:00:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -712,7 +764,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#1",
       "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
       "category": "国际",
       "summary": "粉絲和創作者表示，MySpace 若要復興，必須給人一種個人化的感覺，而不是由演算法驅動的。",
@@ -1046,24 +1098,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113158",
-      "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
-      "category": "科技",
-      "summary": "特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113158",
-      "publishedAt": "2026-08-09T07:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142604",
       "title": "身处气候危机中的巴西土著青年：“被看见、被听到”就是“抵抗力”",
       "category": "国际",
@@ -1186,23 +1220,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad#1",
-      "title": "人工智能被用於設計全新病毒",
-      "category": "国际",
-      "summary": "科學家利用人工智慧設計了16種成功的病毒，這些病毒的基因序列都是由人工智慧設計的。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T09:24:48.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1626,23 +1643,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad#2",
-      "title": "陸委會主委專訪：北京每年「已讀不回」3000封信 民進黨執政十年兩岸溝通未斷",
-      "category": "国际",
-      "summary": "民進黨自2016年上台後，已連續執政十年，台海局勢持續緊張。台灣大陸委員會主委邱垂正接受BBC中文專訪表示，目前兩岸關係風險高，中國對台施壓已擴及軍事、經濟、法律及認知領域。但他指出，兩岸溝通管道並未完全中斷，台灣仍透過官方聯絡、既有協議及民間交流維持互動與風險管控。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5n1le445ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T11:17:07.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
