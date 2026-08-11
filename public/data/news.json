@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T12:32:07.525Z",
-  "expiresAt": "2026-08-11T18:32:07.525Z",
+  "generatedAt": "2026-08-11T17:43:35.140Z",
+  "expiresAt": "2026-08-11T23:43:35.140Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10675962.shtml",
-      "title": "马斯克母子“安利”外国网友游中国，夸赞中国有魅力、干净、安全",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10676076.shtml",
+      "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
       "category": "综合",
-      "summary": "中新网8月11日电 8月11日，美国企业家、特斯拉首席执行官马斯克在社交媒体平台回复网友时表示：“中国太棒了。我强烈鼓励大家去旅游。”",
+      "summary": "伊朗最高领袖顾问穆赫贝尔11日在社交媒体上说，在伊朗的条件得到满足之前，霍尔木兹海峡不会开放。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675962.shtml",
-      "publishedAt": "2026-08-11T12:24:51.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676076.shtml",
+      "publishedAt": "2026-08-11T15:54:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675959.shtml",
-      "title": "直播海报：直击2026熊猫中心大熊猫生日派对现场",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10676075.shtml",
+      "title": "俄伊外交部就伊朗核计划问题举行司长级磋商",
       "category": "综合",
-      "summary": "",
+      "summary": "中新社莫斯科8月11日电 俄罗斯外交部11日发布消息说，俄罗斯与伊朗外交部门在莫斯科就伊朗核计划解决前景等议题进行了磋商。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675959.shtml",
-      "publishedAt": "2026-08-11T12:19:30.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676075.shtml",
+      "publishedAt": "2026-08-11T15:51:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675956.shtml",
-      "title": "国家防总、应急管理部针对山西启动防汛四级应急响应",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-11/10676071.shtml",
+      "title": "共赴统战文化之约 把团结故事讲给更多人听",
       "category": "综合",
-      "summary": "据气象部门预报，未来三天，受台风“白海豚”残余环流和冷空气共同影响，山西东部有暴雨或大暴雨。中央气象台8月11日18时发布暴雨橙色预警。",
+      "summary": "近年来，统战文化建设成为全国多地统战部门的重要工作内容。丰富多彩的统战文化周、文化月、文化博览汇等活动，不仅广泛汇聚起统一战线“同心”力量，更推动统战文化“出圈”，让“团结”故事走入大众视野。《中国新闻》报近日专访上海市委统战部副部长房剑森、重庆市委统战部副部长赖顺材、湖北省委统战部副部长邵志祥，解读三地释放统战文化活力、推动统战文化建设的创新“密码”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675956.shtml",
-      "publishedAt": "2026-08-11T12:11:24.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-11/10676071.shtml",
+      "publishedAt": "2026-08-11T15:51:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675955.shtml",
-      "title": "中俄举行第二十四轮领事磋商",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676070.shtml",
+      "title": "西藏：“数字拉萨”建设成果丰硕 数字赋能雪域高质量发展",
       "category": "综合",
-      "summary": "图片来源：外交部网站 2026年8月11日，外交部领事司司长龙舟同俄罗斯外交部领事司司长克利莫夫在北京共同主持中俄第二十四轮领事磋商。双方重点就领事工作形势和中俄领事关系、便利人员往来、维护各自公民和机构安全与合法权益等议题深入交换意见。",
+      "summary": "中新网拉萨8月11日电 (贡嘎来松)11日，西藏拉萨作为全球数字经济大会中国国内唯一永久分会场，2026全球数字经济大会拉萨高层论坛新闻发布会在拉萨举行。记者从发布会上获悉，以“数聚拉萨·能创未来”为主题的拉萨高层论坛，将于8月18日在拉萨市群众文化体育中心篮球主场馆启幕，拉萨已连续五年与北京主会场双向联动，打造京拉数字协作标杆与高原数字经济发展样板。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675955.shtml",
-      "publishedAt": "2026-08-11T12:10:44.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676070.shtml",
+      "publishedAt": "2026-08-11T15:49:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675950.shtml",
-      "title": "从电子卖场到科创地标 鼎好焕新北京中关村AI产业加速集聚",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-11/10676074.shtml",
+      "title": "国家体育总局体操中心发表抵制“饭圈”声明",
       "category": "综合",
-      "summary": "中新网北京8月11日电(牛琳 温展博 曾稳庭 杜心怡)北京中关村地标建筑之一——鼎好DH3(以下简称“鼎好”)，正在经历新一轮产业集聚。昔日，它(原为鼎好电子商城)与海龙电子城、中关村e世界，组成中关村电子卖场“黄金三角”。如今的鼎好华丽转身，变身科技商务综合体中关村鼎好DH3，汇聚AI(人工智能)、通用算力、机器人等领域科技企业。作为北京中关村产业升级的缩",
+      "summary": "8月11日，中国体操协会发表声明。声明全文如下：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675950.shtml",
-      "publishedAt": "2026-08-11T12:09:48.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10676074.shtml",
+      "publishedAt": "2026-08-11T15:20:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675947.shtml",
-      "title": "福建省北纬26度30分以北海域四类专项特许捕捞渔船开捕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676073.shtml",
+      "title": "亚洲首个！我国柔直海上风电项目发电量破百亿千瓦时",
       "category": "综合",
-      "summary": "中新网福州8月11日电 (记者 闫旭)随着今年第13号台风“白海豚”的影响逐渐消退，福建省北纬26度30分以北海域原定8月5日出海作业的桁杆拖虾、笼壶类、刺网、灯光围网四类专项特许捕捞渔船及部分配套辅助船，推迟至8月11日14时开捕，近1700艘渔船结束休渔奔赴渔场投入生产。",
+      "summary": "8月11日，亚洲首个采用柔性直流输电技术送出的海上风电项目——三峡新能源江苏如东800兆瓦海上风电项目累计发电量突破100亿千瓦时，为我国大容量、远距离海上风电柔性直流输电技术的规模化应用提供了实践验证。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675947.shtml",
-      "publishedAt": "2026-08-11T12:08:08.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676073.shtml",
+      "publishedAt": "2026-08-11T15:08:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675946.shtml",
-      "title": "世界最大冲击式水电机组转子成功吊装",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676072.shtml",
+      "title": "水利部针对北京天津启动洪水防御Ⅳ级应急响应",
       "category": "综合",
-      "summary": "中新网西藏左贡8月11日电 (陈昊星)8月11日，世界最大冲击式水电机组在大唐扎拉水电站顺利完成转子吊装。这标志着我国超高水头、大容量冲击式水电装备核心技术跻身世界领先行列，有力助推藏东南清洁能源基地建设，项目全面进入投产前的最后冲刺阶段。",
+      "summary": "记者从水利部了解到，据预报，8月11日夜间至13日，北京西南部、天津北部局地有暴雨到大暴雨；北京永定河、琉璃河、小清河，天津蓟运河将出现涨水过程，暴雨区内山洪灾害和中小河流洪水风险高。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675946.shtml",
-      "publishedAt": "2026-08-11T12:05:29.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676072.shtml",
+      "publishedAt": "2026-08-11T15:01:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675953.shtml",
-      "title": "紧急提醒！暴雨来袭，这份保命避险指南请立刻转发家人朋友～",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676067.shtml",
+      "title": "西藏4名“最美基层民警”讲述雪域高原守护故事",
       "category": "综合",
-      "summary": "紧急提醒！暴雨来袭，这份保命避险指南请立刻转发家人朋友～ | 应急医课堂",
+      "summary": "中新网拉萨8月11日电(李林)11日，“共建中华民族共同体 书写美丽西藏新篇章”系列主题第三场记者见面会在拉萨举行。发布会聚焦2025西藏公安机关“最美基层民警”先进典型，四名来自基层一线的民警代表讲述了他们在雪域高原维护安全稳定、服务人民群众的感人故事，生动诠释了新时代西藏公安民辅警的初心本色。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675953.shtml",
-      "publishedAt": "2026-08-11T12:04:59.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676067.shtml",
+      "publishedAt": "2026-08-11T14:38:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675945.shtml",
-      "title": "湖北：政企协同守护网络餐饮食品安全",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676064.shtml",
+      "title": "中新网评：“酱香酒酿酒大师”等称号撤销，然后呢？",
       "category": "综合",
-      "summary": "中新网武汉8月11日电 (张会娜)湖北省市场监管局11日与美团、淘宝闪购、京东外卖平台签订《网络餐饮食品安全政企协同治理合作协议》，双方将围绕食品安全领域开展合作，打造政府监管、平台自治、商户自律、骑手监督、公众参与的多元共治体系。",
+      "summary": "中新网北京8月11日电(记者 王珊珊 高萌)最近，行业协会们迎来一波“大师摘牌潮”。贵州遵义市酒业协会发布了一则公告，表示根据有关要求，决定撤销该协会“中国酱香酒酿酒大师”等相关称号，此前发布的有关通知、公告、公示都废止，不能再用“中国酱香酒酿酒大师”的称号开展任何活动或宣传。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675945.shtml",
-      "publishedAt": "2026-08-11T12:04:41.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676064.shtml",
+      "publishedAt": "2026-08-11T14:37:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-11/10675951.shtml",
-      "title": "以“微治理”撬动“大幸福”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-11/10676066.shtml",
+      "title": "港芭原创作品《罗密欧+茱丽叶》为莎翁经典赋予独特香港光彩",
       "category": "综合",
-      "summary": "【好评中国·街巷新声】以“微治理”撬动“大幸福”",
+      "summary": "中新网北京8月11日电 (记者 应妮)香港芭蕾舞团(港芭)将于8月29日、30日在国家大剧院歌剧院呈献原创芭蕾舞剧《罗密欧+茱丽叶》。该剧以1960年代香港为背景，重新演绎莎士比亚笔下最脍炙人口的爱情经典，并特邀国际芭蕾明星陈镇威特别参演。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-11/10675951.shtml",
-      "publishedAt": "2026-08-11T12:01:45.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10676066.shtml",
+      "publishedAt": "2026-08-11T14:37:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675949.shtml",
-      "title": "新旧动能转换按下“加速键”激活中国经济增长潜力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676065.shtml",
+      "title": "厦门探索公共信用与市场信用融合释放守信便民红利",
       "category": "综合",
-      "summary": "晶采观察丨新旧动能转换按下“加速键”激活中国经济增长潜力",
+      "summary": "中新网厦门8月11日电 (吴冠标)福建厦门11日启动公共信用与市场信用深度融合创新实践，厦门市民个人信用白鹭分与芝麻信用分实现分值双向互通，让守信价值转化为可感知的生活便利与实际红利。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675949.shtml",
-      "publishedAt": "2026-08-11T12:00:13.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676065.shtml",
+      "publishedAt": "2026-08-11T14:36:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,20 +230,362 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675948.shtml",
-      "title": "国合署发言人：中国愿向哥伦比亚提供人道主义地震救灾援助",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676063.shtml",
+      "title": "草原之夜，一颗篮球滚过555个嘎查村",
       "category": "综合",
-      "summary": "中新网8月11日电 据国家国际发展合作署微信公众号消息，2026年8月11日，国家国际发展合作署新闻发言人汤瑛表示，哥伦比亚近日发生强震，造成重大人员伤亡和财产损失。中方密切关注地震灾害，愿根据哥方需要，以适当方式提供力所能及的帮助，支持哥地震救灾。",
+      "summary": "中新网通辽8月11日电 题：草原之夜，一颗篮球滚过555个嘎查村",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675948.shtml",
-      "publishedAt": "2026-08-11T11:52:46.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676063.shtml",
+      "publishedAt": "2026-08-11T14:36:19.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676059.shtml",
+      "title": "千年雄关通“双动脉” 广西友谊关口岸双电源工程投运",
+      "category": "综合",
+      "summary": "中新网广西崇左8月11日电(涂丽莎 韦露 胡仁艳)近日，随着最后一条调度指令执行完毕，广西友谊关口岸双电源升级改造工程正式投运，这座千年雄关就此走上供电“双车道”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676059.shtml",
+      "publishedAt": "2026-08-11T14:24:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-11/10676062.shtml",
+      "title": "北京“冰丝带”上演机器人“全自主”足球赛",
+      "category": "综合",
+      "summary": "中新社北京8月11日电 (记者 陈杭)11日的北京国家速滑馆“冰丝带”3号赛训基地内，红队机器人球员走到足球前“左顾右盼”，蓝队球员趁机大步上前一脚射门。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10676062.shtml",
+      "publishedAt": "2026-08-11T14:22:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-11/10676058.shtml",
+      "title": "广西防城港借力国际医学开放平台 推动中医药“出海”",
+      "category": "综合",
+      "summary": "中新社南宁8月11日电 (记者 黄艳梅)记者11日从广西壮族自治区中医药管理局获悉，广西防城港市加快集聚中医药及相关产业资源，深化拓展与上海合作组织成员国、东盟国家的交流合作，积极推动中医药服务、产业和文化走向国际。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-11/10676058.shtml",
+      "publishedAt": "2026-08-11T14:18:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-11/10676032.shtml",
+      "title": "成都489米超高层项目建设高度超越当地已建成最高建筑",
+      "category": "综合",
+      "summary": "8月11日，航拍建设中的中海成都天府新区超高层项目，这座成都在建最高楼高度已超越当地已建成的最高建筑“339电视塔”。该项目设计总高489米，坐落于天府总部商务区，集写字楼、商业、酒店等业态于一体。目前工程稳步向上推进，建成后将成为成都城市新地标。(无人机照片)中新社记者 张浪 摄 8月11日，航拍建设中的中海成都天府新区超高层项目，这座成都在建最高楼高度已",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10676032.shtml",
+      "publishedAt": "2026-08-11T14:17:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-11/10676057.shtml",
+      "title": "烟火著文：浙江“新大众文艺”群像扫描",
+      "category": "综合",
+      "summary": "中新网杭州8月11日电(林波)文艺从不止于书斋笔墨，人间烟火同样是厚重的创作底稿。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10676057.shtml",
+      "publishedAt": "2026-08-11T14:17:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676055.shtml",
+      "title": "第六届藏博会将于2026年9月1日至2日在拉萨举办",
+      "category": "综合",
+      "summary": "中新网拉萨8月11日电(拉巴卓玛)第六届中国西藏旅游文化国际博览会(以下简称“藏博会”)第一场新闻发布会11日在拉萨举行。西藏自治区副主席、第六届藏博会组委会副主任、办公室常务副主任徐志涛在会上宣布，以“文旅富民·产业兴藏”为主题的第六届藏博会将于2026年9月1日至2日在拉萨举办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676055.shtml",
+      "publishedAt": "2026-08-11T14:16:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676053.shtml",
+      "title": "云菌“鲜”行海外 今年前7个月出口量增逾两成",
+      "category": "综合",
+      "summary": "中新网昆明8月11日电 (段淑敏)昆明海关11日消息，今年前7个月，云南出口至日本、德国、越南等26个国家和地区的新鲜和冷藏食用菌达1857.1吨，同比增长24.7%。曾藏于深山的时令山珍，如今已成为撬动县域经济发展、带动民众增收的“金疙瘩”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676053.shtml",
+      "publishedAt": "2026-08-11T14:16:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-11/10676018.shtml",
+      "title": "成龙哈尔滨寄语青年电影人：走出去，认识自身的文化与创作优势",
+      "category": "综合",
+      "summary": "中新网哈尔滨8月11日电 (刘锡菊 赵宇航)11日，“成龙电影A计划·全球青年影像行动”启动仪式在哈尔滨举行。香港功夫电影标志性人物、国际功夫电影明星成龙出席活动，鼓励青年电影人“走出去”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10676018.shtml",
+      "publishedAt": "2026-08-11T14:15:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-11/10676026.shtml",
+      "title": "华侨大学国际新能源学院在厦门揭牌",
+      "category": "综合",
+      "summary": "中新网厦门8月11日电 (吴冠标)8月11日，华侨大学国际新能源学院揭牌仪式在厦门举行。作为聚焦新能源、新材料领域的研究生层次中外合作办学机构，该学院由华侨大学与泰国朱拉隆功大学共建，将于本月正式启动线下教学。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-11/10676026.shtml",
+      "publishedAt": "2026-08-11T14:15:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10676019.shtml",
+      "title": "中国三地检察机关线上“聊”生态",
+      "category": "综合",
+      "summary": "中新网包头8月11日电 (记者 李爱平)《中华人民共和国生态环境法典》将于8月15日正式施行。11日，北京、内蒙古、青海三地检察机关在线上举行了一场别开生面的活动，相关检察系统负责人在发言中，几乎三句话不离法律、绿色、环保。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10676019.shtml",
+      "publishedAt": "2026-08-11T14:14:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676015.shtml",
+      "title": "内蒙古寨子塔石城址出土一组“龙、凤”形象泥塑",
+      "category": "综合",
+      "summary": "中新网呼和浩特8月11日电 (记者 李爱平)内蒙古自治区文物考古研究院11日发布消息称，近日，考古部门在内蒙古寨子塔石城址出土一组造型生动、保存较好的“龙、凤”形象泥塑。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676015.shtml",
+      "publishedAt": "2026-08-11T14:14:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-11/10676056.shtml",
+      "title": "泰国政府宣布暂停发放购枪许可证",
+      "category": "综合",
+      "summary": "据泰国政府网站11日消息，泰国政府当天发布公告，宣布暂停发放购枪许可证，并在全国范围内核查尚未完成枪支交易的许可证。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10676056.shtml",
+      "publishedAt": "2026-08-11T14:13:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10676021.shtml",
+      "title": "河南启动营运客车突出问题专项整治行动",
+      "category": "综合",
+      "summary": "中新网郑州8月11日电 (记者 刘鹏)记者11日从河南省交通运输厅获悉，即日起至2026年12月31日，河南省交通运输厅联合河南省公安厅、河南省文化和旅游厅、河南省应急管理厅等部门，在全省范围内开展营运客车突出问题专项整治行动，通过严查非法改装、非法营运等七类顽疾，明确多项整治措施，为民众出行系紧“安全带”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10676021.shtml",
+      "publishedAt": "2026-08-11T14:13:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676016.shtml",
+      "title": "贵阳国际陆港：借力平陆运河 助“贵州造”批量走向“深蓝”",
+      "category": "综合",
+      "summary": "中新网贵阳8月11日电 题：贵阳国际陆港：借力平陆运河 助“贵州造”批量走向“深蓝”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676016.shtml",
+      "publishedAt": "2026-08-11T14:13:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10676051.shtml",
+      "title": "广西自贸试验区全面推行政府采购制度型开放改革对接国际经贸规则",
+      "category": "综合",
+      "summary": "中新网南宁8月11日电(林浩 韦佳秀)广西壮族自治区财政厅日前印发通知，将在中国(广西)自由贸易试验区全面推行政府采购领域制度型开放改革试点措施，进一步对接国际高标准经贸规则，推进高水平制度型开放。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676051.shtml",
+      "publishedAt": "2026-08-11T14:12:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-11/10676043.shtml",
+      "title": "香港青少年广西开启“少年强”国防教育之旅",
+      "category": "综合",
+      "summary": "中新社南宁8月11日电 (韦佳秀)“这次活动中，我非常期待亲手操控无人机，近距离感受祖国国防科技的发展。”8月11日，桂港澳台青少年交流计划暨“少年强”2026香港青少年广西夏令营学员苏锦雄在南宁说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-11/10676043.shtml",
+      "publishedAt": "2026-08-11T14:12:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10676049.shtml",
+      "title": "最新研究揭示3亿年前地球极热事件机制 为全球变暖应对提供参照",
+      "category": "综合",
+      "summary": "中新网北京8月11日电 (记者 孙自法)地球上“正在进行时”的全球变暖及其发展趋势、产生影响和如何应对，一直以来广受关注。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10676049.shtml",
+      "publishedAt": "2026-08-11T14:11:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10676040.shtml",
+      "title": "海峡两岸客家文化交流大会在福建长汀举行",
+      "category": "综合",
+      "summary": "中新社福建龙岩8月11日电 (记者 闫旭)海峡两岸客家文化交流大会系列活动11日在素有“客家首府”之称的福建龙岩长汀举行。两岸约300名客属乡亲、专家学者和青年代表齐聚，共话两岸青年在多领域深耕、融合，拥抱大陆发展机遇的故事。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10676040.shtml",
+      "publishedAt": "2026-08-11T14:10:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142612",
+      "title": "安理会：联合国官员警告约旦河西岸局势恶化 呼吁采取紧急行动",
+      "category": "国际",
+      "summary": "联合国中东和平进程副特别协调员阿拉克巴罗夫周二向安理会通报中东局势时表示，尽管加沙地带脆弱停火和地区紧张局势受到国际社会关注，被占领的约旦河西岸（包括东耶路撒冷）已处于崩溃边缘。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142612",
+      "publishedAt": "2026-08-11T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -261,330 +603,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675944.shtml",
-      "title": "贵州盘州建成“心电一张网” 守护大众健康安全",
-      "category": "综合",
-      "summary": "中新网贵州盘州8月11日电(周燕玲 曾浩洋 杨承涛)“以前病人胸口疼，送往县城路上随时有生命危险；如今在镇卫生院做完心电图，几分钟就能收到市级专家诊断，危急病例可直接为患者开通急救绿色通道，大家看病踏实多了。”贵州省盘州市大山镇卫生院医师黄盘泥谈及“心电一张网”带来的改变，感触颇深。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675944.shtml",
-      "publishedAt": "2026-08-11T11:44:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-11/10675923.shtml",
-      "title": "福州：夏日书香伴暑假",
-      "category": "综合",
-      "summary": "8月11日，福建福州，家长带着孩子在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄 8月11日，福建福州，小朋友在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄 8月11日，福建福州，小朋友在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄 8月11日，福建福州，市民在福建省少年儿童图书馆静享阅读时光。中新社记者 吕明 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-11/10675923.shtml",
-      "publishedAt": "2026-08-11T11:39:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-11/10675940.shtml",
-      "title": "我驻泰使馆：已收到在泰失联女性家属求助并将提供协助",
-      "category": "综合",
-      "summary": "当地时间8月11日，就网络关注的中国女性祁某赴泰后失联一事，中国驻泰国使馆向总台记者确认，祁某家属已向使馆求助。使馆已向家属告知泰国警方受理相关案件的程序和要求，并将继续为家属提供必要协助。(总台记者 杨探骊)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-11/10675940.shtml",
-      "publishedAt": "2026-08-11T11:36:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200775.shtml",
-      "title": "台风“白海豚”影响北京",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200775.shtml",
-      "publishedAt": "2026-08-11T11:35:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675936.shtml",
-      "title": "内蒙古自贸试验区牛羊国际采销联盟成立",
-      "category": "综合",
-      "summary": "中新网呼和浩特8月11日电 (记者 李爱平)内蒙古自治区商务厅11日对外发布消息称，深圳、北京、重庆及内蒙古四地21家市场经营主体参与发起的内蒙古自贸试验区牛羊国际采销联盟，11日宣告成立。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675936.shtml",
-      "publishedAt": "2026-08-11T11:33:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-11/10675937.shtml",
-      "title": "2026亚运会足球、垒球项目赛程出炉",
-      "category": "综合",
-      "summary": "北京时间8月11日，2026年爱知·名古屋亚运会足球、垒球项目赛程公布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675937.shtml",
-      "publishedAt": "2026-08-11T11:31:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-11/10675935.shtml",
-      "title": "今年前7个月海口海关签发原产地证书量同比增逾七成",
-      "category": "综合",
-      "summary": "中新网海口8月11日电 (林清政 彭伟艳)海口海关11日披露，2026年1—7月，海口海关累计签发各类原产地证书15588份，签证总货值75.97亿元，分别同比增长76.14%、47.89%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-11/10675935.shtml",
-      "publishedAt": "2026-08-11T11:29:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675933.shtml",
-      "title": "中美青少年用5500余件创意作品助力“鸟类友好城市”建设",
-      "category": "综合",
-      "summary": "中新网重庆8月11日电 (梁钦卿 杨茗涵)11日，“鹰飞之城·第二届中美青少年鸟类友好城市创想大赛”中国赛区颁奖仪式在重庆渝中举行。本届大赛共收到中美两地创意作品5510件，涵盖图文创作、防鸟撞贴纸设计、短视频、创意装置等多种类型，吸引中美青少年超1万人次参与。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675933.shtml",
-      "publishedAt": "2026-08-11T11:27:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200780.shtml",
-      "title": "浙江温岭：千帆竞发赴渔场",
-      "category": "综合",
-      "summary": "8月11日，浙江温岭石塘镇，渔船开赴东海海域开启捕捞作业。受今年第13号台风“白海豚”影响，浙江台州温岭市原定于8月5日启动的四种作业专项捕捞渔船出海生产时间推迟。随着台风影响减弱，当地于8月11日14时正式解除渔船避风管控指令，温岭市获批专项捕捞许可的1100余艘桁杆拖虾、笼壶类、刺网、灯光围(敷)网作业渔船扬帆起航、驶向深蓝。(无人机照片)中新社发 徐伟",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200780.shtml",
-      "publishedAt": "2026-08-11T11:27:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675922.shtml",
-      "title": "中国首架以地铁枢纽名为主题的彩绘飞机在广州正式亮相",
-      "category": "综合",
-      "summary": "中新网广州8月11日电 (郭军 梁海棠)九元航空(9air)11日在广州白云国际机场正式发布“嘉禾望岗”号主题彩绘飞机，并举行新飞机交付揭幕仪式。这是国内首个以地铁枢纽名为主题的彩绘飞机涂装，串联城市记忆和航空梦想，以特色航空文化载体向全球传递广州白云宜居宜业宜游的城市温度。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675922.shtml",
-      "publishedAt": "2026-08-11T11:26:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675932.shtml",
-      "title": "灵巧手有“慧”思 专家建言加速推进具身智能新发展",
-      "category": "综合",
-      "summary": "中新网北京8月11日电 题：灵巧手有“慧”思 专家建言加速推进具身智能新发展",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675932.shtml",
-      "publishedAt": "2026-08-11T11:26:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675924.shtml",
-      "title": "护航黄河流域生态保护 陕西发布“鹮栖高原”生态环境检察品牌",
-      "category": "综合",
-      "summary": "中新网陕西铜川8月11日电 (记者 张一辰)“陕北高原地区人民检察院立足公益诉讼办案实际，对内打通跨区域检察协作渠道，对外搭建重点领域专项保护平台，打破行政区划限制，构建多方联动公益保护共同体。”陕西省陕北高原地区人民检察院(以下简称：陕北高原检察院)检察长南崇敬11日表示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675924.shtml",
-      "publishedAt": "2026-08-11T11:26:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675925.shtml",
-      "title": "7月中国乘用车出口量同比增87.8%",
-      "category": "综合",
-      "summary": "中新社北京8月11日电 (记者 刘文文)中国汽车流通协会乘用车市场信息联席分会(“乘联分会”)11日发布的数据显示，7月乘用车出口91.8万辆，同比增长87.8%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675925.shtml",
-      "publishedAt": "2026-08-11T11:24:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-11/10675930.shtml",
-      "title": "中方敦促太平洋岛国论坛秘书处妥善处理涉台问题",
-      "category": "综合",
-      "summary": "中新社北京8月11日电 中国外交部发言人郭嘉昆11日在答记者问时表示，中方敦促太平洋岛国论坛秘书处恪守一个中国原则，妥善处理涉台问题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675930.shtml",
-      "publishedAt": "2026-08-11T11:23:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675928.shtml",
-      "title": "陇上“乡”遇“和美”进阶",
-      "category": "综合",
-      "summary": "中新网兰州8月11日电 (刘薛梅 田羽芷瑄 赵峥)“十四五”期间，甘肃省陇南市创新实施“百千万全”工程，建成省级和美乡村33个，清洁村庄实现行政村全覆盖，创建和美家庭3.3万户，城乡面貌显著改善，民众幸福指数明显提升。站在“十五五”新起点，陇南市如何乘势而上，推动和美乡村建设由“单点出彩”向“全域提质”跨越？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675928.shtml",
-      "publishedAt": "2026-08-11T11:22:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-11/10675921.shtml",
-      "title": "台胞青少年：怀揣“先忧后乐”情怀 愿当两岸交流桥梁",
-      "category": "综合",
-      "summary": "中新网山东滨州8月11日电 (记者 孙婷婷)“不以物喜，不以己悲”“先天下之忧而忧，后天下之乐而乐”……在山东省滨州市邹平市范仲淹政德教育基地范文正公祠内，台胞少年曹维洋驻足展板前，轻声诵读《岳阳楼记》传世名句，感悟先贤千年传承的家国担当。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675921.shtml",
-      "publishedAt": "2026-08-11T11:22:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-11/10675918.shtml",
-      "title": "融入京津冀 山西大同从“过路”到“支点”的跃升",
-      "category": "综合",
-      "summary": "中新网太原8月11日电 (记者 胡健)“区位优势只是考卷，协同发展才是答卷。”在中共山西省委宣传部、山西省人民政府新闻办公室11日在山西太原举行的“开局起步‘十五五’”系列主题新闻发布会上，大同市副市长高新文这样概括大同融入京津冀协同发展的核心理念。大同目标很明确——从“通道过路城”变为“区域支点城”，把“区位红利”转化为“发展动能”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675918.shtml",
-      "publishedAt": "2026-08-11T11:21:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-11/10675920.shtml",
-      "title": "铀系测年确认云南芒关岩画至少已有4220年历史",
-      "category": "综合",
-      "summary": "中新网昆明8月11日电(记者 缪超)据云南省文物考古研究所11日消息，该研究所联合南京师范大学等单位组成的研究团队，对云南省临沧市耿马县芒关岩画遗址的系统考古调查与高精度铀系测年取得突破性进展。这一成果不仅为构建中国西南地区区域性岩画完整年代框架提供关键新材料，也为理解中国西南及东南亚大陆史前艺术演变打开全新窗口。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-11/10675920.shtml",
-      "publishedAt": "2026-08-11T11:21:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -817,7 +835,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142611",
-      "title": "哥伦比亚再次发生强烈地震，联合国提供援助",
+      "title": "哥伦比亚发生强烈地震，联合国提供援助",
       "category": "国际",
       "summary": "联合国系统正与哥伦比亚当局保持联系，应急团队正努力抵达受灾社区，但农村地区通信不畅，给评估灾情全貌带来了困难。",
       "source": "联合国新闻",
@@ -1705,24 +1723,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142577",
-      "publishedAt": "2026-08-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142576",
-      "title": "以色列侵犯黎巴嫩领空，周末空袭加沙造成二十余人死亡",
-      "category": "国际",
-      "summary": "联合国机构周一表示，尽管停火协议仍在生效，但据报道，以色列军队上周末在加沙打死了二十余名巴勒斯坦人；与此同时，联合国维和部门表示，以色列侵犯黎巴嫩领空超过100次。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142576",
       "publishedAt": "2026-08-03T12:00:00.000Z",
       "tags": [
         "国际",
