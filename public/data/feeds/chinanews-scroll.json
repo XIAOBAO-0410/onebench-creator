@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
+      "title": "卡内余额不能买折扣商品？警惕预付卡变“闹心卡”！",
+      "meta": "中国新闻网 · 2026/8/12",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
+      "publishedAt": "2026-08-12T22:18:55.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-12/10676689.shtml",
       "title": "海内外足球小将聚沈阳 11天鏖战千余场比赛",
       "meta": "中国新闻网 · 2026/8/12",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/8/12",
       "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676618.shtml",
       "publishedAt": "2026-08-12T14:12:22.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
-      "title": "“东升西降”重塑台海博弈 两岸专家指新格局凸显时势在大陆",
-      "meta": "中国新闻网 · 2026/8/12",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
-      "publishedAt": "2026-08-12T14:12:02.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T20:00:17.579Z",
+  "updatedAt": "2026-08-12T22:24:51.567Z",
   "provider": "OneBench 公共资讯快照"
 }

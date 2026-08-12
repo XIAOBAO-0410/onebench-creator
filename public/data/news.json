@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T20:00:17.579Z",
-  "expiresAt": "2026-08-13T02:00:17.579Z",
+  "generatedAt": "2026-08-12T22:24:51.567Z",
+  "expiresAt": "2026-08-13T04:24:51.567Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
+      "title": "卡内余额不能买折扣商品？警惕预付卡变“闹心卡”！",
+      "category": "综合",
+      "summary": "商家未提前告知充值卡只能买正价商品，并称“顾客没有问，所以没有说”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676690.shtml",
+      "publishedAt": "2026-08-12T22:18:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad#0",
       "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
@@ -595,24 +613,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/dwq/2026/08-12/10676618.shtml",
       "publishedAt": "2026-08-12T14:12:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
-      "title": "“东升西降”重塑台海博弈 两岸专家指新格局凸显时势在大陆",
-      "category": "综合",
-      "summary": "中新社北京8月12日电 (记者 李百加 刘大炜)第十一届京台学者共研会12日在北京举办。与会两岸专家表示，在百年变局深入演进、“东升西降”大势持续深化的时代背景下，台海新格局加速成形，凸显时势在大陆。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676643.shtml",
-      "publishedAt": "2026-08-12T14:12:02.000Z",
       "tags": [
         "国内",
         "社会",
