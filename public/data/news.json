@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T14:34:56.987Z",
-  "expiresAt": "2026-08-13T20:34:56.987Z",
+  "generatedAt": "2026-08-13T19:46:49.081Z",
+  "expiresAt": "2026-08-14T01:46:49.081Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,258 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-13/10677338.shtml",
+      "title": "周星驰新作《功夫女足》登陆香港院线",
+      "category": "综合",
+      "summary": "中新社香港8月13日电 (记者 戴小橦)由香港电影人周星驰自编自导的体育喜剧电影《功夫女足》于13日正式登陆香港各大院线。影片延续周星驰标志性的“无厘头”喜剧风格，上映首日便凭借超高人气掀起香港本地观影热潮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-13/10677338.shtml",
+      "publishedAt": "2026-08-13T15:59:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10677337.shtml",
+      "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
+      "category": "综合",
+      "summary": "伊朗最高领袖顾问穆赫贝尔13日在社交媒体上发文说，如果伊朗提出的条件得不到满足，最高领袖已明确作出战略决策，将采取升级冲突的方式予以回应。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10677337.shtml",
+      "publishedAt": "2026-08-13T15:56:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10677336.shtml",
+      "title": "美官员称美国将向中东部署“华盛顿”号航母",
+      "category": "综合",
+      "summary": "据美国方面当地时间13日消息，美官员称，美国正准备将“乔治·华盛顿”号航母部署到中东，以替换“亚伯拉罕·林肯”号航母。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10677336.shtml",
+      "publishedAt": "2026-08-13T15:55:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-13/10677335.shtml",
+      "title": "中国男篮广东佛山热身赛战胜乌拉圭男篮",
+      "category": "综合",
+      "summary": "中新社佛山8月13日电 (记者 张璐)中国男篮13日晚在广东佛山举行的一场热身赛中以83:78战胜乌拉圭男篮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677335.shtml",
+      "publishedAt": "2026-08-13T15:44:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10677334.shtml",
+      "title": "日本关东地区遭遇强降雨",
+      "category": "综合",
+      "summary": "中新社东京8月13日电 (记者 朱晨曦)受暖湿气流与冷空气影响，包括东京在内的日本关东地区13日遭遇强降雨。强降雨已导致千叶县出现人员伤亡，数万户居民停电。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10677334.shtml",
+      "publishedAt": "2026-08-13T15:43:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10677333.shtml",
+      "title": "财经大V齐俊杰，被海南证监局点名",
+      "category": "综合",
+      "summary": "中新网8月13日电(吴家驹)近日，中国证监会海南监管局网站发布行政监管措施决定书，对齐家私募基金管理(海南)有限公司(简称“齐家私募基金公司”)、齐俊杰采取责令改正的行政监管措施，并记入资本市场诚信档案数据库，同时要求于2026年9月30日前提交整改报告。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677333.shtml",
+      "publishedAt": "2026-08-13T15:22:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10677332.shtml",
+      "title": "宇树科技：网上投资者放弃认购数量8734股",
+      "category": "综合",
+      "summary": "中新网北京8月13日电(记者 刘星晨)13日晚，宇树科技发布首次公开发行股票并在科创板上市发行结果公告。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677332.shtml",
+      "publishedAt": "2026-08-13T15:21:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-13/10677331.shtml",
+      "title": "2025-2026国际篮联少年三人篮球总决赛收官",
+      "category": "综合",
+      "summary": "中新网北京8月13日电 2025-2026金漪湖·国际篮联少年三人篮球总决赛在浙江省金华市FIBA(国际篮联)篮球之家落幕。近百支青少年篮球队伍参与其中，在U6、U8、U10、U12混合组及U10、U12女子组共六个组别中展开较量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677331.shtml",
+      "publishedAt": "2026-08-13T15:21:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10677330.shtml",
+      "title": "全球首单企业类自贸离岸债在上海发行",
+      "category": "综合",
+      "summary": "8月12日，中央结算公司支持上海电气集团股份有限公司境外子公司上海电气环球资本有限公司成功发行15亿元人民币自贸离岸债，期限3年，票面利率1.8%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677330.shtml",
+      "publishedAt": "2026-08-13T15:03:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-13/10677326.shtml",
+      "title": "深耕特色赛事IP，2026丽水国际轮滑赛收官",
+      "category": "综合",
+      "summary": "中新网8月13日电 以“四季丽水、全域轮滑”为主题的2026丽水国际轮滑赛12日在浙江省丽水全民健身中心收官，来自24个国家和地区的2000多名运动员及随行人员参与其中。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677326.shtml",
+      "publishedAt": "2026-08-13T14:51:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10677325.shtml",
+      "title": "福建福安一船厂着火后爆炸 造成1名消防救援人员不幸牺牲",
+      "category": "综合",
+      "summary": "据福安市消防救援局通报，8月13日13时09分，福安市甘棠镇华海船厂着火。接报后，福安市消防救援局调派力量前往处置。13时25分，辖区站到场展开灭火救援。14时10分，现场突然发生爆炸，造成10名消防救援人员和2名群众受伤，均已送医救治。18时50分，1名消防救援人员经抢救无效不幸牺牲。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10677325.shtml",
+      "publishedAt": "2026-08-13T14:47:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-13/10677324.shtml",
+      "title": "法律落地有声 让民族团结扎根结果",
+      "category": "综合",
+      "summary": "中新网北京8月13日电 题：法律落地有声 让民族团结扎根结果",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-13/10677324.shtml",
+      "publishedAt": "2026-08-13T14:44:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-13/10677323.shtml",
+      "title": "2026年上半年香港商品进出口同比量价齐升",
+      "category": "综合",
+      "summary": "中新社香港8月13日电 (记者 邱兆翔)香港特区政府统计处13日公布的最新对外商品贸易货量及价格统计数字显示，2026年上半年，香港商品整体出口货量同比上升28.7%，进口货量同比上升30.4%；商品整体出口价格同比上涨7.9%，进口价格同比上涨7.6%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-13/10677323.shtml",
+      "publishedAt": "2026-08-13T14:42:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-13/10677320.shtml",
+      "title": "述评：我们为什么需要县级博物馆？",
+      "category": "综合",
+      "summary": "中新网杭州8月13日电(林波)8月12日，在崭新的浙江省博物馆首座分馆——仙居县博物馆里，一位观众在展柜前停下脚步。展柜中，是一条北宋金龙，出土自仙居括苍洞，历经千余年，依然金光熠熠。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10677320.shtml",
+      "publishedAt": "2026-08-13T14:33:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-13/10677306.shtml",
       "title": "福州：高温催热“夜经济”",
@@ -310,258 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677300.shtml",
       "publishedAt": "2026-08-13T13:53:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-13/10677298.shtml",
-      "title": "174名攀岩好手江西赣州竞技亚洲青年杯",
-      "category": "综合",
-      "summary": "中新社江西赣州8月13日电 (记者 姜涛)2026年世界攀联亚洲青年杯(中国全南)13日在江西省赣州市全南县开赛。来自中国、新加坡、日本、泰国、马来西亚等亚洲8个国家和地区的174名选手同台竞技，演绎“岩壁芭蕾”的魅力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677298.shtml",
-      "publishedAt": "2026-08-13T13:52:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-13/1200984.shtml",
-      "title": "【时光印象】从“看戏”到“入戏” 昆明滇剧解锁新体验",
-      "category": "综合",
-      "summary": "近期，位于云南昆明的牛街庄滇戏博物馆成为不少市民游客的热门打卡地。游客走进博物馆，可以在专业老师指导下选择角色、穿戏服，学习滇剧唱腔和身段，并通过镜头留下属于自己的“滇剧写真”。牛街庄村是昆明远近闻名的“滇剧窝子”，2009年，张勇创办滇戏博物馆。近年来，其孙女张珂和家人尝试以更年轻、更贴近当代生活的方式传播滇剧。从过去以“看戏”为主，到如今亲身“入戏”，试",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-13/1200984.shtml",
-      "publishedAt": "2026-08-13T13:50:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-13/10677292.shtml",
-      "title": "近150名中韩青少年棋手黄山同台竞技",
-      "category": "综合",
-      "summary": "中新社安徽黄山8月13日电 (记者 张强)2026年中韩青少年围棋交流赛暨中韩世界冠军邀请赛13日在安徽省黄山市徽州区开赛，吸引近150名中韩青少年棋手同台竞技。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-13/10677292.shtml",
-      "publishedAt": "2026-08-13T13:49:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10677296.shtml",
-      "title": "“美国Z世代并不担忧中国”！最新报告：大多数美国年轻人不把中国看作威胁……",
-      "category": "综合",
-      "summary": "对于美国政界一些人多年来长期渲染的“中国威胁论”，美国的年轻一代还买账吗？芝加哥全球事务委员会12日发布的研究报告给出了答案：大多数美国年轻人不把中国看作重大威胁，而是倾向于对华采取友好合作与接触的政策。这份报告的标题开宗明义：“Z世代并不担忧中国”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10677296.shtml",
-      "publishedAt": "2026-08-13T13:47:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10677293.shtml",
-      "title": "警惕日本“新型军国主义”毒瘤的“温柔”封面",
-      "category": "综合",
-      "summary": "认知工作室|警惕日本“新型军国主义”毒瘤的“温柔”封面",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10677293.shtml",
-      "publishedAt": "2026-08-13T13:45:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10677291.shtml",
-      "title": "全球南方媒体热议全球发展倡议五周年：从理念到落地的南南合作实践",
-      "category": "综合",
-      "summary": "【中国那些事儿】全球南方媒体热议全球发展倡议五周年：从理念到落地的南南合作实践",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10677291.shtml",
-      "publishedAt": "2026-08-13T13:43:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-13/10677287.shtml",
-      "title": "成都首笔“算力贷”落地 创新“券贷协同”赋能人工智能企业发展",
-      "category": "综合",
-      "summary": "中新网成都8月13日电 (祝欢)13日，成都首笔114万元“算力贷”已成功发放至企业。“算力贷”依托政府惠企政策构建信用支撑，以“算力券”财政资金作为增信保障，以算力真实需求为业务依托，实行线上便捷申请、智能审批、快速放款。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677287.shtml",
-      "publishedAt": "2026-08-13T13:41:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-13/10677288.shtml",
-      "title": "中国科学家揭示深渊看不见的微生物“绿洲”",
-      "category": "综合",
-      "summary": "中新社上海8月13日电 (记者 许婧)上海交通大学13日对外公布，由该校与中国科学院深海科学与工程研究所等联合发起，上海交大肖湘教授作为召集科学家的“溟渊计划”(马里亚纳海沟环境与生态研究计划)二期成果，近日以专辑形式发表于国际权威期刊《细胞·宿主与微生物》，获期刊编辑特别推荐，称“揭示了海洋最深处此前被低估的遗传多样性和微生物过程”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677288.shtml",
-      "publishedAt": "2026-08-13T13:40:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-13/10677286.shtml",
-      "title": "天津高院发布生态环境审判白皮书 多案入选全国典型案例",
-      "category": "综合",
-      "summary": "中新网天津8月13日电 (江莹)恰逢《中华人民共和国生态环境法典》即将施行和第四个全国生态日到来之际，天津市高级人民法院13日召开新闻发布会，发布天津法院生态环境审判白皮书(2024年8月—2026年8月)和6个典型案例。其中，2个案件分别入选最高人民法院依法推进文物保护典型案例、环境资源审判服务保障民生典型案例，4个案件入选全国法院案例库。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677286.shtml",
-      "publishedAt": "2026-08-13T13:39:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10677278.shtml",
-      "title": "从驾驶员到“强军工匠”：王健的“500”坚持",
-      "category": "综合",
-      "summary": "中新网杭州8月13日电 题：从驾驶员到“强军工匠”：王健的“500”坚持",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10677278.shtml",
-      "publishedAt": "2026-08-13T13:37:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-13/10677285.shtml",
-      "title": "中美青少年在山东青岛携手体验中华传统文化",
-      "category": "综合",
-      "summary": "图为美国青少年学习簪花。张孝鹏 摄 图为代表团一行与当地师生共同合影。张孝鹏 摄 图为美国青少年体验簪花。张孝鹏 摄 图为美国青少年身着武术表演服装拍照。张孝鹏 摄 图为两国青少年共同了解武术道具。张孝鹏 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-13/10677285.shtml",
-      "publishedAt": "2026-08-13T13:37:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-13/10677276.shtml",
-      "title": "乡村教师24年寻恩人未果 锦旗送给“一群他”",
-      "category": "综合",
-      "summary": "中新网肇庆8月13日电 (郭军 梁海棠 何俊铭)“虽然没找到当年那位民警，但我找到了一群和他一样的人。”近日，广西崇左龙州县乡村教师莫金利专程赶到佛山铁路公安处肇庆站派出所，送来一面锦旗，并向在场民警深深鞠躬。这一天，距离他绝境获救，整整过去了24年。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10677276.shtml",
-      "publishedAt": "2026-08-13T13:37:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-13/10677268.shtml",
-      "title": "导演文牧野谈电影《欢迎来龙餐馆》：朴素而珍贵的“好好吃饭”",
-      "category": "综合",
-      "summary": "中新社北京8月13日电 (记者 高凯)电影《欢迎来龙餐馆》于日前在中国内地上映，口碑迅速发酵，票房表现出色。该片导演文牧野近期接受中新社记者专访，表示此次创作希望以一个不一样的战争故事传递“好好吃饭”的朴素愿望。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-13/10677268.shtml",
-      "publishedAt": "2026-08-13T13:36:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-13/10677290.shtml",
-      "title": "南非媒体：全球发展倡议推动包容性发展",
-      "category": "综合",
-      "summary": "全球瞭望丨南非媒体：全球发展倡议推动包容性发展",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-13/10677290.shtml",
-      "publishedAt": "2026-08-13T13:35:14.000Z",
       "tags": [
         "国内",
         "社会",
