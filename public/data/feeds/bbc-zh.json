@@ -5,11 +5,32 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad#0",
-      "title": "BBC核實特朗普撤回部分推薦疫苗的言論",
-      "meta": "BBC 中文 · 2026/8/12",
-      "url": "https://www.bbc.com/zhongwen/articles/cy5d23kzglro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T16:00:21.000Z"
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad#0",
+      "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T03:19:02.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#0",
+      "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T03:13:24.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c39e20rkmnyo/trad#1",
+      "title": "想提高做決定的能力？問問螞蟻吧",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/c39e20rkmnyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T03:04:18.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad#0",
+      "title": "為了安全旅行，女性付出了什麼代價？",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T02:58:16.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad#2",
@@ -19,7 +40,7 @@
       "publishedAt": "2026-08-12T15:24:03.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad#1",
       "title": "美國特勤局如何玩弄「障眼法」，將特朗普在眾目睽睽之下隱藏",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad?at_medium=RSS&at_campaign=rss",
@@ -68,7 +89,7 @@
       "publishedAt": "2026-08-12T00:07:32.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crmr102zj9go/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crmr102zj9go/trad#1",
       "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
       "meta": "BBC 中文 · 2026/8/12",
       "url": "https://www.bbc.com/zhongwen/articles/crmr102zj9go/trad?at_medium=RSS&at_campaign=rss",
@@ -89,14 +110,7 @@
       "publishedAt": "2026-08-11T11:00:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad#1",
-      "title": "芬蘭海底天然氣管道受損，案件為何在香港審理？",
-      "meta": "BBC 中文 · 2026/8/11",
-      "url": "https://www.bbc.com/zhongwen/articles/c330jjn6xmeo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T08:39:30.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#4",
       "title": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
       "meta": "BBC 中文 · 2026/8/11",
       "url": "https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad?at_medium=RSS&at_campaign=rss",
@@ -110,7 +124,7 @@
       "publishedAt": "2026-08-11T07:58:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad#4",
       "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
       "meta": "BBC 中文 · 2026/8/11",
       "url": "https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +136,6 @@
       "meta": "BBC 中文 · 2026/8/10",
       "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T09:16:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad#4",
-      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
-      "meta": "BBC 中文 · 2026/8/7",
-      "url": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T02:50:00.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#5",
@@ -143,13 +150,6 @@
       "meta": "BBC 中文 · 2026/8/6",
       "url": "https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T09:13:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad#4",
-      "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
-      "meta": "BBC 中文 · 2026/8/6",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T05:59:42.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-12T22:24:51.567Z",
+  "updatedAt": "2026-08-13T05:52:31.652Z",
   "provider": "OneBench 公共资讯快照"
 }
