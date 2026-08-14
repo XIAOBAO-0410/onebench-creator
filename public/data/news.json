@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T12:31:16.055Z",
-  "expiresAt": "2026-08-14T18:31:16.055Z",
+  "generatedAt": "2026-08-14T17:36:40.362Z",
+  "expiresAt": "2026-08-14T23:36:40.362Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-14/10677873.shtml",
-      "title": "香港民航处公布国泰航班通讯中断事件调查结果：机组人员错误回应空管指示",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678011.shtml",
+      "title": "中国人民银行将发行江泽民诞辰100周年纪念币",
       "category": "综合",
-      "summary": "中新社香港8月14日电 国泰航空一架由香港飞往伦敦的客机7月4日在飞越罗马尼亚领空期间，一度与空中交通管制部门失去联络，触发北约快速反应警报，匈牙利战机紧急升空发出目视警告。香港特区政府民航处8月14日表示，特区政府已收到并完成对国泰航空提交的全面调查报告的审视。",
+      "summary": "新华社北京8月14日电 中国人民银行8月14日发布公告称，定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币。江泽民诞辰100周年纪念币共4枚，其中普通纪念币1枚，金质纪念币2枚，银质纪念币1枚，均为中华人民共和国法定货币。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-14/10677873.shtml",
-      "publishedAt": "2026-08-14T12:19:18.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678011.shtml",
+      "publishedAt": "2026-08-14T16:56:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677869.shtml",
-      "title": "以文为桥，中亚教师邂逅真实新疆",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10678010.shtml",
+      "title": "澳中友协成立75周年庆祝活动在墨尔本举行",
       "category": "综合",
-      "summary": "中新网新疆库尔勒8月14日电 (袁鹏冲)八月的新疆瓜果飘香，“海外高校教师看新疆”参访团穿行于乌鲁木齐、巴州等地，一路看发展、品风物、感受多元文化交融。来自乌兹别克斯坦塔什干的教师美莲，第一次踏上这片土地，此前她对新疆的印象大多来自听闻，这趟旅程彻底刷新了她的认知。",
+      "summary": "中新社墨尔本8月14日电 (记者 薄雯雯)澳大利亚中国友好协会(ACFS)成立75周年庆祝活动14日晚在墨尔本举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677869.shtml",
-      "publishedAt": "2026-08-14T12:14:46.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10678010.shtml",
+      "publishedAt": "2026-08-14T15:53:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677868.shtml",
-      "title": "银川告别过境游绽放暑期文旅魅力 客流同比增幅超五成",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10678009.shtml",
+      "title": "泰国成立专门机构强化数据中心管理",
       "category": "综合",
-      "summary": "中新网银川8月14日电 (记者 李佩珊)“左拥大漠壮阔，右揽湖城温婉，银川给我太多惊喜。”8月14日，即将踏上返程航班的四川游客张文文，虽已结束银川之行，依旧对这座城市念念不忘。",
+      "summary": "中新社曼谷8月14日电 (记者 李映民)泰国政府网站14日发布公告，宣布设立“数据中心经营政策委员会”。该委员会旨在为作为未来产业基础设施的数据中心业务制定明确监管政策，在促进投资的同时，重点管控其对电力、水资源及环境的影响，以平衡产业发展与国家整体利益。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677868.shtml",
-      "publishedAt": "2026-08-14T12:14:18.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10678009.shtml",
+      "publishedAt": "2026-08-14T15:37:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677867.shtml",
-      "title": "广西桂林烟草查获一起案值239万余元涉烟案件",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10678008.shtml",
+      "title": "巴奴火锅上线“打赏服务员”功能，客服回应：自愿打赏，严禁索要",
       "category": "综合",
-      "summary": "中新网桂林8月14日电(麻安志)广西桂林市烟草专卖局(以下简称“桂林烟草”)坚持“情报导侦、全链条打击”理念，持续深化警烟协作，近日成功破获一起涉案金额达239万余元(人民币，下同)的特大涉烟案件。",
+      "summary": "中新网8月14日电(记者 吴家驹)近日，不少消费者发现，巴奴火锅在点餐小程序上线了“打赏服务员”功能，引发网络争议。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677867.shtml",
-      "publishedAt": "2026-08-14T12:13:52.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10678008.shtml",
+      "publishedAt": "2026-08-14T15:36:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677871.shtml",
-      "title": "海南产经新观察：东方打造海南自贸港经济增长新引擎",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-14/10678007.shtml",
+      "title": "首届全国高尔夫混合团体锦标赛对标奥运竞赛体系",
       "category": "综合",
-      "summary": "中新网海口8月14日电 (陈英清)“十五五”开局，海南西南部中心城市——东方市如何打造海南自贸港经济增长新引擎？",
+      "summary": "中新网8月14日电 为期两天的首届全国高尔夫混合团体锦标赛14日在天津盘山高尔夫球会收官。本次赛事对标2028洛杉矶奥运会高尔夫球混合团体竞赛体系，吸引了全国19个参赛单位的52支队伍同台竞技。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677871.shtml",
-      "publishedAt": "2026-08-14T12:13:08.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10678007.shtml",
+      "publishedAt": "2026-08-14T15:36:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677870.shtml",
-      "title": "合龙！河南郏县北汝河段民堤溃口完成封堵",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-14/10678006.shtml",
+      "title": "中国篮协：近年来，中国小篮球累计参赛人次突破120万",
       "category": "综合",
-      "summary": "14日晚，河南省平顶山市郏县长桥镇北汝河段民堤溃口完成封堵。",
+      "summary": "中新网北京8月14日电(记者 岳川) 由中国篮球协会主办的2026中国小篮球系列活动全国总决赛13日在北京市延庆区收官。为期一周的比赛中，来自280支队伍的近2300名小运动员共同奉献了996场精彩比赛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677870.shtml",
-      "publishedAt": "2026-08-14T12:10:40.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10678006.shtml",
+      "publishedAt": "2026-08-14T15:36:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677864.shtml",
-      "title": "重庆开展大规模数字技术工程师专项培训",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10678004.shtml",
+      "title": "长春都市圈聚力打造特色农品 抱团开拓海内外市场",
       "category": "综合",
-      "summary": "中新网重庆8月14日电 (记者 钟旖)8月11日至14日，重庆市人力社保局、重庆市两江新区人力社保局联合重庆市职业技能公共实训中心、重庆长安汽车股份有限公司开展的数字化管理师线下培训举行。这是重庆针对企业组织的规模最大的数字技术工程师专项培训。",
+      "summary": "中新网长春8月14日电 (李彦国 高龙安)梅花鹿饲养量占全中国的30%，大米端上香港市民的餐桌，鲜食玉米远销30多个国家和地区……记者在14日举行的长春现代化都市圈农业产业协同发展发布会上获悉，圈内四座城市正合力打造梅花鹿、大米、鲜食玉米、食用菌等特色产业，力拓海内外市场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677864.shtml",
-      "publishedAt": "2026-08-14T12:06:52.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10678004.shtml",
+      "publishedAt": "2026-08-14T15:31:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677863.shtml",
-      "title": "近500名中外代表昆明共拓中药材产业国际合作新空间",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-14/10678001.shtml",
+      "title": "新史料重现百年光影 《光社寻踪》还原民国摄影风貌",
       "category": "综合",
-      "summary": "中新社昆明8月14日电 (记者 韩帅南)2026首届昆明中药材产业国际博览会暨中药供应链大会14日在昆明开幕。来自中国、尼泊尔、泰国、马来西亚等国的政企学研代表近500人，共话中药材产业国际合作新空间。",
+      "summary": "中新网上海8月14日电(记者 许婧)一百多年前在北京成立的光社，是中国第一个业余摄影家艺术联盟，同时也是中国第一个知识分子摄影团体，它造就并影响了中国第一代名副其实的摄影艺术家，奠定了艺术摄影在民国时期的发展基础。14日，由同济大学出版社主办的《光社寻踪：一个民国摄影团体的再发现》新书分享会在2026上海书展现场举行。摄影史学者、新书作者陈申，复旦大学新闻学",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677863.shtml",
-      "publishedAt": "2026-08-14T12:05:18.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10678001.shtml",
+      "publishedAt": "2026-08-14T15:30:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677865.shtml",
-      "title": "水利部针对太湖流域洪水防御应急响应提升至Ⅲ级",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-14/10677999.shtml",
+      "title": "段奕宏反差演绎宣传民警 《藏锋》定档",
       "category": "综合",
-      "summary": "中新网8月14日电 据“中国水利”微信公众号消息，受第13号台风“白海豚”残余环流带来的强降雨影响，8月14日15时40分，太湖水位涨至4.20米，超过警戒水位(3.80米)0.40米，依据《全国流域性洪水划分规定(试行)》，太湖流域发生流域性较大洪水。据预报，流域未来2天仍将有中到大雨，预计太湖最高水位可能超过4.30米，周边河网部分水位将超过警戒水位。",
+      "summary": "中新网北京8月14日电 (记者 高凯)电视剧《藏锋》于8月14日正式官宣定档，即将于8月17日登陆CCTV-1黄金档。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677865.shtml",
-      "publishedAt": "2026-08-14T12:03:43.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677999.shtml",
+      "publishedAt": "2026-08-14T15:30:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-14/10677860.shtml",
-      "title": "2026年国际跳棋世界杯分站赛收官 中国选手赛娅获女子组冠军",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677995.shtml",
+      "title": "巡山护水守绿意 浙江湖州以生态警务书写“时代答卷”",
       "category": "综合",
-      "summary": "中新社山东泰安8月14日电 (梁犇 孙倩)2026年国际跳棋世界杯分站赛(新泰)暨第五届“新泰杯”中国国际跳棋公开赛14日在山东泰安新泰收官。经过5个比赛日的角逐，荷兰选手Groenendijk Jan获公开组冠军，中国选手赛娅获女子组冠军，U14男子组、女子组冠军分别被两位蒙古国选手摘得。",
+      "summary": "中新网湖州8月14日电(黄彦君)在浙江省湖州市，天还没亮透，安吉县公安局天荒坪派出所的生态警长张忠心已经站在那张钉满五色图钉的毛毡地图前，盘算着要巡逻的区域。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-14/10677860.shtml",
-      "publishedAt": "2026-08-14T11:59:49.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677995.shtml",
+      "publishedAt": "2026-08-14T15:29:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677854.shtml",
-      "title": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/2026/08-14/news1065468.shtml",
+      "title": "钟睒睒点出了一个关键问题",
       "category": "综合",
-      "summary": "中新社北京8月14日电 中国海警局14日消息，当日，中国海警梅山舰编队在中国钓鱼岛及其附属岛屿领海内维权巡航。这是中国海警依法开展的维权巡航活动。",
+      "summary": "近日，农夫山泉创始人钟睒睒做客央视财经《对话》栏目，再次将矛头对准电商平台。其实，电商平台与线下实体，从来不是非此即彼的对立关系。与其在存量蛋糕中彼此消耗，不如思考如何从流量红利转向价值红利。平台应少一些收租思维、多一些赋能意识；实体商业也需思考如何将体验温度与数字效率相结合。钟睒睒的措辞或许激烈，立场或有偏颇，但他将“平台权力边界”这一议题推到了公共讨论的",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677854.shtml",
-      "publishedAt": "2026-08-14T11:59:19.000Z",
+      "url": "http://www.chinanews.com.cn/cj/shipin/2026/08-14/news1065468.shtml",
+      "publishedAt": "2026-08-14T15:22:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677847.shtml",
-      "title": "川渝科创领域首部协同立法将于10月1日起同步施行",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/2026/08-14/news1065467.shtml",
+      "title": "油价迎年内第五次下调",
       "category": "综合",
-      "summary": "中新网成都8月14日电(单鹏)四川省人大常委会14日下午在成都举行专场新闻发布会，发布新制定的《四川省推进科技创新中心建设条例》(以下简称《条例》)。",
+      "summary": "据国家发改委消息，自8月14日24时起，国内汽、柴油(标准品)价格每吨分别下调230元、220元。本轮是成品油价格迎来的年内第五次下调。据机构测算，此次下调折合92号汽油每升下调0.18元，95号汽油每升下调0.19元，0号柴油每升下调0.19元。以油箱容量50L的普通私家车计算，车主加满一箱92号汽油将省9元左右。(记者 张尼 宫宏宇)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677847.shtml",
-      "publishedAt": "2026-08-14T11:58:53.000Z",
+      "url": "http://www.chinanews.com.cn/cj/shipin/2026/08-14/news1065467.shtml",
+      "publishedAt": "2026-08-14T15:18:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-14/10677862.shtml",
-      "title": "山西汾阳发现东汉晚期墓葬 墓主应为当地豪族或官吏",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10678000.shtml",
+      "title": "高温高通胀高赤字……欧洲战略自主缺失吞下苦果",
       "category": "综合",
-      "summary": "中新社太原8月14日电 (记者 杨静 胡健)山西省考古研究院14日对外公布山西汾阳杏花村镇冯郝沟东汉墓M18发掘资料，墓葬规模较大、结构完整，形制未见于山西地区以往的考古发现中，墓主应为当地豪族或官吏。",
+      "summary": "这个夏天，仿佛对欧洲格外残酷。美国《纽约时报》近日报道称，欧洲显得像是在旁观席上，眼睁睁看着自己的命运被外部力量所塑造。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677862.shtml",
-      "publishedAt": "2026-08-14T11:58:21.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10678000.shtml",
+      "publishedAt": "2026-08-14T15:17:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677851.shtml",
-      "title": "安徽省安庆市人大常委会原副主任郑家齐被开除党籍",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/2026/08-14/news1065466.shtml",
+      "title": "教练还在学员少了，学车热潮已不再",
       "category": "综合",
-      "summary": "中新网8月14日电 据安徽省纪委监委消息：日前，经中共安徽省委批准，安徽省纪委监委对安庆市人大常委会原副主任郑家齐严重违纪违法问题进行了立案审查调查。",
+      "summary": "在不少人的记忆中，暑期的驾校里经常是这样的场景：大太阳底下，好几个学员围着一辆车，排着队等那一圈半圈的练车机会。但现在，这种场景消失了。有数据显示，全国超过2.1万家驾培机构中，超八成驾校不盈利，产能利用率平均仅28.6%。有驾校教练表示，越来越多“00后”不再急于考取驾照了。驾校门庭冷落的背后，是国内公共交通网络密集覆盖，网约车体系早已成熟，自动驾驶技术快",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677851.shtml",
-      "publishedAt": "2026-08-14T11:57:29.000Z",
+      "url": "http://www.chinanews.com.cn/cj/shipin/2026/08-14/news1065466.shtml",
+      "publishedAt": "2026-08-14T15:14:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677857.shtml",
-      "title": "中疾控：当前处于本次新冠疫情波动高峰平台期",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677994.shtml",
+      "title": "仿生“蝴蝶效应”服务健康检测 中国团队研发出新型无泵空气采样器",
       "category": "综合",
-      "summary": "中新社北京8月14日电 (记者 李纯)中国疾病预防控制中心日前发布《全国急性呼吸道传染病哨点监测情况(2026年第32周)》。中疾控分析指出，当前处于本次新冠疫情波动的高峰平台期，部分省份已出现下降趋势。",
+      "summary": "中新网北京8月14日电 (记者 孙自法)记者8月14日从中国科学院理化技术研究所(理化所)获悉，该所仿生智能界面科学中心董智超研究员团队从蝴蝶的“卷喙饮蜜”行为中获得启示，最新研发出一种名为“液膜破裂驱动毛细管富集”(FACE)的新型无泵空气采样器，可服务呼吸系统传染病与空气污染的低成本便捷检测，助力全球健康公平。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677857.shtml",
-      "publishedAt": "2026-08-14T11:56:59.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677994.shtml",
+      "publishedAt": "2026-08-14T15:06:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677856.shtml",
-      "title": "7月中国快递发展指数同比提升2.4%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677993.shtml",
+      "title": "德国汽车工业就业人数降至2005年以来最低水平",
       "category": "综合",
-      "summary": "中新社北京8月14日电 (记者 王梦瑶)中国国家邮政局14日发布的报告显示，7月中国快递发展指数为424.2，同比提升2.4%。行业运行平稳有序，市场规模持续扩容，服务质效稳步提升，创新动能不断蓄积，综合竞争实力明显增强，有力支撑消费提质扩容，为经济社会发展添力赋能。",
+      "summary": "中新社柏林8月14日电 (记者 马秀秀)德国联邦统计局14日公布的数据显示，截至2026年上半年，德国汽车工业从业人数降至69.15万人，为2005年以来最低水平。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677856.shtml",
-      "publishedAt": "2026-08-14T11:56:03.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677993.shtml",
+      "publishedAt": "2026-08-14T15:06:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677855.shtml",
-      "title": "2026皖台青年文体交流周启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677992.shtml",
+      "title": "宁夏银川第十届少儿艺术展赛收官",
       "category": "综合",
-      "summary": "中新社安徽滁州8月14日电 (记者 赵强)“亭好滁州·同心筑梦”2026皖台青年文体交流周暨“亭好杯”海峡两岸青少年篮球邀请赛14日在安徽省滁州市启幕。",
+      "summary": "中新网银川8月14日电 (记者 李佩珊)8月14日晚，“拾光逐梦·艺绽童年”2026年银川市第十届少儿艺术展赛颁奖仪式暨优秀节目汇报演出在玉皇阁广场上演，为期9天的公益性少儿美育盛会正式落下帷幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677855.shtml",
-      "publishedAt": "2026-08-14T11:55:19.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677992.shtml",
+      "publishedAt": "2026-08-14T15:05:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677858.shtml",
-      "title": "外交部驳美涉黄岩岛言论：敦促美方停止在南海渲染紧张、挑动对抗",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677991.shtml",
+      "title": "浙赣两地在钱江源流域开展增殖放流 山水相连生态相护",
       "category": "综合",
-      "summary": "中新网8月14日电 据外交部网站消息，2026年8月14日，外交部发言人郭嘉昆答记者问。",
+      "summary": "中新网衢州8月14日电(董易鑫)“鱼的家就在水里，我们在这里就是为了送它们回家。”8月14日，在浙江省衢州市开化县苏庄镇，“钱江源小卫士”、苏庄镇中心小学学生吴星漪说。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677858.shtml",
-      "publishedAt": "2026-08-14T11:52:50.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677991.shtml",
+      "publishedAt": "2026-08-14T15:05:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677866.shtml",
-      "title": "思想解读类融媒体片《制胜》创作启示：让思想之光照亮强军征程",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad#0",
+      "title": "「我一個月便虧了一萬四」——遭遇韓國股市暴跌的散戶們",
+      "category": "国际",
+      "summary": "韓國股市近日猛烈調整，好些散戶遭受重創，遍體鱗傷。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T14:59:41.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677990.shtml",
+      "title": "当AI浪潮重塑医疗：两岸医界的“韧性”之思",
       "category": "综合",
-      "summary": "让思想之光照亮强军征程",
+      "summary": "中新网杭州8月14日电(张煜欢)“面对人口老龄化背景以及AI科技的浪潮，医疗机构不仅要有面对变局的智慧韧性，更要致力于人才、科技与价值的永续经营。”14日，台湾社区医院协会理事长朱益宏在第十五届海峡两岸医院院长论坛开幕式上说道。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677866.shtml",
-      "publishedAt": "2026-08-14T11:50:16.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677990.shtml",
+      "publishedAt": "2026-08-14T14:50:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-14/10677840.shtml",
-      "title": "河南郏县长桥镇北汝河段溃口封堵及田间排涝作业有序进行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-14/10677989.shtml",
+      "title": "民盟盟员研发“课桌小乒乓” 推动“国球”普及校园",
       "category": "综合",
-      "summary": "图为抢险人员在田间排涝。(无人机照片) 许家智 摄 图为抢险人员在田间排涝。许家智 摄 图为抢险人员在田间排涝。 许家智 摄 图为抢险人员在田间排涝。 许家智 摄 图为抢险人员在田间排涝。 许家智 摄",
+      "summary": "中新网上海8月14日电(范宇斌)“标准乒乓球桌对小朋友来说尺寸偏大，为补齐青少年乒乓球运动普及的短板，我们萌生了‘课桌小乒乓’的设想。”上海市乒乓球协会理事、民盟上海市现代服务业委员会副主委钟立近日受访时说，在日前举办的2026上海乒乓球嘉年华总决赛期间，由民盟盟员研发的“课桌小乒乓”亮相赛场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-14/10677840.shtml",
-      "publishedAt": "2026-08-14T11:49:54.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-14/10677989.shtml",
+      "publishedAt": "2026-08-14T14:49:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677852.shtml",
-      "title": "四川立法促进家庭教育：压实家长主体责任 建立失职预警及救济制度",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-14/10677988.shtml",
+      "title": "杨丽萍2026版舞剧《十面埋伏》登陆广州大剧院",
       "category": "综合",
-      "summary": "中新网成都8月14日电 (单鹏)四川省人大常委会14日下午在成都举行专场新闻发布会，发布新制定的《四川省家庭教育促进条例》(以下简称《条例》)。《条例》将于今年9月1日起施行。",
+      "summary": "中新网广州8月14日电 (程景伟 谢丽巧)舞蹈艺术家杨丽萍2026版舞剧作品《十面埋伏》14日晚登陆广州大剧院。该舞剧描绘了项羽乌江自刎的悲壮场景，并跳出了传统历史剧的叙事套路，以人性博弈为核心主线。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677852.shtml",
-      "publishedAt": "2026-08-14T11:48:26.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677988.shtml",
+      "publishedAt": "2026-08-14T14:47:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-14/10677849.shtml",
-      "title": "2026南京林丹杯羽毛球公开赛开赛 千余选手开启巅峰对决",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677987.shtml",
+      "title": "为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
       "category": "综合",
-      "summary": "图为中国羽毛球名将林丹(右)与参赛选手代表为比赛开球。中新社记者 泱波 摄 图为参赛选手在比赛中。中新社记者 泱波 摄 图为参赛选手在比赛中。中新社记者 泱波 摄 图为参赛选手在比赛中。中新社记者 泱波 摄 图为参赛选手在比赛中。中新社记者 泱波 摄 图为参赛选手在比赛中。中新社记者 泱波 摄 图为参赛选手在比赛中。中新社记者 泱波 摄",
+      "summary": "中新网绍兴8月14日电 题：为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-14/10677849.shtml",
-      "publishedAt": "2026-08-14T11:46:26.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677987.shtml",
+      "publishedAt": "2026-08-14T14:47:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-14/10677850.shtml",
-      "title": "（文化中国行）记者手记：文物修复的“闹中取静”与“静水流深”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-14/10677986.shtml",
+      "title": "2026香港国际茶文化论坛举行 探讨中国茶产业国际化发展",
       "category": "综合",
-      "summary": "中新网河北承德8月14日电 题：记者手记：文物修复的“闹中取静”与“静水流深”",
+      "summary": "中新网香港8月14日电 (记者 刘玥晴)由香港贸易发展局和中国茶文化国际交流协会主办的香港国际茶展正在香港会议展览中心举行，其配套活动2026香港国际茶文化论坛14日举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-14/10677850.shtml",
-      "publishedAt": "2026-08-14T11:43:40.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-14/10677986.shtml",
+      "publishedAt": "2026-08-14T14:46:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677848.shtml",
-      "title": "《〈中华人民共和国生态环境法典〉施行》纪念邮票将于8月15日发行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677985.shtml",
+      "title": "《2025年南海区海洋生态保护修复公报》发布",
       "category": "综合",
-      "summary": "中新网北京8月14日电 (记者 王梦瑶)《中华人民共和国生态环境法典》将于8月15日正式施行。据中国集邮有限公司消息，中国邮政将于15日同步发行《〈中华人民共和国生态环境法典〉施行》纪念邮票一套1枚，以集邮文化为载体普及生态法治理念，纪念生态环境法典实施。",
+      "summary": "中新网北京8月14日电(记者 阮煜琳)自然资源部南海局14日正式发布《2025年南海区海洋生态预警监测公报》(以下简称《预警监测公报》)、《2025年南海区海洋生态保护修复公报》(以下简称《保护修复公报》)。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677848.shtml",
-      "publishedAt": "2026-08-14T11:43:02.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677985.shtml",
+      "publishedAt": "2026-08-14T14:37:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677837.shtml",
-      "title": "杭州口岸今年出入境客流突破300万人次 暑运通关提质增效",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677984.shtml",
+      "title": "张雪机车车手瓦伦丁·德比斯：中国年轻车手正赶上最好的时代",
       "category": "综合",
-      "summary": "中新网杭州8月14日电 (钱晨菲)2026年暑运进入高峰期，截至8月14日，杭州口岸今年出入境客流量突破300万人次。其中，入境外籍旅客超27万人次，同比增长超12%，免签入境外籍旅客超16万人次，同比增长超20%，入境外籍旅客主要来自韩国、越南、新加坡、马来西亚等地。",
+      "summary": "中新网上海8月14日电 (李秋莹 曾子琴)日前，张雪机车车手瓦伦丁·德比斯抵达上海，作为征战国际摩托赛事的现役车手，德比斯与中国的缘分始于和张雪机车的合作。本赛季他已驾驶张雪机车820RR-RS赛车在WSBK WorldSSP组别拿下6个分站冠军，也因此被越来越多中国车迷所熟知。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677837.shtml",
-      "publishedAt": "2026-08-14T11:37:24.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677984.shtml",
+      "publishedAt": "2026-08-14T14:34:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677846.shtml",
-      "title": "四川新制定涉及国家安全事项的建设项目管理条例",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677981.shtml",
+      "title": "广州“消费帮扶工惠行”累计带动特色产品销售超30亿元",
       "category": "综合",
-      "summary": "中新网成都8月14日电 (单鹏)四川省人大常委会14日下午在成都举行专场新闻发布会，发布新制定的《四川省涉及国家安全事项的建设项目管理条例》(以下简称《条例》)。",
+      "summary": "中新网广州8月14日电 (记者 张璐)西藏的清甜鲜果带着雪域高原的阳光、贵州的醇香腊肉裹着苗家烟火的温度、湛江的海鲜干货藏着南海之滨的风浪……8月14日至16日，广州塔西广场化身“山海风味集市”，“奋进‘十五五’助力‘百千万’——十城联动 千品惠购 消费帮扶工惠行”活动(简称“活动”)正式启幕。活动现场人头攒动，烟火气十足，一场集美食、购物、帮扶于一体的夏日",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677846.shtml",
-      "publishedAt": "2026-08-14T11:35:57.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677981.shtml",
+      "publishedAt": "2026-08-14T14:32:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677843.shtml",
-      "title": "山西和顺：依托牛郎织女文化IP 节庆活动撬动县域文旅经济",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-14/1201093.shtml",
+      "title": "河南郏县北汝河段民堤溃口完成封堵",
       "category": "综合",
-      "summary": "中新网晋中8月14日电 (刘小红)14日，2026年“我们的节日·七夕”和顺牛郎织女主题文化活动在山西和顺正式启动。和顺县深挖国家级非遗代表性项目牛郎织女传说文化底蕴，以系列主题活动为纽带，搭建文旅消费平台，带动县域文旅产业发展。",
+      "summary": "8月14日晚间，河南省平顶山市郏县长桥镇北汝河段民堤溃口完成封堵。抢险人员采用混凝土浇灌、开挖引流渠等多种方式封堵缺口，最终溃口成功合龙。受极端强降雨及上游水库大流量泄洪共同影响，8月12日晚间，郏县长桥镇北汝河段民堤溃口。图为夜色中抢险人员持续作业封堵溃口。(无人机照片)中新社发 许家智 摄 8月14日晚间，河南省平顶山市郏县长桥镇北汝河段民堤溃口完成封堵",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677843.shtml",
-      "publishedAt": "2026-08-14T11:34:23.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-14/1201093.shtml",
+      "publishedAt": "2026-08-14T14:28:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677842.shtml",
-      "title": "智慧赋能 广东举行高速公路应对台风“红霞”复盘演练",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677980.shtml",
+      "title": "3D造物指尖生花 皖台青年切磋职业技能",
       "category": "综合",
-      "summary": "中新网汕尾8月14日电 (记者 蔡敏婕)14级强台风正面来袭、高速公路全线管控、直升机紧急驰援、边坡突发溜塌险情、无人机协同作业……",
+      "summary": "中新社安徽六安8月14日电 (记者 张俊)2026皖台青年职工(学生)技能竞赛交流活动14日在安徽省六安市举行，来自两岸的200余名青年在叉车操作、机床加工、3D打印、创意美食、美容美甲等项目中同台竞技。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677842.shtml",
-      "publishedAt": "2026-08-14T11:33:49.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677980.shtml",
+      "publishedAt": "2026-08-14T14:23:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677844.shtml",
-      "title": "云南盈江坚果跨山海、销四洲",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
+      "title": "拉萨车站迎高位客流 多举措护航雪域天路",
       "category": "综合",
-      "summary": "中新网德宏8月14日电(陆希成 杨硕)近日，云南省德宏傣族景颇族自治州盈江县漫山的坚果林迎来丰收季。一批本地加工的澳洲坚果制品经昆明海关所属盈江海关属地查检合格后装车起运，发往中东市场。",
+      "summary": "中新网拉萨8月14日电 (旦增旺姆 格桑央金)14日，中国铁路青藏集团有限公司拉萨车站介绍，近期，进藏观光、探亲访友、学生返程等多重客流高度叠加，拉萨车站迎来持续高位客流。面对暑运高温、暴雨多发、客流高位运行的多重压力，拉萨车站采取多项举措，确保大客流期间站内秩序井然、运输平稳有序。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677844.shtml",
-      "publishedAt": "2026-08-14T11:33:17.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
+      "publishedAt": "2026-08-14T14:22:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +571,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677834.shtml",
-      "title": "南方五省区新能源实现“三高” 大湾区能源“含绿量”显著提升",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677979.shtml",
+      "title": "零时差｜侵略者家书，就是日本军国主义的自供状",
       "category": "综合",
-      "summary": "中新网广州8月14日电(王华 蓝旺)2026年南方电网能源发展论坛暨南网能源院研究成果发布会14日在广州举行。其间，南方电网公司、南网能源院共发布8份报告，当中指出，南方五省区新能源发展实现“三高”：装机增速高、利用率水平高、市场化程度高；粤港澳大湾区能源发展“含绿量”显著提升。",
+      "summary": "今年8月15日，是日本宣布无条件投降81周年。在这个理应正视历史、反省罪责的重要节点，一批尘封80余年的侵华日军“军事邮便”重回公众视野。这些经战时日军严格审查、从中国战场寄回日本本土的战地家书，不仅是侵略者亲笔写下的自供状，更是军国主义思想渗透驯化的鲜活标本。字里行间的冷血与傲慢清晰昭示：军国主义的幽灵从未真正远去，历史的警示始终振聋发聩。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677834.shtml",
-      "publishedAt": "2026-08-14T11:33:13.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677979.shtml",
+      "publishedAt": "2026-08-14T14:21:26.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142550",
+      "title": "【子午播报】2026年8月14日",
+      "category": "国际",
+      "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，当可持续发展目标冲上云霄，我们将飞向一个什么样的绿色未来？",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142550",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -977,7 +1012,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#1",
       "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
       "category": "国际",
       "summary": "台灣今年的「城鎮韌性」演習，首度模擬戰時的「斷網」情境，測試海底通訊電纜等關鍵通訊設施受損後的應變能力。對於距離台灣本島約200公里的馬祖居民來說，類似情境曾真實發生，當時「斷網」長達50天。",
@@ -1416,24 +1451,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#4",
-      "title": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
-      "category": "国际",
-      "summary": "科技公司並未以自身實踐證明這項技術能為人們帶來更多閒暇時間。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T08:37:49.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad#4",
       "title": "中國單身男性陷「閃婚」騙局：在孤獨與婚姻焦慮中受害",
       "category": "国际",
       "summary": "「閃婚」詐騙現象，反映出中國長期累積的人口結構危機已走向極端。",
@@ -1671,24 +1689,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142595",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142596",
-      "title": "天气、能源及地缘政治因素推动国际食品价格指数7月小幅上涨",
-      "category": "国际",
-      "summary": "粮农组织周五发布的最新数据显示，受近期热浪、能源价格波动及地缘政治因素影响，谷物、植物油和糖的国际报价上涨，推动2026年7月全球食品大宗商品价格基准指标小幅回升。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142596",
       "publishedAt": "2026-08-07T12:00:00.000Z",
       "tags": [
         "国际",
