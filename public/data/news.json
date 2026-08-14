@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T21:04:05.765Z",
-  "expiresAt": "2026-08-15T03:04:05.765Z",
+  "generatedAt": "2026-08-14T22:59:48.638Z",
+  "expiresAt": "2026-08-15T04:59:48.638Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,114 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678017.shtml",
+      "title": "日本防卫大臣小泉进次郎参拜靖国神社",
+      "category": "综合",
+      "summary": "当地时间15日，日本防卫大臣小泉进次郎参拜靖国神社。(总台报道员 李茜文)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678017.shtml",
+      "publishedAt": "2026-08-14T22:51:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml",
+      "title": "美国7月零售销售额环比下降0.6% 创一年来最大跌幅",
+      "category": "综合",
+      "summary": "中新社华盛顿8月14日电 (记者 沙晗汀)美国商务部当地时间14日公布数据显示，美国7月零售销售额环比下降0.6%，创一年来最大环比跌幅，低于市场普遍预期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml",
+      "publishedAt": "2026-08-14T22:50:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678015.shtml",
+      "title": "印尼弗洛勒斯岛附近海域发生7.7级地震",
+      "category": "综合",
+      "summary": "中国地震台网正式测定：8月15日5时58分在印尼弗洛勒斯岛附近海域(南纬8.40度，东经121.40度)发生7.7级地震，震源深度20千米。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678015.shtml",
+      "publishedAt": "2026-08-14T22:37:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-15/10678014.shtml",
+      "title": "斯诺克中国公开赛诞生四强 周跃龙迎战泰国黑马",
+      "category": "综合",
+      "summary": "中新社太原8月15日电 (记者 胡健)2026世界斯诺克巡回赛中国公开赛14日晚在山西太原产生四强，世锦赛冠军、英格兰选手马克·塞尔比以6:1战胜澳大利亚选手尼尔·罗伯逊，中国选手张安达以3:6不敌英格兰老将斯图亚特·宾汉姆，中国军团仅有周跃龙晋级四强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678014.shtml",
+      "publishedAt": "2026-08-14T22:33:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678013.shtml",
+      "title": "拉美首个中外共建中文本科专业在巴西阿西斯开学",
+      "category": "综合",
+      "summary": "中新社圣保罗8月14日电 (记者 林春茵)当地时间13日，作为巴西乃至拉丁美洲首个由中外高校合作举办、实行四年制培养并授予学士学位的中文本科专业，巴西圣保罗州立大学中国语言与文化本科专业在该校阿西斯校区举行开学典礼。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678013.shtml",
+      "publishedAt": "2026-08-14T22:33:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml",
+      "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+      "category": "综合",
+      "summary": "当地时间8月14日，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。此外，特朗普在谈及伊朗时表示，他“很快将宣布霍尔木兹海峡成为美国领土”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml",
+      "publishedAt": "2026-08-14T22:18:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678011.shtml",
       "title": "中国人民银行将发行江泽民诞辰100周年纪念币",
@@ -471,114 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677985.shtml",
       "publishedAt": "2026-08-14T14:37:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677984.shtml",
-      "title": "张雪机车车手瓦伦丁·德比斯：中国年轻车手正赶上最好的时代",
-      "category": "综合",
-      "summary": "中新网上海8月14日电 (李秋莹 曾子琴)日前，张雪机车车手瓦伦丁·德比斯抵达上海，作为征战国际摩托赛事的现役车手，德比斯与中国的缘分始于和张雪机车的合作。本赛季他已驾驶张雪机车820RR-RS赛车在WSBK WorldSSP组别拿下6个分站冠军，也因此被越来越多中国车迷所熟知。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677984.shtml",
-      "publishedAt": "2026-08-14T14:34:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-14/10677981.shtml",
-      "title": "广州“消费帮扶工惠行”累计带动特色产品销售超30亿元",
-      "category": "综合",
-      "summary": "中新网广州8月14日电 (记者 张璐)西藏的清甜鲜果带着雪域高原的阳光、贵州的醇香腊肉裹着苗家烟火的温度、湛江的海鲜干货藏着南海之滨的风浪……8月14日至16日，广州塔西广场化身“山海风味集市”，“奋进‘十五五’助力‘百千万’——十城联动 千品惠购 消费帮扶工惠行”活动(简称“活动”)正式启幕。活动现场人头攒动，烟火气十足，一场集美食、购物、帮扶于一体的夏日",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677981.shtml",
-      "publishedAt": "2026-08-14T14:32:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-14/1201093.shtml",
-      "title": "河南郏县北汝河段民堤溃口完成封堵",
-      "category": "综合",
-      "summary": "8月14日晚间，河南省平顶山市郏县长桥镇北汝河段民堤溃口完成封堵。抢险人员采用混凝土浇灌、开挖引流渠等多种方式封堵缺口，最终溃口成功合龙。受极端强降雨及上游水库大流量泄洪共同影响，8月12日晚间，郏县长桥镇北汝河段民堤溃口。图为夜色中抢险人员持续作业封堵溃口。(无人机照片)中新社发 许家智 摄 8月14日晚间，河南省平顶山市郏县长桥镇北汝河段民堤溃口完成封堵",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-14/1201093.shtml",
-      "publishedAt": "2026-08-14T14:28:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-14/10677980.shtml",
-      "title": "3D造物指尖生花 皖台青年切磋职业技能",
-      "category": "综合",
-      "summary": "中新社安徽六安8月14日电 (记者 张俊)2026皖台青年职工(学生)技能竞赛交流活动14日在安徽省六安市举行，来自两岸的200余名青年在叉车操作、机床加工、3D打印、创意美食、美容美甲等项目中同台竞技。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677980.shtml",
-      "publishedAt": "2026-08-14T14:23:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
-      "title": "拉萨车站迎高位客流 多举措护航雪域天路",
-      "category": "综合",
-      "summary": "中新网拉萨8月14日电 (旦增旺姆 格桑央金)14日，中国铁路青藏集团有限公司拉萨车站介绍，近期，进藏观光、探亲访友、学生返程等多重客流高度叠加，拉萨车站迎来持续高位客流。面对暑运高温、暴雨多发、客流高位运行的多重压力，拉萨车站采取多项举措，确保大客流期间站内秩序井然、运输平稳有序。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
-      "publishedAt": "2026-08-14T14:22:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-14/10677979.shtml",
-      "title": "零时差｜侵略者家书，就是日本军国主义的自供状",
-      "category": "综合",
-      "summary": "今年8月15日，是日本宣布无条件投降81周年。在这个理应正视历史、反省罪责的重要节点，一批尘封80余年的侵华日军“军事邮便”重回公众视野。这些经战时日军严格审查、从中国战场寄回日本本土的战地家书，不仅是侵略者亲笔写下的自供状，更是军国主义思想渗透驯化的鲜活标本。字里行间的冷血与傲慢清晰昭示：军国主义的幽灵从未真正远去，历史的警示始终振聋发聩。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677979.shtml",
-      "publishedAt": "2026-08-14T14:21:26.000Z",
       "tags": [
         "国内",
         "社会",
