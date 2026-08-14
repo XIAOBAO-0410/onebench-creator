@@ -5,6 +5,27 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/111709",
+      "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
+      "meta": "少数派 · 2026/8/14",
+      "url": "https://sspai.com/post/111709",
+      "publishedAt": "2026-08-14T03:44:03.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112279",
+      "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
+      "meta": "少数派 · 2026/8/14",
+      "url": "https://sspai.com/post/112279",
+      "publishedAt": "2026-08-14T02:54:21.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113434",
+      "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
+      "meta": "少数派 · 2026/8/14",
+      "url": "https://sspai.com/post/113434",
+      "publishedAt": "2026-08-14T00:52:24.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113225",
       "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
       "meta": "少数派 · 2026/8/13",
@@ -52,29 +73,8 @@
       "meta": "少数派 · 2026/8/12",
       "url": "https://sspai.com/post/113352",
       "publishedAt": "2026-08-12T07:00:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/112880",
-      "title": "我，与「唯一」的 iPhone Air",
-      "meta": "少数派 · 2026/8/12",
-      "url": "https://sspai.com/post/112880",
-      "publishedAt": "2026-08-12T03:04:34.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113343",
-      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
-      "meta": "少数派 · 2026/8/12",
-      "url": "https://sspai.com/post/113343",
-      "publishedAt": "2026-08-12T00:44:13.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113304",
-      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
-      "meta": "少数派 · 2026/8/11",
-      "url": "https://sspai.com/post/113304",
-      "publishedAt": "2026-08-11T09:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-13T22:25:40.771Z",
+  "updatedAt": "2026-08-14T05:50:14.354Z",
   "provider": "OneBench 公共资讯快照"
 }
