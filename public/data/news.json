@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T13:45:27.599Z",
-  "expiresAt": "2026-08-15T19:45:27.599Z",
+  "generatedAt": "2026-08-15T14:58:41.364Z",
+  "expiresAt": "2026-08-15T20:58:41.364Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,168 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678432.shtml",
+      "title": "莫言刷短剧拒绝“套路” 谈AI有体会",
+      "category": "综合",
+      "summary": "中新社上海8月15日电 (记者 王笈)著名作家莫言时隔6年推出的全新小说集《人呐》，用短的篇幅写出深的人心。15日下午，他在2026上海书展的新书分享会上表示，“我这81篇短小说，人物是有性格的，故事是不重复的，情节既合理又奇特；如果改编成短剧，肯定比现在的那些‘爽剧’更有文学性、更能让人思考。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678432.shtml",
+      "publishedAt": "2026-08-15T14:15:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678425.shtml",
+      "title": "日本民众游行反对政客参拜靖国神社",
+      "category": "综合",
+      "summary": "中新社东京8月15日电 (记者 朱晨曦)百余名日本民众15日冒雨在东京举行抗议游行，反对政客向供奉有二战甲级战犯的靖国神社供奉祭祀费或参拜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678425.shtml",
+      "publishedAt": "2026-08-15T14:10:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678422.shtml",
+      "title": "印尼7.7级地震已致47人死亡 3名中国游客受轻伤",
+      "category": "综合",
+      "summary": "中新社雅加达8月15日电 (记者 李志全)印度尼西亚国家抗灾署15日通报，截至当地时间18时48分，弗洛勒斯岛附近海域7.7级地震已造成47人死亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678422.shtml",
+      "publishedAt": "2026-08-15T14:09:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678429.shtml",
+      "title": "毛乌素的雨，落在世界青年的肩头",
+      "category": "综合",
+      "summary": "毛乌素，蒙古语意为“坏水”。千百年来，这片沙地以干旱、贫瘠、荒凉闻名于世。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678429.shtml",
+      "publishedAt": "2026-08-15T14:07:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678423.shtml",
+      "title": "2026海峡两岸（南昌）青年棒垒球交流活动开幕",
+      "category": "综合",
+      "summary": "中新社南昌8月15日电 (朱莹 吴思瑜)2026海峡两岸(南昌)青年棒垒球交流活动15日在江西南昌启幕，赣台两地近130名运动员参赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678423.shtml",
+      "publishedAt": "2026-08-15T14:01:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678424.shtml",
+      "title": "中国官方发布推动生态环境损害赔偿制度改革进程十大案例",
+      "category": "综合",
+      "summary": "中新社北京8月15日电 (记者 阮煜琳)今年8月15日是中国第四个全国生态日，也是《中华人民共和国生态环境法典》施行之日。当日，中国生态环境部与最高人民法院、最高人民检察院联合发布“推动生态环境损害赔偿制度改革进程的十大案例”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678424.shtml",
+      "publishedAt": "2026-08-15T14:01:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678421.shtml",
+      "title": "2026两岸青年企业家菁英论坛暨两岸青年研学交流活动在江苏昆山举办",
+      "category": "综合",
+      "summary": "中新社江苏昆山8月15日电 (记者 钟升)2026两岸青年企业家菁英论坛暨两岸青年研学交流活动15日在江苏省昆山市开幕。此次活动由两岸企业家峰会主办，主题是“青创成就梦想 AI赋能未来”，约450名两岸青年企业家代表、青年学生等参加活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678421.shtml",
+      "publishedAt": "2026-08-15T13:59:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678420.shtml",
+      "title": "调查显示：柬埔寨青年对中柬人文交流认知大幅正向提升",
+      "category": "综合",
+      "summary": "中新社金边8月15日电 (记者 杨强)《面向新时代全天候中柬命运共同体建设：2025年度柬埔寨青年对中柬人文交流认知调查报告》14日在金边发布。报告深度描绘柬埔寨青年对中柬人文交流认知现状，为深化新时代中柬命运共同体建设提供翔实的第一手数据。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678420.shtml",
+      "publishedAt": "2026-08-15T13:50:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678419.shtml",
+      "title": "韩国朝野抨击日本政要参拜靖国神社",
+      "category": "综合",
+      "summary": "中新社首尔8月15日电 (记者 金旭)8月15日是韩国的光复节，纪念朝鲜半岛从日本殖民统治下获得解放。韩国政府及朝野政党15日抨击日本政要当天向靖国神社供奉祭品及参拜之举，敦促日本领导人正视历史、真诚反省。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678419.shtml",
+      "publishedAt": "2026-08-15T13:49:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-15/10678415.shtml",
       "title": "台气象部门：台湾东部海域发生5.2级地震",
       "category": "综合",
@@ -40,6 +202,24 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678415.shtml",
       "publishedAt": "2026-08-15T13:39:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-15/news1065537.shtml",
+      "title": "【活力中国调研行】张家界“文化名片”发力 欧美游客大涨",
+      "category": "综合",
+      "summary": "近日，中新社记者跟随“活力中国调研行”主题采访活动走进湖南张家界，随处可见境外旅行团和自由行的游客。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-15/news1065537.shtml",
+      "publishedAt": "2026-08-15T13:38:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -130,6 +310,24 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678410.shtml",
       "publishedAt": "2026-08-15T13:34:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/gj/shipin/cns-d/2026/08-15/news1065536.shtml",
+      "title": "日本民众冒雨游行 抗议右翼政客“拜鬼”",
+      "category": "综合",
+      "summary": "当地时间8月15日，日本首相高市早苗向靖国神社供奉“玉串料”(祭祀费)，并在出席“全国战殁者追悼仪式”前，遥拜靖国神社。当日，日本民众在东京淡路公园附近举行抗议游行，高喊“靖国神社是侵略战争的象征”“不要赞美战争的神社”等口号，反对日本政要向靖国神社供奉祭祀费或参拜。(朱晨曦 制作 王雪茵)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/gj/shipin/cns-d/2026/08-15/news1065536.shtml",
+      "publishedAt": "2026-08-15T13:31:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -364,204 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678377.shtml",
       "publishedAt": "2026-08-15T12:57:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-15/10678390.shtml",
-      "title": "2026海峡两岸（南昌）青年棒垒球交流活动开幕 以赛为媒建立友谊",
-      "category": "综合",
-      "summary": "中新网南昌8月15日电 (朱莹 吴思瑜)挥棒、跑垒、投球……15日，“同‘棒’青春梦·共筑赣台情”2026海峡两岸(南昌)青年棒垒球交流活动在江西南昌启幕，赣台两地近130名运动员以赛为媒，在竞技中增进了解、建立友谊。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678390.shtml",
-      "publishedAt": "2026-08-15T12:54:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-15/10678388.shtml",
-      "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-      "category": "综合",
-      "summary": "当地时间8月15日，伊朗外交部发言人巴加埃表示，尽管美国从中阻挠，伊朗和阿曼之间的会谈仍在积极推进，双方已就霍尔木兹海峡航道通行方案达成协议。(总台记者 王政)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678388.shtml",
-      "publishedAt": "2026-08-15T12:52:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-15/10678387.shtml",
-      "title": "全景式记录长江流域重大工程与文明演进互动 《大江润国》新书首发",
-      "category": "综合",
-      "summary": "中新网北京8月15日电 (记者 孙自法)记者8月15日从科学出版社获悉，作为一部着眼于长江流域重大工程与文明演进互动的全景式记录，由该出版社出版的《大江润国》新书当天在上海书展首发。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-15/10678387.shtml",
-      "publishedAt": "2026-08-15T12:50:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065527.shtml",
-      "title": "现场视频！河南贾鲁河溃口成功合龙 救援人员挥舞旗帜庆祝",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-15/news1065527.shtml",
-      "publishedAt": "2026-08-15T12:48:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678381.shtml",
-      "title": "南海开渔在即 广东闸坡渔港千帆待发",
-      "category": "综合",
-      "summary": "8月15日，南海开渔前夕，渔船有序停靠在广东阳江闸坡国家级中心渔港内。2026年南海伏季休渔期将于8月16日正式结束，届时闸坡国家级中心渔港内的渔船将奔赴远洋，开启耕海牧渔的生活。（无人机照片）中新社记者 陈骥旻 摄 8月15日，南海开渔前夕，广东阳江闸坡国家级中心渔港内，船员搬运生活物资乘船前往渔船。2026年南海伏季休渔期将于8月16日正式结束，届时闸坡",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678381.shtml",
-      "publishedAt": "2026-08-15T12:46:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678385.shtml",
-      "title": "从理论到实践 传统药香制作技艺传承面向大众开班授课",
-      "category": "综合",
-      "summary": "中新网北京8月15日电 (记者 应妮)在北京大观园蘅芜苑内，一缕源自古籍与自然的草木清香正悠然弥散，串联起古典文学、非遗技艺与现代生活。位于这里的红楼药香体验馆，以《红楼梦》“蘅芷清芬”香草意境为底色，是一处专门传播国家级非物质文化遗产传统香制作技艺(药香制作技艺)的特色空间。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678385.shtml",
-      "publishedAt": "2026-08-15T12:46:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678384.shtml",
-      "title": "云南百岁老兵忆峥嵘 一堂特殊党课赓续抗战精神",
-      "category": "综合",
-      "summary": "中新网昆明8月15日电 (罗婕 黄兴鸿)“我一直忘不了81年前的今天，昆明市锣鼓鞭炮声震天，全民庆祝抗战胜利。”15日，云南百岁抗战老兵杨毓骧现身一堂特殊的主题党课，回望峥嵘岁月。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678384.shtml",
-      "publishedAt": "2026-08-15T12:45:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-15/10678383.shtml",
-      "title": "9国青年相聚塞上 2026宁夏国际青年友谊营银川启幕",
-      "category": "综合",
-      "summary": "8月15日，以“青春汇丝路·携手向未来”为主题的2026宁夏国际青年友谊营在银川正式开营。来自加拿大、中国、格鲁吉亚、印度尼西亚、日本、吉尔吉斯斯坦、马来西亚、韩国、斯里兰卡等9个国家13个地区的青年代表齐聚宁夏，开启跨文化交流之旅。图为国际青年友谊营的青年代表正在制作面塑。中新社记者 于晶 摄 8月15日，以“青春汇丝路·携手向未来”为主题的2026宁夏国",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-15/10678383.shtml",
-      "publishedAt": "2026-08-15T12:45:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-15/10678382.shtml",
-      "title": "福建沙县：两百萌童开笔破蒙，古街飘起“文化宴”",
-      "category": "综合",
-      "summary": "中新网福建沙县8月15日电 (吴伟 张凌欣)起立正衣冠、行拜师礼，开笔破蒙写“人”字，齐声诵读《三字经》……8月15日，七夕传统节日前夕，一场以“传承文脉启迪未来”为主题的七夕蒙学亲子嘉年华，在福建省三明市沙县区拉开帷幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-15/10678382.shtml",
-      "publishedAt": "2026-08-15T12:44:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678365.shtml",
-      "title": "“俄罗斯制造”节庆集市首登天津 主打“达恰”田园风情",
-      "category": "综合",
-      "summary": "中新网天津8月15日电 (记者 周亚强)由俄罗斯出口中心主办的“俄罗斯制造”节庆集市15日在天津和平路金街开幕，为期5天。这是该系列活动首次在天津举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678365.shtml",
-      "publishedAt": "2026-08-15T12:42:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-15/10678375.shtml",
-      "title": "中消协提出50条行动建议 引导绿色消费行为",
-      "category": "综合",
-      "summary": "中新网北京8月15日电 (记者 刘亮)中国消费者协会15日在北京发布《中国消费者绿色消费指南(2026版)》(以下简称《指南》)。中消协、生态环境部宣传教育中心、中国社会科学院社会学研究所相关人围绕《指南》编制背景、核心内容、发布意义进行了介绍，引导广大消费者践行绿色低碳理念。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-15/10678375.shtml",
-      "publishedAt": "2026-08-15T12:42:06.000Z",
       "tags": [
         "国内",
         "社会",
