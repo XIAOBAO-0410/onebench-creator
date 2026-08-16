@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T10:59:00.168Z",
-  "expiresAt": "2026-08-16T16:59:00.168Z",
+  "generatedAt": "2026-08-16T13:48:00.570Z",
+  "expiresAt": "2026-08-16T19:48:00.570Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,546 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-16/10678788.shtml",
+      "title": "新起点、新机遇、新突破——澳门各界期盼“三五”规划开创高质量发展新局面",
+      "category": "综合",
+      "summary": "新华社澳门8月16日电 题：新起点、新机遇、新突破——澳门各界期盼“三五”规划开创高质量发展新局面",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678788.shtml",
+      "publishedAt": "2026-08-16T13:11:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
+      "title": "我的新疆日记·第五天|北庭与天山，在遗址与群山之间",
+      "category": "综合",
+      "summary": "这几天，我随人民网2026“行进中国”调研行前往新疆维吾尔自治区采访，以日记的形式，记录一路的所见所闻、所思所感。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
+      "publishedAt": "2026-08-16T13:10:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678786.shtml",
+      "title": "日政要参拜靖国神社遭国际社会强烈反对",
+      "category": "综合",
+      "summary": "新华社北京8月16日电 综合新华社驻外记者报道：在日本宣布无条件投降81周年之际，日本首相高市早苗15日以“自民党总裁”身份，向供奉有二战甲级战犯的靖国神社供奉“玉串料”（祭祀费），并在出席日本政府举办的“全国战殁者追悼仪式”前从会场停车场朝靖国神社所在方向“遥拜”。此外，日本防卫大臣小泉进次郎等多名政客分别前往靖国神社参拜，这是日本连续第7年有现任阁僚在这",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678786.shtml",
+      "publishedAt": "2026-08-16T13:09:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678784.shtml",
+      "title": "多家日媒：高市政权回避历史反省 要警惕其“回归战前”倾向",
+      "category": "综合",
+      "summary": "日本多家媒体16日发表社论，批评高市早苗政权在日本宣布无条件投降81周年之际回避历史反省、淡化战争责任，并对日本政坛和安全政策日益显现的“回归战前”倾向表示警惕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678784.shtml",
+      "publishedAt": "2026-08-16T13:07:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678783.shtml",
+      "title": "一店卖全球，跨境电商推动中国制造加速出海",
+      "category": "综合",
+      "summary": "3年时间，年销售额从400多万美元增长到6000多万美元，海外市场从北美拓展到欧洲和日本——这是鑫帕特娜丝（青岛）家居饰品有限公司通过单家跨境电商平台出海交出的成绩单。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678783.shtml",
+      "publishedAt": "2026-08-16T13:07:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-16/news1065605.shtml",
+      "title": "司机隧道口停车盖雨布 民警声嘶力竭劝离",
+      "category": "综合",
+      "summary": "近日，在#8204;沪武高速罗田段凤凰关隧道出口#8204;处，一辆大货车违规停在行车道内，司机爬上车顶试图覆盖雨布以防货物淋湿。湖北高速交警通过视频巡查发现后迅速赶到现场，因情况危急，民警#8204;声嘶力竭地喊话劝离#8204;，要求司机立即驶离。司机起初辩称“只需要一分钟”，未意识到在隧道口停车的巨大安全隐患，最终在民警反复严厉劝导下驾车离开。#820",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-16/news1065605.shtml",
+      "publishedAt": "2026-08-16T13:07:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678781.shtml",
+      "title": "国际锐评丨中国为什么值得“反复探索”？",
+      "category": "综合",
+      "summary": "“这是一个令人惊叹的国家。”英国游客乌尔维最近开启第三次中国之旅，去了西安、拉萨等地，计划明年重走丝绸之路。荷兰游客巴哈原计划来华旅行几周，结果待了半年；西班牙游客佩雷斯一家回国后意犹未尽，又开启了“二刷”。而美国特斯拉公司首席执行官马斯克日前在社交平台上点赞中国并“强烈推荐大家去看看”，更是点燃外国游客对中国的热情。他们纷纷感叹，“中国值得反复探索，一次根",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678781.shtml",
+      "publishedAt": "2026-08-16T13:05:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/yl/shipin/cns-d/2026/08-16/news1065604.shtml",
+      "title": "《给阿嬷的情书》台湾首映掀观影热 区桂芝：片名中的“阿嬷”足以触动观众",
+      "category": "综合",
+      "summary": "8月15日、16日，电影《给阿嬷的情书》以“特别放映”单元亮相2026桃园电影节，系在台湾首映。15日下午放映前，等待入场的观众已排起长龙；观影结束，不少观众红着眼眶走出影厅。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/yl/shipin/cns-d/2026/08-16/news1065604.shtml",
+      "publishedAt": "2026-08-16T13:04:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678773.shtml",
+      "title": "（活力中国调研行）湖南湘西“挤满”外国人",
+      "category": "综合",
+      "summary": "中新社湖南湘西8月16日电 题：湖南湘西“挤满”外国人",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678773.shtml",
+      "publishedAt": "2026-08-16T13:04:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678779.shtml",
+      "title": "山水间的清凉，海河边的美景——老外感叹津门魅力",
+      "category": "综合",
+      "summary": "新华社天津8月16日电（记者白佳丽、马博文、包庆龄）最近，“China Cool”（中国又酷又凉）成为外国游客的热门选择。位于渤海湾畔的滨海城市天津，正以丰富生态资源、多元文化场景和不断升级的入境服务，吸引着越来越多的外国游客在火热余暑中体验其独特魅力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678779.shtml",
+      "publishedAt": "2026-08-16T13:03:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-16/10678776.shtml",
+      "title": "共创1000个AI场景 上海交大成立AI时代商科人才培养联盟",
+      "category": "综合",
+      "summary": "中新网上海8月16日电 (记者 许婧)在16日举办的上海交大AI时代产业创新管理论坛暨交大安泰MBA“智能时代五链人才”培养体系发布会上，上海交大宣布联合上海市人工智能协会、上海市人工智能研究院、上海交通大学安泰经济与管理学院和上海交通大学人工智能学院共同发起成立AI时代商科人才培养联盟，并启动交大安泰百业千企10×100 AI场景共创计划。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-16/10678776.shtml",
+      "publishedAt": "2026-08-16T13:03:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678775.shtml",
+      "title": "北斗时空安全产业平台落地长沙 共建共享推动特色产业集群建设",
+      "category": "综合",
+      "summary": "中新网长沙8月16日电(宋倩)北斗时空安全试验基地共建启动暨产业平台建设发布会16日在长沙举行，相关专家学者、企业代表等300余人齐聚，聚焦时空安全产业，共探共建共享产业生态。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678775.shtml",
+      "publishedAt": "2026-08-16T13:02:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678771.shtml",
+      "title": "西藏青藏高原作物种质资源中期库保存青稞资源10000余份",
+      "category": "综合",
+      "summary": "中新网拉萨8月16日电 (记者 赵朗)记者16日从青稞产业科技成果观摩研讨会上获悉，西藏青藏高原作物种质资源中期库，保存青稞资源10000余份。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678771.shtml",
+      "publishedAt": "2026-08-16T13:02:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678777.shtml",
+      "title": "好评中国丨2291万入境客的账单：老外们的“Chinamaxxing”都max了些啥？",
+      "category": "综合",
+      "summary": "2026年，“China Travel”从社交平台的热词变成海关入境章上的真实数据。上半年2291.4万人次外国人入境，同比增长20.4%，免签入境占比高达77.7%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678777.shtml",
+      "publishedAt": "2026-08-16T13:01:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-16/10678772.shtml",
+      "title": "巴西里约州举行“中国友好日”庆祝活动",
+      "category": "综合",
+      "summary": "中新网里约热内卢8月16日电 (记者 林春茵)品潮汕佳肴，叙中巴友谊。巴西里约热内卢日前举行庆祝“中国友好日”活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-16/10678772.shtml",
+      "publishedAt": "2026-08-16T13:01:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678759.shtml",
+      "title": "学者：AI革命的下半场将是技术对个人赋能",
+      "category": "综合",
+      "summary": "中新网上海8月16日电 (记者 陈静)15日正在举行的2026上海书展上，《微弱烛光：PA时代与人类沉浮》新书发布会举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678759.shtml",
+      "publishedAt": "2026-08-16T13:00:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678778.shtml",
+      "title": "【好评中国】东湖评论丨防灾前置，方能从容应对",
+      "category": "综合",
+      "summary": "8月16日出版的第16期《求是》杂志发表习近平总书记的重要文章《提高防灾减灾救灾能力》。文章指出，要提升大灾巨灾应对处置能力。树牢底线思维、极限思维，深入研判大灾巨灾风险，不断完善应急预案，把困难和挑战估计得更充分一些，把工作举措考虑得更周全一些。近期，受极端天气影响，陕西、甘肃、四川、黑龙江、湖北、河南等省份部分地区遭遇强降雨，多地发生洪涝灾害，江河水位急",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678778.shtml",
+      "publishedAt": "2026-08-16T13:00:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678774.shtml",
+      "title": "【好评中国】秦平 | 解码外资看好中国的多重“硬核”底气",
+      "category": "综合",
+      "summary": "近期，外资在中国高端制造领域投资动作频频，一批重大项目接连落地、开工或投产，主要集中于汽车核心零部件再制造、动力电池、化工新材料及半导体等高新技术产业领域。受访专家认为，外资加码中国高端制造的背后，是中国产业升级红利与全球供应链重构的双重驱动，跨国公司正以实际行动为“投资中国”投下信任票。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678774.shtml",
+      "publishedAt": "2026-08-16T12:59:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678762.shtml",
+      "title": "印尼强震已致53人死亡 5000余人疏散避难",
+      "category": "综合",
+      "summary": "中新社雅加达8月16日电 (记者 李志全)印度尼西亚国家抗灾署16日通报，弗洛勒斯岛附近海域7.7级地震已造成53人死亡、135人受伤。目前，救援人员仍在继续搜寻幸存者。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678762.shtml",
+      "publishedAt": "2026-08-16T12:57:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678770.shtml",
+      "title": "伊朗称美军已被驱逐 不得进入霍尔木兹海峡",
+      "category": "综合",
+      "summary": "当地时间16日，伊朗陆军总司令阿米尔·哈塔米表示，美军已被驱逐，不再获准进入波斯湾、阿曼湾及霍尔木兹海峡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678770.shtml",
+      "publishedAt": "2026-08-16T12:52:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678769.shtml",
+      "title": "长江十年行|“工业岸线”变身“生态画廊” 十里江湾见证长江芜湖段绿色重生",
+      "category": "综合",
+      "summary": "大皖新闻讯 一江碧水东流，两岸绿意铺展。十里江湾人民公园，是长江芜湖段生态修复、绿色转型的标杆工程。曾经，这里码头林立、厂房密布、尘土喧嚣，是粗放发展的沿江工业岸线；如今，这里水清岸绿、风光旖旎、游人如织，成为精致开放的城市生态会客厅。十里江湾的沧桑蝶变，是芜湖市深入践行长江大保护战略，推动长江岸线从“生产功能”向“生态功能、民生功能、文旅功能”迭代升级的生",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678769.shtml",
+      "publishedAt": "2026-08-16T12:51:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678755.shtml",
+      "title": "广西三江农民画家丹青布上绘侗乡",
+      "category": "综合",
+      "summary": "图为农民画家在进行创作。龚普康 摄 图为农民画家在进行创作。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为农民画家在进行创作。龚普康 摄 图为农民画家在进行创作。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄 图为画作局部。龚普康 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678755.shtml",
+      "publishedAt": "2026-08-16T12:50:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678767.shtml",
+      "title": "青藏高原上的“生命接力”：一家两代人与马鹿的半世纪之约",
+      "category": "综合",
+      "summary": "青藏高原，世界海拔最高的高原，长江与众多河流的发源地。在这片严酷而壮美的江源之地，人与动物之间的动人故事，在这片天地间悄然生长。在西藏类乌齐县的长毛岭马鹿自然保护区，一场跨越半个世纪的生命守护接力，仍在继续。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678767.shtml",
+      "publishedAt": "2026-08-16T12:48:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678765.shtml",
+      "title": "活力中国调研行丨从造梦到造物！博士生用新材料造出消防“铠甲”",
+      "category": "综合",
+      "summary": "今天的《活力中国调研行》，一起走进安徽一个特殊的实验室。这是全国乃至全球首个以人工智能全链条驱动的科研创新实验室。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678765.shtml",
+      "publishedAt": "2026-08-16T12:46:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-16/10678756.shtml",
+      "title": "U18男篮亚洲杯：中国队击败卡塔尔队获两连胜",
+      "category": "综合",
+      "summary": "中新社北京8月16日电 北京时间16日，2026年国际篮联U18男篮亚洲杯C组第二轮比赛在印度艾哈迈达巴德进行，中国U18男篮延续出色状态，以118:66大胜卡塔尔队，收获两连胜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-16/10678756.shtml",
+      "publishedAt": "2026-08-16T12:46:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678764.shtml",
+      "title": "“没多想就跳下去了” 辅警和外卖员暴雨中救出四人",
+      "category": "综合",
+      "summary": "在浙江湖州长兴县，8月13日的暴雨导致城区部分低洼路段出现严重积水。在一处铁路涵洞内，一辆途经此处的小轿车被淹，车内人员被困，紧急时刻，众人合力展开施救。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678764.shtml",
+      "publishedAt": "2026-08-16T12:44:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
+      "title": "特稿｜开放发展、可靠担当、魅力十足——国际人士眼里的中国",
+      "category": "综合",
+      "summary": "新华社北京8月16日电 特稿｜开放发展、可靠担当、魅力十足——国际人士眼里的中国",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
+      "publishedAt": "2026-08-16T12:42:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678761.shtml",
+      "title": "不断攀升！多组数据透视中国出口含“新”量含“绿”量",
+      "category": "综合",
+      "summary": "海关总署数据显示，7月份，全国货物贸易进出口总值4.66万亿元，其中，高技术产品出口增长超五成。面对全球数字化、绿色化发展趋势，中国人工智能、绿色低碳等产业出口动力强劲，出口含“新”量含“绿”量不断攀升。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678761.shtml",
+      "publishedAt": "2026-08-16T12:41:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678760.shtml",
+      "title": "中国银幕数量世界第一 “龙餐馆”“奥德赛”特效厅一票难求",
+      "category": "综合",
+      "summary": "这个暑期，电影市场持续火热。截至目前，2026年度电影票房已突破255亿元，暑期档连续37天单日票房过亿；今年暑期档票房(含预售)已突破98亿元，观影人次超2.6亿。市场热度的背后，既有优质内容点燃的观影热潮，也离不开影院持续升级影厅、丰富观影体验的助力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678760.shtml",
+      "publishedAt": "2026-08-16T12:40:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678757.shtml",
+      "title": "立秋已到，各地气温到底有哪些变化？一文了解→",
+      "category": "综合",
+      "summary": "央视网消息：当前已进入立秋节气，北方干冷空气日渐活跃，人们能明显察觉到风吹时体感的变化，尤其是早晚时段，盛夏湿热蒸腾的暑气缓缓收敛。但不少华南地区的公众觉得立秋后反而更热了。各地气温到底有哪些变化？我们来了解一下。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678757.shtml",
+      "publishedAt": "2026-08-16T12:38:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#0",
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
       "category": "国际",
@@ -45,546 +585,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-16/10678695.shtml",
-      "title": "直播：行走美丽画卷｜俄罗斯女孩闯入南京“画中仙山”：曾经的矿坑逆袭成零碳景区",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-16/10678695.shtml",
-      "publishedAt": "2026-08-16T10:39:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678692.shtml",
-      "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
-      "category": "综合",
-      "summary": "中新网8月16日电 据“中国水利”微信公众号消息，水利部和中国气象局8月16日18时联合发布橙色山洪灾害气象预警：预计，8月16日20时至8月17日20时，广东东南部、四川中部、甘肃中部等地部分地区发生山洪灾害可能性较大(黄色预警)，其中，四川中部局地发生山洪灾害可能性大(橙色预警)，预警区域涉及的县(市、区)见下表。其他地区也可能因局地短历时强降水引发山洪",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678692.shtml",
-      "publishedAt": "2026-08-16T10:35:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678694.shtml",
-      "title": "特朗普再促参议院通过全年采用夏令时法案",
-      "category": "综合",
-      "summary": "美国总统特朗普15日在社交媒体再度发文，敦促国会参议院尽快表决通过全年采用夏令时的相关法案。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678694.shtml",
-      "publishedAt": "2026-08-16T10:35:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201261.shtml",
-      "title": "第二届世界人形机器人运动会场景赛开赛",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201261.shtml",
-      "publishedAt": "2026-08-16T10:26:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678690.shtml",
-      "title": "南方大范围“隐形高温” 在线 未来或有新台风酝酿",
-      "category": "综合",
-      "summary": "今后三天，我国的强降雨较为分散，影响系统相对复杂。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678690.shtml",
-      "publishedAt": "2026-08-16T10:18:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-16/10678686.shtml",
-      "title": "专家：胆管癌治疗迈入“全病程靶向管理”新阶段",
-      "category": "综合",
-      "summary": "中新网北京8月16日电(记者 赵方园)胆管癌素有“癌王”之称，恶性程度高、早期诊断难度大。超过60%的患者确诊时已处于晚期，晚期患者5年生存率不足10%。我国是世界上胆道癌发病率较高的国家之一，年新发患者约5.28万人。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678686.shtml",
-      "publishedAt": "2026-08-16T10:15:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678689.shtml",
-      "title": "韩军向越过东部军事分界线朝鲜军人鸣枪警告",
-      "category": "综合",
-      "summary": "当地时间16日，韩国政府人士消息称，数名朝鲜军人日前越过东部地区军事分界线，韩军随后鸣枪警告。据称，这是今年以来韩军首次因朝军越界实施警告射击。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678689.shtml",
-      "publishedAt": "2026-08-16T10:09:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678657.shtml",
-      "title": "驰骋林海花海 四千跑者奔赴湖北巴东22℃清凉",
-      "category": "综合",
-      "summary": "图为巴东野三关森林花海赛道迎来马拉松赛事，体育与文旅风光相融。周星亮 摄 图为缤纷花海铺展赛道两旁，跑者徜徉于如画的高山田园赛道。周星亮 摄 图为赛道两侧百花盛放，选手在缤纷花海之间畅快奔跑。周星亮 摄 图为跑者奔跑在林海环绕的彩色赛道，一边竞速一边欣赏高山风光。陈涛 摄 图为跑者齐聚巴东野三关，在森氧赛道上奋力向前冲刺。陈涛 摄 图为跑者途经层层花田赛道，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678657.shtml",
-      "publishedAt": "2026-08-16T10:04:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678688.shtml",
-      "title": "四川局地有大暴雨 这些地方需注意防范",
-      "category": "综合",
-      "summary": "今天下午，四川省气象台发布暴雨蓝色预警，四川省自然资源厅、四川省气象局联合发布地质灾害黄色预警。成都市暴雨、地灾、山洪三预警齐发。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678688.shtml",
-      "publishedAt": "2026-08-16T10:01:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678655.shtml",
-      "title": "（长征胜利90周年）走进中央红军长征集结出发地江西于都",
-      "category": "综合",
-      "summary": "图为8月13日，航拍于都河畔的东门渡口旧址，该渡口被誉为 “长征第一渡”。1934年10月，中央红军在于都集结，在八大主要渡口实施渡河，其中包括东门渡口在内的5个渡口架设浮桥。(无人机照片)刘力鑫 摄 图为8月13日，民众来到中央红军长征出发纪念馆参观。中央红军长征出发纪念馆是全国唯一展示中央红军长征出发历史的专题纪念馆，展馆以中央红军长征集结、战略转移为主",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678655.shtml",
-      "publishedAt": "2026-08-16T10:00:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678687.shtml",
-      "title": "活力中国调研行丨夜间文旅消费超4800亿元 湖南古镇这样留住游客的夜晚",
-      "category": "综合",
-      "summary": "眼下正值旅游旺季，湖南多地古城古镇夜间客流涌动，热闹非凡。而几年前，这些地方还曾白天游人匆匆、入夜便归于沉寂。近年来，湖南各地立足湖湘文化、历史和非遗资源，摒弃短期流量思维，推动旅游从过路式打卡转向沉浸式文化体验与过夜深度消费，为全省文旅高质量发展注入新动能。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678687.shtml",
-      "publishedAt": "2026-08-16T09:59:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-16/news1065588.shtml",
-      "title": "太壮观了！中新社记者现场直击：南海伏季休渔结束 广东阳江3000多艘渔船驶向深蓝",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-16/news1065588.shtml",
-      "publishedAt": "2026-08-16T09:58:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678682.shtml",
-      "title": "印尼7.7级地震已造成53人死亡",
-      "category": "综合",
-      "summary": "印尼国家抗灾署官员阿卜杜勒·穆哈里16日下午表示，截至目前，印尼7.7级地震已造成53人死亡。自地震发生以来，当地已记录到995次余震。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678682.shtml",
-      "publishedAt": "2026-08-16T09:49:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-16/news1065583.shtml",
-      "title": "有“眼力见儿”的机器人惊艳老外：水平非常高！",
-      "category": "综合",
-      "summary": "从能陪你聊天的小家伙，到眼里有活的“智能管家”，机器人正褪去科幻电影里的冰冷外壳，变成我们身边真实的伙伴。未来，或许不再是“一款机器人走进家庭”，而是家中每一台设备都具备机器人的智慧——它们协同劳作、自主感知，在时间与空间上默契配合。意大利游客法比亚在Robot Mall机器人4S店参观后表示，中国的机器人技术水平非常高，来自德国的游客奥斯卡也发出同样的感叹",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-16/news1065583.shtml",
-      "publishedAt": "2026-08-16T09:43:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678666.shtml",
-      "title": "清远连南“七月七”开唱节举行 水上捉鸭长桌宴醉游人",
-      "category": "综合",
-      "summary": "中新网清远8月16日电 (张璐 余冰冰 莫莉娜)“3、2、1——开始”随着主持人宣布，赤着脚的游客们飞奔踏入河中扑向鸭子，现场水花四溅，笑声四起。“瑶山开唱庆丰年，欢歌七夕传情意”——2026连南瑶族自治县“七月七”开唱节(简称“活动”)15日在清远市连南瑶族自治县大麦山镇新寨村举行，撑木排、捉鸭子、看表演、品美食、戏水狂欢、瑶族长桌宴、篝火晚会，为游客一键",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678666.shtml",
-      "publishedAt": "2026-08-16T09:38:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678671.shtml",
-      "title": "科技工程双赋能 四川守护江河汛期安澜",
-      "category": "综合",
-      "summary": "中新网成都8月16日电 (记者 何浠)当前，四川进入“七下八上”防汛关键期，汛期旱涝并重、急转特征明显，短时强降雨、极端局地天气频发，四川省防汛减灾形势严峻。近日，记者走进达州、广元等川东北防汛一线，实地调研区域防汛减灾、重大水利工程建设及智慧防汛落地成效，全景展现四川统筹安全与发展、全方位筑牢流域水安全屏障的务实举措。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678671.shtml",
-      "publishedAt": "2026-08-16T09:38:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678670.shtml",
-      "title": "广西北海农民深耕设施蔬果种植 带动乡邻共富",
-      "category": "综合",
-      "summary": "中新网北海8月16日电(陈文宝)初秋时节，广西北海市赤西村委塘儿村，赖强初的蔬果家庭农场里生机勃勃，连片的百香果基地绿意翻涌，青绿的果实挂于枝头，农户们头戴斗笠往来田垄，抬手打理枝叶、疏剪藤蔓。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678670.shtml",
-      "publishedAt": "2026-08-16T09:36:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-16/10678668.shtml",
-      "title": "贵州与马来西亚友好学校结对共建",
-      "category": "综合",
-      "summary": "中新网贵阳8月16日电 (记者 张伟 杨茜)2026贵州—马来西亚友好学校结对共建暨交流活动16日在贵阳市第三中学举行，17所贵州学校与17所马来西亚学校签约结对。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-16/10678668.shtml",
-      "publishedAt": "2026-08-16T09:36:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678667.shtml",
-      "title": "第九届国际少儿环保公益绘画大赛在北京颁奖",
-      "category": "综合",
-      "summary": "中新网北京8月16日电 (记者 黄欣欣)恰逢第四个全国生态日、《中华人民共和国生态环境法典》正式施行，第九届“童绘气候未来”国际少儿环保公益绘画大赛颁奖活动15日在北京未来剧院举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678667.shtml",
-      "publishedAt": "2026-08-16T09:36:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678665.shtml",
-      "title": "广东湛江开渔季签约超50亿元激活蓝色经济",
-      "category": "综合",
-      "summary": "中新网湛江8月16日电 (梁盛 谢剑锋)16日12时，南海伏季休渔期正式结束，广东湛江湾汽笛齐鸣，万千渔船列队驶向深海。当天，2026年湛江开渔季启动仪式暨“湛品”展示活动同步举行，产业合作成果丰硕，线下达成签约总额50.5亿元，覆盖保险保障、银行授信、产销对接、冷链物流等海洋渔业全产业链。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678665.shtml",
-      "publishedAt": "2026-08-16T09:32:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678664.shtml",
-      "title": "开渔首日广东潮州百舸争流 潮州海事部门护航保障安全",
-      "category": "综合",
-      "summary": "中新网潮州8月16日电 (记者 陈楚红 通讯员 陈嘉俊)8月16日12时，南海伏季休渔期正式结束。伴随着阵阵礼炮轰鸣，广东潮州近百艘渔船扬帆出海，奔赴南海海域开启新一轮耕海牧渔作业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678664.shtml",
-      "publishedAt": "2026-08-16T09:32:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678663.shtml",
-      "title": "云南昭通早熟苹果抢“鲜”上市 高原果乡蹚出“红火”新路",
-      "category": "综合",
-      "summary": "中新网云南昭通8月16日电 (时文枝)“家人们，昭通早熟糖心苹果熟了，又甜又脆又多汁！产地直发，快来选购！”16日，在云南省昭通市昭阳区洒渔镇的苹果种植基地，主播范强正对着手机镜头热情推介早熟苹果“瑞雪”。随着新一年苹果丰收季的到来，这位助农主播的直播间再度升温，订单纷至沓来。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678663.shtml",
-      "publishedAt": "2026-08-16T09:31:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-16/10678662.shtml",
-      "title": "履迹滇中阅古今万象 以文为桥联结海外华教同心",
-      "category": "综合",
-      "summary": "中新网云南楚雄8月16日电 题：履迹滇中阅古今万象 以文为桥联结海外华教同心",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-16/10678662.shtml",
-      "publishedAt": "2026-08-16T09:31:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201253.shtml",
-      "title": "南海开渔令响 广东闸坡渔港千帆启航耕海牧渔",
-      "category": "综合",
-      "summary": "8月16日，随着开渔令发布，渔船驶离广东阳江闸坡国家级中心渔港。当日，南海伏季休渔期正式结束，停靠在闸坡国家级中心渔港内的渔船拔锚启航，陆续奔赴远洋，开启新一轮耕海牧渔的生活。中新社记者 陈骥旻 摄 8月16日，南海伏季休渔期正式结束，停靠在广东阳江闸坡国家级中心渔港内的渔船拔锚启航，陆续奔赴远洋，开启新一轮耕海牧渔的生活。图为整装待发的渔船。中新社记者 陈",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-16/1201253.shtml",
-      "publishedAt": "2026-08-16T09:31:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678661.shtml",
-      "title": "千帆争“鲜” 广东湛江开渔盛宴启幕",
-      "category": "综合",
-      "summary": "中新网湛江8月16日电 (梁盛 谢晓琳 许曼)南海伏季休渔16日12时结束，广东湛江大批渔船汽笛齐鸣，千帆竞发，浩浩荡荡驶向渔场。当日，湛江海事部门派出多艘海巡船艇，启动无人机空中巡查，实施分级分时管控，全力为这场年度“寻鲜”保驾护航。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678661.shtml",
-      "publishedAt": "2026-08-16T09:30:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678660.shtml",
-      "title": "南海开渔，海南约2.7万艘渔船陆续出海",
-      "category": "综合",
-      "summary": "中新网海南琼海8月16日电 (记者 王晓斌 李宇凡)历经三个半月伏季休渔，南海海域于8月16日12时正式全面开渔。海南约2.7万艘渔船陆续出海，开启新一轮生产作业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678660.shtml",
-      "publishedAt": "2026-08-16T09:29:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678659.shtml",
-      "title": "福建连江开渔：千帆竞发“耕海”忙",
-      "category": "综合",
-      "summary": "中新网福州8月16日电 (叶秋云)历时三个半月的伏季休渔于16日正式结束，福州海域全面开渔。在福州连江县黄岐国家中心渔港，数百艘渔船整装待发，与苔菉国家中心渔港同步拔锚，双港并启，场面壮观。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678659.shtml",
-      "publishedAt": "2026-08-16T09:29:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678658.shtml",
-      "title": "广西天峨“蓝刀鱼风暴”成文旅新热点 “奔县游”激活县域经济",
-      "category": "综合",
-      "summary": "中新网河池8月16日电(记者 黄艳梅)碧水幽幽，鱼影灵动，桨板泛波……今年暑期，广西西北小城天峨县凭借“蓝刀鱼风暴”火爆出圈，数万尾蓝刀鱼在清澈见底的红水河中翻涌如银鳞流动，吸引大批游客慕名前来体验这场“奔县游”的清凉之约。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678658.shtml",
-      "publishedAt": "2026-08-16T09:28:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678656.shtml",
-      "title": "AI与算法成为“流量入口” 专家建言电商领域科学应对",
-      "category": "综合",
-      "summary": "中新网北京8月16日电 题：AI与算法成为“流量入口” 专家建言电商领域科学应对",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678656.shtml",
-      "publishedAt": "2026-08-16T09:27:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678654.shtml",
-      "title": "2026暑期档票房破百亿！IMAX等特效影厅迎观影热潮",
-      "category": "综合",
-      "summary": "据网络平台数据",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678654.shtml",
-      "publishedAt": "2026-08-16T09:21:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -641,7 +641,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#4",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#1",
       "title": "印尼強震造成至少47死 救援人員搜尋生還者",
       "category": "国际",
       "summary": "這場地震造成47人死亡，摧毀了數百棟建築物。官員表示，目前正在快速評估地震帶來的影響。",
@@ -1345,7 +1345,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad#4",
       "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
       "category": "国际",
       "summary": "朱鎔基前後12年主導中國經濟發展，改革過程中因為造成大量國企工人下崗而受民間批評。但中國整體上往市場經濟的方向邁了一大步，也由此開啟了歷史上發展速度最高的20年。",
@@ -1478,23 +1478,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-12T09:33:20.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad#1",
-      "title": "澤連斯基：俄羅斯使用朝鮮飛彈攻擊烏克蘭",
-      "category": "国际",
-      "summary": "基輔稱，莫斯科使用了來自朝鮮（北韓）的導彈攻擊烏克蘭，造成多人死傷。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T04:52:50.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1730,6 +1713,23 @@
         "育儿",
         "家庭",
         "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad#5",
+      "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
+      "category": "国际",
+      "summary": "日本2026防衛白皮書將中國定位為空前最大戰略挑戰，但新版本刪除了台海「攸關日本安保」字句，僅強調國際社會穩定，原因何在？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T00:35:37.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
