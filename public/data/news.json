@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T13:48:00.570Z",
-  "expiresAt": "2026-08-16T19:48:00.570Z",
+  "generatedAt": "2026-08-16T14:58:53.869Z",
+  "expiresAt": "2026-08-16T20:58:53.869Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678793.shtml",
+      "title": "低价团曝出“转卖游客、赌团”内幕 总台曝光暑期游乱象",
+      "category": "综合",
+      "summary": "财经调查丨低价团曝出“转卖游客、赌团”内幕 总台曝光暑期游乱象",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678793.shtml",
+      "publishedAt": "2026-08-16T14:09:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678789.shtml",
+      "title": "日媒：高市政权回避历史反省 要警惕其“回归战前”的政策动向",
+      "category": "综合",
+      "summary": "中新社东京8月16日电 日本多家媒体16日发表社论，批评首相高市早苗在日本宣布无条件投降81周年之际回避历史反省，并对高市政权“回归战前”的政策动向表示警惕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678789.shtml",
+      "publishedAt": "2026-08-16T14:02:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-16/10678788.shtml",
       "title": "新起点、新机遇、新突破——澳门各界期盼“三五”规划开创高质量发展新局面",
@@ -526,42 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678761.shtml",
       "publishedAt": "2026-08-16T12:41:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-16/10678760.shtml",
-      "title": "中国银幕数量世界第一 “龙餐馆”“奥德赛”特效厅一票难求",
-      "category": "综合",
-      "summary": "这个暑期，电影市场持续火热。截至目前，2026年度电影票房已突破255亿元，暑期档连续37天单日票房过亿；今年暑期档票房(含预售)已突破98亿元，观影人次超2.6亿。市场热度的背后，既有优质内容点燃的观影热潮，也离不开影院持续升级影厅、丰富观影体验的助力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678760.shtml",
-      "publishedAt": "2026-08-16T12:40:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678757.shtml",
-      "title": "立秋已到，各地气温到底有哪些变化？一文了解→",
-      "category": "综合",
-      "summary": "央视网消息：当前已进入立秋节气，北方干冷空气日渐活跃，人们能明显察觉到风吹时体感的变化，尤其是早晚时段，盛夏湿热蒸腾的暑气缓缓收敛。但不少华南地区的公众觉得立秋后反而更热了。各地气温到底有哪些变化？我们来了解一下。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678757.shtml",
-      "publishedAt": "2026-08-16T12:38:35.000Z",
       "tags": [
         "国内",
         "社会",
