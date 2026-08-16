@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T05:47:29.213Z",
-  "expiresAt": "2026-08-16T11:47:29.213Z",
+  "generatedAt": "2026-08-16T07:49:20.213Z",
+  "expiresAt": "2026-08-16T13:49:20.213Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,276 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678602.shtml",
+      "title": "“特别要更好地关心呵护‘一老一小’”",
+      "category": "综合",
+      "summary": "老有所养和幼有所育，关系千家万户。2022年7月13日，走进新疆乌鲁木齐市天山区固原巷社区，习近平总书记看望银发耄耋老人，祝福他们“幸福生活日久天长”。一个多月后，到辽宁沈阳市皇姑区三台子街道牡丹社区，习近平总书记再次重点询问老人孩子的情况，强调“对老年人的服务要跟上”“对孩子们的养育和培养等工作要加强”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678602.shtml",
+      "publishedAt": "2026-08-16T07:31:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678598.shtml",
+      "title": "机票买错为何不给退？商家小字隐藏退款规则逃避责任",
+      "category": "综合",
+      "summary": "眼下正值暑期出行高峰期，国内和出入境航线预订量持续攀升。然而，随着客流量增加，机票退票难，退款金额过低的问题再次引发社会关注。实际上，机票退票难并不是一个新问题，那么究竟难在哪呢？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678598.shtml",
+      "publishedAt": "2026-08-16T07:08:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678597.shtml",
+      "title": "门票“秒空”黄牛手里却一大把？当心非法代抢“票财两空”",
+      "category": "综合",
+      "summary": "每到旅游旺季",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678597.shtml",
+      "publishedAt": "2026-08-16T07:03:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678596.shtml",
+      "title": "战争将满半年 美伊互撕升级",
+      "category": "综合",
+      "summary": "战争将满半年，油价飞涨，美伊互撕升级：特朗普呼吁美国人多花点汽油钱，伊朗副外长硬怼：海峡过去是伊朗的，现在也是，将来永远是！",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678596.shtml",
+      "publishedAt": "2026-08-16T07:02:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678595.shtml",
+      "title": "快自查！这种手机壳可能在伤害你的健康",
+      "category": "综合",
+      "summary": "近日，话题",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678595.shtml",
+      "publishedAt": "2026-08-16T06:43:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678594.shtml",
+      "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
+      "category": "综合",
+      "summary": "近日，云南省文化和旅游厅召开全省投诉较多旅行社负责人视频约谈通报会，对昆明康辉旅行社有限公司、云南中青国际旅行社(集团)有限公司、西双版纳怡程国际旅行社有限公司等全省投诉量排名前50的旅行社进行通报。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678594.shtml",
+      "publishedAt": "2026-08-16T06:41:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-16/10678590.shtml",
+      "title": "民生调查局｜“心机商标”盯上药品，多款非原研药印“原研一致”商标",
+      "category": "综合",
+      "summary": "编者按： 这里是民生调查局，见人所未见，调查民生之变。关注你想关注的、你没关注的，调查你想看的、未看到的。 中新网北京8月16日电(钟余 李萍)“原研一致”是商标，还用到了药品上？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678590.shtml",
+      "publishedAt": "2026-08-16T06:38:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678592.shtml",
+      "title": "内蒙古多地公布乡镇街道、部门“一把手”微信二维码",
+      "category": "综合",
+      "summary": "“本次公示的所有微信二维码均为统一规范制作，群众可直接扫码添加对应单位负责人微信，留言反映相关诉求，无需繁琐流程，实现诉求直达、快速对接。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678592.shtml",
+      "publishedAt": "2026-08-16T06:31:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678591.shtml",
+      "title": "《生态环境法典的中国创新与世界贡献》智库报告发布",
+      "category": "综合",
+      "summary": "原标题：新华社国家高端智库发布《生态环境法典的中国创新与世界贡献》智库报告",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678591.shtml",
+      "publishedAt": "2026-08-16T06:25:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678588.shtml",
+      "title": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
+      "category": "综合",
+      "summary": "新华社北京8月16日电 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志的遗体，将于18日在北京火化。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678588.shtml",
+      "publishedAt": "2026-08-16T06:01:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678587.shtml",
+      "title": "我国成功发射卫星互联网低轨24组卫星",
+      "category": "综合",
+      "summary": "中新网北京8月16日电 (记者 马帅莎 骆云飞)北京时间8月16日12时10分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。(完）",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678587.shtml",
+      "publishedAt": "2026-08-16T05:55:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-16/10678586.shtml",
+      "title": "我国成功发射卫星互联网低轨24组卫星",
+      "category": "综合",
+      "summary": "新华社海南文昌8月16日电(记者陈凯姿)16日12时10分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678586.shtml",
+      "publishedAt": "2026-08-16T05:49:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678585.shtml",
+      "title": "苹果找长鑫合作，醉翁之意不在“芯”",
+      "category": "综合",
+      "summary": "苹果最近正在主动接触长鑫存储。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678585.shtml",
+      "publishedAt": "2026-08-16T05:46:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678584.shtml",
+      "title": "中国红十字会总会向河南洪涝灾区追加调拨救灾物资",
+      "category": "综合",
+      "summary": "中新网8月16日电 据“中国红十字会”微信公众号消息，8月16日，针对河南洪涝灾害救助进一步需求，中国红十字会总会追加调拨赈济家庭包、毛巾被等救灾物资5500件，支持灾区做好群众转移安置和生活保障工作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678584.shtml",
+      "publishedAt": "2026-08-16T05:41:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678571.shtml",
+      "title": "贵州威宁：高原苹果受海外市场青睐 已出口200余吨",
+      "category": "综合",
+      "summary": "图为8月15日，在贵州威宁产投生态果业有限责任公司分选车间，工人在自动化分选线上辅助设备分选苹果。赵庆能 摄 图为8月15日，在贵州威宁产投生态果业有限责任公司分选车间，工人在自动化分选线上辅助设备分选苹果。陈逍 摄 图为8月15日，在贵州威宁产投生态果业有限责任公司分选车间，自动化分选线满载运行。赵庆能 摄 图为8月15日，在贵州威宁产投生态果业有限责任公",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-16/10678571.shtml",
+      "publishedAt": "2026-08-16T05:40:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-16/10678570.shtml",
       "title": "湖北神农架：百亩向日葵绽放夏日“金色浪漫”",
@@ -302,200 +572,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-16/10678573.shtml",
-      "title": "香港是“文化沙漠”？",
-      "category": "综合",
-      "summary": "中新社记者 曾平",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-16/10678573.shtml",
-      "publishedAt": "2026-08-16T05:24:49.000Z",
+      "id": "sspai-https://sspai.com/post/113495",
+      "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+      "category": "科技",
+      "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？ 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113495",
+      "publishedAt": "2026-08-16T04:48:21.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-16/10678557.shtml",
-      "title": "甲状腺最讨厌的5件事 一个比一个伤身 你中招了吗→",
-      "category": "综合",
-      "summary": "甲状腺，这个身体里的小小器官",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-16/10678557.shtml",
-      "publishedAt": "2026-08-16T05:12:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678556.shtml",
-      "title": "暴雨、大暴雨！接下来雨会下在哪？",
-      "category": "综合",
-      "summary": "昨天(8月15日)，随着台风残涡东移出海，华东、华南一带的降雨有所减弱。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678556.shtml",
-      "publishedAt": "2026-08-16T05:07:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678555.shtml",
-      "title": "日本在野党痛批高市：“一个不知反省的国家，无法获得信任”",
-      "category": "综合",
-      "summary": "中新网8月16日电 2026年8月15日是日本宣布无条件投降81周年的日子。当天，日本首相高市早苗不仅向供奉14名甲级战犯的靖国神社供奉祭祀费，在当天的纪念仪式致辞中也丝毫未提“反省”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678555.shtml",
-      "publishedAt": "2026-08-16T05:02:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678554.shtml",
-      "title": "从田间到餐桌 上半年冷链“热”起来了",
-      "category": "综合",
-      "summary": "中国物流与采购联合会16日发布上半年冷链物流运行数据。在宏观经济回升向好、物流运行韧性增长的背景下，上半年冷链物流保持稳步发展态势，冷链消费需求温和回升，绿色低碳转型加速推进。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678554.shtml",
-      "publishedAt": "2026-08-16T05:02:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-16/10678553.shtml",
-      "title": "印尼7.7级地震致5000余人疏散避难 多县应急响应",
-      "category": "综合",
-      "summary": "当地时间8月16日，印尼国家抗灾署发布消息称，东努沙登加拉省7.7级地震已致5000余人疏散避难。目前，应急救援工作的重点之一是保障安置点灾民的基本生活需求和救灾物资供应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678553.shtml",
-      "publishedAt": "2026-08-16T04:59:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-16/10678547.shtml",
-      "title": "东西问丨刘诗昆：琴键上的中俄对话",
-      "category": "综合",
-      "summary": "中新社莫斯科8月16日电 题：琴键上的中俄对话",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-16/10678547.shtml",
-      "publishedAt": "2026-08-16T04:25:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678548.shtml",
-      "title": "（走进中国乡村）桑树育绿链 广西山村引来东盟取经客",
-      "category": "综合",
-      "summary": "中新社广西百色8月16日电 题：桑树育绿链 广西山村引来东盟取经客",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678548.shtml",
-      "publishedAt": "2026-08-16T04:15:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-16/10678549.shtml",
-      "title": "香江观澜：外籍人才纷至沓来 彰显香港由治及兴吸引力",
-      "category": "综合",
-      "summary": "中新社香港8月16日电 题：外籍人才纷至沓来 彰显香港由治及兴吸引力",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-16/10678549.shtml",
-      "publishedAt": "2026-08-16T04:14:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678546.shtml",
-      "title": "开渔季到来 刚买的海鲜可以带上高铁吗？",
-      "category": "综合",
-      "summary": "开渔在即，各地渔港即将迎来千帆竞渡的壮观景象。铁路部门对此有哪些运力方面的出行保障，旅客采购完海鲜乘坐高铁，又有哪些规定。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678546.shtml",
-      "publishedAt": "2026-08-16T04:08:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678545.shtml",
-      "title": "千帆竞发！开渔时刻即将到来",
-      "category": "综合",
-      "summary": "今天(16日)，对于海南、广东、广西、福建四省区的渔民朋友来说，是一个期盼已久的日子。今天12时，我国南海海域和东海部分海域为期3个多月的伏季休渔期正式结束，沉寂许久的渔港即将迎来千帆竞发的开渔时刻。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678545.shtml",
-      "publishedAt": "2026-08-16T04:06:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -513,78 +603,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-16/news1065556.shtml",
-      "title": "洪秀柱：大海是联结两岸的天然纽带 民俗根脉是任何政治力量割裂不了的",
-      "category": "综合",
-      "summary": "8月15日晚，中国国民党前主席洪秀柱在广东阳江出席第二届海峡两岸民俗文体汇南海(阳江)开渔季民俗文化交流活动欢迎仪式时强调，大海从不是阻隔，而是连接两岸的天然纽带，两岸共享相同的海洋民俗文化基因。洪秀柱公开批评岛内部分势力推行“去中国化”，试图篡改节日、割裂民俗以淡化民族认同，但“现实不会说谎”，流淌在海风里、围绕在烟火中的民俗根脉是任何政治力量都无法割裂的",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-16/news1065556.shtml",
-      "publishedAt": "2026-08-16T03:46:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-16/10678540.shtml",
-      "title": "应急管理部调派13支排涝队伍在河南周口开展排涝作业",
-      "category": "综合",
-      "summary": "为协助做好河南周口市区排涝工作，应急管理部从河南、陕西、江苏、安徽、山东、湖南等地，调派应急管理部自然灾害工程应急救援中心(中国安能)、8支国家安全生产应急救援排涝力量、陕西机动排涝队及徐工集团、焦作华禹、湖南迪沃等共计13支排涝力量，总排涝能力约22万立方米/小时，紧急赶赴河南周口。以上救援力量已于16日上午9时全部抵达并投入排涝作业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-16/10678540.shtml",
-      "publishedAt": "2026-08-16T03:41:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-16/10678533.shtml",
-      "title": "“中国龙眼之乡”广东茂名龙眼采收结束 果农丰产增收",
-      "category": "综合",
-      "summary": "中新网广东茂名8月16日电 (梁盛 梁晶晶)进入末伏，“中国龙眼之乡”广东茂名龙眼的采收已基本结束。记者16日从茂名市农业农村局获悉，今年龙眼销售整体呈现“早中期量大平价、后期价格回暖”特征，高端精品储良定制果、出口果保持稳定溢价。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678533.shtml",
-      "publishedAt": "2026-08-16T03:38:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-16/10678534.shtml",
-      "title": "华裔大学生海南研习行：在“冲浪胜地”感受文旅新风尚",
-      "category": "综合",
-      "summary": "中新网海南万宁8月16日电 (符宇群 王梓懿)“波浪翻涌间，冲浪者踏浪而行，让人热血沸腾。”首次近距离接触冲浪运动，日本女子美术大学的华裔学生孙丽佳站在大型人工造浪池边，渴望踏入碧波浪花，亲身感受乘风踏浪、肆意驰骋的冲浪乐趣。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-16/10678534.shtml",
-      "publishedAt": "2026-08-16T03:37:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -1221,24 +1239,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/112873",
-      "title": "6 天时间丈量独库公路：我的平安骑行指南",
-      "category": "科技",
-      "summary": "如果你也想骑一次独库，希望这份来自普通骑行爱好者的实战记录，能让你出发前少踩一点坑。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/112873",
-      "publishedAt": "2026-08-13T03:18:09.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
