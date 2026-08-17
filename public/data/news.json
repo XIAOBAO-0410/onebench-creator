@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T06:00:55.084Z",
-  "expiresAt": "2026-08-17T12:00:55.084Z",
+  "generatedAt": "2026-08-17T08:25:52.238Z",
+  "expiresAt": "2026-08-17T14:25:52.238Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10678985.shtml",
-      "title": "民调：53%美国选民称个人财务状况较2025年初恶化",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679098.shtml",
+      "title": "韩国东南部遭遇强降雨 已致多地受灾严重",
       "category": "综合",
-      "summary": "中新网8月17日电 据英国《金融时报》16日报道，距离美国11月中期选举不足三个月之际，由Focaldata开展的一项全国性民调显示，超过53%的美国注册选民表示，自美国总统特朗普于2025年1月重返白宫以来，他们的财务状况有所恶化。",
+      "summary": "中新网首尔8月17日电 (记者 金旭)当地时间15日起，韩国东南部地区出现强降雨天气，造成韩国庆尚南道巨济市、统营市等多地出现人员伤亡和财产损失。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678985.shtml",
-      "publishedAt": "2026-08-17T05:56:42.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679098.shtml",
+      "publishedAt": "2026-08-17T08:13:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678976.shtml",
-      "title": "第二届国际青年史学家对话会暨国际青年历史学者访华研修班结业仪式举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679093.shtml",
+      "title": "美国知名女演员海顿·潘妮蒂尔去世 终年36岁",
       "category": "综合",
-      "summary": "中新网北京8月17日电 (记者 李京泽)8月16日，第二届国际青年史学家对话会暨“科技考古与文明探源”国际青年历史学者访华研修班结业仪式在北京举行。来自中国、美国、德国、蒙古国、塔吉克斯坦、乌兹别克斯坦、越南、巴西等十余个国家的百余名青年史学工作者齐聚现场，围绕“文明传承与历史道路”“数智史学的机遇与挑战”等议题开展学术研讨。中国历史研究院副院长、世界历史研",
+      "summary": "中新网8月17日电 据美国广播公司(ABC)及美联社报道，美国知名女演员海顿·潘妮蒂尔(Hayden Panettiere)去世，终年36岁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678976.shtml",
-      "publishedAt": "2026-08-17T05:55:08.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679093.shtml",
+      "publishedAt": "2026-08-17T08:03:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10678975.shtml",
-      "title": "云南省第十七届运动会昆明闭幕 破纪录169次创历史新高",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679095.shtml",
+      "title": "农业发展银行原党委委员、副行长徐一丁被“双开”",
       "category": "综合",
-      "summary": "中新网昆明8月17日电 (时文枝)云南省第十七届运动会16日晚在昆明闭幕。本届省运会竞技水平大幅提升，14个代表团在游泳、田径、射击、射箭、举重5个大项中，累计打破169次省运会纪录，破纪录项次创历届新高。",
+      "summary": "中新网8月17日电 据中央纪委国家监委网站消息，经中共中央批准，中央纪委国家监委对中国农业发展银行原党委委员、副行长徐一丁严重违纪违法问题进行了立案审查调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10678975.shtml",
-      "publishedAt": "2026-08-17T05:52:50.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679095.shtml",
+      "publishedAt": "2026-08-17T08:03:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678990.shtml",
-      "title": "北京雨燕往南飞，结果是去南非！这只“无脚鸟”和家燕真不是近亲",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad#0",
+      "title": "韓國疏遠伊朗戰事 特朗普稱將縮減聯合軍演規模",
+      "category": "国际",
+      "summary": "特朗普表示，將演習規模縮小的決定，是基於他與朝鮮領導人金正恩之間「非常良好的關係」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cj9dxjzgk92o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T08:02:15.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10679090.shtml",
+      "title": "608名“铁人”同湖竞速 2026榆社云竹湖铁人三项公开赛举行",
       "category": "综合",
-      "summary": "8月中旬的北京，天坛、正阳门、颐和园廓如亭上空，黑褐色、镰刀状翅膀的北京雨燕明显稀疏。陪伴京城人一整个夏天的“楼燕儿”，在完成繁育后陆续启程——下一站不是江南，不是南亚，而是非洲南部。",
+      "summary": "中新网晋中8月17日电 (高雨晴 程煜媛 韩涵)8月16日，2026年榆社云竹湖铁人三项公开赛在山西省晋中市榆社县云竹湖鸣枪开赛。赛事吸引608名中外选手报名参赛，其中包括来自加拿大的外籍选手及中国台湾选手。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678990.shtml",
-      "publishedAt": "2026-08-17T05:52:06.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679090.shtml",
+      "publishedAt": "2026-08-17T08:00:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-17/10678988.shtml",
-      "title": "水果皮别扔！四道家常菜解锁降火新方式",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679094.shtml",
+      "title": "医保基金即时结算覆盖超九成定点机构 提前达成年度目标",
       "category": "综合",
-      "summary": "夏末秋初暑气未消，来一口冰镇西瓜、榴梿果肉、冰镇荔枝别提多解渴了！但甜甜的水果吃多了往往容易上火，人们苦苦寻找降火药的时候，殊不知自己和真正的“灭火器”擦肩而过——水果皮。",
+      "summary": "记者从国家医保局获悉，截至2026年7月底，全国医保部门共拨付医药机构即时结算资金9457.31亿元，占本地月结算资金规模的95.51%；覆盖定点医药机构75.22万家，占统筹地区定点医药机构数量的90.17%。即时结算年度目标任务提前完成，改革速度超预期、改革成效已彰显。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/08-17/10678988.shtml",
-      "publishedAt": "2026-08-17T05:47:43.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679094.shtml",
+      "publishedAt": "2026-08-17T08:00:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10678981.shtml",
-      "title": "摩托车手德比斯盼世界超级摩托车锦标赛设立“中国站”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679084.shtml",
+      "title": "黑龙江发生2026年第2号洪水 水利部维持洪水防御Ⅳ级响应",
       "category": "综合",
-      "summary": "六冠王德比斯现身成都天府国际赛道",
+      "summary": "中新社北京8月17日电 (记者 陈溯)记者17日从中国水利部获悉，黑龙江发生2026年第2号洪水。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10678981.shtml",
-      "publishedAt": "2026-08-17T05:45:11.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679084.shtml",
+      "publishedAt": "2026-08-17T07:58:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10678987.shtml",
-      "title": "拒服兵役代价有多大？多地公布惩戒案例",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-17/10679086.shtml",
+      "title": "培育少数民族文化再生产能力",
       "category": "综合",
-      "summary": "依法服兵役是每一位公民的神圣职责和光荣义务，然而，近年来，个别青年入伍后因无法适应部队生活而选择拒服兵役的事件时有发生。2026年8月4日，江西省南昌县人民政府发布了一则通报：南昌县莲塘街道青年杨某某，男，2005年出生，中专学历，在今年上半年自愿报名应征入伍，经体格检查、政治考核、综合评估和役前教育合格后，于2026年3月1日由南昌县人民政府征兵办公室批准",
+      "summary": "即将开幕的第七届全国少数民族文艺会演以铸牢中华民族共同体意识为主线，突出“以中华民族大团结全面推进中国式现代化”主题，集中展示新时代少数民族文化艺术繁荣发展的丰硕成果。借助这一重要契机，深入思考少数民族文化保护传承发展的理论与实践问题，对于做好新时代民族工作、建设中华民族现代文明，具有重要意义。少数民族文化保护的实质，是在守护文化存量的基础上培育文化再生产的",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678987.shtml",
-      "publishedAt": "2026-08-17T05:43:39.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-17/10679086.shtml",
+      "publishedAt": "2026-08-17T07:58:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10678986.shtml",
-      "title": "韩国东南部遭遇强降雨 1人遇难",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679083.shtml",
+      "title": "1篇课文1亿流量，课本短剧赛道能跑通吗？",
       "category": "综合",
-      "summary": "中新网8月17日电 据韩联社当地时间17日报道，位于韩国东南部的庆尚南道地区15日起出现强降雨天气，造成巨济市、统营市等南海岸多地出现人员伤亡和财产损失。",
+      "summary": "闯出一条真正的“赛道”，需要跨越多重关口",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678986.shtml",
-      "publishedAt": "2026-08-17T05:41:43.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679083.shtml",
+      "publishedAt": "2026-08-17T07:55:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-17/10678942.shtml",
-      "title": "从校园到职场，如何补上沟通礼仪“必修课”？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679089.shtml",
+      "title": "智利外长佩雷斯将访华 外交部：期待推动中智关系再上新台阶",
       "category": "综合",
-      "summary": "“不会写正式邮件”成为部分大学生的职场素养短板",
+      "summary": "中新网北京8月17日电(记者 邢翀 李京泽)中国外交部发言人17日宣布：应中共中央政治局委员、外交部长王毅邀请，智利外长佩雷斯将于8月18日至22日对中国进行正式访问。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-17/10678942.shtml",
-      "publishedAt": "2026-08-17T05:40:05.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679089.shtml",
+      "publishedAt": "2026-08-17T07:52:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10678971.shtml",
-      "title": "水利部8月17日继续发布洪水黄色预警",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679087.shtml",
+      "title": "国家统计局：7月份工业经济总体平稳 新动能贡献持续增强",
       "category": "综合",
-      "summary": "中新网8月17日电 据“中国水利”微信公众号消息，预计8月17—19日，长江上游嘉陵江、岷江、沱江、大渡河，西江上游，松花江乌苏里江等地累计面降水量将有30～60毫米，局部将有70～110毫米。",
+      "summary": "中新网8月17日电 据国家统计局官网消息，国家统计局工业司首席统计师孙晓就2026年7月份工业生产数据进行解读。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678971.shtml",
-      "publishedAt": "2026-08-17T05:34:25.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679087.shtml",
+      "publishedAt": "2026-08-17T07:52:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10678984.shtml",
-      "title": "订单排到2030年 前7个月上海市船舶出口超400亿元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679088.shtml",
+      "title": "约旦国王阿卜杜拉二世将访华 中方介绍此访安排和期待",
       "category": "综合",
-      "summary": "据上海海关统计，今年前7个月，上海市出口船舶400.9亿元，同比增长64.1%，其中液货船、大型集装箱船等高端船舶占比达83.9%。",
+      "summary": "中新网北京8月17日电(记者 李京泽 邢翀)中国外交部发言人8月17日宣布：应国家主席习近平邀请，约旦哈希姆王国国王阿卜杜拉二世将于8月18日至24日对中国进行国事访问。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678984.shtml",
-      "publishedAt": "2026-08-17T05:33:19.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679088.shtml",
+      "publishedAt": "2026-08-17T07:50:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678980.shtml",
-      "title": "中外学者：鲜活民生映照新疆人权事业发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679081.shtml",
+      "title": "A股收评：超4300只个股飘红，三大指数集体大涨",
       "category": "综合",
-      "summary": "中新网乌鲁木齐8月17日电 (苟继鹏)以“发展促进人权：新疆的实践与经验”为主题的第四届新疆人权事业发展研讨会，16日在乌鲁木齐市的新疆师范大学举行，来自巴基斯坦、斯里兰卡、中国各高校和科研机构的专家学者共议新疆人权事业的发展与经验。",
+      "summary": "A股收评：超4300只个股飘红，三大指数集体大涨，科创50涨超4%；CPO、存储芯片概念股爆发，能源设备、半导体、通信设备大涨；酒类领跌",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678980.shtml",
-      "publishedAt": "2026-08-17T05:25:50.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679081.shtml",
+      "publishedAt": "2026-08-17T07:47:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678973.shtml",
-      "title": "广东多措并举提升知识产权行政保护质效",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679085.shtml",
+      "title": "国家统计局：1—7月份我国高技术产业投资同比增长5.0%",
       "category": "综合",
-      "summary": "中新网广州8月17日电 (记者 孙秋霞)记者17日从广东省知识产权局获悉，近期，该局出台工作举措，进一步规范和加强全省专利侵权纠纷行政裁决办案流程、统一裁判尺度、夯实办案根基，持续加大知识产权行政保护力度。",
+      "summary": "中新网8月17日电 据国家统计局网站消息，国家统计局投资司张刚就2026年1—7月份投资数据进行解读。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678973.shtml",
-      "publishedAt": "2026-08-17T05:25:26.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679085.shtml",
+      "publishedAt": "2026-08-17T07:44:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10678969.shtml",
-      "title": "安徽省天然气开发股份有限公司原总经理姚礼进接受审查调查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678951.shtml",
+      "title": "好工作能花钱“预定”？两起案件揭开求职“捷径”背后陷阱",
       "category": "综合",
-      "summary": "中新网8月17日电 据安徽纪检监察网消息，安徽省天然气开发股份有限公司原总经理姚礼进涉嫌严重违纪违法，主动投案，目前正接受安徽省能源集团有限公司纪委纪律审查；经安徽省监委指定管辖，接受太和县监委监察调查。",
+      "summary": "10万元“进国家电网”，48万元买“事业编”？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10678969.shtml",
-      "publishedAt": "2026-08-17T05:21:06.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678951.shtml",
+      "publishedAt": "2026-08-17T07:44:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201331.shtml",
-      "title": "初秋时节 秦岭腹地“东方宝石”朱鹮蹁跹起舞",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679075.shtml",
+      "title": "日军暴行再被曝光：日本军医拿“本国士兵”做活体实验",
       "category": "综合",
-      "summary": "初秋时节，位于秦岭腹地的陕西汉中城固县内，朱鹮蹁跹起舞。境内湑水河水质清澈，浅滩水域丰富的食物资源吸引成群的朱鹮在河滩觅食栖息，构成一幅自然和谐的生态美景。图为朱鹮伫立在河滩上。 李吉安 摄 初秋时节，位于秦岭腹地的陕西汉中城固县内，朱鹮蹁跹起舞。境内湑水河水质清澈，浅滩水域丰富的食物资源吸引成群的朱鹮在河滩觅食栖息，构成一幅自然和谐的生态美景。图为朱鹮在河",
+      "summary": "中新网8月17日电 据日本共同社17日报道，侵华战争期间，日本军医曾对因精神疾病住院的日本士兵实施疟疾感染人体实验。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201331.shtml",
-      "publishedAt": "2026-08-17T05:17:42.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679075.shtml",
+      "publishedAt": "2026-08-17T07:42:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns/2026/08-17/news1065658.shtml",
-      "title": "“90后”侨青赋能“空中驿站” 无人机为长江船舶送上补给",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679079.shtml",
+      "title": "中企手撕剧本，戳破美式制裁谎言",
       "category": "综合",
-      "summary": "在长江安徽芜湖段，每天有近两千艘船舶穿行，往来船员近两万人。船员长期在船上生活，米面粮油、药品、船用配件都是必需品。以往船员们需自己上岸采购，来回车费一百多块，一整个下午才能完成。如今，他们可以在船上手机下单，十几分钟后，无人机便从安徽省芜湖市弋江区东汇无人机配送服务基地起飞，精准降落在甲板上。",
+      "summary": "刚拉黑完中国瓜子水饺，美国所谓涉疆制裁就碰了个“硬钉子”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-17/news1065658.shtml",
-      "publishedAt": "2026-08-17T05:16:39.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679079.shtml",
+      "publishedAt": "2026-08-17T07:40:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678961.shtml",
-      "title": "美丽新疆丨戈壁矿山“解渴”记",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678977.shtml",
+      "title": "青岛父子接力纵身入海，一月连救三条人命",
       "category": "综合",
-      "summary": "石榴云/新疆日报记者 张婷 通讯员 常轶茹",
+      "summary": "父子接力纵身入海 一月连救三条人命",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678961.shtml",
-      "publishedAt": "2026-08-17T05:12:52.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678977.shtml",
+      "publishedAt": "2026-08-17T07:40:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-17/10678968.shtml",
-      "title": "输液比吃药好得快是真是假？这些风险要当心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679082.shtml",
+      "title": "中方评高市早苗致辞：模糊侵略罪责，大开历史倒车",
       "category": "综合",
-      "summary": "“孩子发烧咳嗽，赶紧去输液！作用直接，比吃药好得快。”“输液既能治病还能预防，一举两得。”这些说法常能听到。很多人把输液当成治病“万能符”，甚至主动要求输液。殊不知，输液不是“加速药”，更不是“万能药”，盲目输液可能带来健康风险。",
+      "summary": "中新网北京8月17日电(记者 李京泽 邢翀)中国外交部发言人林剑 8月17日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-17/10678968.shtml",
-      "publishedAt": "2026-08-17T05:09:09.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679082.shtml",
+      "publishedAt": "2026-08-17T07:38:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678960.shtml",
-      "title": "交流互鉴，助力中非携手迈向现代化（“留学中国”故事）",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-17/10679042.shtml",
+      "title": "践行绿色发展理念 推动绿色低碳发展",
       "category": "综合",
-      "summary": "今年是中国与非洲国家开启外交关系70周年，也是“中非人文交流年”。中非携手推进现代化，需要深入开展人文交流、文明互鉴。青年是文明对话的使者，是传承友谊的纽带。许多非洲青年到中国求学深造，汲取中国发展经验，吸纳先进技术成果，促进了中非交流互鉴，助力双方携手迈向现代化。",
+      "summary": "“十五五”规划纲要对加快经济社会发展全面绿色转型、建设美丽中国作出重要部署，明确要求加快发展方式绿色低碳转型，形成绿色生产新方式和生活新风尚。绿色发展理念是新发展理念的重要组成部分，习近平总书记深刻指出，坚持绿色发展是发展观的一场深刻革命。当前全球绿色低碳变革加速演进，绿色技术与产业成为国际竞争核心赛道，必须把绿色生产方式变革摆在经济社会发展突出位置，以系统",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678960.shtml",
-      "publishedAt": "2026-08-17T05:08:53.000Z",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10679042.shtml",
+      "publishedAt": "2026-08-17T07:36:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10678963.shtml",
-      "title": "八国外长谴责以色列拒绝加沙和平路线图",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679080.shtml",
+      "title": "外交部：有个别中国公民在印尼地震中受伤，领馆已启动领保应急机制",
       "category": "综合",
-      "summary": "中新社北京8月17日电 综合消息：卡塔尔、约旦、阿联酋、印度尼西亚、巴基斯坦、土耳其、沙特阿拉伯和埃及8个国家外长当地时间16日发表联合声明，谴责以色列公开拒绝旨在落实美国总统特朗普加沙和平计划的路线图，并谴责其拒绝承认巴勒斯坦国。",
+      "summary": "中新网北京8月17日电(记者 邢翀 李京泽)中国外交部发言人林剑17日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678963.shtml",
-      "publishedAt": "2026-08-17T05:08:47.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679080.shtml",
+      "publishedAt": "2026-08-17T07:36:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-17/news1065655.shtml",
-      "title": "福建漳州海域伏休结束 海警全程护航开渔生产",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679078.shtml",
+      "title": "国家统计局：1—7月份规上工业原油产量同比增长0.9%",
       "category": "综合",
-      "summary": "8月16日12时，北纬26度30分以南海域结束为期三个半月的伏季休渔期，福建漳州各渔港渔船集中扬帆出海，奔赴渔区开展捕捞作业。漳州海警局提前部署、全程值守，为开渔生产保驾护航。",
+      "summary": "中新网8月17日电 据国家统计局网站消息，7月份，规模以上工业(以下简称规上工业)原煤生产同比下降，原油生产由降转增，天然气生产保持稳定，电力生产平稳有序。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/08-17/news1065655.shtml",
-      "publishedAt": "2026-08-17T05:00:01.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679078.shtml",
+      "publishedAt": "2026-08-17T07:36:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10678964.shtml",
-      "title": "中国汽车芯片五项认证认可行业标准发布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679037.shtml",
+      "title": "印度发生踩踏事件致7死12伤",
       "category": "综合",
-      "summary": "中新社北京8月17日电 (记者 刘亮)中国国家市场监管总局(国家认监委)17日公布，其近日批准立项的《汽车芯片机构认证审查 通用评价要求》等五项认证认可行业标准发布。",
+      "summary": "中新社北京8月17日电 新德里消息：当地时间8月17日上午，印度北部比哈尔邦一寺庙发生踩踏事件，截至目前，已造成7人死亡，另有至少12人受伤。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678964.shtml",
-      "publishedAt": "2026-08-17T04:36:21.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679037.shtml",
+      "publishedAt": "2026-08-17T07:35:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10678957.shtml",
-      "title": "日本政坛“拜鬼”闹剧出现危险动向，专家：照妖镜下，“新型军国主义”已无所遁形",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679073.shtml",
+      "title": "国家统计局：1—7月份社会消费品零售总额同比增长1.2%",
       "category": "综合",
-      "summary": "【环球时报驻日本特约记者 初欣 环球时报记者 邢晓婧 张婉诗】日本自民党政务调查会长小林鹰之16日参拜靖国神社。这是刚刚过去的这个周末，日本政坛靖国神社“拜鬼”闹剧的最新剧情。在日本宣布无条件投降81周年的日子，日本首相高市早苗不仅向靖国神社供奉“玉串料”(祭祀费)，还在距离靖国神社不远的地方朝其方向“遥拜”，她本人在当天的致辞中也没有提及“反省”。此外，防",
+      "summary": "中新网8月17日电 据国家统计局网站消息，1—7月份，社会消费品零售总额287744亿元，同比增长1.2%。其中，除汽车以外的消费品零售额265142亿元，增长2.7%。7月份，社会消费品零售总额39022亿元，同比增长0.6%。其中，除汽车以外的消费品零售额35892亿元，增长2.5%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678957.shtml",
-      "publishedAt": "2026-08-17T04:35:57.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679073.shtml",
+      "publishedAt": "2026-08-17T07:34:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10678962.shtml",
-      "title": "今年前7个月上海市船舶出口额同比增长超六成",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679067.shtml",
+      "title": "国家统计局：1—7月份我国消费市场运行保持稳定",
       "category": "综合",
-      "summary": "中新社上海8月17日电 (记者 姜煜)据上海海关17日发布的统计数据，今年前7个月，上海市船舶出口额400.9亿元人民币，同比增长64.1%，其中液货船、大型集装箱船等高端船舶占比达83.9%。",
+      "summary": "中新网8月17日电 据国家统计局官网消息，国家统计局贸经司首席统计师袁彦就1—7月份消费市场数据进行解读，袁彦表示，1—7月份我国消费市场运行保持稳定。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10678962.shtml",
-      "publishedAt": "2026-08-17T04:35:41.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679067.shtml",
+      "publishedAt": "2026-08-17T07:32:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10678953.shtml",
-      "title": "全球媒体聚焦丨日媒：日本必须正视历史、坚守和平",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679077.shtml",
+      "title": "直播海报：国新办就激发下沉市场活力活跃县域消费有关情况举行新闻发布会",
       "category": "综合",
-      "summary": "今年8月15日是日本宣布无条件投降81周年。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678953.shtml",
-      "publishedAt": "2026-08-17T04:33:55.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679077.shtml",
+      "publishedAt": "2026-08-17T07:30:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10678945.shtml",
-      "title": "中企承建安哥拉最大水电站—— “国家发展的关键基础设施”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679076.shtml",
+      "title": "中方是否支持美朝重启对话？外交部：推动半岛问题政治解决符合各方共同利益",
       "category": "综合",
-      "summary": "从安哥拉首都罗安达驱车向东行驶约4个小时，便抵达北宽扎省栋多市的宽扎河中游。河谷间机器轰鸣，施工车辆往来穿梭，河道上一座混凝土大坝已经初具规模，这里便是由中国能建葛洲坝集团承建的凯凯水电站施工现场。",
+      "summary": "中新网北京8月17日电(记者 邢翀 李京泽)中国外交部发言人林剑17日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678945.shtml",
-      "publishedAt": "2026-08-17T04:32:15.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679076.shtml",
+      "publishedAt": "2026-08-17T07:30:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10678937.shtml",
-      "title": "老外被中式美学“硬控”的N个瞬间：“这是我想象中的天堂”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns/2026/08-17/news1065673.shtml",
+      "title": "一批侵华日军原始罪证入藏侵华日军南京大屠杀遇难同胞纪念馆",
       "category": "综合",
-      "summary": "近日，一位网友在海外社交平台上传了一张大白兔奶糖包装纸的照片，并配文“这绝对是平面设计的杰作”。这条帖文迅速走红，短短数天浏览量突破600万，评论区更是被海外网友的花式夸赞和“二创”刷屏。",
+      "summary": "2026年8月15日，“南京永远不会忘记——南京大屠杀史料捐赠与历史记忆传承活动”在侵华日军南京大屠杀遇难同胞纪念馆举行，一批记录侵华日军南京暴行的珍贵史料正式入藏，为南京大屠杀史实增添新的一手实证。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10678937.shtml",
-      "publishedAt": "2026-08-17T04:30:13.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-17/news1065673.shtml",
+      "publishedAt": "2026-08-17T07:28:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-17/10678933.shtml",
-      "title": "凡人叙事何以打动人心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10679072.shtml",
+      "title": "HYROX，狂飙的网红赛事",
       "category": "综合",
-      "summary": "2026年暑期档，《八仙！》《功夫女足》热度走高，《年会不能停！2》引发讨论。一众作品题材迥异，却有着共同特质：把镜头对准普通人的悲欢沉浮与执着坚守。创作者避免空泛叙事，立足真实生活描摹小人物的命运百态，这种接地气的表达，收获了观众认可。",
+      "summary": "中国新闻周刊记者：孟倩",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10678933.shtml",
-      "publishedAt": "2026-08-17T04:27:35.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679072.shtml",
+      "publishedAt": "2026-08-17T07:28:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-17/10678928.shtml",
-      "title": "从生态文明建设看时间观",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679060.shtml",
+      "title": "前7月中国铁路完成固定资产投资4406亿元",
       "category": "综合",
-      "summary": "从生态文明建设看时间观(人民论坛)",
+      "summary": "中新社北京8月17日电 (记者 刘文文)今年以来，中国铁路建设优质高效推进。记者17日从中国国家铁路集团有限公司(简称“国铁集团”)获悉，1至7月全国铁路完成固定资产投资4406亿元人民币，同比增长1.8%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10678928.shtml",
-      "publishedAt": "2026-08-17T04:26:14.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679060.shtml",
+      "publishedAt": "2026-08-17T07:28:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +571,73 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-17/10678927.shtml",
-      "title": "【“筑基”高质量·系列评论之十】攀登！向着高水平科技自立自强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679071.shtml",
+      "title": "印尼发生7.7级地震 中方：愿根据需要提供积极协助",
       "category": "综合",
-      "summary": "【“筑基”高质量·系列评论之十】",
+      "summary": "中新网北京8月17日电(记者 邢翀 李京泽)中国外交部发言人林剑17日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10678927.shtml",
-      "publishedAt": "2026-08-17T04:24:12.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679071.shtml",
+      "publishedAt": "2026-08-17T07:27:50.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113368",
+      "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
+      "category": "科技",
+      "summary": "你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113368",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#0",
+      "title": "泰國也有槍枝氾濫問題──全國有1000萬把槍",
+      "category": "国际",
+      "summary": "泰國近期發生的槍擊事件凸顯了該國違法擁有槍支的問題，而相關法律對遏制暴力行為收效甚微。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T06:56:58.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113448",
+      "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
+      "category": "科技",
+      "summary": "如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113448",
+      "publishedAt": "2026-08-17T05:55:17.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -624,7 +694,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#1",
       "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
       "category": "国际",
       "summary": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
@@ -711,7 +781,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#1",
       "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
       "category": "国际",
       "summary": "圍繞學術研究的爭議很少演變成全國性公共討論，但這次事件因涉及英國頂尖學府劍橋大學及其備受關注的學者而引發廣泛關注。這位教授曾公開講述自己作為自閉症患者直到11歲才開始說話、18歲才學會讀寫的非凡成長經歷。",
@@ -745,7 +815,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9q92p7ze7eo/trad#4",
       "title": "卡斯特羅之女回顧那個她從不想認的父親",
       "category": "国际",
       "summary": "在她成長過程中有記憶以來的每一段時間，阿麗娜·費爾南德斯經常獲得菲德爾·卡斯特羅探訪，卻不知道這位古巴革命領袖正是她的父親。",
@@ -1134,24 +1204,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113434",
-      "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
-      "category": "科技",
-      "summary": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113434",
-      "publishedAt": "2026-08-14T00:52:24.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#4",
       "title": "伊朗跟美國、以色列打仗 還能撐多久？",
       "category": "国际",
@@ -1276,24 +1328,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113225",
-      "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
-      "category": "科技",
-      "summary": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113225",
-      "publishedAt": "2026-08-13T09:30:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad#4",
       "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
       "category": "国际",
@@ -1311,7 +1345,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#5",
       "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
       "category": "国际",
       "summary": "台灣今年的「城鎮韌性」演習，首度模擬戰時的「斷網」情境，測試海底通訊電纜等關鍵通訊設施受損後的應變能力。對於距離台灣本島約200公里的馬祖居民來說，類似情境曾真實發生，當時「斷網」長達50天。",
@@ -1500,23 +1534,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad#4",
-      "title": "海濱公寓原本空無一人，然後警察說，詐騙犯搬進來了",
-      "category": "国际",
-      "summary": "馬來西亞的森林城市曾被宣傳為「天堂」，但最近警方因涉嫌詐騙活動對其進行突襲搜查。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8npl73k79o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T09:33:20.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1730,23 +1747,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad#5",
-      "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
-      "category": "国际",
-      "summary": "日本2026防衛白皮書將中國定位為空前最大戰略挑戰，但新版本刪除了台海「攸關日本安保」字句，僅強調國際社會穩定，原因何在？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c9809dp99neo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T00:35:37.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
