@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T14:02:20.211Z",
-  "expiresAt": "2026-08-17T20:02:20.211Z",
+  "generatedAt": "2026-08-17T15:12:33.979Z",
+  "expiresAt": "2026-08-17T21:12:33.979Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,149 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679342.shtml",
+      "title": "美军宣布与雷神公司签订229亿美元“战斧”导弹合同",
+      "category": "综合",
+      "summary": "当地时间8月17日，美国海军方面宣布已与美国雷神公司签订一份价值229亿美元的合同，以提高“战斧”巡航导弹的产量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679342.shtml",
+      "publishedAt": "2026-08-17T15:03:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10679338.shtml",
+      "title": "羽毛球世锦赛：卫冕冠军石宇奇遭遇“一轮游”",
+      "category": "综合",
+      "summary": "中新社北京8月17日电 2026年世界羽毛球锦标赛当地时间8月17日在印度新德里英迪拉·甘地室内体育馆正式挥拍。首日登场的男单卫冕冠军、中国选手石宇奇以1:2惜败印度选手阿尤什，遭遇“一轮游”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679338.shtml",
+      "publishedAt": "2026-08-17T15:01:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679337.shtml",
+      "title": "柬埔寨首都金边启动“五年规划”提质旅游业",
+      "category": "综合",
+      "summary": "【东盟专线】柬埔寨首都金边启动“五年规划”提质旅游业",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679337.shtml",
+      "publishedAt": "2026-08-17T15:00:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679336.shtml",
+      "title": "香港特区廉政专员率团赴大连参加APEC反腐败会议",
+      "category": "综合",
+      "summary": "中新网香港8月17日电 据香港廉政公署(简称“香港廉署”)消息，香港特区廉政专员胡英明17日率领香港廉署代表团在辽宁大连出席亚太经合组织(APEC)第43届反贪腐倡透明专家工作小组会议，持续推动《北京反腐败宣言》加强国际反腐败合作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679336.shtml",
+      "publishedAt": "2026-08-17T14:58:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#0",
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "category": "国际",
+      "summary": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T14:43:54.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679334.shtml",
+      "title": "甘肃“一站式”平台巧解百姓烦心事",
+      "category": "综合",
+      "summary": "中新网兰州8月17日电 (戴文昌)邻里口角、家庭矛盾、劳资争议……百姓日常生活里的烦心事，若处置不及时，小矛盾容易演变成大问题。过去民众遇到纠纷，常常多头跑、反复转。如今，“有矛盾纠纷·到综治中心”正成为甘肃民众化解诉求的新选择。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679334.shtml",
+      "publishedAt": "2026-08-17T14:08:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679330.shtml",
+      "title": "巴基斯坦安全部队在俾路支省开展反恐行动 击毙2名恐怖分子",
+      "category": "综合",
+      "summary": "中新社北京8月17日电 伊斯兰堡消息：当地时间8月17日，巴安全部队在该国西南部俾路支省开展反恐行动，共击毙2名恐怖分子。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679330.shtml",
+      "publishedAt": "2026-08-17T14:07:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679331.shtml",
+      "title": "广东力争到2030年山苍子全产业链总产值突破10亿元",
+      "category": "综合",
+      "summary": "中新网广州8月17日电 (记者 程景伟)据广东省林业局17日消息，《广东省林业局关于加快推进山苍子产业高质量发展的指导意见》(以下简称：《指导意见》)近日印发，提出全省以连南、连山、乳源三个自治县为核心，带动岭南民族特色高质量发展廊道16个县山苍子产业发展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679331.shtml",
+      "publishedAt": "2026-08-17T14:04:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679326.shtml",
       "title": "广东国际医疗试点成效显现 外籍人士就医人数同比增逾95%",
@@ -446,132 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-17/10679317.shtml",
-      "title": "坚持正确的中华民族历史观 把握好历史文化研究、阐释和宣传方向",
-      "category": "综合",
-      "summary": "核心提示",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10679317.shtml",
-      "publishedAt": "2026-08-17T13:31:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201376.shtml",
-      "title": "（活力中国调研行）福建泉州惠女风情园影雕吸睛",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201376.shtml",
-      "publishedAt": "2026-08-17T13:30:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-17/10679283.shtml",
-      "title": "束景南遗著《阳明诗赋编年笺证》在沪首发",
-      "category": "综合",
-      "summary": "中新网上海8月17日电 (记者 陈静)2024年，中国知名朱子学、阳明学研究专家束景南先生逝世。记者17日获悉，两年后，束景南先生生前最后一部力作《阳明诗赋编年笺证》正式付梓。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679283.shtml",
-      "publishedAt": "2026-08-17T13:28:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679298.shtml",
-      "title": "一款适合高危场景作业的人形机器人在香港发布",
-      "category": "综合",
-      "summary": "中新网香港8月17日电 (记者 刘玥晴)可实现30公斤常规操作负载、100至200公斤硬拉负载、60公斤双臂抱持负载，能高效完成重载搬运、物料转运、精细操作等任务……这款名为“小睿G3”(RayNex G3)的产业级人形机器人17日在香港科学园发布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679298.shtml",
-      "publishedAt": "2026-08-17T13:26:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679281.shtml",
-      "title": "北京未来企业家实训营开营 累计促成合作金额超2亿元",
-      "category": "综合",
-      "summary": "中新网北京8月17日电 (记者 杜燕)以“丰聚英才 企航未来——跟党创业为国创新利民奉献成就梦想”为主题的第四期北京未来企业家实训营17日在清华大学五道口金融学院正式拉开帷幕。第四期实训营在延续精品培育体系基础上，进一步强化思想引领、创新赋能、资源链接和生态建设，推动企业家培育从阶段性成长向全周期陪伴迈进。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679281.shtml",
-      "publishedAt": "2026-08-17T13:25:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679280.shtml",
-      "title": "北京加速机器人从实验室迈向市场",
-      "category": "综合",
-      "summary": "中新网北京8月17日电 (杜燕 孙艳平)营业额超6000万元，2.2万余名开发者汇聚，机器人供应链实现2小时响应、48小时交付，机器人餐厅上新“机器人厨师”……一系列亮眼成果接连落地北京经济技术开发区(简称“北京经开区”，也称“北京亦庄”)。目前，北京亦庄以Robot Mall机器人4S店为节点，串联起未来机域开发者社区、机器人供应链快速响应平台“机因工场”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679280.shtml",
-      "publishedAt": "2026-08-17T13:25:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679275.shtml",
-      "title": "“数智新城”山西阳泉变能源基地为算力高地",
-      "category": "综合",
-      "summary": "中新网太原8月17日电 (记者 李庭耀 杨静)“进入‘十五五’，我们的总体目标是争取到2030年，全市数字经济核心产业增加值增速稳定保持在8%以上。”山西省阳泉市副市长李燕斌17日在太原介绍。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679275.shtml",
-      "publishedAt": "2026-08-17T13:25:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#0",
       "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
       "category": "国际",
@@ -737,23 +754,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T00:05:40.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#0",
-      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
-      "category": "国际",
-      "summary": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T00:05:37.000Z",
       "tags": [
         "国际",
         "商业",
