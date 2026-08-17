@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T11:12:38.470Z",
-  "expiresAt": "2026-08-17T17:12:38.470Z",
+  "generatedAt": "2026-08-17T14:02:20.211Z",
+  "expiresAt": "2026-08-17T20:02:20.211Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679206.shtml",
-      "title": "特朗普：美国的“首要目标”是确保伊朗不能拥有核武器",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679326.shtml",
+      "title": "广东国际医疗试点成效显现 外籍人士就医人数同比增逾95%",
       "category": "综合",
-      "summary": "中新网8月17日电 当地时间17日，美国总统特朗普在社交媒体上发文称，“(美国)首要的目标始终是，确保伊朗不能以任何方式、任何形式拥有核武器”。",
+      "summary": "中新社广州8月17日电 (记者 蔡敏婕)广东省卫生健康委员会17日举行第九个中国医师节新闻发布会。记者从会上获悉，自今年2月该省国际医疗服务试点启动以来，25家医院国际医疗和特需医疗外籍人士就医人数同比增长95.6%，诊疗规模和效益持续向好。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679206.shtml",
-      "publishedAt": "2026-08-17T10:55:33.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679326.shtml",
+      "publishedAt": "2026-08-17T13:56:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,302 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201361.shtml",
-      "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679325.shtml",
+      "title": "广州提出至2028年服务贸易年进出口总额超1000亿美元",
+      "category": "综合",
+      "summary": "中新社广州8月17日电 (王华 秦小雅)广州市商务局17日晚发布有关建设方案，明确“三步走”发展目标，至2028年全市服务贸易年进出口总额超1000亿美元，当中还明确了20项与港澳服务贸易融合发展任务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679325.shtml",
+      "publishedAt": "2026-08-17T13:55:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679324.shtml",
+      "title": "海峡两岸（福建）大学生舞龙舞狮争霸赛在泉州开幕",
+      "category": "综合",
+      "summary": "中新社泉州8月17日电 (记者 孙虹)2026年海峡两岸(福建)大学生舞龙舞狮争霸赛17日晚在福建泉州开幕。两岸16支代表队将展开传统南狮、北狮、舞龙三大项目对决。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679324.shtml",
+      "publishedAt": "2026-08-17T13:53:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679322.shtml",
+      "title": "广东高院出台15条举措护航绿色低碳发展",
+      "category": "综合",
+      "summary": "中新网广州8月17日电 (方伟彬 马卓尔 王骁)广东省高级人民法院17日出台《关于司法服务保障绿色低碳发展的工作意见》(下称《意见》)，围绕理念引领、审判履职、产业护航、机制建设四个维度推出15条举措，将生态环境法典精神融入司法实践，为经济社会发展全面绿色转型提供全链条司法保障。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679322.shtml",
+      "publishedAt": "2026-08-17T13:53:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679327.shtml",
+      "title": "马来西亚每年车祸造成约300亿林吉特社会经济损失",
+      "category": "综合",
+      "summary": "中新社吉隆坡8月17日电 (记者 刘育英)马来西亚道路交通事故每年造成的社会经济损失高达约300亿林吉特(约合498亿元人民币)。2025年全国共有6537人死于道路交通事故，相当于平均每天约18人死亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679327.shtml",
+      "publishedAt": "2026-08-17T13:51:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679320.shtml",
+      "title": "暨南大学开展建校120周年办学地寻访调研活动",
+      "category": "综合",
+      "summary": "中新网广州8月17日电 (郭军 周会谦)“寻根铸魂 再启新程”暨南大学建校120周年办学地寻访调研团近日在该校党委书记孙彧、校长邢锋带领下，先后赴江苏南京、上海以及福建建阳、厦门四地，寻访学校办学旧址、开展校史教学、深化校地合作、交流办学经验。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679320.shtml",
+      "publishedAt": "2026-08-17T13:51:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679315.shtml",
+      "title": "“老腔新调”燃秋夜 华阴非遗点亮夜经济",
+      "category": "综合",
+      "summary": "中新网陕西华阴8月17日电 (杨英琦 王会军 张夏利)暮色四合，陕西华山脚下的华阴市却刚刚苏醒。河岸沿线，灯光渐次亮起，街边摆满凉粉、饸饹、油糕等特色小吃摊位，不少省外游客慕名而来，沉浸式体验华阴夜色文旅风情。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679315.shtml",
+      "publishedAt": "2026-08-17T13:51:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679313.shtml",
+      "title": "中法青年向云南移交抗战史料 借力AI守护历史真相",
+      "category": "综合",
+      "summary": "中新社昆明8月17日电 (罗婕)法国青年白士杰(Bastien Ratat)与马库斯(Marcus Détrez)、中国青年钟灏松17日在昆明向云南抗战胜利纪念堂博物馆移交一批抗日战争时期云南相关史料扫描件，共6份16页档案。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679313.shtml",
+      "publishedAt": "2026-08-17T13:50:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-17/10679312.shtml",
+      "title": "北魏平城时期嵌玻璃釉陶器可见中外文化交流因素",
+      "category": "综合",
+      "summary": "中新社太原8月17日电 (记者 李庭耀 杨静)山西省考古研究院17日对外发布，通过对北魏平城时期墓葬出土嵌玻璃釉陶器的系统分析研究，其工艺和成分可见中外文化交流因素。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679312.shtml",
+      "publishedAt": "2026-08-17T13:50:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679311.shtml",
+      "title": "天津邮轮口岸暑期出入境人员同比增长近两成",
+      "category": "综合",
+      "summary": "中新社天津8月17日电 (记者 周亚强)记者17日从天津边检总站东疆边检站获悉，今年暑期以来，天津邮轮口岸累计验放出入境人员9万余人次，其中出入境旅客近6.6万人次，同比均增长近20%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679311.shtml",
+      "publishedAt": "2026-08-17T13:49:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679310.shtml",
+      "title": "中国提出2030年国内油气供应量目标为4.4亿吨油当量",
+      "category": "综合",
+      "summary": "中新社北京8月17日电 (记者 王梦瑶)中国国家发改委、国家能源局17日公布《石油天然气发展“十五五”规划》。规划提出，2030年，中国国内油气供应量4.4亿吨油当量等目标。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679310.shtml",
+      "publishedAt": "2026-08-17T13:49:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679309.shtml",
+      "title": "青海行政执法、检察公益诉讼、环境审判合力保护江源生态",
+      "category": "综合",
+      "summary": "中新网西宁8月17日电 (潘雨洁)17日，青海省生态环境厅会同青海省高级人民法院、青海省人民检察院共同发布12起生态环境典型案例，以实例展现行政监管督促整改、环境损害依法担责、检察机关公益监督、法院司法裁判兜底的全链条生态治理模式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679309.shtml",
+      "publishedAt": "2026-08-17T13:48:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-17/10679308.shtml",
+      "title": "湖北地方戏曲艺术展演在武汉启幕",
+      "category": "综合",
+      "summary": "中新网武汉8月17日电 (记者 梁婷)湖北地方戏曲艺术展演17日晚在武汉启幕，集中呈现近年来湖北地方戏曲在剧目创作、剧种保护和人才培养方面的新成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679308.shtml",
+      "publishedAt": "2026-08-17T13:47:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679323.shtml",
+      "title": "（经济观察）7月数据揭示中国经济结构之变",
+      "category": "综合",
+      "summary": "中新社北京8月17日电(记者 王恩博)中国国家统计局最新公布的7月经济数据显现三大趋势，揭示中国经济结构正发生深刻变化。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679323.shtml",
+      "publishedAt": "2026-08-17T13:46:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679307.shtml",
+      "title": "全国首批：淘宝闪购青岛率先上线“等灯不计时”，骑士等灯时间不计入考核",
+      "category": "综合",
+      "summary": "送外卖等红灯不计时来了。8月17日“城市骑士日”，青岛联合淘宝闪购正式上线“等灯不计时”功能，成为全国首批落地城市之一。在青岛，首期将覆盖即墨区全部淘宝闪购骑士，接下来将进一步推广。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679307.shtml",
+      "publishedAt": "2026-08-17T13:45:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679302.shtml",
+      "title": "具身智能浪潮下，浙江产业如何“枝繁叶茂”？",
+      "category": "综合",
+      "summary": "中新网杭州8月17日电 题：具身智能浪潮下，浙江产业如何“枝繁叶茂”？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679302.shtml",
+      "publishedAt": "2026-08-17T13:45:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679300.shtml",
+      "title": "第168次中老缅泰湄公河联合巡逻执法行动启动",
+      "category": "综合",
+      "summary": "中新社昆明8月17日电 (记者 缪超)据云南省公安厅消息，8月17日9时，第168次中老缅泰湄公河联合巡逻执法行动启动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679300.shtml",
+      "publishedAt": "2026-08-17T13:41:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-17/10679319.shtml",
+      "title": "8月17日夜读",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201361.shtml",
-      "publishedAt": "2026-08-17T10:49:39.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-17/10679319.shtml",
+      "publishedAt": "2026-08-17T13:38:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679204.shtml",
-      "title": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679292.shtml",
+      "title": "兰建平：开源成为中国主导AI生态竞争的重要路径",
       "category": "综合",
-      "summary": "8月17日，国家主席习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电。",
+      "summary": "中新网杭州8月17日电(鲍梦妮)千问系列全球下载量破10亿次，衍生模型数量已超20万个，位居全球第一；“魔搭社区”作为国内第一大、全球第二大开源社区正加速激发智能体创新……17日，以“AI赋能具身未来——浙江的新引擎与新赛道”为主题的第三期民营经济大讲堂活动在杭州举行，浙江省发展规划研究院副院长兰建平作主旨演讲时表示，开源正成为中国主导AI生态竞争的重要路径",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679204.shtml",
-      "publishedAt": "2026-08-17T10:47:34.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679292.shtml",
+      "publishedAt": "2026-08-17T13:35:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679195.shtml",
-      "title": "华南国际咖啡交易创新中心落户广州白云区",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679290.shtml",
+      "title": "山西阳泉：“十五五”末可再生能源装机规模达到480万千瓦",
       "category": "综合",
-      "summary": "中新网广州8月17日电 (记者 王坚)据广州市白云区政府17日消息，华南国际咖啡交易创新中心、华南国际咖啡生豆分拨中心近日正式落户白云区三元里街汇德咖啡产业中心。",
+      "summary": "中新网太原8月17日电 (记者 杨静)“到‘十五五’末，可再生能源装机规模达到480万千瓦、储能达到200万千瓦以上。”山西阳泉市委副书记、市长陈凯17日在山西省委宣传部、山西省人民政府新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上表示，阳泉将立足实际，实施好“十五五”规划，走好高质量发展之路。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679195.shtml",
-      "publishedAt": "2026-08-17T10:44:52.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679290.shtml",
+      "publishedAt": "2026-08-17T13:35:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679203.shtml",
-      "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679289.shtml",
+      "title": "广州南沙新增一项通行粤港澳的职业资质",
       "category": "综合",
-      "summary": "国务院关于《特殊教育发展提升",
+      "summary": "中新网广州8月17日电 (记者 王坚)据广州市南沙区政府17日消息，南沙区“一试三证”技能人才评价体系迎来重要扩展——养老护理员项目近日正式落地。此举是继餐厅服务员、客房服务员之后，南沙在推动粤港澳技能人才互认方面取得的又一进展，粤港澳三地养老护理技能人才互认“最后一公里”顺利打通。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679203.shtml",
-      "publishedAt": "2026-08-17T10:44:24.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679289.shtml",
+      "publishedAt": "2026-08-17T13:34:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679193.shtml",
-      "title": "大疆诉美国国防部案取得实质性进展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679284.shtml",
+      "title": "黑龙江发布地质灾害气象风险蓝色预警",
       "category": "综合",
-      "summary": "中新网北京8月17日电 美国当地时间8月14日，大疆创新诉美国国防部案取得实质性进展。",
+      "summary": "中新网哈尔滨8月17日电(记者 王妮娜)黑龙江省自然资源厅和黑龙江省气象局于8月17日20时00分联合发布地质灾害气象风险蓝色预警。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679193.shtml",
-      "publishedAt": "2026-08-17T10:38:32.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679284.shtml",
+      "publishedAt": "2026-08-17T13:34:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +428,50 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201357.shtml",
-      "title": "中国人民银行发行江泽民诞辰100周年纪念币",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679316.shtml",
+      "title": "应对持续强降雨 多地多部门全力抢险救灾保通畅保民生",
+      "category": "综合",
+      "summary": "央视网消息：中央气象台预计，8月16日、17日两天，黑龙江东部、吉林东部等地降雨有所增强。17日之后，北方降雨增多，华南多地也会强降雨。16日，江苏太湖流域水位仍处于高位，多条河流水位超警。太湖沿线地区继续执行应急响应，巡堤查险，做好防洪排涝应急处置准备。水利部和中国气象局联合发布橙色山洪灾害气象预警。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679316.shtml",
+      "publishedAt": "2026-08-17T13:32:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-17/10679317.shtml",
+      "title": "坚持正确的中华民族历史观 把握好历史文化研究、阐释和宣传方向",
+      "category": "综合",
+      "summary": "核心提示",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-17/10679317.shtml",
+      "publishedAt": "2026-08-17T13:31:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201376.shtml",
+      "title": "（活力中国调研行）福建泉州惠女风情园影雕吸睛",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201357.shtml",
-      "publishedAt": "2026-08-17T10:36:45.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-17/1201376.shtml",
+      "publishedAt": "2026-08-17T13:30:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679201.shtml",
-      "title": "日媒：高市早苗前往医院接受手部等检查 停留超6个小时",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-17/10679283.shtml",
+      "title": "束景南遗著《阳明诗赋编年笺证》在沪首发",
       "category": "综合",
-      "summary": "中新网8月17日电 据日本广播协会(NHK)报道，当地时间17日上午，日本首相高市早苗前往东京都内的一家医院接受诊疗，停留时间近6个半小时。",
+      "summary": "中新网上海8月17日电 (记者 陈静)2024年，中国知名朱子学、阳明学研究专家束景南先生逝世。记者17日获悉，两年后，束景南先生生前最后一部力作《阳明诗赋编年笺证》正式付梓。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679201.shtml",
-      "publishedAt": "2026-08-17T10:31:21.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679283.shtml",
+      "publishedAt": "2026-08-17T13:28:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679200.shtml",
-      "title": "中国邮政发行《纪念江泽民同志诞辰100周年》纪念邮票",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679298.shtml",
+      "title": "一款适合高危场景作业的人形机器人在香港发布",
       "category": "综合",
-      "summary": "新华社北京8月17日电 中国邮政8月17日发行《纪念江泽民同志诞辰100周年》纪念邮票1套2枚、小型张1枚。邮票表现内容分别为：江泽民同志在上海、江泽民同志在中国共产党第十五次全国代表大会上。小型张表现内容为：江泽民同志在天安门城楼上向群众游行队伍挥手致意。",
+      "summary": "中新网香港8月17日电 (记者 刘玥晴)可实现30公斤常规操作负载、100至200公斤硬拉负载、60公斤双臂抱持负载，能高效完成重载搬运、物料转运、精细操作等任务……这款名为“小睿G3”(RayNex G3)的产业级人形机器人17日在香港科学园发布。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679200.shtml",
-      "publishedAt": "2026-08-17T10:27:45.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679298.shtml",
+      "publishedAt": "2026-08-17T13:26:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679191.shtml",
-      "title": "广西南丹一施工点山体滑坡致1人遇难 仍有4人被困",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679281.shtml",
+      "title": "北京未来企业家实训营开营 累计促成合作金额超2亿元",
       "category": "综合",
-      "summary": "今天，广西河池南丹县应急管理局发布情况通报，内容如下：",
+      "summary": "中新网北京8月17日电 (记者 杜燕)以“丰聚英才 企航未来——跟党创业为国创新利民奉献成就梦想”为主题的第四期北京未来企业家实训营17日在清华大学五道口金融学院正式拉开帷幕。第四期实训营在延续精品培育体系基础上，进一步强化思想引领、创新赋能、资源链接和生态建设，推动企业家培育从阶段性成长向全周期陪伴迈进。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679191.shtml",
-      "publishedAt": "2026-08-17T10:24:19.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679281.shtml",
+      "publishedAt": "2026-08-17T13:25:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679188.shtml",
-      "title": "“十四五”期间全国查处滥用行政权力排除、限制竞争案件290件",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679280.shtml",
+      "title": "北京加速机器人从实验室迈向市场",
       "category": "综合",
-      "summary": "中新网8月17日电 据“市说新语”微信公众号消息，“十四五”时期，市场监管部门持续加大反垄断执法力度，连续4年部署开展滥用行政权力排除、限制竞争执法相关专项行动，依法查处案件290件，有力制止行政机关违法干预市场竞争行为，促进优化营商环境，服务全国统一大市场建设。",
+      "summary": "中新网北京8月17日电 (杜燕 孙艳平)营业额超6000万元，2.2万余名开发者汇聚，机器人供应链实现2小时响应、48小时交付，机器人餐厅上新“机器人厨师”……一系列亮眼成果接连落地北京经济技术开发区(简称“北京经开区”，也称“北京亦庄”)。目前，北京亦庄以Robot Mall机器人4S店为节点，串联起未来机域开发者社区、机器人供应链快速响应平台“机因工场”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679188.shtml",
-      "publishedAt": "2026-08-17T10:15:00.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679280.shtml",
+      "publishedAt": "2026-08-17T13:25:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-17/10679176.shtml",
-      "title": "西安碑林海峡两岸临书展吸引游客参观",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679275.shtml",
+      "title": "“数智新城”山西阳泉变能源基地为算力高地",
       "category": "综合",
-      "summary": "8月17日，陕西西安，游客参观临书展。中新社记者 张远 摄 8月17日，陕西西安，游客参观临书展。中新社记者 张远 摄 8月17日，陕西西安，游客参观临书展。中新社记者 张远 摄",
+      "summary": "中新网太原8月17日电 (记者 李庭耀 杨静)“进入‘十五五’，我们的总体目标是争取到2030年，全市数字经济核心产业增加值增速稳定保持在8%以上。”山西省阳泉市副市长李燕斌17日在太原介绍。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-17/10679176.shtml",
-      "publishedAt": "2026-08-17T10:06:32.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679275.shtml",
+      "publishedAt": "2026-08-17T13:25:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,187 +572,42 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679187.shtml",
-      "title": "金民锡当选韩国执政党共同民主党党首",
-      "category": "综合",
-      "summary": "中新网8月17日电 据韩联社报道，当地时间17日，韩国执政党共同民主党在大田市举行全国党员大会，前国务总理金民锡当选新一任党首。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679187.shtml",
-      "publishedAt": "2026-08-17T10:04:22.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#0",
+      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
+      "category": "国际",
+      "summary": "美國30個州已對Meta提起訴訟，要求徹底改革年輕用戶的社交平台。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T12:16:16.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679184.shtml",
-      "title": "宁夏平罗县通报：不存在养殖场粪水直排情况",
-      "category": "综合",
-      "summary": "中新网8月17日电 据“平罗县陶乐镇”微信公众号消息，宁夏平罗县陶乐镇17日发布情况通报称，8月16日，网民反映陶乐镇施家台子村黄河岸边存在“养殖场粪水直排，污染地下水”问题，陶乐镇高度重视，第一时间组织力量开展核查处置工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679184.shtml",
-      "publishedAt": "2026-08-17T10:04:08.000Z",
+      "id": "sspai-https://sspai.com/post/113544",
+      "title": "派评 | 近期值得关注的 App",
+      "category": "科技",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113544",
+      "publishedAt": "2026-08-17T10:14:56.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-17/10679183.shtml",
-      "title": "侨乡海南文昌打造国际一流航天科技城",
-      "category": "综合",
-      "summary": "中新社海口8月17日电 (记者 符宇群)海南省文昌市市长曹树育17日在海南省新闻办公室于海口举行的新闻发布会上透露，“十五五”时期，文昌将坚持“向天图强”，全力保障“百箭千星”“梦舟揽月”“长九问天”三大国家级航天战略工程落地，打造国际一流航天科技城，形成具有全球影响力的航天产业集群。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-17/10679183.shtml",
-      "publishedAt": "2026-08-17T09:59:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679186.shtml",
-      "title": "金民锡当选韩国执政党共同民主党新任党首",
-      "category": "综合",
-      "summary": "韩国执政党共同民主党17日在大田举行全国代表大会，韩国前国务总理金民锡当选为新任党首，任期两年。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679186.shtml",
-      "publishedAt": "2026-08-17T09:58:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679185.shtml",
-      "title": "湖南发力智能机器人产业：力争2030年营收突破2000亿元 重点发展三个方向",
-      "category": "综合",
-      "summary": "中新网长沙8月17日电 (冯军)湖南最新发布的《关于加快智能机器人产业发展的实施意见》(以下简称《实施意见》)明确，到2028年全省智能机器人产业链营收力争突破1000亿元，到2030年突破2000亿元，综合实力进入全国第一梯队。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679185.shtml",
-      "publishedAt": "2026-08-17T09:58:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-17/10679178.shtml",
-      "title": "直击河南周口积水排涝作业",
-      "category": "综合",
-      "summary": "图为防汛抢险保供车。中新社记者 刘鹏 摄 图为消防官兵正在布设排水管道。中新社记者 刘鹏 摄 图为积水排入河道。中新社记者 刘鹏 摄 图为消防官兵在排涝作业现场。中新社记者 刘鹏 摄 图为消防官兵在排涝作业现场。中新社记者 刘鹏 摄 图为周口市文昌大道与高铁大道排涝点。中新社记者 刘鹏 摄 图为消防官兵正在集结。李海珠 摄 图为消防官兵正在进行排涝作业。李海",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-17/10679178.shtml",
-      "publishedAt": "2026-08-17T09:54:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679177.shtml",
-      "title": "（活力中国调研行）福建构建特色养老服务体系",
-      "category": "综合",
-      "summary": "中新网福州8月17日电 (郑江洛 孙虹)“活力中国调研行”主题采访活动福建站17日在福州启动。近年来，福建立足本土实际，着力构建富有地方特色的养老服务体系。福建省民政厅厅长郭学军当日在福州表示，福建省民政部门正打造“福建幸福里，养老就选你”服务体系，以闽式服务托起最美夕阳红。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679177.shtml",
-      "publishedAt": "2026-08-17T09:51:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679179.shtml",
-      "title": "中国农业发展银行原副行长徐一丁被“双开”",
-      "category": "综合",
-      "summary": "中新社北京8月17日电 中央纪委国家监委17日通报，中国农业发展银行原党委委员、副行长徐一丁严重违纪违法被开除党籍和公职。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679179.shtml",
-      "publishedAt": "2026-08-17T09:50:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679181.shtml",
-      "title": "中国城市7月房价：一线环比趋稳，各线同比降幅持续收窄",
-      "category": "综合",
-      "summary": "中新社北京8月17日电 (记者 庞无忌)尽管进入季节性淡季，但中国核心城市房价趋稳态势持续。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679181.shtml",
-      "publishedAt": "2026-08-17T09:49:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679180.shtml",
-      "title": "中国拟打造约6万公里精品自驾旅游公路",
-      "category": "综合",
-      "summary": "中新社北京8月17日电 (记者 刘文文)中国拟打造总里程约6万公里的“三环、四横、五纵”精品自驾旅游公路。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679180.shtml",
-      "publishedAt": "2026-08-17T09:47:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#1",
       "title": "泰國槍枝問題規模有多大？1000萬把槍",
       "category": "国际",
       "summary": "泰國近期發生的槍擊事件凸顯了該國違法擁有槍支的問題，而相關法律對遏制暴力行為收效甚微。",
@@ -441,42 +620,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679175.shtml",
-      "title": "广东强降雨频繁 80个镇街出现暴雨、大暴雨",
-      "category": "综合",
-      "summary": "中新网广州8月17日电 (记者 王坚)广东多地16日白天到17日早晨遭遇强降雨，全省有80个镇街出现暴雨、大暴雨，全省最大降雨量达163.6毫米。广东气象部门称，该省近期降雨又将趋于频繁。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679175.shtml",
-      "publishedAt": "2026-08-17T09:41:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679169.shtml",
-      "title": "（乡村行·看振兴）广西百色浩坤湖避暑游升温 山水兴业茶香留客",
-      "category": "综合",
-      "summary": "中新网百色8月17日电 题：广西百色浩坤湖避暑游升温 山水兴业茶香留客",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679169.shtml",
-      "publishedAt": "2026-08-17T09:40:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -494,114 +637,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679108.shtml",
-      "title": "《石油天然气发展“十五五”规划》印发",
-      "category": "综合",
-      "summary": "中新网8月17日电 据国家发改委网站消息，8月17日，国家发展改革委、国家能源局印发《石油天然气发展“十五五”规划》。其中提到，锚定保障能源安全和绿色低碳发展两大任务，到2030年逐步建设形成“自主保障能力持续增强、管网输配高效衔接、储备调节充足灵活、生产方式绿色低碳、运行安全平稳高效、加工利用高端高质、科技水平自主突破、国际合作灵活多元”的现代油气产业体系",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679108.shtml",
-      "publishedAt": "2026-08-17T09:40:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-17/10679151.shtml",
-      "title": "国家发展改革委：加大对民间投资项目支持力度",
-      "category": "综合",
-      "summary": "中新网8月17日电 据国家发展改革委微信公众号消息，2026年8月14日，国家发展改革委党组成员、副主任岳修虎同志主持召开工作会议，部署加快推进2026年新型政策性金融工具投放工作，加大对民间投资项目支持力度。部分省份发展改革委负责同志，国家开发银行、中国进出口银行、中国农业发展银行负责同志，国家发展改革委各有关司局负责同志参加会议。下一步，国家发展改革委将",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679151.shtml",
-      "publishedAt": "2026-08-17T09:39:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679171.shtml",
-      "title": "A股周一放量上涨 长鑫科技市值超4万亿元",
-      "category": "综合",
-      "summary": "中新社北京8月17日电 (记者 陈康亮)中国A股17日(周一)放量上涨，主要股指悉数飘红。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679171.shtml",
-      "publishedAt": "2026-08-17T09:39:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-17/10679168.shtml",
-      "title": "华裔大学生海南研习行：“他们不是漂泊，而是把根扎在了大海里”",
-      "category": "综合",
-      "summary": "中新网海南陵水8月17日电 题：华裔大学生海南研习行：“他们不是漂泊，而是把根扎在了大海里”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-17/10679168.shtml",
-      "publishedAt": "2026-08-17T09:39:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679172.shtml",
-      "title": "人民币对美元汇率升破6.74",
-      "category": "综合",
-      "summary": "中新社北京8月17日电 (陶思阅)在岸、离岸人民币对美元即时汇率17日双双升破6.74关口，创2023年2月上旬以来新高。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679172.shtml",
-      "publishedAt": "2026-08-17T09:38:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10679173.shtml",
-      "title": "2026年第二届中哈地方间青少年体育交流周启幕",
-      "category": "综合",
-      "summary": "中新网新疆阿拉山口8月17日电 (张家伟)2026年第二届中哈地方间青少年体育交流周17日上午正式启动赛事活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679173.shtml",
-      "publishedAt": "2026-08-17T09:37:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -754,23 +789,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T10:44:03.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr49931x112o/trad#1",
-      "title": "為何Z世代女性比母親一代更了解月經？",
-      "category": "国际",
-      "summary": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T08:34:23.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1199,24 +1217,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/112279",
-      "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
-      "category": "科技",
-      "summary": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/112279",
-      "publishedAt": "2026-08-14T02:54:21.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
