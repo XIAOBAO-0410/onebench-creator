@@ -5,6 +5,48 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679349.shtml",
+      "title": "巴西“乐”“粤”与共 庆祝巴中建交52周年",
+      "meta": "中国新闻网 · 2026/8/17",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679349.shtml",
+      "publishedAt": "2026-08-17T15:56:22.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-17/10679346.shtml",
+      "title": "中国男篮热身赛惜败新西兰男篮",
+      "meta": "中国新闻网 · 2026/8/17",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-17/10679346.shtml",
+      "publishedAt": "2026-08-17T15:54:13.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679348.shtml",
+      "title": "伊朗战事拖累选情 美总统被曝拨款支持共和党候选人",
+      "meta": "中国新闻网 · 2026/8/17",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679348.shtml",
+      "publishedAt": "2026-08-17T15:52:51.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679345.shtml",
+      "title": "韩国前国务总理金民锡当选执政党共同民主党党首",
+      "meta": "中国新闻网 · 2026/8/17",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679345.shtml",
+      "publishedAt": "2026-08-17T15:50:47.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-17/10679347.shtml",
+      "title": "暴食后真有“后悔药”吗？专家：网传方法存健康隐患",
+      "meta": "中国新闻网 · 2026/8/17",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-17/10679347.shtml",
+      "publishedAt": "2026-08-17T15:50:05.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679344.shtml",
+      "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
+      "meta": "中国新闻网 · 2026/8/17",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-17/10679344.shtml",
+      "publishedAt": "2026-08-17T15:17:05.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-17/10679342.shtml",
       "title": "美军宣布与雷神公司签订229亿美元“战斧”导弹合同",
       "meta": "中国新闻网 · 2026/8/17",
@@ -171,50 +213,8 @@
       "meta": "中国新闻网 · 2026/8/17",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679300.shtml",
       "publishedAt": "2026-08-17T13:41:39.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-17/10679319.shtml",
-      "title": "8月17日夜读",
-      "meta": "中国新闻网 · 2026/8/17",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-17/10679319.shtml",
-      "publishedAt": "2026-08-17T13:38:13.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679292.shtml",
-      "title": "兰建平：开源成为中国主导AI生态竞争的重要路径",
-      "meta": "中国新闻网 · 2026/8/17",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679292.shtml",
-      "publishedAt": "2026-08-17T13:35:35.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-17/10679290.shtml",
-      "title": "山西阳泉：“十五五”末可再生能源装机规模达到480万千瓦",
-      "meta": "中国新闻网 · 2026/8/17",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679290.shtml",
-      "publishedAt": "2026-08-17T13:35:13.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-17/10679289.shtml",
-      "title": "广州南沙新增一项通行粤港澳的职业资质",
-      "meta": "中国新闻网 · 2026/8/17",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-17/10679289.shtml",
-      "publishedAt": "2026-08-17T13:34:53.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679284.shtml",
-      "title": "黑龙江发布地质灾害气象风险蓝色预警",
-      "meta": "中国新闻网 · 2026/8/17",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679284.shtml",
-      "publishedAt": "2026-08-17T13:34:33.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-17/10679316.shtml",
-      "title": "应对持续强降雨 多地多部门全力抢险救灾保通畅保民生",
-      "meta": "中国新闻网 · 2026/8/17",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679316.shtml",
-      "publishedAt": "2026-08-17T13:32:01.000Z"
     }
   ],
-  "updatedAt": "2026-08-17T15:12:33.979Z",
+  "updatedAt": "2026-08-17T17:49:05.662Z",
   "provider": "OneBench 公共资讯快照"
 }
