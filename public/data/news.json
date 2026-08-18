@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T03:13:10.940Z",
-  "expiresAt": "2026-08-18T09:13:10.940Z",
+  "generatedAt": "2026-08-18T05:49:57.502Z",
+  "expiresAt": "2026-08-18T11:49:57.502Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679400.shtml",
-      "title": "生态环境法典“第一案”传递的信号",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679549.shtml",
+      "title": "前7个月北京服务机器人产量增长2.3倍",
       "category": "综合",
-      "summary": "8月15日，我国第二部法典——《中华人民共和国生态环境法典》正式施行。当日，全国首例适用生态环境法典审理的噪声污染责任纠纷案在浙江省衢州市衢江区人民法院开庭并当庭宣判。(见8月15日央视新闻客户端)",
+      "summary": "中新社北京8月18日电 (记者 陈杭)北京市统计局、国家统计局北京调查总队18日发布的数据显示，今年前7个月，北京规模以上高技术制造业、工业战略性新兴产业增加值同比(下同)分别增长17.8%和13.9%(二者有交叉)，服务机器人、工业机器人、风力发电机组、新能源汽车产量分别增长2.3倍、70.5%、28.7%和16.9%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679400.shtml",
-      "publishedAt": "2026-08-18T03:07:44.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679549.shtml",
+      "publishedAt": "2026-08-18T05:44:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-18/10679492.shtml",
-      "title": "海南推进国际教育创新岛建设调查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679519.shtml",
+      "title": "智能机器人“上岗” 风险该由谁来担",
       "category": "综合",
-      "summary": "“家门口留学”到底香不香",
+      "summary": "不同于传统工业机器人的定点重复作业，具身智能机器人运行往往高度灵活，这意味着安全风险增多，市场顾虑“不敢用、怕用坏、赔不起”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-18/10679492.shtml",
-      "publishedAt": "2026-08-18T03:02:44.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679519.shtml",
+      "publishedAt": "2026-08-18T05:41:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-18/10679484.shtml",
-      "title": "从石狮到纽约，再从世界回到海边：杨紫明的“归去来”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679548.shtml",
+      "title": "（经济观察）封关催热海南维修产业 加速对接全球市场",
       "category": "综合",
-      "summary": "中新网北京8月18日电 题：从石狮到纽约，再从世界回到海边：杨紫明的“归去来”",
+      "summary": "中新社海口8月18日电 (记者 王子谦)随着海南龙盘油田科技有限公司(简称“海南龙盘”)进口的15台油田压裂车发动机8月17日运抵位于海南省澄迈县的工厂，海南自贸港首单油田装备保税维修业务正式开展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-18/10679484.shtml",
-      "publishedAt": "2026-08-18T03:00:08.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679548.shtml",
+      "publishedAt": "2026-08-18T05:40:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679496.shtml",
-      "title": "伪造的下单页面、诱导共享屏幕……揭秘免费探店、免费试吃诈骗链条",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679503.shtml",
+      "title": "绿色产业拓展成长新赛道 青年学子如何乘势而上",
       "category": "综合",
-      "summary": "免费探店、免费试吃，对于喜欢分享美食的年轻人来说并不陌生。商家提供餐食，消费者体验后发布图文笔记，这类真实存在的推广模式，正在被诈骗分子盯上，一些诈骗分子在社交平台发布“免费探店”“素人也可报名”等信息，以高额餐券、先付款后返还等方式，将消费者引向伪造的下单页面。",
+      "summary": "【职引未来·新职业图鉴】",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679496.shtml",
-      "publishedAt": "2026-08-18T03:00:06.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679503.shtml",
+      "publishedAt": "2026-08-18T05:39:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679488.shtml",
-      "title": "日本民众集会抗议高市政府政策：为了党派利益忽视国民生活",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679515.shtml",
+      "title": "年轻人体验起了“杀糕局”",
       "category": "综合",
-      "summary": "中新网8月18日电 综合日媒18日报道，近日，大批日本民众及代表在东京众议院第二议员会馆前举行集会，抗议高市政府强行推进包括“国家情报会议设置法”在内的多项“恶法”，批评其“为了党派利益而忽视国民生活”。",
+      "summary": "一个周末午后的咖啡馆长桌上，10余款造型各异的蛋糕依次排开，一群素未谋面的年轻人围坐桌边。没有生日歌，不必自我介绍，随着组织者切分蛋糕，一场依靠线上邀约、线下相聚的“杀糕局”活动正式开场。叉子轻触奶油，蛋糕被均匀分成小块，这群互相并不熟悉的年轻人自取餐盘、浅尝滋味。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679488.shtml",
-      "publishedAt": "2026-08-18T02:59:27.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679515.shtml",
+      "publishedAt": "2026-08-18T05:37:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-18/10679426.shtml",
-      "title": "勇立潮头大湾区｜“一站式”出海 国产汽车跑出“加速度”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-18/1201389.shtml",
+      "title": "天安门下半旗悼念朱镕基同志",
       "category": "综合",
-      "summary": "“到港即整备、整备即出海”",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679426.shtml",
-      "publishedAt": "2026-08-18T02:58:53.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-18/1201389.shtml",
+      "publishedAt": "2026-08-18T05:34:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679482.shtml",
-      "title": "未来产业大会将于8月26日至27日在成都举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679561.shtml",
+      "title": "云南华宁小船侧翻事件其余3名失联人员已搜寻到 均无生命体征",
       "category": "综合",
-      "summary": "中新网北京8月18日电(记者 张尼)17日，未来产业大会新闻发布会在北京召开。记者获悉，由中国电子信息产业发展研究院、成都市经济和信息化局共同主办的未来产业大会，将于2026年8月26日-27日在四川省成都市举行，本次大会主题是“创新源动力 智启新未来”。",
+      "summary": "记者从云南省华宁县人民政府新闻办公室了解到，经全力搜救和鉴定确认，华宁县盘溪镇村民自用小船侧翻事件其余3名失联人员全部搜寻到，已无生命体征。目前，善后工作正在有序开展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679482.shtml",
-      "publishedAt": "2026-08-18T02:57:21.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679561.shtml",
+      "publishedAt": "2026-08-18T05:33:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679472.shtml",
-      "title": "溃口合龙后——沙颍河畔，河南周口接续迎战防汛大考",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679497.shtml",
+      "title": "文明旅游正被年轻人丰富定义",
       "category": "综合",
-      "summary": "中新网周口8月18日电 题：溃口合龙后——沙颍河畔，河南周口接续迎战防汛大考",
+      "summary": "暨南大学的学子，将疍家渔歌转化为公益集市上的文创产品；兰州文理学院的学生，实地校对金城关景区的每一处外文标识；中南大学的同学穿行涔天河湿地，用镜头记录人文之美和生态文明……这些2026年夏天活跃在祖国各地的年轻人，正用自己的方式回答同一个时代命题：当代，文明旅游究竟应该是什么模样？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679472.shtml",
-      "publishedAt": "2026-08-18T02:54:49.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679497.shtml",
+      "publishedAt": "2026-08-18T05:32:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679486.shtml",
-      "title": "习近平总书记指引企业坚定不移走高质量发展之路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679494.shtml",
+      "title": "温情呵护“一老一小” 绘就“全龄友好”幸福画卷",
       "category": "综合",
-      "summary": "国内生产总值同比增长4.7%、规模以上工业企业实现利润总额同比增长18.7%、新动能对经济增长贡献率超过四成……走过“十五五”首个半年，我国经济动能向新、结构向优的发展态势，离不开亿万企业的奋勇争先、实干笃行。",
+      "summary": "大战略牵引新开局｜温情呵护“一老一小” 绘就“全龄友好”幸福画卷",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679486.shtml",
-      "publishedAt": "2026-08-18T02:54:17.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679494.shtml",
+      "publishedAt": "2026-08-18T05:25:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679489.shtml",
-      "title": "直击民生痛点 北京平房院落标准化更新方案出炉",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679480.shtml",
+      "title": "美国利率高位停留时间或拉长",
       "category": "综合",
-      "summary": "近日，《北京普通平房院落高质量更新综合解决方案白皮书》正式发布，依托白皮书试点推出标准化改造体系，住在胡同里的居民一直最关心的厨房和卫生间入户等民生痛点，有了新的解决方案。",
+      "summary": "8月份最新数据显示，美国通胀水平仍居高不下，上游产品价格黏性尚未消退，就业市场再度出现骤然降温情况。这种局面下，美联储短期内并不具备降息的条件，加之美国经济增长前景并未显著改善，美国利率在高位停留的时间或继续拉长。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679489.shtml",
-      "publishedAt": "2026-08-18T02:51:57.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679480.shtml",
+      "publishedAt": "2026-08-18T05:21:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679479.shtml",
-      "title": "（活力中国调研行）福州老街区里的“新”活力：让闽都文化“可感可触”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679539.shtml",
+      "title": "河南省运动会开幕式彩排火炬掉落，官方回应",
       "category": "综合",
-      "summary": "中新网福州8月18日电 (郑江洛 雷宇竺)盛夏傍晚，福州上下杭历史文化街区三捷河畔，青砖古厝间茉莉茶香袅袅；游客跟着传承人体验“筛花”茉莉花窨制工艺……这条百年商埠老街，正依托体验式消费，让闽都文化变得“可感可触”。",
+      "summary": "中新网8月18日电 据安阳市文化广电体育旅游局微信公众号消息，8月18日，河南省第十五届运动会暨第九届残运会、安阳执行委员会发布情况说明：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679479.shtml",
-      "publishedAt": "2026-08-18T02:49:19.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679539.shtml",
+      "publishedAt": "2026-08-18T05:21:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679418.shtml",
-      "title": "产业布局切忌盲目跟风——推进乡村全面振兴系列谈之一",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679546.shtml",
+      "title": "多地密集布局词元经济赛道 探索本土化发展路径",
       "category": "综合",
-      "summary": "一哄而上发展民宿、千篇一律布局“村咖”、以文旅之名推动非农化项目……记者在多地采访发现，部分农村地区产业布局盲目跟风，忽视自身产业基础，偏离农业发展实际，折射出当下部分农村在推进乡村全面振兴中存在的深层次问题。",
+      "summary": "当前，一场围绕“词元经济”的地方竞速悄然拉开帷幕。据记者不完全统计，近期，广东、北京、四川、海南、江苏、湖北、贵州等地纷纷布局词元经济，有的出台政策做好产业指引，有的创新Token(词元)券等政策工具，不少地方还因地制宜探索适合本土的词元经济发展路径。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679418.shtml",
-      "publishedAt": "2026-08-18T02:48:45.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679546.shtml",
+      "publishedAt": "2026-08-18T05:20:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679481.shtml",
-      "title": "（长江十年行）十里江湾蝶变记：长江岸线的“绿色转身”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679478.shtml",
+      "title": "让家政服务方便找放心用",
       "category": "综合",
-      "summary": "中新网芜湖8月18日电 题：十里江湾蝶变记：长江岸线的“绿色转身”",
+      "summary": "标准化、职业化、产业化",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679481.shtml",
-      "publishedAt": "2026-08-18T02:46:13.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679478.shtml",
+      "publishedAt": "2026-08-18T05:17:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-18/10679415.shtml",
-      "title": "【理响中国·经视图】坚定不移走中国特色金融发展之路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-18/10679417.shtml",
+      "title": "保护“脆弱”文物不能只靠高价门票",
       "category": "综合",
-      "summary": "来源：中国经济网",
+      "summary": "【新闻随笔】保护“脆弱”文物不能只靠高价门票",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-18/10679415.shtml",
-      "publishedAt": "2026-08-18T02:36:28.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679417.shtml",
+      "publishedAt": "2026-08-18T05:13:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679471.shtml",
-      "title": "开局起步“十五五”：世界一流商业航天发射场，海南如何建？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/08-18/10679542.shtml",
+      "title": "认为楼上制造噪音 楼下邻居用音响反制合法吗？法院这样判",
       "category": "综合",
-      "summary": "中新网海口8月18日电 (记者 符宇群)“世界一流商业航天发射场”，成为“十五五”时期海南商业航天发射场建设的新坐标。",
+      "summary": "8月16日，CCTV今日说法公开一起案例《楼下邻居认为楼上制造噪声扰民，远程操控音响、电视反制，法院这样判》，全文如下：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679471.shtml",
-      "publishedAt": "2026-08-18T02:35:20.000Z",
+      "url": "https://www.chinanews.com.cn/fz/2026/08-18/10679542.shtml",
+      "publishedAt": "2026-08-18T05:12:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679475.shtml",
-      "title": "从芯片到瓜子水饺，美式制裁大棒扯落了自己的遮羞布丨新闻会客厅",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/2026/08-18/news1065743.shtml",
+      "title": "中老铁路货物运输量突破9000万吨",
       "category": "综合",
-      "summary": "中新网北京8月18日电 题：从芯片到瓜子水饺，美式制裁大棒扯落了自己的遮羞布",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679475.shtml",
-      "publishedAt": "2026-08-18T02:35:08.000Z",
+      "url": "http://www.chinanews.com.cn/cj/shipin/2026/08-18/news1065743.shtml",
+      "publishedAt": "2026-08-18T05:12:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679447.shtml",
-      "title": "南非接任南共体轮值主席国 聚焦工业化与区域互联互通",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679477.shtml",
+      "title": "别在药品商标上玩“原研一致”的“心机”",
       "category": "综合",
-      "summary": "中新社南非德班8月18日电(记者 孙翔)第46届南部非洲发展共同体(南共体)首脑会议17日在南非德班举行，南非正式接任这一拥有16个成员国的区域组织轮值主席国。",
+      "summary": "近日，一款包装标注“原研一致”字样的红霉素眼膏引发关注。据8月16日中国新闻网报道，使用“原研一致”商标的药品不止一款。多家药企的红霉素软膏、开塞露、银杏叶片等多款非原研药包装上均印有这一标识。在多个电商平台，部分商家还在商品标题中加入了“原研一致”的表述。不过，这并不代表药品通过了“仿制药质量和疗效一致性评价”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679447.shtml",
-      "publishedAt": "2026-08-18T02:33:02.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679477.shtml",
+      "publishedAt": "2026-08-18T05:10:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679470.shtml",
-      "title": "河南开封：“运河名都”展现千年汴水风华",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679476.shtml",
+      "title": "从“三蚊鸡到巴西”到广货卖全球 粤西好物闯出大市场",
       "category": "综合",
-      "summary": "中新网开封8月18日电 (刘鹏 左起超 王博)初秋时节，一批批游客和研学团队来到河南开封黄河悬河文化园，他们仰望“古汴河河道剖面”的层层曲线，观看“洪水灌城”的复原场景，亲手发掘城市地下的“文物碎片”……大家纷纷沉浸在大运河开封段“城摞城”“河摞河”的奇特场景中。",
+      "summary": "“粤”上新台阶丨从“三蚊鸡到巴西”到广货卖全球 粤西好物闯出大市场",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679470.shtml",
-      "publishedAt": "2026-08-18T02:32:54.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679476.shtml",
+      "publishedAt": "2026-08-18T05:08:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679446.shtml",
-      "title": "欧盟驰援比利时和西班牙应对山火",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679474.shtml",
+      "title": "长江十年行｜江西九江：一代人收网 几代人有鱼",
       "category": "综合",
-      "summary": "中新社布鲁塞尔8月17日电(记者 德永健)欧洲今夏山火持续蔓延，欧盟17日通报调派飞机和消防员，驰援比利时和西班牙应对山火。",
+      "summary": "央视网消息(记者 熊赳赳)鄱阳湖江西九江都昌水域，晨光初照。“噗——”一头江豚跃出水面，划出一道弧线，又钻入水中。巡护员曹凑平望着江豚消失的方向，笑了。他数了数，五头。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679446.shtml",
-      "publishedAt": "2026-08-18T02:32:30.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679474.shtml",
+      "publishedAt": "2026-08-18T05:07:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679469.shtml",
-      "title": "重庆龙兴通用机场“护航人”：从朝霞到夜阑",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679464.shtml",
+      "title": "管线入廊，城市“里子”更强韧",
       "category": "综合",
-      "summary": "中新网重庆8月18日电 题：重庆龙兴通用机场“护航人”：从朝霞到夜阑",
+      "summary": "深圳推进地下管网更新升级",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679469.shtml",
-      "publishedAt": "2026-08-18T02:30:48.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679464.shtml",
+      "publishedAt": "2026-08-18T05:03:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679430.shtml",
-      "title": "巴西里约热内卢大学孔院携手要塞乐团共奏中巴友谊华章",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/08-18/10679459.shtml",
+      "title": "盗用切片推广竞品 杭州两级法院以不正当竞争落判",
       "category": "综合",
-      "summary": "中新网里约热内卢8月17日电(杨霞 段世广)当地时间8月16日，巴西音乐人在巴西里约科帕卡巴纳要塞举行全中文音乐会，里约热内卢天主教大学孔子学院共襄盛举，同期举办别开生面的中国文化体验活动，共同庆祝中巴建交52周年。",
+      "summary": "篡改知名艺人直播配音盗用切片推广竞品",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679430.shtml",
-      "publishedAt": "2026-08-18T02:30:32.000Z",
+      "url": "https://www.chinanews.com.cn/fz/2026/08-18/10679459.shtml",
+      "publishedAt": "2026-08-18T04:57:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679429.shtml",
-      "title": "欧盟紧急援助230万欧元应对西非和中部非洲霍乱疫情",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679524.shtml",
+      "title": "菲律宾南部校园枪击事件致2人死亡",
       "category": "综合",
-      "summary": "中新网布鲁塞尔8月18日电(记者 德永健)欧盟17日宣布提供230万欧元紧急人道主义援助，应对西非和中部非洲持续蔓延的霍乱疫情。",
+      "summary": "中新网马尼拉8月18日电 当地时间18日上午，菲律宾南部三宝颜市发生一起校园枪击事件，已致2人死亡。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679429.shtml",
-      "publishedAt": "2026-08-18T02:29:54.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679524.shtml",
+      "publishedAt": "2026-08-18T04:45:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679425.shtml",
-      "title": "银河系早期是如何形成的？天文研究新发现123亿年前并合事件",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-18/10679538.shtml",
+      "title": "19.9元一斤！榴莲价格为何“崩了”",
       "category": "综合",
-      "summary": "中新网北京8月18日电(记者 孙自法)施普林格·自然旗下专业学术期刊《自然-天文学》最新发表一篇论文称，天文学家研究发现在约123亿年前，银河系与名为“低能克拉肯-赫拉克勒斯”(Low-energy-Kraken-Heracles)系统的一次并合事件，这比之前与“盖亚-香肠-土卫二”(Gaia–Sausage-Enceladus)矮星系的并合事件要早18亿年",
+      "summary": "近日",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679425.shtml",
-      "publishedAt": "2026-08-18T02:29:32.000Z",
+      "url": "https://www.chinanews.com.cn/life/2026/08-18/10679538.shtml",
+      "publishedAt": "2026-08-18T04:41:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679424.shtml",
-      "title": "中国援圭医疗队牵头建成健康促进中心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-18/10679533.shtml",
+      "title": "澳门山东社团总会：当好“精准联络人” 解锁合作新赛道",
       "category": "综合",
-      "summary": "中新网乔治敦8月17日电(李妍雨)当地时间8月15日，作为中圭卫生合作的重要惠民成果，第21批援圭亚那中国医疗队健康促进中心在圭亚那卫生部正式揭牌成立。",
+      "summary": "中新社济南8月18日电 (吕妍)“这次考察，一个细节令我印象深刻：穿梭在澳门街头的部分巴士，原来是山东制造。”澳门山东社团总会理事长冷垚告诉记者，他希望依托社团平台深挖两地合作的互补性，利用好澳门“1+4”经济适度多元发展策略与山东高质量发展的契合点，推动山东优质资源落地澳门。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679424.shtml",
-      "publishedAt": "2026-08-18T02:28:52.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679533.shtml",
+      "publishedAt": "2026-08-18T04:24:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-18/10679462.shtml",
-      "title": "轻翻书页，走上成长的小径——专访儿童文学作家秦文君",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/ty/shipin/cns-d/2026/08-18/news1065741.shtml",
+      "title": "2026年第二届中哈地方间青少年体育交流周启幕",
       "category": "综合",
-      "summary": "中新网上海8月18日电 题：轻翻书页，走上成长的小径——专访儿童文学作家秦文君",
+      "summary": "8月17日，2026年第二届中哈地方间青少年体育交流周在新疆阿拉山口市正式启动赛事活动，来自哈萨克斯坦的37名运动员参加此次活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679462.shtml",
-      "publishedAt": "2026-08-18T02:28:40.000Z",
+      "url": "http://www.chinanews.com.cn/ty/shipin/cns-d/2026/08-18/news1065741.shtml",
+      "publishedAt": "2026-08-18T04:23:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679473.shtml",
-      "title": "把大海“搬”进实验室 解码我国漂浮式风电硬核底气",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679535.shtml",
+      "title": "四部门发布《关于加强医院法治建设的意见》",
       "category": "综合",
-      "summary": "“十五五”规划建议对强化国家战略科技力量、强化关键核心技术攻关作出重点部署。国家重点实验室、国家工程研究中心作为科技创新重要载体，一头连着基础研究原始创新，一头连着产业落地与国计民生。",
+      "summary": "中新网8月18日电 据国家卫健委网站消息，国家卫生健康委、教育部、国家中医药局、国家疾控局今天联合印发《关于加强医院法治建设的意见》。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679473.shtml",
-      "publishedAt": "2026-08-18T02:28:08.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679535.shtml",
+      "publishedAt": "2026-08-18T04:14:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-18/10679411.shtml",
-      "title": "经得住“火眼金睛”（中国道路中国梦·每一个人都是主角）",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679536.shtml",
+      "title": "强降雨引发四川一处地质灾害 提前避险转移55928人",
       "category": "综合",
-      "summary": "戏，从来不是招式套路的拼凑，而是戏理、气韵的起承转合。演之有物、演之成理，观众才能听得懂、看得进、爱得深",
+      "summary": "总台记者从四川省地质灾害防治指挥部办公室获悉，8月17日8时至8月18日8时，四川内江、成都、自贡、眉山、凉山、宜宾、乐山、资阳、德阳、阿坝、绵阳等地降大到暴雨，局部大暴雨，最大为内江市威远县越溪俩母山站166.4毫米。强降雨引发甘孜一处地质灾害，无人员伤亡，当地已采取防范措施。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/08-18/10679411.shtml",
-      "publishedAt": "2026-08-18T02:27:58.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679536.shtml",
+      "publishedAt": "2026-08-18T04:11:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679457.shtml",
-      "title": "一位镁业人的“变形记”：把地下的石头变成“天上的翅膀”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679454.shtml",
+      "title": "多地城市夜间经济持续升温 专家建议精细化治理",
       "category": "综合",
-      "summary": "中新网太原8月18日电 题：一位镁业人的“变形记”：把地下的石头变成“天上的翅膀”",
+      "summary": "多地城市夜间经济持续升温 专家建议",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679457.shtml",
-      "publishedAt": "2026-08-18T02:27:00.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679454.shtml",
+      "publishedAt": "2026-08-18T04:05:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679458.shtml",
-      "title": "开渔“第一网”新鲜上市！多地海鲜迎来供销高峰",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679453.shtml",
+      "title": "“十五五”开局之年推进未来产业发展一线观察",
       "category": "综合",
-      "summary": "南海伏季休渔期昨天中午结束，从今天凌晨开始，海南首批出海渔船陆续返港，开渔后的“第一网”渔获新鲜上岸。",
+      "summary": "医院里，脑机接口技术帮助患者用意念操控机械臂；城市街头，具身智能机器人变身零售店员工做咖啡、卖商品；实验室里，“人造太阳”不断刷新运行纪录……一幕幕创新图景，映射未来产业拔节生长态势。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679458.shtml",
-      "publishedAt": "2026-08-18T02:26:17.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679453.shtml",
+      "publishedAt": "2026-08-18T04:01:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +554,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-18/10679451.shtml",
-      "title": "五百余名武术健儿齐聚陕西 演绎红拳之韵赓续非遗文脉",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679405.shtml",
+      "title": "为什么中国的“新农具”这么“聪明”？",
       "category": "综合",
-      "summary": "中新网陕西咸阳8月18日电 (记者 张一辰)陕西省首届红拳公开赛17日在咸阳市三原县体育运动中心正式开赛。来自全国的78支代表队、524名武术健儿同台竞技，展现红拳风采。",
+      "summary": "为什么中国的“新农具”这么“聪明”？(外国网友趣问中国#9322;)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-18/10679451.shtml",
-      "publishedAt": "2026-08-18T02:24:55.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679405.shtml",
+      "publishedAt": "2026-08-18T03:56:55.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113454",
+      "title": "7月音乐精选：夏天赠予我们的 9张专辑",
+      "category": "科技",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113454",
+      "publishedAt": "2026-08-18T02:52:11.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -1010,7 +1028,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142639",
-      "title": "【专题报道┃前方视野】阿富汗：营养不良危机正在失控",
+      "title": "【前方视野】阿富汗：营养不良危机正在失控",
       "category": "国际",
       "summary": "现在，在阿富汗，一个装满淡茶的奶瓶，可能就是一个婴儿一天的饮料。自然灾害的频发、地缘局势的动荡，加上全球援助资金的剧烈缩减，正将这个国家数以百万计的儿童推向饥饿的深渊。阿富汗的营养不良危机正在走向失控。",
       "source": "联合国新闻",
@@ -1272,24 +1290,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113416",
-      "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
-      "category": "科技",
-      "summary": "纪念并且感谢他为我们留下的推理世界。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113416",
-      "publishedAt": "2026-08-14T07:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
