@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T15:52:04.817Z",
-  "expiresAt": "2026-08-19T21:52:04.817Z",
+  "generatedAt": "2026-08-19T17:42:03.443Z",
+  "expiresAt": "2026-08-19T23:42:03.443Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10680714.shtml",
+      "title": "金与正：对朝美领导人近期沟通事宜一无所知",
+      "category": "综合",
+      "summary": "据朝中社19日报道，朝鲜劳动党中央委员会部长金与正说，对华盛顿方面关于朝美两国领导人最近进行沟通的消息，“我一无所知”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680714.shtml",
+      "publishedAt": "2026-08-19T16:51:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
+      "title": "受南海热带低压影响 广西沿海多个海上项目停航",
+      "category": "综合",
+      "summary": "中新社北海8月19日电 (张广权)受南海热带低压影响，广西沿海多个海上客运及旅游项目将于8月20日实施停航。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
+      "publishedAt": "2026-08-19T16:49:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680712.shtml",
+      "title": "特朗普称可能在“某个时候”恢复与伊朗的谈判",
+      "category": "综合",
+      "summary": "美国总统特朗普19日接受媒体采访时表示，可能在“某个时候”恢复与伊朗的谈判，但伊朗必须彻底放弃核武器。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680712.shtml",
+      "publishedAt": "2026-08-19T15:59:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680710.shtml",
+      "title": "（台湾写真）一个七夕两样情：雨中拜月老，古礼贺成年",
+      "category": "综合",
+      "summary": "中新社台北8月19日电 题：一个七夕两样情：雨中拜月老，古礼贺成年",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680710.shtml",
+      "publishedAt": "2026-08-19T15:51:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml",
       "title": "业内人士：AI时代，内容体系将进一步扩展",
@@ -517,78 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680645.shtml",
-      "title": "港澳博士生“逐梦”山东 探寻创新创业新机遇",
-      "category": "综合",
-      "summary": "8月19日，山东济南，港澳博士生与山东高校、科研院所、企业洽谈，探寻创新创业新机遇。中新社记者 孙婷婷 摄 8月19日，山东济南，港澳博士生与山东高校、科研院所、企业洽谈，探寻创新创业新机遇。中新社记者 孙婷婷 摄 8月19日，山东济南，港澳博士生与山东高校、科研院所、企业洽谈，探寻创新创业新机遇。中新社记者 孙婷婷 摄 8月19日，山东济南，港澳博士生与山",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680645.shtml",
-      "publishedAt": "2026-08-19T13:43:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680666.shtml",
-      "title": "国家文物局发文加强全国博物馆陈列展览内容审核工作",
-      "category": "综合",
-      "summary": "国家文物局关于进一步加强全国博物馆",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680666.shtml",
-      "publishedAt": "2026-08-19T13:42:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680653.shtml",
-      "title": "四川成都：年轻人青睐“文物修复体验”",
-      "category": "综合",
-      "summary": "图为文物修复师（左）给体验者讲解瓷器的修复技巧。中新社记者 王磊 摄 图为一位体验者制作修复模具。中新社记者 王磊 摄 图为文物修复师（左一）给体验者讲解瓷器的修复过程。中新社记者 王磊 摄 图为一位体验者清理瓷器。中新社记者 王磊 摄 图为文物修复师（右）给体验者讲解瓷器的修复方法。中新社记者 王磊 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680653.shtml",
-      "publishedAt": "2026-08-19T13:42:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201578.shtml",
-      "title": "北京：市民游客欣赏露天音乐会度七夕",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201578.shtml",
-      "publishedAt": "2026-08-19T13:40:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#0",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "category": "国际",
@@ -602,6 +602,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142655",
+      "title": "伊线 | 她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
+      "category": "国际",
+      "summary": "8月19日世界人道主义日，《联合国新闻》推出人物纪录片系列《伊线》，记录扎根深野一线的女性联合国职员。第一期走近联合国难民署刚果（金）布尼亚驻地办公室助理外勤官袁希程。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142655",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1671,24 +1689,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142622",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142605",
-      "title": "【专题报道】“乒乓外交”续写友谊新篇——访联合国乒乓球俱乐部主席黄武耀及其队友",
-      "category": "国际",
-      "summary": "午休时分，纽约联合国总部大厦位于地下二层的乒乓球俱乐部活动室里，清脆的击球声不绝于耳。来自不同国家的工作人员和外交官在紧张繁忙工作之余，以球会友，享受着运动带来的快乐。 成立于20世纪50年代的联合国乒乓球俱乐部，最初只是为工作人员提供休闲健身的兴趣社团。经过数十年发展，它逐渐成为联合国内部一个独特的跨文化交流平台。不同国籍、不同岗位、不同文化背景的人们，因",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142605",
       "publishedAt": "2026-08-12T12:00:00.000Z",
       "tags": [
         "国际",
