@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T14:09:27.770Z",
-  "expiresAt": "2026-08-19T20:09:27.770Z",
+  "generatedAt": "2026-08-19T15:52:04.817Z",
+  "expiresAt": "2026-08-19T21:52:04.817Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,149 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml",
+      "title": "业内人士：AI时代，内容体系将进一步扩展",
+      "category": "综合",
+      "summary": "中新网北京8月19日电(梁小燕)AI不仅是提效工具，还在改变着内容与用户的关系。网易传媒副总裁李淼日前接受采访时表示，进入AI时代，内容体系将进一步扩展。内容创作的形式不再局限于图文和视频，还可能延伸至游戏、剧集或微电影等领域。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml",
+      "publishedAt": "2026-08-19T15:46:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-19/10680699.shtml",
+      "title": "专家：科学减重要关注腰围，告别“唯体重论”",
+      "category": "综合",
+      "summary": "中新网北京8月19日电(记者 赵方园)“减重并非只看数字，健康的腰围和代谢指标才是关键。”8月18日，由信达生物和京东健康共同支持的“和奥运冠军一起健康体重管理”主题公益科普活动在京举行。奥运冠军巩立姣呼吁大家走出减重误区，关注体重的同时也要重视腰围和脂肪肝等代谢疾病指标。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10680699.shtml",
+      "publishedAt": "2026-08-19T15:40:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680701.shtml",
+      "title": "王毅同韩国外长赵显会谈",
+      "category": "综合",
+      "summary": "新华社首尔8月19日电(记者张粲)中共中央政治局委员、外交部长王毅19日在首尔同韩国外长赵显举行会谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680701.shtml",
+      "publishedAt": "2026-08-19T15:17:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680697.shtml",
+      "title": "从拼融资到比落地，具身智能面临数据“大考”",
+      "category": "综合",
+      "summary": "中新网北京8月19日电(左雨晴) 近年来，具身智能无疑是科技产业最炙手可热的赛道之一。北京物联网智能技术应用协会发布的《2026具身智能产业发展洞察报告》显示，中国具身智能广义市场规模在2025年已达到9150亿元，2026年预计突破1.09万亿元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680697.shtml",
+      "publishedAt": "2026-08-19T14:41:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#0",
+      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
+      "category": "国际",
+      "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T14:37:24.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680698.shtml",
+      "title": "最早的七夕，没有“快乐”",
+      "category": "综合",
+      "summary": "今天是七夕，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680698.shtml",
+      "publishedAt": "2026-08-19T14:35:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680696.shtml",
+      "title": "680余家媒体发布2025年度媒体社会责任报告",
+      "category": "综合",
+      "summary": "新华社北京8月19日电 全国680多家新闻媒体近日在所属网站、客户端等平台公开发布2025年度媒体社会责任报告，包括人民日报等20家中央主要新闻单位、58家全国性行业类媒体、600多家地方媒体，从政治责任、阵地建设责任、服务责任等9方面，对2025年履行社会责任情况进行梳理展示。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680696.shtml",
+      "publishedAt": "2026-08-19T14:18:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680695.shtml",
+      "title": "河北石家庄一居民楼部分坍塌造成3人死亡",
+      "category": "综合",
+      "summary": "中新网8月19日电 据“石家庄新华发布”微信公众号消息，石家庄新华区应急管理局发布情况通报称，8月19日5时42分，新华区某小区一四层居民楼一个单元的两户房屋发生部分坍塌。事故发生后，公安、消防、住建、应急等相关部门第一时间赶赴现场开展应急救援。截至目前，现场搜救工作已结束，被困人员已救出。两户房屋共有住户4人，其中3人经送医抢救无效死亡，1人正在全力救治，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680695.shtml",
+      "publishedAt": "2026-08-19T14:11:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680687.shtml",
       "title": "“十五五”上海把数智赋能嵌入妇女儿童家庭发展具体服务场景",
@@ -446,132 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201573.shtml",
-      "title": "湖南新化上演七夕“晒书”雅集",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201573.shtml",
-      "publishedAt": "2026-08-19T13:33:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680663.shtml",
-      "title": "跨越时空的《英歌》于北京城再掀热潮",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 题：跨越时空的《英歌》于北京城再掀热潮",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680663.shtml",
-      "publishedAt": "2026-08-19T13:32:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680662.shtml",
-      "title": "上海欲推进6G商用 构建国际数据加工枢纽",
-      "category": "综合",
-      "summary": "中新社上海8月19日电 (范宇斌)上海市人民政府办公厅19日发布《上海市“数字上海”建设“十五五”规划》。规划提出，“十五五”时期，上海将推进第六代移动通信技术(6G)试验网实现智能协同并部署商用。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680662.shtml",
-      "publishedAt": "2026-08-19T13:32:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-19/10680660.shtml",
-      "title": "国泰集团7月载客量约350万人次 同比升9%",
-      "category": "综合",
-      "summary": "中新社香港8月19日电 国泰集团19日公布数据，今年7月集团客货运量实现同比双增长，当月国泰航空与香港快运共接载约350万人次乘客，同比增长9%；国泰货运载货量约14.9万吨，同比上升6%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-19/10680660.shtml",
-      "publishedAt": "2026-08-19T13:31:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680659.shtml",
-      "title": "美国俄勒冈州艺术体操舞蹈学院代表团亲历感受西藏",
-      "category": "综合",
-      "summary": "中新社拉萨8月19日电 (记者 贡桑拉姆)美国俄勒冈州艺术体操舞蹈学院代表团8月19日结束在西藏自治区为期6天的交流活动正式返程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680659.shtml",
-      "publishedAt": "2026-08-19T13:30:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680658.shtml",
-      "title": "“广西龙超”碧波“百龙”竞渡 将有多民族近200支队伍参赛",
-      "category": "综合",
-      "summary": "中新网柳州8月19日电(陈梅)8月19日，2026年融安龙舟公开赛暨第二十五届长安龙舟大赛(以下简称“广西龙超”)新闻发布会在广西柳州市举行。融安县副县长王敏珊介绍，本届赛事定于9月30日至10月2日在融江融安县城段水域举行，预计有来自壮、汉、苗、瑶、侗等多民族运动员组成的近200支龙舟队齐聚，在碧波之上展开对决。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680658.shtml",
-      "publishedAt": "2026-08-19T13:30:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680657.shtml",
-      "title": "2026年两岸青少年乒乓球夏令营在上海开营",
-      "category": "综合",
-      "summary": "中新网上海8月19日电 (范宇斌)18日，两岸融合发展交流营暨“同心同行——2026年两岸青少年乒乓球夏令营”在上海开营。来自台湾地区的40余位青少年运动员相聚上海，开启集训、赛事、研学参访相结合的夏令营旅程，以乒乓球为纽带，书写两岸青少年交流融合的青春故事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680657.shtml",
-      "publishedAt": "2026-08-19T13:30:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#0",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "category": "国际",
@@ -585,6 +602,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142646",
+      "title": "【专题报道】300公斤牛仔布的第二次生命——青年如何重新思考零废物",
+      "category": "国际",
+      "summary": "300公斤废弃牛仔布，能变成什么？在肯尼亚马赛马拉，达玛丽丝·露西亚正和当地年轻人及工匠一起，尝试寻找答案。这批从内罗毕运来的废弃牛仔布，将经过清洗、消毒和重新设计，最终成为新的产品。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142646",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -638,23 +673,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#0",
-      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
-      "category": "国际",
-      "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T06:41:30.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1671,24 +1689,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142605",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142621",
-      "title": "塔利班接管五年后：阿富汗对妇女和女童的排斥已成常态",
-      "category": "国际",
-      "summary": "联合国妇女署最新数据显示，由于行动自由和进入公共场所受到严重限制，接受采访的阿富汗妇女中有一半每月仅外出一次或两次。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142621",
       "publishedAt": "2026-08-12T12:00:00.000Z",
       "tags": [
         "国际",
