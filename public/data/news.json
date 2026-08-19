@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T23:00:38.974Z",
-  "expiresAt": "2026-08-19T05:00:38.974Z",
+  "generatedAt": "2026-08-19T03:25:59.455Z",
+  "expiresAt": "2026-08-19T09:25:59.455Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-19/10679985.shtml",
-      "title": "8月19日新闻早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680105.shtml",
+      "title": "长江十年行丨一江两岸，三重刻度",
       "category": "综合",
-      "summary": "",
+      "summary": "央广网安庆8月17日消息(记者 刘畅司晨)清晨的西江，薄雾如纱。几道灰黑色的身影应声而来，划破澄澈水面——长江江豚，这些“微笑天使”开始享用早餐。从2016年首批13头江豚迁入至今，安庆西江长江江豚迁地保护基地的江豚数量已稳步增长至27头。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-19/10679985.shtml",
-      "publishedAt": "2026-08-18T22:48:16.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680105.shtml",
+      "publishedAt": "2026-08-19T03:24:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679976.shtml",
-      "title": "“弟弟举报哥哥冒名上大学”案开庭，真相到底是什么？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680141.shtml",
+      "title": "海南产经新观察：扩消费，海口多措并举",
       "category": "综合",
-      "summary": "中新网北京8月19日电(记者 高萌)8月18日，“弟弟举报哥哥冒名顶替上大学”事件中的哥哥唐时达，就其学历证书被撤销一事对湘潭大学提起的行政诉讼在湖南省湘潭市岳塘区人民法院开庭审理。弟弟唐一达作为第三人参加了18日的庭审。",
+      "summary": "中新网海口8月19日电 (张茜翼 张芷懿)“十五五”开局之年，海南自贸港核心城市海口亮出扩消费“路线图”。海口市商务局局长胡珊在海南省新闻办公室18日举行的新闻发布会上表示，海口将聚焦商品消费扩容升级、服务消费提质惠民、消费业态场景丰富、城乡消费融合发展四大领域，多措并举激活市场消费活力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679976.shtml",
-      "publishedAt": "2026-08-18T22:37:37.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680141.shtml",
+      "publishedAt": "2026-08-19T03:24:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679984.shtml",
-      "title": "医师节，听听医生的心愿",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680182.shtml",
+      "title": "李永金同志逝世",
       "category": "综合",
-      "summary": "医师节，听听医生的心愿(民生一线·中国医师节特别策划)",
+      "summary": "新华社北京8月19日电 副大军区职退休干部、原北京军区副司令员兼北京军区空军司令员李永金同志，因病医治无效，于8月6日在北京逝世，享年84岁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679984.shtml",
-      "publishedAt": "2026-08-18T22:26:39.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680182.shtml",
+      "publishedAt": "2026-08-19T03:22:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-19/10679983.shtml",
-      "title": "一个被低估的减肥小技巧，后悔没早点知道！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680145.shtml",
+      "title": "光影勾勒山水画卷 《彭城风华》演绎徐州千年往事",
       "category": "综合",
-      "summary": "众所周知，当我们想关心一个人，却又不知道说点什么的时候，可以发一句万能的“多喝热水”。其实，多喝水还是一个实用的体重管理小技巧。",
+      "summary": "8月18日晚，江苏徐州，云龙湖上演《彭城风华》湖岛实景演出。该演出以云龙湖为天然舞台，通过光影艺术勾勒写意山水，重现苏轼在徐州抗洪修堤的历史故事，为观众带来视觉震撼与感官体验。中新社记者 泱波 摄 8月18日晚，江苏徐州，云龙湖上演《彭城风华》湖岛实景演出。该演出以云龙湖为天然舞台，通过光影艺术勾勒写意山水，重现苏轼在徐州抗洪修堤的历史故事，为观众带来视觉震",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10679983.shtml",
-      "publishedAt": "2026-08-18T22:22:08.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680145.shtml",
+      "publishedAt": "2026-08-19T03:21:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679982.shtml",
-      "title": "更好满足多样化住房消费需求 住房公积金提取和使用范围拓宽",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680140.shtml",
+      "title": "守护日本宪法的和平属性刻不容缓",
       "category": "综合",
-      "summary": "更好满足多样化住房消费需求",
+      "summary": "守护日本宪法的和平属性刻不容缓(国际论坛)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679982.shtml",
-      "publishedAt": "2026-08-18T22:16:22.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680140.shtml",
+      "publishedAt": "2026-08-19T03:20:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
-      "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680181.shtml",
+      "title": "嫦娥七号飞行任务器箭组合体完成垂直转运 计划近日择机实施发射",
       "category": "综合",
-      "summary": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+      "summary": "中新网北京8月19日电 (记者 马帅莎)据中国载人航天工程办公室消息，北京时间8月19日，嫦娥七号探测器和长征五号遥十四运载火箭在中国文昌航天发射场完成技术区相关工作，器箭组合体已垂直转运至发射区。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
-      "publishedAt": "2026-08-18T22:13:30.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680181.shtml",
+      "publishedAt": "2026-08-19T03:20:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679980.shtml",
-      "title": "定制客运何以“加速跑”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680138.shtml",
+      "title": "中国残疾人艺术团《我的梦》公益演出首次走进西藏",
       "category": "综合",
-      "summary": "截至去年底，全国开通超1.1万条服务线路，同比增长约25%——",
+      "summary": "图为18日晚，拉萨市残疾人联合会舞者表演舞蹈《和谐雅砻》。江飞波 摄 图为18日晚，演出现场。江飞波 摄 图为18日晚，演出现场。江飞波 摄 图为18日晚，中国残疾人艺术团演职人员上演经典节目《千手观音》。江飞波 摄 图为18日晚，中国残疾人艺术团演职人员上演经典节目《千手观音》。江飞波 摄 图为18日晚演出现场，西藏大剧院内座无虚席。江飞波 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679980.shtml",
-      "publishedAt": "2026-08-18T22:10:54.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680138.shtml",
+      "publishedAt": "2026-08-19T03:19:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679979.shtml",
-      "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680177.shtml",
+      "title": "石家庄市一居民楼发生部分坍塌 受伤人员已送医救治",
       "category": "综合",
-      "summary": "据韩国方面消息，在美国总统特朗普要求大幅缩减韩美联合军演规模后，韩美军方18日举行紧急会晤，决定大幅压缩正在进行的“乙支自由护盾”联合军演日程，原计划持续至27日的演习将提前至本周结束，第二阶段反击演练被取消。",
+      "summary": "中新网石家庄8月19日电 石家庄市新华区应急管理局19日通报，19日5时42分，新华区一居民楼发生部分坍塌。公安、消防、住建、应急等相关部门第一时间赶赴现场救援处置，受伤人员已送医救治。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679979.shtml",
-      "publishedAt": "2026-08-18T22:02:53.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680177.shtml",
+      "publishedAt": "2026-08-19T03:19:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679978.shtml",
-      "title": "青海海西州直辖区发生5.6级地震 震源深度10千米",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680114.shtml",
+      "title": "国台办介绍国共两党青年双向交流机制化平台情况",
       "category": "综合",
-      "summary": "中国地震台网正式测定：8月19日5时36分在青海海西州直辖区(北纬37.81度，东经95.63度)发生5.6级地震，震源深度10千米。",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。发言人朱凤莲表示，为贯彻落实习近平总书记会见中国国民党主席郑丽文重要讲话精神，中共中央台办于4月12日受权发布十项促进两岸交流合作的政策措施，其中包括建立国共两党青年双向交流机制化平台。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679978.shtml",
-      "publishedAt": "2026-08-18T21:52:58.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680114.shtml",
+      "publishedAt": "2026-08-19T03:19:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,26 +194,438 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10679977.shtml",
-      "title": "青海海西州直辖区附近发生5.6级左右地震",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680162.shtml",
+      "title": "特朗普宣布：推迟3天对加拿大加征50%关税",
       "category": "综合",
-      "summary": "中国地震台网自动测定：8月19日5时36分，在青海海西州直辖区附近(北纬37.79度，东经95.60度)发生5.6级左右地震。最终结果以正式速报为准。",
+      "summary": "中新网8月19日电 据美国《华尔街日报》报道，美国总统特朗普18日表示，鉴于美国和加拿大已达成共识正敲定协议文本，他将推迟对来自加拿大的某些商品征收50%的关税。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10679977.shtml",
-      "publishedAt": "2026-08-18T21:45:10.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680162.shtml",
+      "publishedAt": "2026-08-19T03:19:11.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680132.shtml",
+      "title": "高温催热海外需求 海关“绿色通道”助力消暑食品出海",
+      "category": "综合",
+      "summary": "中新网江门8月19日电 (郭军 梁海棠)全球多地持续高温，消暑食品海外需求攀升。近日，记者走进广东江门某食品生产企业的车间，只见生产线高速运转，经过蒸煮、灌装、检测、打包等工序，一箱箱消暑食品有序装车，等待着销往世界各地。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680132.shtml",
+      "publishedAt": "2026-08-19T03:17:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680176.shtml",
+      "title": "嫦娥七号器箭组合体完成垂直转运",
+      "category": "综合",
+      "summary": "新华社快讯：嫦娥七号计划近日择机实施发射，器箭组合体垂直转运至发射区。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680176.shtml",
+      "publishedAt": "2026-08-19T03:17:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680171.shtml",
+      "title": "国台办回应赖清德诬称“大陆介选”",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德在高雄声称，“这一次年底选举的胜败将是中国大陆对台策略有没有成功的指标”，因此年底高雄市长选举的胜败，不仅关乎高雄的未来，也关乎台湾未来的前途。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680171.shtml",
+      "publishedAt": "2026-08-19T03:17:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680130.shtml",
+      "title": "广南联络线西塱隧道盾构掘进转入攻坚冲刺阶段",
+      "category": "综合",
+      "summary": "中新网广州8月19日电 (郭军 杨胜 王宝佳)8月18日，新建广州站至广州南站联络线工程(以下简称“广南联络线”)传来捷报，由国铁广州局广州工程建设指挥部负责建设、中铁十八局负责施工的“天佑号”大直径泥水平衡盾构机累计掘进突破3000米，占区间总任务的72%，标志着该项目重点控制工程西塱隧道盾构施工转入攻坚冲刺阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680130.shtml",
+      "publishedAt": "2026-08-19T03:15:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680157.shtml",
+      "title": "岛内质疑“汉光演习”断网影响正常生活 国台办回应",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：近期，民进党当局举行所谓“汉光42号演习”，首度纳入移动电话网络降速演练。岛内社会质疑这种“断网”演练，导致民众不能叫外卖，也无法使用支付卡消费，正常生活受到影响。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680157.shtml",
+      "publishedAt": "2026-08-19T03:15:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-19/10680129.shtml",
+      "title": "调查指83%内地企业首选香港作为出海服务平台",
+      "category": "综合",
+      "summary": "中新网香港8月19日电 (张语洽 邱兆翔)香港贸易发展局(简称“贸发局”)18日发布的调查报告显示，中国内地企业正积极拓展海外业务，有83%的企业首选香港作为出海服务平台。受访企业表示，市场营销、法律会计、融资及供应链管理等专业服务等方面的优势是其首选香港的原因。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-19/10680129.shtml",
+      "publishedAt": "2026-08-19T03:13:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680120.shtml",
+      "title": "岛内盼《八仙！》《欢迎来龙餐馆》等影片在台上映 国台办回应",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：截至8月16日，大陆2026暑期档电影总票房已突破100亿元，许多台湾观众对《八仙》《欢迎来龙餐馆》等影片充满期待，希望能早日在岛内上映。请介绍有关情况。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680120.shtml",
+      "publishedAt": "2026-08-19T03:13:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680087.shtml",
+      "title": "中企承建的厄瓜多尔圣多明各供水项目惠及50万民众",
+      "category": "综合",
+      "summary": "中企承建的厄瓜多尔圣多明各供水项目惠及50万民众——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680087.shtml",
+      "publishedAt": "2026-08-19T03:12:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680163.shtml",
+      "title": "民进党阻挠台公职人员赴大陆探亲 国台办回应",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：对于民进党当局要求台湾公务员赴大陆探亲须向所属单位递交申请表，并附上大陆亲友名单与在大陆联络电话，岛内舆论批评这是把公务员当“匪谍”，陆委会却称相关规定已执行多年。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680163.shtml",
+      "publishedAt": "2026-08-19T03:12:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680164.shtml",
+      "title": "岛内六成民众不满民进党毒油处置 国台办回应",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：岛内致癌油风波持续延烧，民进党当局刻意包庇涉案公营企业台糖公司，就其未通报问题油缩小其通报义务范围，引发岛内民众强烈质疑。岛内近期民调显示，近六成受访者表示不满意民进党当局处理毒油事件的表现，并对后续处置没有信心。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680164.shtml",
+      "publishedAt": "2026-08-19T03:11:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680139.shtml",
+      "title": "岛内防务预算首次破1万亿元新台币，国台办回应",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：台媒报道，台行政机构将提议2027年防务预算增长16%，使岛内防务预算首次突破1万亿元新台币。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680139.shtml",
+      "publishedAt": "2026-08-19T03:10:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-19/10680127.shtml",
+      "title": "124万名医务工作者深耕南粤 广东医疗服务能级持续跃升",
+      "category": "综合",
+      "summary": "中新网广州8月19日电 (记者 蔡敏婕)今年8月19日是第九个中国医师节。记者从广东省卫生健康委获悉，2025年，广东医疗卫生机构总诊疗人次达9.8亿，出院人次2129.6万。这些数据的背后，离不开全省124万名医务工作者的默默耕耘、无私奉献。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10680127.shtml",
+      "publishedAt": "2026-08-19T03:09:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680134.shtml",
+      "title": "国台办批赖清德“台独专政”",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：近期，英国《经济学人》周刊刊出最新台湾政局评论，罕见直接点名批评赖清德“固执”，不愿与国民党温和派协商，并以“挟持台湾民主”形容台湾政局。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680134.shtml",
+      "publishedAt": "2026-08-19T03:08:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-19/news1065826.shtml",
+      "title": "一个杯子凭啥卖到上千元？山西祁县有绝招",
+      "category": "综合",
+      "summary": "山西祁县素有“中国玻璃器皿之都”之称，产品涵盖酒具、茶具、餐具等10大系列1万余种，远销80多个国家和地区。近几年，祁县玻璃厂商聚焦高端人工吹制工艺，向精品化、艺术化迈进，一套高端玻璃器皿售价可达几千元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-19/news1065826.shtml",
+      "publishedAt": "2026-08-19T03:07:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680155.shtml",
+      "title": "中国民营航天首次实现火箭入轨回收",
+      "category": "综合",
+      "summary": "中新社北京8月19日电 题：中国民营航天首次实现火箭入轨回收",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680155.shtml",
+      "publishedAt": "2026-08-19T03:06:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680131.shtml",
+      "title": "国台办回应台湾同胞反对“台独”勾连日本",
+      "category": "综合",
+      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：今年8月15日是日本宣布无条件投降81周年，岛内多家民间团体近日举办多场活动，纪念抗战胜利、台湾重回祖国怀抱，抗议民进党当局淡化抗战历史、割裂两岸共同历史记忆，并呼吁两岸同胞应警惕日本新型军国主义危害台海安全。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680131.shtml",
+      "publishedAt": "2026-08-19T03:05:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680126.shtml",
+      "title": "2026广州深圳米其林指南餐厅榜单首次合并发布",
+      "category": "综合",
+      "summary": "中新网深圳8月19日电 (记者 郭军)2026广州深圳米其林指南餐厅榜单18日在深圳首次合并发布。据悉，这也是深圳首次成为米其林指南餐厅评审的目的地。两地合并的首张榜单共产生176家米其林餐厅，包括5家米其林二星餐厅，22家米其林一星餐厅，73家必比登推介餐厅。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680126.shtml",
+      "publishedAt": "2026-08-19T03:05:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680147.shtml",
+      "title": "加沙城遭空袭致6死 以军称打击哈马斯指挥官",
+      "category": "综合",
+      "summary": "中新社北京8月19日电 综合消息：加沙地带北部加沙城当地时间18日遭以色列空袭，造成6人死亡。以色列方面称，空袭目标系巴勒斯坦伊斯兰抵抗运动(哈马斯)指挥官。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680147.shtml",
+      "publishedAt": "2026-08-19T03:04:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680100.shtml",
+      "title": "瞄准什么问题、如何影响患者就医 专家详解“同病同付”",
+      "category": "综合",
+      "summary": "新闻1+1丨瞄准什么问题、如何影响患者就医 专家详解“同病同付”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680100.shtml",
+      "publishedAt": "2026-08-19T03:04:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680137.shtml",
+      "title": "受高温天气影响 德国2026年谷物产量预计下降7%",
+      "category": "综合",
+      "summary": "中新网柏林8月19日电 (记者 马秀秀)德国农民协会18日发布2026年收成预测，预计今年德国谷物总产量约为4190万吨，同比下降7%。每公顷平均产量不足6.9吨，同比下降9%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680137.shtml",
+      "publishedAt": "2026-08-19T03:04:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113607",
+      "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
+      "category": "科技",
+      "summary": "Spotify 上线「播放列表备注」功能、Windows Server 2022 即将结束主流更新等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113607",
+      "publishedAt": "2026-08-19T00:30:54.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#0",
+      "title": "專門減肥藥能否提升運動員表現？",
+      "category": "国际",
+      "summary": "GLP-1減重藥物能夠減輕體重並改善健康，但它們是否也能提升運動表現？科學家表示目前證據尚不明確，但爭論正日益升溫。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T00:07:17.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad#0",
+      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
+      "category": "国际",
+      "summary": "從「掃黑除惡」到經濟糾紛，為何越來越多中國民商事律師開始擔心：今天的正常代理，會不會在幾年後被重新定性為犯罪？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T23:53:38.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#0",
-      "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
+      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
       "category": "国际",
       "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
       "source": "BBC 中文",
@@ -229,362 +641,92 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679973.shtml",
-      "title": "尼泊尔和印度将联合测绘“跨境占用”土地",
-      "category": "综合",
-      "summary": "中新社加德满都8月18日电 尼泊尔和印度近日同意对两国边境地区存在的“跨境占用”土地展开联合测绘，并计划在三年内完成相关测绘工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679973.shtml",
-      "publishedAt": "2026-08-18T16:52:55.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142652",
+      "title": "黎巴嫩：86万流离失所者已返回家园，但人道主义危机依然严峻",
+      "category": "国际",
+      "summary": "联合国周二警告称，约86万因黎巴嫩南部冲突而流离失所的人已返回家园，但流离失所和人道主义危机远未结束。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142652",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml",
-      "title": "伊朗举行已故最高领袖下葬四十日纪念仪式",
-      "category": "综合",
-      "summary": "据伊朗方面18日消息，伊朗当天在首都德黑兰伊玛目霍梅尼清真寺建筑外广场举行已故最高领袖阿里·哈梅内伊下葬四十日纪念仪式。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml",
-      "publishedAt": "2026-08-18T16:52:25.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142653",
+      "title": "世卫组织和儿基会：医疗机构卫生设施仍存在显著缺口",
+      "category": "国际",
+      "summary": "世界卫生组织和联合国儿童基金会周二发布报告显示，全球医疗机构在供水、卫生设施、个人卫生、环境清洁和医疗废物管理方面仍存在明显缺口。到2025年，85%的医疗机构拥有基本供水服务，72%拥有基本卫生服务，71%拥有基本医疗废物管理服务，但仅59%达到基本环境清洁标准，40%符合基本卫生设施服务要求。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142653",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679972.shtml",
-      "title": "英国二季度劳动力市场进一步降温",
-      "category": "综合",
-      "summary": "中新社伦敦8月18日电 (记者 欧阳开宇)英国国家统计局18日发布最新就业数据显示，今年第二季度英国劳动力市场整体持续降温，薪资增长显著放缓、用工需求大幅收缩，多项核心指标走弱，显示英国经济内生复苏动能持续衰减。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679972.shtml",
-      "publishedAt": "2026-08-18T16:51:39.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142651",
+      "title": "加沙地带：仅3%的耕地既可进入又未受损",
+      "category": "国际",
+      "summary": "联合国粮食及农业组织和联合国卫星中心周二发布最新地理空间评估报告显示，截至2026年6月24日，加沙地带仅有3%的耕地既可进入又未受损。自2025年10月以来，这类耕地面积减少25.5%。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142651",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10679974.shtml",
-      "title": "伊朗称美国曾考虑对伊使用“委内瑞拉”模式但未得逞",
-      "category": "综合",
-      "summary": "伊朗伊斯兰革命卫队副总司令穆斯塔法·伊扎迪日前表示，美国曾考虑将“委内瑞拉”模式用于伊朗，但最终未能得逞。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679974.shtml",
-      "publishedAt": "2026-08-18T16:51:05.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142650",
+      "title": "哥伦比亚地震：联合国加大对10万人的援助力度",
+      "category": "国际",
+      "summary": "根据周二发布的最新情况通报，随着上周发生7.4级毁灭性地震后需求持续增加，联合国正在哥伦比亚西部加大人道主义援助力度。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142650",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-18/10679971.shtml",
-      "title": "中越举行海上搜救应急通信演练",
-      "category": "综合",
-      "summary": "中新社南宁8月18日电 (黄艳梅 莫卫华)18日，中国广西海上搜救中心与越南航海搜救协调中心一区举行海上搜救应急通信演练。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-18/10679971.shtml",
-      "publishedAt": "2026-08-18T15:55:10.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142649",
+      "title": "埃博拉：运送病人的摩托车骑手或成加强应对的关键",
+      "category": "国际",
+      "summary": "在刚果民主共和国（刚果（金））有史以来最致命的埃博拉疫情前线，世界卫生组织于周二公布了大规模推动社区参与的详细计划，此前一天，又发生了一起针对救护车的袭击事件。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142649",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679970.shtml",
-      "title": "泰国前7个月吸引外资额同比增长37%",
-      "category": "综合",
-      "summary": "中新社曼谷8月18日电 (记者 李映民)泰国商业部商业发展厅18日公布的最新数据显示，2026年前7个月，共有736家外资企业获准落户泰国，同比增长26%；投资总额达2192.08亿泰铢，较去年同期增加597.48亿泰铢，增幅达37%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679970.shtml",
-      "publishedAt": "2026-08-18T15:54:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-18/10679959.shtml",
-      "title": "香港黄金交易所交易系统有限公司成立 将打造国际化黄金交易平台",
-      "category": "综合",
-      "summary": "中新社香港8月18日电 由香港黄金交易所与金链通技术有限公司共同组建的香港黄金交易所交易系统有限公司(Hong Kong Gold Exchange Trading System Limited，简称“HKGXTS”)18日在港正式成立。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-18/10679959.shtml",
-      "publishedAt": "2026-08-18T15:25:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679968.shtml",
-      "title": "首届电竞世界杯推迟至2027年举行",
-      "category": "综合",
-      "summary": "总部位于沙特阿拉伯利雅得的电竞发展基金会18日宣布，首届电竞世界杯将推迟至2027年11月举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679968.shtml",
-      "publishedAt": "2026-08-18T15:24:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679960.shtml",
-      "title": "俄对英涉乌行动发警告 英首相表示坚定支持乌克兰",
-      "category": "综合",
-      "summary": "中新社伦敦8月18日电 (记者 欧阳开宇)针对俄方就英国涉乌相关行动发出警告，英国首相伯纳姆当地时间18日公开表态，英国将坚定支持乌克兰，始终在关键时刻与乌方站在一起，对乌支持立场不会发生改变。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679960.shtml",
-      "publishedAt": "2026-08-18T15:22:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679966.shtml",
-      "title": "特朗普：未与伊朗进行任何会谈 未来也无相关计划",
-      "category": "综合",
-      "summary": "当地时间8月18日，美国总统特朗普在社交媒体平台“真实社交”上发文表示，目前并未与伊朗进行任何会谈或对话，未来也无相关计划。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679966.shtml",
-      "publishedAt": "2026-08-18T15:03:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679955.shtml",
-      "title": "满足多样化、高品质出行需求正成为行业共识",
-      "category": "综合",
-      "summary": "中新网北京8月18日电(记者 查志远)近年来，多样化、高品质出行需求越来越受到关注。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679955.shtml",
-      "publishedAt": "2026-08-18T15:02:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-18/10679956.shtml",
-      "title": "这才是《欢迎来龙餐馆》的彩蛋",
-      "category": "综合",
-      "summary": "中新网北京8月18日电(记者 任思雨)上映一周，票房突破10亿元，豆瓣评分涨至8.6分，《欢迎来龙餐馆》成为这个暑期档后半程口碑最高、也是最让人揪心的电影。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679956.shtml",
-      "publishedAt": "2026-08-18T15:01:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679965.shtml",
-      "title": "伊朗最高领袖据称将在德黑兰主持活动",
-      "category": "综合",
-      "summary": "据伊朗方面18日消息，伊朗最高领袖即将在德黑兰主持一场宗教活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679965.shtml",
-      "publishedAt": "2026-08-18T15:00:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-18/10679958.shtml",
-      "title": "全国少数民族文艺会演北京开启 首场话剧重现津商传奇",
-      "category": "综合",
-      "summary": "中新社北京8月18日电 (记者 黄欣欣 孙玲玲)第七届全国少数民族文艺会演18日在北京开启。由天津人民艺术剧院创编的话剧《赶大营》作为首场剧目，于梅兰芳大剧院重现津商传奇故事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679958.shtml",
-      "publishedAt": "2026-08-18T14:59:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679964.shtml",
-      "title": "美国30年期国债收益率创19年新高",
-      "category": "综合",
-      "summary": "当地时间18日，美国财政部公布的最新数据显示，美国30年期国债收益率17日达5.31%，创下2007年6月以来新高。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679964.shtml",
-      "publishedAt": "2026-08-18T14:58:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-18/10679962.shtml",
-      "title": "欧盟提议将以色列国家安全部长列入制裁名单",
-      "category": "综合",
-      "summary": "欧盟外交与安全政策首席发言人阿妮塔·希佩尔18日在布鲁塞尔举行的新闻发布会上表示，已向各成员国提交提案，建议将以色列国家安全部长本-格维尔列入制裁名单。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679962.shtml",
-      "publishedAt": "2026-08-18T14:56:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-18/10679957.shtml",
-      "title": "浑身困重提不起精神？没有胃口又不能不吃？体内湿气排不出去？长夏时节这样做！",
-      "category": "综合",
-      "summary": "你有没有觉得稍微活动就是满身大汗，可不活动又感觉浑身困重、提不起精神？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-18/10679957.shtml",
-      "publishedAt": "2026-08-18T14:35:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-18/10679954.shtml",
-      "title": "三部门发文优化城乡社区岗位吸纳高校毕业生就业",
-      "category": "综合",
-      "summary": "中新网8月18日电 据人社部网站消息，为深入贯彻党中央关于稳就业、稳企业、稳市场、稳预期决策部署，进一步优化城乡社区岗位，吸纳更多高校毕业生到基层就业，日前，人力资源社会保障部、中央社会工作部、民政部联合印发《关于优化城乡社区岗位吸纳高校毕业生就业工作的通知》(以下简称《通知》)，提出系列政策举措，全力促进更多高校毕业生到城乡社区就业，为加强基层治理体系和治",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-18/10679954.shtml",
-      "publishedAt": "2026-08-18T14:16:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679952.shtml",
-      "title": "（投资中国）德企阿玛松增资扩产天津二期项目 拟建北方总部",
-      "category": "综合",
-      "summary": "中新网天津8月18日电 (记者 周亚强)阿玛松农机装备制造增资扩产二期项目签约仪式18日在天津武清开发区举行。该项目将把原有仓储销售型工厂升级为集生产、仓储、销售于一体的综合性智能制造基地，全面达产后预计年产值超2亿元人民币。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679952.shtml",
-      "publishedAt": "2026-08-18T14:03:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-18/10679949.shtml",
-      "title": "开局起步“十五五”：“六个之城”描绘海口新愿景",
-      "category": "综合",
-      "summary": "中新网海口8月18日电 (张茜翼 张芷懿)未来五年，海口将呈现怎样的图景？“自由便利开放之城、产城融合创新之城、时尚消费活力之城、低碳绿色生态之城、全龄宜居幸福之城、魅力海岛人文之城”——这六个关键词，给出清晰答案。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679949.shtml",
-      "publishedAt": "2026-08-18T14:03:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -603,23 +745,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98069d07x2o/trad#0",
-      "title": "Z世代為何要用抗焦慮藥物取代酒精？從一位中國女孩講起",
-      "category": "国际",
-      "summary": "隨著世界各地年輕人社交焦慮症的上升，許多人開始使用各種藥物進行自我治療以緩解症狀。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c98069d07x2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T10:51:28.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -748,7 +873,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#1",
       "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
       "category": "国际",
       "summary": "兩國都在加碼人工智能，但美國追求下一個技術突破，中國更重視低成本普及。兩條不同路線，誰更可能建立長期優勢？",
@@ -1002,41 +1127,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/113445",
       "publishedAt": "2026-08-17T03:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad#1",
-      "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
-      "category": "国际",
-      "summary": "庫珀海軍上將在登上這艘軍艦後承認，長時間在海上服役是「充滿獨特挑戰」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yvv1vz252o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T02:56:37.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113524",
-      "title": "派早报：😭（放声大哭）成为最流行 emoji",
-      "category": "科技",
-      "summary": "😭（放声大哭）成为最流行 emoji 美国要求合作方在中美 AI 竞赛中「选边站」 ChatGPT 上线使用历史记录功能 美国政府敦促苹果不要购买中国内存芯片 uBlock Origin 放弃维护 Facebook 广告规则 索尼加速向娱乐业务转型 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113524",
-      "publishedAt": "2026-08-16T22:54:56.000Z",
       "tags": [
         "科技",
         "效率",
@@ -1610,42 +1700,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142620",
-      "title": "国际移民组织：非法入境人数下降 移民路线却变得更加危险",
-      "category": "国际",
-      "summary": "据国际移民组织周三发布的新数据，2026年前四个月，尽管抵达欧洲的人数急剧下降，但中地中海路线上的移民死亡人数较2025年同期增长了一倍多，东地中海路线上的死亡人数则增长了三倍。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142620",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142619",
-      "title": "红海船只遭致命袭击，加剧全球供应链不确定性",
-      "category": "国际",
-      "summary": "周二，一艘在也门南部海岸附近航行的商船遭到袭击，据报道造成数名海员丧生。在伊朗与美国持续冲突导致霍尔木兹海峡航运受阻的背景下，此次事件可能再次引发人们对全球贸易的深切担忧。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142619",
-      "publishedAt": "2026-08-12T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#5",
       "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
       "category": "国际",
@@ -1659,60 +1713,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142616",
-      "title": "国际劳工组织：全球青年失业率上升 年轻人获得体面工作的道路愈发艰难",
-      "category": "国际",
-      "summary": "国际劳工组织周二发布的最新报告显示，全球青年失业率正在上升，经济增长停滞和就业岗位创造乏力，使青年群体进入就业市场面临的障碍日益增加。越来越多年轻人处于既未就业、也未接受教育或培训的状态。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142616",
-      "publishedAt": "2026-08-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142610",
-      "title": "【专题报道】“孔雀外交”：五位蓝白“新使者”亮相日内瓦",
-      "category": "国际",
-      "summary": "除了广为人知的“熊猫外交”，联合国日内瓦办事处刚刚体验了“孔雀外交”，迎来了几位别具一格的“外交使者”——五只孔雀。8月7日，这五只来自印度的孔雀正式亮相，为联合国日内瓦园区增添了一抹亮丽色彩，也延续了一项已有几十年历史的“孔雀传统”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142610",
-      "publishedAt": "2026-08-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142617",
-      "title": "教科文组织呼吁全面恢复阿富汗女童和妇女受教育权",
-      "category": "国际",
-      "summary": "联合国教科文组织表示，自5年前塔利班接管阿富汗政权以来，该国女童和妇女的基本权利和自由持续受到侵犯。她们被禁止接受中学和大学教育，被排除在大多数有偿工作和面向公众的职业之外，出行须由男性监护人陪同，在保护自身免受各种形式的暴力侵害方面面临法律障碍。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142617",
-      "publishedAt": "2026-08-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
