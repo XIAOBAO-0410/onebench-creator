@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T05:51:44.007Z",
-  "expiresAt": "2026-08-19T11:51:44.007Z",
+  "generatedAt": "2026-08-19T08:05:58.622Z",
+  "expiresAt": "2026-08-19T14:05:58.622Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680239.shtml",
-      "title": "四十天两次回收成功，中国可回收火箭跑到哪一步了？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680360.shtml",
+      "title": "中非共和国一金矿坍塌致至少30名矿工死亡",
       "category": "综合",
-      "summary": "2026年8月19日清晨7时35分，酒泉东风商业航天创新试验区，一枚“银箭”刺破苍穹。几分钟后，它的一子级调转航向、重返大气层、展开着陆支腿，稳稳站立在甘肃民勤回收场坪上——朱雀三号遥二，中国首型成功实现陆地回收的民营运载火箭，在七夕这天完成了“归巢”。",
+      "summary": "中新网北京8月19日电 班吉消息：中非共和国西部一处金矿当地时间18日发生坍塌，造成至少30名矿工死亡，另有多人被困。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680239.shtml",
-      "publishedAt": "2026-08-19T05:45:18.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680360.shtml",
+      "publishedAt": "2026-08-19T07:56:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680233.shtml",
-      "title": "苏州光福核雕：掌上有乾坤 微米见匠心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-19/10680370.shtml",
+      "title": "合作进行时丨中厄合作互利共赢 为中拉关系提供新样板",
       "category": "综合",
-      "summary": "中新网苏州8月19日电(常慕城)还记得《核舟记》记载的“大苏泛赤壁”吗？一枚小小的桃核，何以尽显微雕技艺的鬼斧神工？近日，苏州市非遗办开设核雕公益课，苏州市核雕艺术家协会理事、凰玥雕刻工作室主理人黄荷杰为市民游客带来了一场精彩的文化讲座。",
+      "summary": "8月16日至23日，厄瓜多尔总统诺沃亚对中国进行国事访问。此访是诺沃亚总统首次对中国进行国事访问。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680233.shtml",
-      "publishedAt": "2026-08-19T05:43:52.000Z",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-19/10680370.shtml",
+      "publishedAt": "2026-08-19T07:55:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680229.shtml",
-      "title": "平陆运河起点江口街：因水兴衰的千年古街",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680356.shtml",
+      "title": "印度加尔各答一酒店起火已致9死",
       "category": "综合",
-      "summary": "平塘村江口街街长雷玉宝，2025年退休后回到老家，开设了江口历史文化展厅。图为雷玉宝向来客介绍江口街历史。中新网记者 蒋雪林 摄 图为平陆运河起点。地处运河起点的江口街，随着运河的通航，将涅槃重生。中新网记者 蒋雪林 摄 图为航拍地处运河起点的江口街。从空中俯瞰，江口街依水而建，别有一番景致。中新网记者 蒋雪林 摄 图为运河起点处打卡点。随着平陆运河即将通航",
+      "summary": "中新社北京8月19日电 新德里消息：当地时间19日，印度西孟加拉邦首府加尔各答一家酒店发生火灾，造成至少9人死亡。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680229.shtml",
-      "publishedAt": "2026-08-19T05:42:08.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680356.shtml",
+      "publishedAt": "2026-08-19T07:55:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680231.shtml",
-      "title": "专家学者江苏盱眙共探凹凸棒石产业创新发展",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns/2026/08-19/news1065882.shtml",
+      "title": "探访《欢迎来龙餐馆》里的中东小城 看中国电影工业悄然“生长”",
       "category": "综合",
-      "summary": "中新网南京8月19日电 (李春蕾 王宇)第十八届凹凸棒石研究与应用学术研讨会18日在江苏盱眙开幕。来自国内科研院所专家、行业领军人才、产业链企业代表齐聚一堂，以“科技创新，赋能产业，开拓场景，绿色发展”为主题，共探凹凸棒石产业高质量发展之道。",
+      "summary": "硝烟笼罩的乱世之中，一间龙餐馆成为容纳温情的小小港湾。近期上映的电影《欢迎来龙餐馆》以现实主义的叙事底色，探讨动荡环境下个体的选择与善意。电影票房持续走高，火热的市场反响之下，片中极具异域氛围感的中东小城走入大众视野，不少影迷好奇镜头里的街巷究竟身在何处。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680231.shtml",
-      "publishedAt": "2026-08-19T05:41:10.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-19/news1065882.shtml",
+      "publishedAt": "2026-08-19T07:41:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680226.shtml",
-      "title": "烟台港中非件杂货班轮航线年运量首破600万吨",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680364.shtml",
+      "title": "外交部：国际社会坚持一个中国原则的基本格局不可撼动",
       "category": "综合",
-      "summary": "中新网烟台8月19日电 (记者 王娇妮 杨兵)记者19日从山东港口烟台港获悉，随着装载机械车辆、工程建材的“新洲”轮近日从该港前往加纳，烟台港中非件杂货班轮航线年发运量首次突破600万吨。",
+      "summary": "8月19日，外交部发言人林剑主持例行记者会。有记者提问，据报道，马来西亚总理安瓦尔近日接受采访时表示，台湾是中国的一部分。中方对此有何评论？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680226.shtml",
-      "publishedAt": "2026-08-19T05:39:06.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680364.shtml",
+      "publishedAt": "2026-08-19T07:41:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680255.shtml",
-      "title": "王毅同智利外长佩雷斯会谈",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680363.shtml",
+      "title": "重庆推出全链条、数字化档案服务",
       "category": "综合",
-      "summary": "2026年8月19日，中共中央政治局委员、外交部长王毅在北京同智利外长佩雷斯举行会谈。",
+      "summary": "中新网重庆8月19日电 (记者 钟旖)记者19日从重庆市人力资源和社会保障局获悉，该局依托“数字重庆”建设，推出全链条、数字化的档案服务，实现档案转入转出、存放地点查询、存档证明开具等高频服务事项掌上可办、全域互通共享。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680255.shtml",
-      "publishedAt": "2026-08-19T05:38:22.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680363.shtml",
+      "publishedAt": "2026-08-19T07:36:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-19/10680227.shtml",
-      "title": "七夕佳节 杭州“最美婚登处”迎新人登记高峰",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-19/10680362.shtml",
+      "title": "111名足球小将逐梦绿茵 2026年重庆市青少年足球精英夏令营开营",
       "category": "综合",
-      "summary": "8月19日，一对新人在婚登处打卡。当日是中国传统情人节七夕，在浙江杭州“最美婚登处”——上城区婚姻登记服务中心，大量新人扎堆登记，情定终身。中新社记者 王刚 摄 8月19日，一对新人展示结婚证。当日是中国传统情人节七夕，在浙江杭州“最美婚登处”——上城区婚姻登记服务中心，大量新人扎堆登记，情定终身。中新社记者 王刚 摄 8月19日，一对新人登记后展示结婚证并",
+      "summary": "中新网重庆8月19日电(记者 肖江川)19日，“逐梦绿茵·星耀两江”2026年重庆市青少年足球精英夏令营正式开营。来自重庆市各区县的43所学校、111名足球小将齐聚两江新区黄山体育公园，开启为期五天的足球夏令营之旅。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-19/10680227.shtml",
-      "publishedAt": "2026-08-19T05:38:20.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-19/10680362.shtml",
+      "publishedAt": "2026-08-19T07:35:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680251.shtml",
-      "title": "绕开海峡 伊拉克批准原油出口新机制",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680361.shtml",
+      "title": "中医药基本名词术语中阿、中波对照国际标准发布",
       "category": "综合",
-      "summary": "伊拉克政府18日说，伊政府已批准相关机制，允许通过专业的国际和本地公司，经过多个口岸出口原油。",
+      "summary": "中新网西宁8月19日电 (记者 孙睿)记者19日从青海新丝路回医药研究院获悉，由该院牵头研制的《中医药基本名词术语中阿对照国际标准》与《中医药基本名词术语中波对照国际标准》两项国际标准于8月18日正式对外发布，填补了中医药名词术语阿拉伯语、波斯语双语对照的国际标准空白。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680251.shtml",
-      "publishedAt": "2026-08-19T05:36:47.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680361.shtml",
+      "publishedAt": "2026-08-19T07:34:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-19/10680224.shtml",
-      "title": "首届流行音乐创作大会（广东）将在广州举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680359.shtml",
+      "title": "洞穴旅游持续走热 浙江将多元体验“嵌入”山石间",
       "category": "综合",
-      "summary": "中新网广州8月19日电 (记者 程景伟)首届流行音乐创作大会(广东)(以下简称“大会”)8月25日将在广州举办。",
+      "summary": "中新社浙江丽水8月19日电 (黄彦君)乘坐“时空梭”斜轨缆车缓缓下行，伴随着声光电特效体验地下暗河漂流……立秋过后暑气依旧，在浙江丽水遂昌湖山乡，不少游客选择到“地心世界”景区享受清凉。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680224.shtml",
-      "publishedAt": "2026-08-19T05:36:27.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680359.shtml",
+      "publishedAt": "2026-08-19T07:33:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680222.shtml",
-      "title": "国台办回应非洲多国限制“台湾护照”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680358.shtml",
+      "title": "2026世界机器人大会开幕 300余家中外企业参展",
       "category": "综合",
-      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：日前有台湾民众到乌干达入境时，“台湾护照”遭扣留，被要求换成大陆护照。先前也有古巴等国家不承认“台湾护照”，请问对此有何评论？对于未来台湾民众有相关国家的出行需求，或在当地遇到类似问题，大陆方面能够提供何种协助与解决途径？",
+      "summary": "中新社北京8月19日电 (记者 陈杭 吕少威 徐婧)以“人机共生，产需共融”为主题的2026世界机器人大会19日在北京开幕，300余家国内外机器人相关企业携3000余件展品同台竞技。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680222.shtml",
-      "publishedAt": "2026-08-19T05:33:15.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680358.shtml",
+      "publishedAt": "2026-08-19T07:32:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680244.shtml",
-      "title": "（经济观察）“硬科技”企业密集登陆 科创板“硬核底色”持续跃升",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680357.shtml",
+      "title": "台湾观众期待《八仙！》等影片在台上映 国台办表示“一贯支持”",
       "category": "综合",
-      "summary": "中新社上海8月19日电 (高志苗)宇树科技股份有限公司19日登陆上海证券交易所科创板。本次IPO(首次公开募股)从3月20日获受理到7月2日注册生效仅用时104天，也创下科创板“预先审阅”机制落地以来的最快审核纪录。",
+      "summary": "中新社北京8月19日电 (记者 徐雪莹 陈建新)台湾观众期待《八仙！》《欢迎来龙餐馆》等大陆影片早日在台上映，国务院台办发言人朱凤莲19日在北京回应，我们一贯支持两岸影视文化等领域交流合作，希望相关影片能够尽快在台湾上映。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680244.shtml",
-      "publishedAt": "2026-08-19T05:33:03.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680357.shtml",
+      "publishedAt": "2026-08-19T07:32:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680221.shtml",
-      "title": "国台办回应台当局尊重日本政要“拜鬼”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680355.shtml",
+      "title": "外交部：国际社会应共同抵制和阻止日本右翼势力危险动向",
       "category": "综合",
-      "summary": "中新网8月19日电 8月19日，国务院台办举行例行新闻发布会。有记者问：8月15日是日本战败纪念日，面对日本防卫大臣小泉进次郎等参拜靖国神社之举，台湾方面声称“尊重”。对此有何评论？",
+      "summary": "8月19日，外交部发言人林剑主持例行记者会。有记者提问，我们关注到俄罗斯外长拉夫罗夫17日对媒体表示，希望日本充分认真阅读《联合国宪章》，包括第一百零七条及“敌国条款”，日本当年是在承认军国主义罪行，承认联合国宪章全部内容的情况下加入联合国，如果日本领导层试图突破本国宪法约束，改写国际法，逃避历史责任，当然会引起严重担忧。请问中方对此有何评论？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680221.shtml",
-      "publishedAt": "2026-08-19T05:32:05.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680355.shtml",
+      "publishedAt": "2026-08-19T07:29:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680223.shtml",
-      "title": "广州东部公铁联运枢纽正式启动“两查合一”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680352.shtml",
+      "title": "“雾凇之都”吉林七夕推文旅礼包打造“浪漫之城”",
       "category": "综合",
-      "summary": "中新网广州8月19日电 (记者 蔡敏婕)广州交投集团19日发布消息称，满载日用电器、服装、家具等货物的X8426次中欧班列从广州东部公铁联运枢纽增城西站开出。通过4个月的测试，粤港澳大湾区首次正式采用“两查合一”协同监管模式开行中欧班列，助力中欧班列扩能提质以及广州东部公铁联运枢纽能级提升。",
+      "summary": "中新网吉林8月19日电 (记者 苍雁 石洪宇)8月19日迎来传统七夕节，吉林省吉林市在东大旺山公园同步举办青年联谊、中式集体婚礼、家庭服务公益市集系列活动，并面向新婚夫妇推出多项景区惠民政策，邀请各地新人感受“浪漫之城”独特风情。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680223.shtml",
-      "publishedAt": "2026-08-19T05:31:05.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680352.shtml",
+      "publishedAt": "2026-08-19T07:27:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-19/10680235.shtml",
-      "title": "港澳籍游艇首泊佛山 开启湾区水上休闲新通道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680354.shtml",
+      "title": "A股收评：超5000只个股飘绿，三大指数集体收跌",
       "category": "综合",
-      "summary": "中新网佛山8月19日电 (郭军 严晓莹)据佛山海事局19日消息，近日，两艘悬挂香港注册旗的游艇缓缓驶入佛山西江国际游艇会平稳靠泊，标志着粤港澳游艇自由行政策在佛山全面落地，也意味着大湾区水上休闲版图正式延伸至这座岭南文化名城的内河滨水码头。",
+      "summary": "A股收评：超5000只个股飘绿，三大指数集体收跌；银行逆市走强，海运、油气、保险板块上涨，CPO、芯片股重挫，通信设备、半导体大跌",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-19/10680235.shtml",
-      "publishedAt": "2026-08-19T05:30:47.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680354.shtml",
+      "publishedAt": "2026-08-19T07:27:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,212 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201508.shtml",
-      "title": "赵乐际会见厄瓜多尔总统诺沃亚",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680353.shtml",
+      "title": "外交部：中方坚决反对在人工智能问题上搞选边站队、阵营对抗",
+      "category": "综合",
+      "summary": "8月19日，外交部发言人林剑主持例行记者会。有记者就美国政府拟对《人工智能机遇伙伴关系联合声明》提出联署要求提问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680353.shtml",
+      "publishedAt": "2026-08-19T07:26:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680351.shtml",
+      "title": "全国首个开放式商业航天测运控共享平台在北京火箭大街启用",
+      "category": "综合",
+      "summary": "中新网北京8月19日电 (杜燕 李啸)8月19日，朱雀三号重复使用运载火箭在东风商业航天创新试验区成功将“鸿鹄03星”送入预定轨道，并完成中国首次运载火箭一子级陆地支腿回收。在距离发射场一千多公里的北京亦庄，全国首个开放式商业航天测运控共享平台——北京火箭大街商业航天智能测运控中心于19日正式启用，并开展了此次历史性发射任务的全过程星、箭测控，实现了“亦庄箭",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680351.shtml",
+      "publishedAt": "2026-08-19T07:26:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680350.shtml",
+      "title": "广西深化“联建联动联管联治”模式 提升海上执法工作水平",
+      "category": "综合",
+      "summary": "中新网南宁8月19日电 (林浩 江保秀 罗焱丹)8月18日，为持续提升海上综合治理效能，2026年广西海上执法工作会议在南宁市召开，要求广西各涉海部门持续深化“联建联动联管联治”模式，聚焦风险防控，强化基层基础，守护生态屏障，夯实各方责任，提升海上执法工作水平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680350.shtml",
+      "publishedAt": "2026-08-19T07:23:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680348.shtml",
+      "title": "“有多少智能，就有多少人工”",
+      "category": "综合",
+      "summary": "中国新闻周刊记者：李沁桦 实习生：张艺雅",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680348.shtml",
+      "publishedAt": "2026-08-19T07:20:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680346.shtml",
+      "title": "多地七夕婚姻登记预约火爆，游船、医院也能登记",
+      "category": "综合",
+      "summary": "中新网北京8月19日电(记者 袁秀月)今天是中国传统节日七夕节，每年的这一天都是结婚登记高峰期。记者注意到，各地婚姻登记处都提前开启七夕当天的结婚登记预约服务，多地婚姻登记预约火爆，部分地区还将婚姻登记点搬到公园、景区、游船、医院等。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680346.shtml",
+      "publishedAt": "2026-08-19T07:19:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680347.shtml",
+      "title": "美国宣布制裁国际刑事法院院长赤根智子 日本：深感遗憾",
+      "category": "综合",
+      "summary": "中新网8月19日电 据日本共同社报道，针对美国宣布对日本籍国际刑事法院院长赤根智子实施制裁一事，日本外务省当地时间19日表示，对此“深感遗憾”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680347.shtml",
+      "publishedAt": "2026-08-19T07:18:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680331.shtml",
+      "title": "澳大利亚与泰国加强合作打击跨国犯罪",
+      "category": "综合",
+      "summary": "中新社悉尼8月19日电 澳大利亚与泰国19日发表联合声明，宣布加强合作打击网络诈骗等跨国犯罪。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680331.shtml",
+      "publishedAt": "2026-08-19T07:18:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680343.shtml",
+      "title": "印度加尔各答一酒店发生火灾 已致9人死亡",
+      "category": "综合",
+      "summary": "中新网8月19日电 据《印度快报》19日报道，印度西孟加拉邦首府加尔各答市中心一家酒店当天凌晨发生火灾，已造成至少9人死亡，其中包括一名儿童。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680343.shtml",
+      "publishedAt": "2026-08-19T07:13:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680344.shtml",
+      "title": "19.9元一斤！榴莲价格为何“崩了”",
+      "category": "综合",
+      "summary": "“榴莲价格彻底崩了”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680344.shtml",
+      "publishedAt": "2026-08-19T07:12:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-19/10680337.shtml",
+      "title": "侨智搭建跨境合作桥梁",
+      "category": "综合",
+      "summary": "中新社北京8月19日电 (记者 刘洋)2026首都侨智发展大会于8月17日至19日在北京举行，300余位海内外侨界人士围绕企业出海、技术本地化适配等议题展开交流。多位与会侨界人士接受中新社记者采访时表示，中国企业与技术出海正迎来新局面，侨海资源是打通跨境合作堵点、促成中外产业双向落地的重要纽带。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-19/10680337.shtml",
+      "publishedAt": "2026-08-19T07:11:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680338.shtml",
+      "title": "非遗手作成为年轻人新婚新“贺礼”",
+      "category": "综合",
+      "summary": "中新网石家庄8月19日电 题：非遗手作成为年轻人新婚新“贺礼”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680338.shtml",
+      "publishedAt": "2026-08-19T07:08:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201532.shtml",
+      "title": "2026世界机器人大会在北京开幕",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201508.shtml",
-      "publishedAt": "2026-08-19T05:30:05.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201532.shtml",
+      "publishedAt": "2026-08-19T07:08:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680234.shtml",
-      "title": "青海海西州发生5.6级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680336.shtml",
+      "title": "台首辆“张雪机车”遭查扣 国台办指行径霸道",
       "category": "综合",
-      "summary": "中新网8月19日电 据水利部微信公众号消息，2026年8月19日5时36分，青海海西州发生5.6级地震，震源深度10千米。水利部迅即启动水利抗震救灾调度指挥机制，组织专题会商，分析研判地震对水利工程和农村供水影响，研判震区雨水情形势，安排部署水利抗震救灾工作。",
+      "summary": "中新社北京8月19日电 (记者 陈建新 徐雪莹)台湾民众购买零件组装的首辆“张雪机车”遭台经济事务主管部门查扣，国务院台办发言人朱凤莲19日表示，民进党当局霸道行径不得人心，只会破坏和恶化营商环境。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680234.shtml",
-      "publishedAt": "2026-08-19T05:27:19.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680336.shtml",
+      "publishedAt": "2026-08-19T07:07:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680228.shtml",
-      "title": "赵乐际会见厄瓜多尔总统诺沃亚",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680339.shtml",
+      "title": "不靠海亦扬帆 湖南工程机械企业持续拓宽海外版图",
       "category": "综合",
-      "summary": "8月19日上午，全国人大常委会委员长赵乐际在北京会见厄瓜多尔总统诺沃亚。新华社记者 刘卫兵 摄 新华社北京8月19日电 全国人大常委会委员长赵乐际8月19日上午在北京会见厄瓜多尔总统诺沃亚。",
+      "summary": "中新网长沙8月19日电(冯军)从湘江之畔到撒哈拉沙漠，从迪拜塔尖到世界杯球场，工程机械“湘军”用一台台大国重器，写下了内陆省份湖南企业逆势出海的故事。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680228.shtml",
-      "publishedAt": "2026-08-19T05:21:09.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680339.shtml",
+      "publishedAt": "2026-08-19T07:07:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-19/10680206.shtml",
-      "title": "（侨乡新貌）侨乡玉林香料产业迭代升级 “驶上”全球香料新赛道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680329.shtml",
+      "title": "美媒：五角大楼考虑缩减在海湾地区驻军规模",
       "category": "综合",
-      "summary": "中新社广西玉林8月19日电 题：侨乡玉林香料产业迭代升级 “驶上”全球香料新赛道",
+      "summary": "中新网8月19日电 据美国《华盛顿邮报》报道，包括官员在内的八名消息人士透露，五角大楼正在评估美军在中东地区的军事部署规模，这释放了一个信号，即伊朗战事可能改变美国在该地区的存在态势。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680206.shtml",
-      "publishedAt": "2026-08-19T05:10:02.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680329.shtml",
+      "publishedAt": "2026-08-19T07:04:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680207.shtml",
-      "title": "长三角首开至京津冀电商多式联运快速班列",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201529.shtml",
+      "title": "沉浸式艺术展流行美国纽约",
       "category": "综合",
-      "summary": "中新社南京8月19日电 (记者 朱晓颖)一列载有日用百货、服装饰品等电商货物的多式联运快速班列19日从江苏铁路无锡南站驶出、驶往天津铁路周李庄站，标志着长三角首开至京津冀方向的电商多式联运快速班列开行。这是华东地区首次开行直达京津冀方向的电商多式联运快速班列。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680207.shtml",
-      "publishedAt": "2026-08-19T05:08:56.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201529.shtml",
+      "publishedAt": "2026-08-19T06:53:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,200 +572,19 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-19/10680205.shtml",
-      "title": "中文架起中厄民间友谊桥",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 题：中文架起中厄民间友谊桥",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-19/10680205.shtml",
-      "publishedAt": "2026-08-19T05:07:22.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#0",
+      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
+      "category": "国际",
+      "summary": "超過200名女性指控法國文化部高級公務員克里斯蒂安·內格雷（Christian Nègre）在求職面試時給她們下藥，讓她們小便——其中兩名女性分享了她們的經歷。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T06:41:30.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680201.shtml",
-      "title": "以色列指责叙利亚允许土耳其在叙空军基地部署军队",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 综合消息：以色列总理府当地时间18日通过社交媒体发表声明，指责叙利亚允许土耳其军队部署在叙利亚阿勒颇附近的一个空军基地。土耳其方面19日予以驳斥。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680201.shtml",
-      "publishedAt": "2026-08-19T05:06:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-19/10680200.shtml",
-      "title": "法国将驱逐两名伊朗外交人员",
-      "category": "综合",
-      "summary": "中新社北京8月19日电 综合消息：法国外交部长巴罗当地时间18日称，法国将驱逐两名伊朗驻法外交人员，以回应此前两名法国外交人员在伊朗遭扣留和审讯一事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-19/10680200.shtml",
-      "publishedAt": "2026-08-19T05:06:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns/2026/08-19/news1065843.shtml",
-      "title": "馆藏珍宝话佳期！探秘博物馆文物里的七夕中式浪漫",
-      "category": "综合",
-      "summary": "七夕佳节，湖北省博物馆举行系列主题文化活动，迎来参观热潮，游客们走进馆内，在馆藏珍宝中感受“中式浪漫”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-19/news1065843.shtml",
-      "publishedAt": "2026-08-19T05:03:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-19/10680203.shtml",
-      "title": "A股市场投资逻辑加速转向",
-      "category": "综合",
-      "summary": "今天的资本市场，目光都聚焦在一台“机器人”身上。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680203.shtml",
-      "publishedAt": "2026-08-19T04:46:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-19/10680204.shtml",
-      "title": "中新健康｜别被药盒包装忽悠了！原研药和仿制药这么选",
-      "category": "综合",
-      "summary": "中新网北京8月19日电(梁小燕)最近，一款包装标注“原研一致”字样的红霉素眼膏引发关注。消费者原以为“原研一致”就是官方认证，买回来才发现，它只是个商标。上海市金山区市场监督管理局日前回应媒体称，相关企业涉嫌恶意注册，拟对其立案调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-19/10680204.shtml",
-      "publishedAt": "2026-08-19T04:37:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-19/10680202.shtml",
-      "title": "首颗“雄安造”卫星成功入轨",
-      "category": "综合",
-      "summary": "中新社河北雄安8月19日电 (赵丹媚 韩冰)北京时间2026年8月19日，蓝箭鸿擎(雄安)空间科技有限公司(以下简称鸿擎科技)自主研制的鸿鹄03星，由朱雀三号遥二运载火箭于东风商业航天创新试验区成功发射入轨，卫星太阳翼顺利展开，各项遥测参数正常，发射任务取得圆满成功。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680202.shtml",
-      "publishedAt": "2026-08-19T04:35:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680195.shtml",
-      "title": "青海海西州直辖区5.6级地震 中国地震局启动四级应急响应",
-      "category": "综合",
-      "summary": "中新网北京8月19日电 (记者 孙自法)记者8月19日从中国地震局获悉，青海海西州直辖区当天清晨发生5.6级地震后，中国地震局迅即开展应急处置工作，启动四级应急响应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680195.shtml",
-      "publishedAt": "2026-08-19T04:30:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-19/10680194.shtml",
-      "title": "粤港澳大湾区首次推行“关铁协同”模式 中欧班列再提速",
-      "category": "综合",
-      "summary": "中新网广州8月19日电 (郭军 梁海棠 蔡震)8月18日，满载日用电器、服装、家具等货物的X8426次中欧班列从广州增城西货场开出。这趟班列是粤港澳大湾区首次采用“关铁协同”模式开行的中欧班列。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-19/10680194.shtml",
-      "publishedAt": "2026-08-19T04:22:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680193.shtml",
-      "title": "中国团队提出海岸带互花米草差异化治理新方案",
-      "category": "综合",
-      "summary": "中新网天津8月19日电 (记者 周亚强)记者19日从中国地质调查局天津地质调查中心获悉，该中心海岸带研究团队联合南京大学、南开大学科研团队，提出针对中国海岸带外来入侵物种互花米草的差异化治理新方案。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680193.shtml",
-      "publishedAt": "2026-08-19T04:19:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-19/10680192.shtml",
-      "title": "江苏推进中小学人工智能通识教育全覆盖",
-      "category": "综合",
-      "summary": "中新网南京8月19日电 (记者 徐珊珊)江苏省中小学人工智能通识教育课全覆盖项目18日在南京正式启动。该项目旨在落实国家教育数字化战略，推动基础教育高质量发展，确保秋季学期全面开课。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680192.shtml",
-      "publishedAt": "2026-08-19T04:19:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -608,7 +625,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#1",
       "title": "專門減肥藥能否提升運動員表現？",
       "category": "国际",
       "summary": "GLP-1減重藥物能夠減輕體重並改善健康，但它們是否也能提升運動表現？科學家表示目前證據尚不明確，但爭論正日益升溫。",
@@ -1137,7 +1154,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
       "category": "国际",
       "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
@@ -1573,23 +1590,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad#4",
-      "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
-      "category": "国际",
-      "summary": "在英格蘭康沃爾郡，超過95%的太陽被月球遮蔽；而西班牙部分地區的民眾則有幸見證日全食帶來的震撼景象。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T03:19:02.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
