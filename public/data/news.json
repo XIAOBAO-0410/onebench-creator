@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T21:47:55.300Z",
-  "expiresAt": "2026-08-21T03:47:55.300Z",
+  "generatedAt": "2026-08-20T23:12:43.164Z",
+  "expiresAt": "2026-08-21T05:12:43.164Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-21/10681392.shtml",
+      "title": "8月21日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-21/10681392.shtml",
+      "publishedAt": "2026-08-20T22:50:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml",
+      "title": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+      "category": "综合",
+      "summary": "中新网8月21日电 据外媒报道，伊朗外交部当地时间20日发表声明，强烈谴责美国对伊朗实施经济和贸易制裁，称美方此举侵犯了伊朗公民基本人权，是“经济恐怖主义”和“反人类罪”的体现。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml",
+      "publishedAt": "2026-08-20T22:45:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681389.shtml",
+      "title": "吉尔吉斯斯坦欢迎中方对吉公民实施过境免签政策",
+      "category": "综合",
+      "summary": "中新社阿斯塔纳8月20日电 比什凯克消息：吉尔吉斯斯坦总统办公厅20日发文表示，吉方欢迎中方将吉尔吉斯斯坦纳入240小时过境免签和海南30天入境免签政策适用国家范围。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681389.shtml",
+      "publishedAt": "2026-08-20T22:40:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681388.shtml",
+      "title": "泰国政府官员中文学习班赴华学习",
+      "category": "综合",
+      "summary": "中新社曼谷8月20日电 (记者 李映民)当地时间20日晚，中国驻泰国大使馆举办仪式欢送第22届泰国政府官员中文学习班69名学员赴中国华侨大学学习。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681388.shtml",
+      "publishedAt": "2026-08-20T22:39:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681390.shtml",
+      "title": "今年上半年中国继续保持德国最大贸易伙伴",
+      "category": "综合",
+      "summary": "中新社柏林8月20日电 (记者 马秀秀)德国联邦统计局20日公布的数据显示，2026年上半年，中国继续保持德国最大贸易伙伴地位，双边贸易额达到1255亿欧元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681390.shtml",
+      "publishedAt": "2026-08-20T22:38:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681387.shtml",
+      "title": "暑期兼职外卖骑手的保障短板如何补齐？",
+      "category": "综合",
+      "summary": "中介收费乱象丛生，短期跑单拉高从业成本，新手易陷“水土不服”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681387.shtml",
+      "publishedAt": "2026-08-20T22:35:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681386.shtml",
+      "title": "特朗普宣布对伊朗实施“毁灭性经济行动”",
+      "category": "综合",
+      "summary": "由于与伊朗的谈判陷入停滞，美国总统特朗普19日宣布对伊朗实施“毁灭性经济行动”。20日，伊朗外长阿拉格齐在社交媒体表示，美国对伊朗的所谓经济打击，是在已然失败的策略上加码，只会带来“进一步的失败”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681386.shtml",
+      "publishedAt": "2026-08-20T22:33:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml",
+      "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+      "category": "综合",
+      "summary": "开学临近",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml",
+      "publishedAt": "2026-08-20T22:28:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
@@ -435,150 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681357.shtml",
       "publishedAt": "2026-08-20T13:52:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
-      "title": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
-      "category": "综合",
-      "summary": "中新网南宁8月20日电(韦佳秀)广西壮族自治区财政厅20日介绍，今年以来，广西持续出现强降雨天气，南宁、贵港、钦州、防城港等地发生严重洪涝、地质灾害。对此，该厅加大资金统筹力度，累计筹措落实农业防灾减灾和水利救灾资金4.58亿元(人民币，下同)，有力保障农业、水利防灾减灾救灾工作顺利开展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
-      "publishedAt": "2026-08-20T13:51:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681358.shtml",
-      "title": "广东省运会乒乓球赛事收官 31枚金牌有主",
-      "category": "综合",
-      "summary": "中新网茂名8月20日电 (梁盛 梁晶晶 赖绮航)20日，广东省第十七届运动会竞技体育组乒乓球比赛在茂名高州市收官，深圳队实力领跑，共斩获18枚金牌，珠海队收获5枚金牌，广州队拿下4枚金牌，佛山队斩获3枚金牌，中山队摘得1枚金牌。团体总分榜单同步揭晓，深圳队以531分高居榜首，广州队、佛山队位列第二、三名，东道主茂名队获得第七名，交出不俗答卷。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681358.shtml",
-      "publishedAt": "2026-08-20T13:51:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-20/10681354.shtml",
-      "title": "华裔青少年在天津沉浸式体验侨批文化",
-      "category": "综合",
-      "summary": "中新社天津8月20日电 (记者 孙玲玲)“看着一页页泛黄信纸，我真切读懂了汉字背后沉甸甸的情感。”参观完“纸短情长——《给阿嬷的情书》观后展”，来自德国的14岁华裔青少年傅筱乐接受中新社记者采访时如是说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681354.shtml",
-      "publishedAt": "2026-08-20T13:51:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681359.shtml",
-      "title": "还原“平常人”孔繁森",
-      "category": "综合",
-      "summary": "中新网北京8月20日电 题：还原“平常人”孔繁森",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681359.shtml",
-      "publishedAt": "2026-08-20T13:50:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
-      "title": "广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
-      "category": "综合",
-      "summary": "中新网南宁8月20日电(黄艳梅 杨樯)记者20日从广西壮族自治区人力资源和社会保障厅获悉，广西壮族自治区第四届职业技能大赛(以下简称“大赛”)将于今年11月在南宁市举行，这是广西层级最高、覆盖领域最广的综合性职业技能赛事。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
-      "publishedAt": "2026-08-20T13:50:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681351.shtml",
-      "title": "浙江横店：短剧热度延伸至线下 游客走进片场“当主角”",
-      "category": "综合",
-      "summary": "中新网金华8月20日电 (刘子琳)换上戏服、走进片场、面对镜头“当主角”……正值暑期，在浙江东阳横店影视城，不少游客把“拍一部短剧”加入旅行行程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681351.shtml",
-      "publishedAt": "2026-08-20T13:50:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681352.shtml",
-      "title": "世界青年花样滑冰大奖赛西安站开赛 百余选手聚古都",
-      "category": "综合",
-      "summary": "中新社西安8月20日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站20日正式开赛，来自30余个国家和地区的百余名青年花滑选手齐聚古城西安。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681352.shtml",
-      "publishedAt": "2026-08-20T13:49:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
-      "title": "六国棋手“云端”对弈 2026重庆武隆“白马山杯”东南亚围棋邀请赛开幕",
-      "category": "综合",
-      "summary": "中新网重庆8月20日电(肖江川 王佳杰)20日，2026重庆武隆“白马山杯”东南亚围棋邀请赛在武隆白马山古力围棋学苑开幕。来自中国、老挝、马来西亚、新加坡、泰国、越南六国的围棋高手齐聚云雾缭绕的白马山巅，以棋为媒、以艺会友，展开一场跨越国界的智力对决。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
-      "publishedAt": "2026-08-20T13:49:09.000Z",
       "tags": [
         "国内",
         "社会",
