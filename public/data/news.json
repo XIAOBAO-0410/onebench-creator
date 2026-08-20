@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T11:46:48.473Z",
-  "expiresAt": "2026-08-20T17:46:48.473Z",
+  "generatedAt": "2026-08-20T14:20:38.827Z",
+  "expiresAt": "2026-08-20T20:20:38.827Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681264.shtml",
-      "title": "激发下沉市场活力，活跃县域消费",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681355.shtml",
+      "title": "医院通报“孕妇因医生疏忽误服液体”：涉事医生已暂停执业",
       "category": "综合",
-      "summary": "下沉市场覆盖城乡、连接产销、服务民生，承载着全国最广泛的消费群体，也蕴藏着最具潜力的消费需求。据媒体报道，近日，商务部等9部门联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》(下称《意见》)。《意见》聚焦县域地区和线下消费，提出18条举措，系统部署激发下沉市场活力重点工作，指导各地因地制宜活跃县域消费。",
+      "summary": "中新网8月20日电 据“辽阳市第三人民医院 妇幼保健院”微信公众号消息，辽阳市第三人民医院20日晚发布一则情况通报称，近日，媒体报道“孕妇产检因医生疏忽误服有毒液体”事件引发社会关注。8月7日，孕妇朱某某到辽阳市第三人民医院产科门诊进行糖耐量筛查产检，由于接诊医生将新柏氏细胞保存液与筛查所用的口服葡萄糖粉混放存放、现场核对不严、宣教指导流程落实不到位，院内制",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681264.shtml",
-      "publishedAt": "2026-08-20T11:41:37.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681355.shtml",
+      "publishedAt": "2026-08-20T14:03:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681263.shtml",
-      "title": "阿拉姆吉尔当选孟加拉国第23任总统",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681371.shtml",
+      "title": "锚定建设高能级开放强省 浙江绘就五年“路线图”",
       "category": "综合",
-      "summary": "当地时间20日，孟加拉国选举委员会宣布，执政党孟加拉国民族主义党候选人阿拉姆吉尔当选孟加拉国第23任总统。",
+      "summary": "中新网杭州8月20日电(蓝伊旎)浙江省政府新闻办20日在杭州召开新闻发布会，介绍了《浙江省“十五五”建设高能级开放强省规划》(下称《规划》)有关情况。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681263.shtml",
-      "publishedAt": "2026-08-20T11:34:45.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681371.shtml",
+      "publishedAt": "2026-08-20T13:59:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681262.shtml",
-      "title": "获颁航天功勋奖章，张陆、武飞、张洪章是谁？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681370.shtml",
+      "title": "族谱印证血脉渊源 台青赴福建诏安寻根谒祖",
       "category": "综合",
-      "summary": "中共中央、国务院、中央军委20日决定，给张陆颁发“二级航天功勋奖章”，授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”。",
+      "summary": "中新网福建诏安8月20日电 (沈晴槟)8月19日，福建省漳州市诏安县桥东镇西浒村迎来了一位特殊的寻根者——来自台湾云林县斗南镇的“90后”青年沈文鹏。经确认先祖源流脉络后，当天沈文鹏在诏安县台联、桥东镇政府和西浒村村委会的协助下，来到祖辈口传的“老家”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681262.shtml",
-      "publishedAt": "2026-08-20T11:32:57.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681370.shtml",
+      "publishedAt": "2026-08-20T13:59:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681229.shtml",
-      "title": "日本连续3个月出现贸易逆差",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681367.shtml",
+      "title": "广西北海海警局伏季休渔期综合治理战果丰硕 打掉2个涉嫌非法走私海鲜团伙",
       "category": "综合",
-      "summary": "中新社东京8月20日电 (记者 朱晨曦)日本财务省20日发布的数据显示，受原油等商品进口成本上涨影响，日本7月贸易逆差达6345亿日元(1美元约合161.83日元)。这是日本连续3个月出现贸易逆差。",
+      "summary": "中新网北海8月20日电 (孙鑫 张宙 李锦濠)广西北海海警局20日介绍，2026年南海伏季休渔期以来，该局不断提升综合治理力度，坚持“一手护渔、一手打私”，联合相关部门先后打掉涉嫌非法走私海鲜团伙2个，涉案海鲜约800吨，案值约4000万元。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681229.shtml",
-      "publishedAt": "2026-08-20T11:27:44.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681367.shtml",
+      "publishedAt": "2026-08-20T13:58:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681221.shtml",
-      "title": "马来西亚7月贸易总额同比增长37.3%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681368.shtml",
+      "title": "两岸影人在北京共话电影合作",
       "category": "综合",
-      "summary": "中新社吉隆坡8月20日电 (刘育英 贾天文)马来西亚统计局20日发布的数据显示，2026年7月，马来西亚贸易总额同比增长37.3%，同比增加990亿林吉特(约合1646亿元人民币)，达到3647亿林吉特(约合6065亿元人民币)。",
+      "summary": "中新社北京8月20日电 (李百加 金志成)“光影同舟”两岸电影交流会20日在北京举行，13部悬疑、喜剧、动作等类型电影项目提案主创登台路演，吸引40余家影视投资、制作、发行公司及串流平台负责人与会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681221.shtml",
-      "publishedAt": "2026-08-20T11:27:18.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681368.shtml",
+      "publishedAt": "2026-08-20T13:58:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681257.shtml",
-      "title": "直播海报：民歌大观第49期“走进爱的火把节”音乐分享会",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681366.shtml",
+      "title": "“第二现场”沉浸式数字演播项目首演 夯实优质文化资源下沉基层",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网北京8月20日电 (记者 应妮)8月19日晚，“第二现场”沉浸式数字演播项目迎来首场演出。当晚，黄梅戏经典剧目《牛郎织女》在合肥亮相，并通过5G+4K超高清技术同步向北京、上海、宁波、通辽等五地进行实时直播。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681257.shtml",
-      "publishedAt": "2026-08-20T11:27:10.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681366.shtml",
+      "publishedAt": "2026-08-20T13:57:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-20/10681255.shtml",
-      "title": "直播：向决赛冲刺！中国U17女足对阵阿森纳U17女足",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681369.shtml",
+      "title": "新疆霍尔果斯铁路口岸累计通行中欧（亚）班列超5.9万列",
       "category": "综合",
-      "summary": "",
+      "summary": "中新社乌鲁木齐8月20日电 (苟继鹏 吴奇)记者20日从新疆铁路部门获悉，今年霍尔果斯铁路口岸通行中欧(亚)班列突破6000列。截至目前，该口岸已累计通行中欧(亚)班列超5.9万列。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-20/10681255.shtml",
-      "publishedAt": "2026-08-20T11:24:10.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681369.shtml",
+      "publishedAt": "2026-08-20T13:57:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201641.shtml",
-      "title": "青海兴海：光伏产业助力清洁供暖入户",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681364.shtml",
+      "title": "云南大理无量山里的“幸福小院”：饭桌有“暖” 照护有“智”",
       "category": "综合",
-      "summary": "8月20日，青海兴海，航拍大唐兴海县清洁供暖配套40万千瓦光伏项目。该项目通过源网荷储就地平衡模式，以光伏发电保障电供暖负荷，年节约标煤约 22 万吨，年减少二氧化碳约 36.3 万吨，是高原高寒地区 “光伏 + 清洁供暖” 示范项目。（无人机照片）中新社记者 张忠苹 摄 8月20日，青海兴海，航拍大唐兴海县清洁供暖配套40万千瓦光伏项目。该项目通过源网荷储",
+      "summary": "中新网大理8月20日电 (陆希成)正午时分，南涧彝族自治县南涧镇西山村的“无量幸福小院”里，灶间饭菜飘香。廊下，老人三两闲坐，说着家常，等候开饭。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201641.shtml",
-      "publishedAt": "2026-08-20T11:19:22.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681364.shtml",
+      "publishedAt": "2026-08-20T13:57:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201645.shtml",
-      "title": "敦煌授时台加速助力长波授时信号全国土覆盖",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681365.shtml",
+      "title": "“开放成都·链接全球”智能制造产业直通车搭起国际合作桥梁",
       "category": "综合",
-      "summary": "历时三年建设，中国科学院国家授时中心在甘肃敦煌建成高精度地基授时系统敦煌授时台和监测站，目前已进入试运行阶段，随着西藏那曲授时台和新疆库尔勒授时台的相继建成，将实现高精度长波授时信号的全国土覆盖。高精度地基授时系统项目在研制过程中硕果累累，科研人员突破了高精度发播控制和脉冲时间基准反馈调节技术，以及高稳定大功率脉冲信号产生技术，实现了20纳秒的兆瓦级长波授时",
+      "summary": "中新网成都8月20日电 (单鹏)“开放成都·链接全球”智能制造产业直通车20日在成都天府国际生物城举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201645.shtml",
-      "publishedAt": "2026-08-20T11:18:04.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681365.shtml",
+      "publishedAt": "2026-08-20T13:56:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-20/10681224.shtml",
-      "title": "山东济南：趣味集章学安全 点亮暑期返程路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681363.shtml",
+      "title": "老中青三代音乐人将汇聚深圳“听见中国听见你”原创音乐盛典",
       "category": "综合",
-      "summary": "8月20日，旅客在济南遥墙国际机场参与警营开放日活动。钱程 摄 8月20日，济南边检民警教儿童识别真伪证件。钱程 摄 8月20日，儿童在济南遥墙国际机场举行的警营开放日活动中与警犬互动。钱程 摄 8月20日，公安民警在济南遥墙国际机场向旅客介绍各类毒品危害。钱程 摄 8月20日，旅客在济南遥墙国际机场参与警营开放日活动。钱程 摄",
+      "summary": "中新网北京8月20日电 (记者 应妮)“听见中国听见你”原创音乐盛典新闻发布会日前在北京鸟巢科技艺术中心举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681224.shtml",
-      "publishedAt": "2026-08-20T11:16:18.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681363.shtml",
+      "publishedAt": "2026-08-20T13:55:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681222.shtml",
-      "title": "河南洛阳通报“火炬大桥护栏开裂”：桥梁主体结构安全未受影响",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-20/10681361.shtml",
+      "title": "60名澳门青年走进横琴政务 收获琴澳融合实践成长答卷",
       "category": "综合",
-      "summary": "中新网8月20日电 河南洛阳市住房和城乡建设局20日在官网发布情况说明称，接到群众反映火炬大桥人行道栏杆望柱开裂损坏问题后，洛阳市住房和城乡建设局第一时间组织设计、施工单位和第三方检测机构现场勘验。经核实和检测，人行道栏杆为钢结构和铸造石预制构件，部分铸造石望柱外层出现开裂、剥落现象，桥梁主体结构安全未受影响。",
+      "summary": "中新网珠海8月20日电 (记者 邓媛雯)2026澳门青年·执行委员会专项实习计划结营仪式20日在横琴粤澳深度合作区(以下简称：合作区)举行，来自北京大学、复旦大学、香港大学、澳门大学等境内外知名学府的60名澳门青年，完成了为期8周的政务实习生活，在合作区的真实治理场景中，完成了一场从“课堂认知”到“实务参与”的深度跨越。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681222.shtml",
-      "publishedAt": "2026-08-20T10:57:16.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681361.shtml",
+      "publishedAt": "2026-08-20T13:54:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681215.shtml",
-      "title": "山西晋中市能源局党组成员、副局长王爱青接受审查调查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681360.shtml",
+      "title": "珠江流域启动防汛Ⅳ级应急响应",
       "category": "综合",
-      "summary": "中新网8月20日电 据山西省纪委监委网站消息，山西晋中市能源局党组成员、副局长王爱青涉嫌严重违纪违法，目前正接受晋中市纪委监委纪律审查和监察调查。",
+      "summary": "中新网广州8月20日电 (记者 王坚)水利部珠江水利委员会(下称“珠江委”)20日消息称，当前，珠江流域暴雨区内发生山洪灾害和中小河流洪水风险较大。鉴于当前防御形势，珠江防总于8月20日12时启动防汛Ⅳ级应急响应。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681215.shtml",
-      "publishedAt": "2026-08-20T10:43:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681360.shtml",
+      "publishedAt": "2026-08-20T13:52:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-20/10681223.shtml",
-      "title": "香港7月整体消费物价指数同比上升1.7%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681357.shtml",
+      "title": "第四届RCEP钢铁发展大会南宁启幕 共探产业链协同新机遇",
       "category": "综合",
-      "summary": "中新社香港8月20日电 香港特区政府统计处20日公布，根据综合消费物价指数，2026年7月整体消费物价同比上升1.7%，较6月的相应升幅2.0%为低。剔除所有政府一次性纾困措施的影响，综合消费物价指数在2026年7月的同比升幅(即基本通胀率)为1.9%，与6月的相应升幅相同。",
+      "summary": "中新网南宁8月20日电 (记者 杨陈)以“借鉴与践行 宏图与红利”为主题的2026第四届RCEP钢铁发展大会，20日在广西南宁召开。来自政府部门、行业协会、科研机构、钢铁企业及产业链上下游的百余名代表齐聚一堂，共商区域钢铁产业合作新路径，共绘开放发展新图景。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681223.shtml",
-      "publishedAt": "2026-08-20T10:41:45.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-20/10681357.shtml",
+      "publishedAt": "2026-08-20T13:52:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681220.shtml",
-      "title": "“快递进村”邮政兜底试点工作现场会在湖北房县召开",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
+      "title": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
       "category": "综合",
-      "summary": "中新网湖北十堰8月20日电 8月20日，“快递进村”邮政兜底试点工作现场会在湖北省十堰市房县召开。会议总结中西部农村地区“快递进村”邮政兜底试点工作阶段性成效，交流各地经验做法，部署下一阶段重点任务。",
+      "summary": "中新网南宁8月20日电(韦佳秀)广西壮族自治区财政厅20日介绍，今年以来，广西持续出现强降雨天气，南宁、贵港、钦州、防城港等地发生严重洪涝、地质灾害。对此，该厅加大资金统筹力度，累计筹措落实农业防灾减灾和水利救灾资金4.58亿元(人民币，下同)，有力保障农业、水利防灾减灾救灾工作顺利开展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681220.shtml",
-      "publishedAt": "2026-08-20T10:40:59.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
+      "publishedAt": "2026-08-20T13:51:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681219.shtml",
-      "title": "固原农林职业技术学院正式挂牌成立",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681358.shtml",
+      "title": "广东省运会乒乓球赛事收官 31枚金牌有主",
       "category": "综合",
-      "summary": "中新网固原8月20日电 (记者 李佩珊)8月20日，固原农林职业技术学院揭牌成立，这所经宁夏回族自治区人民政府批复设立、教育部备案的农林类高等职业技术学院正式办学，成为固原教育改革发展进程中的重要里程碑。",
+      "summary": "中新网茂名8月20日电 (梁盛 梁晶晶 赖绮航)20日，广东省第十七届运动会竞技体育组乒乓球比赛在茂名高州市收官，深圳队实力领跑，共斩获18枚金牌，珠海队收获5枚金牌，广州队拿下4枚金牌，佛山队斩获3枚金牌，中山队摘得1枚金牌。团体总分榜单同步揭晓，深圳队以531分高居榜首，广州队、佛山队位列第二、三名，东道主茂名队获得第七名，交出不俗答卷。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681219.shtml",
-      "publishedAt": "2026-08-20T10:39:53.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681358.shtml",
+      "publishedAt": "2026-08-20T13:51:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681218.shtml",
-      "title": "2026“盐”续真情·镜观山海摄影交流展在青海西宁开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-20/10681354.shtml",
+      "title": "华裔青少年在天津沉浸式体验侨批文化",
       "category": "综合",
-      "summary": "中新网西宁8月20日电 (张海雯)20日，2026“盐”续真情·镜观山海摄影交流展在西宁市职工书画院开幕。",
+      "summary": "中新社天津8月20日电 (记者 孙玲玲)“看着一页页泛黄信纸，我真切读懂了汉字背后沉甸甸的情感。”参观完“纸短情长——《给阿嬷的情书》观后展”，来自德国的14岁华裔青少年傅筱乐接受中新社记者采访时如是说。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681218.shtml",
-      "publishedAt": "2026-08-20T10:39:31.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681354.shtml",
+      "publishedAt": "2026-08-20T13:51:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681217.shtml",
-      "title": "北京强化民政技能人才建设 以赛提升殡仪服务专业水平",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681359.shtml",
+      "title": "还原“平常人”孔繁森",
       "category": "综合",
-      "summary": "中新网北京8月20日电 (记者 徐婧) 2026年全国民政行业职业技能竞赛殡仪服务员、遗体防腐整容师北京地区选拔赛19日开赛。本次选拔赛持续强化民政技术技能人才梯队建设，引领殡葬服务领域工艺精进、技术创新与整体技能水平迭代提升。",
+      "summary": "中新网北京8月20日电 题：还原“平常人”孔繁森",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681217.shtml",
-      "publishedAt": "2026-08-20T10:38:59.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681359.shtml",
+      "publishedAt": "2026-08-20T13:50:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681209.shtml",
-      "title": "珠海机场国际货运口岸临时对外开放一年国际货邮吞吐破1.5万吨",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
+      "title": "广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
       "category": "综合",
-      "summary": "中新社广东珠海8月20日电 (记者 邓媛雯)珠海机场国际货运口岸运营方珠海交通控股集团有限公司20日公布，珠海机场国际货运口岸临时对外开放满一周年，累计国际货邮吞吐量突破1.5万吨，其中51%的货物来自东莞、佛山等地的电商及制造产业带。",
+      "summary": "中新网南宁8月20日电(黄艳梅 杨樯)记者20日从广西壮族自治区人力资源和社会保障厅获悉，广西壮族自治区第四届职业技能大赛(以下简称“大赛”)将于今年11月在南宁市举行，这是广西层级最高、覆盖领域最广的综合性职业技能赛事。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681209.shtml",
-      "publishedAt": "2026-08-20T10:38:35.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
+      "publishedAt": "2026-08-20T13:50:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681208.shtml",
-      "title": "青海：清洁能源和绿色算力产业发展实现“双提升”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681351.shtml",
+      "title": "浙江横店：短剧热度延伸至线下 游客走进片场“当主角”",
       "category": "综合",
-      "summary": "中新网西宁8月20日电 (李隽)“我们立足高原资源能源优势，把产业‘四地’作为建设现代化产业体系的主战场，因地制宜发展新质生产力，特色优势产业势头强劲。”青海省发展和改革委员会党组成员、副主任吴密森20日在新闻发布会上表示，青海在清洁能源和绿色算力产业发展中，“含新量”“含绿量”实现“双提升”。",
+      "summary": "中新网金华8月20日电 (刘子琳)换上戏服、走进片场、面对镜头“当主角”……正值暑期，在浙江东阳横店影视城，不少游客把“拍一部短剧”加入旅行行程。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681208.shtml",
-      "publishedAt": "2026-08-20T10:37:31.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681351.shtml",
+      "publishedAt": "2026-08-20T13:50:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681214.shtml",
-      "title": "乌克兰防空武器短缺，基辅遭空袭致13人丧生",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681352.shtml",
+      "title": "世界青年花样滑冰大奖赛西安站开赛 百余选手聚古都",
       "category": "综合",
-      "summary": "中新网8月20日电 据英国广播公司(BBC)当地时间20日报道，乌克兰方面表示，俄罗斯最近对乌克兰首都基辅的空袭已造成至少13人死亡，40人受伤，而基辅仍然面临防空导弹短缺的问题。",
+      "summary": "中新社西安8月20日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站20日正式开赛，来自30余个国家和地区的百余名青年花滑选手齐聚古城西安。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681214.shtml",
-      "publishedAt": "2026-08-20T10:32:49.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681352.shtml",
+      "publishedAt": "2026-08-20T13:49:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681213.shtml",
-      "title": "全斗焕的非法所得将被追回？韩国国会通过犯罪收益没收法案",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
+      "title": "六国棋手“云端”对弈 2026重庆武隆“白马山杯”东南亚围棋邀请赛开幕",
       "category": "综合",
-      "summary": "中新网8月20日电 据韩媒报道，韩国法务部当地时间20日宣布，以引入独立没收制度为核心的《关于隐瞒犯罪所得的规制和处罚法》修正案已获韩国国会全体会议通过。",
+      "summary": "中新网重庆8月20日电(肖江川 王佳杰)20日，2026重庆武隆“白马山杯”东南亚围棋邀请赛在武隆白马山古力围棋学苑开幕。来自中国、老挝、马来西亚、新加坡、泰国、越南六国的围棋高手齐聚云雾缭绕的白马山巅，以棋为媒、以艺会友，展开一场跨越国界的智力对决。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681213.shtml",
-      "publishedAt": "2026-08-20T10:30:45.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
+      "publishedAt": "2026-08-20T13:49:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-20/10681210.shtml",
-      "title": "一元人民币，告诉你们什么叫多元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
+      "title": "武警青海某支队开展“萌娃进军营”夏令营活动",
       "category": "综合",
-      "summary": "这些年，一些美西方政客和媒体给中国乱扣帽子，已经到了“见字就能做文章”的程度。",
+      "summary": "中新网西宁8月20日电(祁增蓓)8月20日，武警青海总队某支队组织“萌娃进军营”主题夏令营活动。二十多名少年儿童走进高原军营，近距离接触军旅生活、学习国防知识，在沉浸式体验中解锁别样暑假。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-20/10681210.shtml",
-      "publishedAt": "2026-08-20T10:20:42.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
+      "publishedAt": "2026-08-20T13:48:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681207.shtml",
-      "title": "海南深化改革 推动交通高质量发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
+      "title": "赵乐际同萨尔瓦多立法大会主席卡斯特罗举行会谈",
       "category": "综合",
-      "summary": "中新网海口8月20日电 (记者 王子谦)作为新时代改革开放的“试验田”，海南自贸港正在多个领域进行深层次改革，促进高质量发展。海南省发展和改革委员会副主任江洪20日在此间举行的新闻发布会上表示，将把深化改革作为推动交通高质量发展的根本动力，聚焦重点领域和关键环节持续突破。",
+      "summary": "中新社北京8月20日电 全国人大常委会委员长赵乐际20日在北京人民大会堂同萨尔瓦多立法大会主席卡斯特罗举行会谈。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681207.shtml",
-      "publishedAt": "2026-08-20T10:18:30.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
+      "publishedAt": "2026-08-20T13:48:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681200.shtml",
-      "title": "“首来族”过半 台青山西古建中触摸中华文明根脉",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
+      "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
       "category": "综合",
-      "summary": "中新网太原8月20日电 题：“首来族”过半 台青山西古建中触摸中华文明根脉",
+      "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日晚，2026“举杯贺兰山·青年艺术季”在位于宁夏银川市的漫葡·看见贺兰演艺小镇收官。为期40天的系列文艺文旅活动汇聚全国优质文艺资源，联动全城业态拉动暑期消费，持续丰富银川文旅业态、提升城市文旅影响力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681200.shtml",
-      "publishedAt": "2026-08-20T10:12:22.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
+      "publishedAt": "2026-08-20T13:47:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681199.shtml",
-      "title": "14对新人在“神州北极”漠河举行集体中式婚礼",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-20/10681343.shtml",
+      "title": "“粤港养老通”落地 跨境养老金融迈入“双轮驱动”时代",
       "category": "综合",
-      "summary": "中新网漠河8月20日电 (田德雨 邵天李)8月20日，由大兴安岭地区妇联主办、漠河市妇联承办的“北极之恋 森爱良缘”集体婚礼活动在漠河市北极村举行。来自龙江森工集团、武警大兴安岭支队及辽宁朝阳、山西太原等地的14对新人，循着传统中式婚俗礼仪，在北极漠河演绎极致浪漫。",
+      "summary": "中新网广州8月20日电 (记者 郭军)“粤港养老通”业务落地推广仪式20日在广州举行，标志着这项覆盖粤港两地的跨境养老惠民服务在广东正式全面落地。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681199.shtml",
-      "publishedAt": "2026-08-20T10:11:52.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681343.shtml",
+      "publishedAt": "2026-08-20T13:47:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681198.shtml",
-      "title": "今年上半年，海南邮政行业多项指标高于全国行业平均水平",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681344.shtml",
+      "title": "广州知识产权法院2025年先行调解成功达三千余件",
       "category": "综合",
-      "summary": "中新网海口8月20日电 (记者 王子谦)海南省邮政管理局纪检组组长、副局长陈振权20日在海南省新闻办公室举行的新闻发布会上说，今年上半年海南省邮政行业多项指标同比快速增长，均高于全国行业平均水平。",
+      "summary": "中新网广州8月20日电 (记者 方伟彬)广州知识产权法院20日召开调解工作座谈会，全面梳理知识产权纠纷调解工作成效。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681198.shtml",
-      "publishedAt": "2026-08-20T10:11:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681344.shtml",
+      "publishedAt": "2026-08-20T13:47:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681197.shtml",
-      "title": "海南产经新观察：“五网融合”，构建综合立体交通体系",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
+      "title": "中法青年湖南芷江捐赠法国解密日本侵华档案",
       "category": "综合",
-      "summary": "中新网海口8月20日电 (记者 王子谦)步入“十五五”，海南将“基本建成现代化综合交通运输体系”作为交通运输的发展目标。在20日举行的“开局起步‘十五五’”系列主题新闻发布会——《海南省“十五五”综合交通运输规划》专场上，海南官方明确，未来五年统筹推进航空、铁路、公路、水运、低空“五网融合”，构建陆海空立体衔接、全域协同高效的现代化综合交通运输体系。",
+      "summary": "中新网怀化8月20日电 (付敬懿 杨若兰)8月20日，法国青年马库斯、白士杰与中国青年钟灏松一行来到位于湖南芷江侗族自治县的中国人民抗日战争胜利受降纪念馆，捐赠了一批法国官方解密抗战档案扫描件，以第三方国际视角丰富芷江抗战史料馆藏，补齐湖南抗战域外史证链条。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681197.shtml",
-      "publishedAt": "2026-08-20T10:10:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
+      "publishedAt": "2026-08-20T13:46:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681195.shtml",
-      "title": "APEC能源智库论坛发布报告强调能源合作是可谋求最大共识领域",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-20/10681341.shtml",
+      "title": "华裔少年穿行三秦 邂逅千年文脉",
       "category": "综合",
-      "summary": "中新社大连8月20日电 (记者 王梦瑶)APEC能源智库论坛8月20日在大连举行。会上发布的《中国—APEC能源合作启新程：以能源合作携手共促亚太共同繁荣》报告称，能源安全是亚太经合组织(APEC)各经济体核心关切，且多数经济体面临能源结构转型压力，能源合作一直是各经济体可以谋求最大共识的领域。",
+      "summary": "中新网西安8月20日电 题：华裔少年穿行三秦 邂逅千年文脉",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681195.shtml",
-      "publishedAt": "2026-08-20T10:09:54.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681341.shtml",
+      "publishedAt": "2026-08-20T13:46:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681202.shtml",
-      "title": "北方小城的产业新路：田间连车间，丰产又丰收",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
+      "title": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
       "category": "综合",
-      "summary": "中新网乌兰察布8月20日电 题：北方小城的产业新路：田间连车间，丰产又丰收",
+      "summary": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量达7,650万，同比稳中有升；业务层面，内容影响力持续领跑，AI智能产品实现里程",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681202.shtml",
-      "publishedAt": "2026-08-20T10:09:10.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
+      "publishedAt": "2026-08-20T13:46:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681203.shtml",
-      "title": "2026年中华文化大乐园—英国伦敦园开园",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681340.shtml",
+      "title": "联合国开发计划署“康养旅居可持续发展会议”在重庆江津举行",
       "category": "综合",
-      "summary": "中新网南宁8月20日电 (林浩)8月20日，广西大学介绍，2026年中华文化大乐园—英国伦敦园近日在伦敦正式开园。",
+      "summary": "中新网重庆8月20日电(陈媛)联合国开发计划署“康养旅居可持续发展会议”暨首届江津(四面山)康养旅居产业高质量发展大会20日在重庆市江津区举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681203.shtml",
-      "publishedAt": "2026-08-20T10:08:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681340.shtml",
+      "publishedAt": "2026-08-20T13:46:19.000Z",
       "tags": [
         "国内",
         "社会",
