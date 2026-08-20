@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T09:59:36.847Z",
-  "expiresAt": "2026-08-20T15:59:36.847Z",
+  "generatedAt": "2026-08-20T11:46:48.473Z",
+  "expiresAt": "2026-08-20T17:46:48.473Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681188.shtml",
-      "title": "APEC能源智库论坛在大连举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681264.shtml",
+      "title": "激发下沉市场活力，活跃县域消费",
       "category": "综合",
-      "summary": "中新网大连8月20日电 (记者 王梦瑶)8月20日，APEC能源智库论坛在大连成功举办。本次论坛由中国石油集团经济技术研究院(国家高端智库)主办，全球化智库(CCG)协办。作为2026APEC(亚太经合组织)中国年能源领域重要系列活动之一，论坛以“平衡安全与转型：构建亚太稳定繁荣的能源未来”为主题，来自17个APEC成员经济体，以及中国参与APEC能源合作伙",
+      "summary": "下沉市场覆盖城乡、连接产销、服务民生，承载着全国最广泛的消费群体，也蕴藏着最具潜力的消费需求。据媒体报道，近日，商务部等9部门联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》(下称《意见》)。《意见》聚焦县域地区和线下消费，提出18条举措，系统部署激发下沉市场活力重点工作，指导各地因地制宜活跃县域消费。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681188.shtml",
-      "publishedAt": "2026-08-20T09:50:36.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681264.shtml",
+      "publishedAt": "2026-08-20T11:41:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681193.shtml",
-      "title": "约旦国王抵达北京 继续访华行程",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681263.shtml",
+      "title": "阿拉姆吉尔当选孟加拉国第23任总统",
       "category": "综合",
-      "summary": "约旦哈希姆王国国王阿卜杜拉二世今天(20日)下午抵达北京，继续访华行程。",
+      "summary": "当地时间20日，孟加拉国选举委员会宣布，执政党孟加拉国民族主义党候选人阿拉姆吉尔当选孟加拉国第23任总统。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681193.shtml",
-      "publishedAt": "2026-08-20T09:48:52.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681263.shtml",
+      "publishedAt": "2026-08-20T11:34:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681192.shtml",
-      "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681262.shtml",
+      "title": "获颁航天功勋奖章，张陆、武飞、张洪章是谁？",
       "category": "综合",
-      "summary": "新华社北京8月20日电#8195;8月20日，国家主席习近平致电哈凯恩德·希奇莱马，祝贺他当选连任赞比亚共和国总统。",
+      "summary": "中共中央、国务院、中央军委20日决定，给张陆颁发“二级航天功勋奖章”，授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681192.shtml",
-      "publishedAt": "2026-08-20T09:46:16.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681262.shtml",
+      "publishedAt": "2026-08-20T11:32:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681186.shtml",
-      "title": "第七届中非媒体合作论坛在北京举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681229.shtml",
+      "title": "日本连续3个月出现贸易逆差",
       "category": "综合",
-      "summary": "中新网北京8月20日电 (记者 高凯)第七届中非媒体合作论坛20日在北京开幕，33位非洲国家部级嘉宾出席，创历史新高。论坛发布《第七届中非媒体合作论坛共同宣言》。",
+      "summary": "中新社东京8月20日电 (记者 朱晨曦)日本财务省20日发布的数据显示，受原油等商品进口成本上涨影响，日本7月贸易逆差达6345亿日元(1美元约合161.83日元)。这是日本连续3个月出现贸易逆差。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681186.shtml",
-      "publishedAt": "2026-08-20T09:44:30.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681229.shtml",
+      "publishedAt": "2026-08-20T11:27:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681190.shtml",
-      "title": "（经济观察）算法赋能 中国货运网驶入智能化快车道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681221.shtml",
+      "title": "马来西亚7月贸易总额同比增长37.3%",
       "category": "综合",
-      "summary": "中新社北京8月20日电 (记者 刘文文)在南京溧水区一处蔬菜种植基地内，早晨采摘的鲜丝瓜会被快速打包装车。司机通过数字货运平台“运满满”几秒内就可匹配到一单发往上海的订单。数小时后，这批带着晨露的蔬菜就可以直达当地生鲜市场。",
+      "summary": "中新社吉隆坡8月20日电 (刘育英 贾天文)马来西亚统计局20日发布的数据显示，2026年7月，马来西亚贸易总额同比增长37.3%，同比增加990亿林吉特(约合1646亿元人民币)，达到3647亿林吉特(约合6065亿元人民币)。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681190.shtml",
-      "publishedAt": "2026-08-20T09:43:44.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681221.shtml",
+      "publishedAt": "2026-08-20T11:27:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681191.shtml",
-      "title": "工信部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681257.shtml",
+      "title": "直播海报：民歌大观第49期“走进爱的火把节”音乐分享会",
       "category": "综合",
-      "summary": "中新网8月20日电 据“工信微报”微信公众号消息，落实《工业和信息化部关于优化业务准入促进卫星通信产业发展的指导意见》工作部署，按照《工业和信息化部关于组织开展卫星物联网业务商用试验的通知》要求，工业和信息化部近日批复浙江时空道宇科技有限公司(以下简称时空道宇)开展卫星物联网业务商用试验，试验期为两年。在此期间，时空道宇可依法试点经营卫星物联网业务，依托“吉",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681191.shtml",
-      "publishedAt": "2026-08-20T09:43:38.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681257.shtml",
+      "publishedAt": "2026-08-20T11:27:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681183.shtml",
-      "title": "近百名两岸青年学子在沈阳“以球会友”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-20/10681255.shtml",
+      "title": "直播：向决赛冲刺！中国U17女足对阵阿森纳U17女足",
       "category": "综合",
-      "summary": "中新网沈阳8月20日电 (记者 李晛)“沈台青年交流季——2026沈台高中篮球文化交流活动”于8月11日至18日在沈阳举办。台湾新北市南山高级中学篮球队一行25人与沈阳市第三十一中学篮球队、辽宁省中学生篮球联队等近百名两岸青年学子齐聚沈城，以篮球为纽带，共赴一场跨越海峡的青春之约。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681183.shtml",
-      "publishedAt": "2026-08-20T09:42:46.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-20/10681255.shtml",
+      "publishedAt": "2026-08-20T11:24:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681185.shtml",
-      "title": "广东湛江启动防热带气旋三级应急响应 琼州海峡客滚船停运",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201641.shtml",
+      "title": "青海兴海：光伏产业助力清洁供暖入户",
       "category": "综合",
-      "summary": "中新网湛江8月20日电 (梁盛 谢晓琳 许曼)8月20日12时，广东湛江海事局启动防热带气旋三级应急响应，全面防御南海热带低压。当天16时起，琼州海峡客滚船全线停运，水上交通安全防线紧急拉紧。",
+      "summary": "8月20日，青海兴海，航拍大唐兴海县清洁供暖配套40万千瓦光伏项目。该项目通过源网荷储就地平衡模式，以光伏发电保障电供暖负荷，年节约标煤约 22 万吨，年减少二氧化碳约 36.3 万吨，是高原高寒地区 “光伏 + 清洁供暖” 示范项目。（无人机照片）中新社记者 张忠苹 摄 8月20日，青海兴海，航拍大唐兴海县清洁供暖配套40万千瓦光伏项目。该项目通过源网荷储",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681185.shtml",
-      "publishedAt": "2026-08-20T09:42:08.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201641.shtml",
+      "publishedAt": "2026-08-20T11:19:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681181.shtml",
-      "title": "吉林洮南绿色燃料拓展至航空领域",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201645.shtml",
+      "title": "敦煌授时台加速助力长波授时信号全国土覆盖",
       "category": "综合",
-      "summary": "中新网吉林洮南8月20日电 (谭伟旗 金乔)上海电气吉林洮南绿氢耦合生物质绿色醇油一体化二期项目20日正式开工。绿色醇油属于清洁低碳液体燃料，项目落地后，洮南将具备船用、航空两大领域绿色燃料规模化供给能力。",
+      "summary": "历时三年建设，中国科学院国家授时中心在甘肃敦煌建成高精度地基授时系统敦煌授时台和监测站，目前已进入试运行阶段，随着西藏那曲授时台和新疆库尔勒授时台的相继建成，将实现高精度长波授时信号的全国土覆盖。高精度地基授时系统项目在研制过程中硕果累累，科研人员突破了高精度发播控制和脉冲时间基准反馈调节技术，以及高稳定大功率脉冲信号产生技术，实现了20纳秒的兆瓦级长波授时",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681181.shtml",
-      "publishedAt": "2026-08-20T09:41:54.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201645.shtml",
+      "publishedAt": "2026-08-20T11:18:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681182.shtml",
-      "title": "清华大学科学史系主任吴国盛：中国基础科学突破要摈弃功利主义科学观",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-20/10681224.shtml",
+      "title": "山东济南：趣味集章学安全 点亮暑期返程路",
       "category": "综合",
-      "summary": "中新网上海8月20日电 “功利主义的科学观，是制约中国基础科学突破的深层原因”，清华大学科学史系主任吴国盛教授日前在《科学乃自由之路》新书分享会上如是说。",
+      "summary": "8月20日，旅客在济南遥墙国际机场参与警营开放日活动。钱程 摄 8月20日，济南边检民警教儿童识别真伪证件。钱程 摄 8月20日，儿童在济南遥墙国际机场举行的警营开放日活动中与警犬互动。钱程 摄 8月20日，公安民警在济南遥墙国际机场向旅客介绍各类毒品危害。钱程 摄 8月20日，旅客在济南遥墙国际机场参与警营开放日活动。钱程 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681182.shtml",
-      "publishedAt": "2026-08-20T09:41:28.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681224.shtml",
+      "publishedAt": "2026-08-20T11:16:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681180.shtml",
-      "title": "内蒙古自贸试验区为口岸城市二连浩特带来三重变化",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681222.shtml",
+      "title": "河南洛阳通报“火炬大桥护栏开裂”：桥梁主体结构安全未受影响",
       "category": "综合",
-      "summary": "中新网二连浩特8月20日电 题：内蒙古自贸试验区为口岸城市二连浩特带来三重变化",
+      "summary": "中新网8月20日电 河南洛阳市住房和城乡建设局20日在官网发布情况说明称，接到群众反映火炬大桥人行道栏杆望柱开裂损坏问题后，洛阳市住房和城乡建设局第一时间组织设计、施工单位和第三方检测机构现场勘验。经核实和检测，人行道栏杆为钢结构和铸造石预制构件，部分铸造石望柱外层出现开裂、剥落现象，桥梁主体结构安全未受影响。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681180.shtml",
-      "publishedAt": "2026-08-20T09:41:21.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681222.shtml",
+      "publishedAt": "2026-08-20T10:57:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681167.shtml",
-      "title": "商务部：反对欧方滥用单边工具打压中国企业",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681215.shtml",
+      "title": "山西晋中市能源局党组成员、副局长王爱青接受审查调查",
       "category": "综合",
-      "summary": "中新社北京8月20日电 (记者 尹倩芸)中方日前就欧盟利用《外国补贴条例》(FSR)对中国相关实体的跨境调查做法再次发布禁执令。中国商务部新闻发言人何亚东20日在北京称，中方一贯反对欧方滥用FSR等单边工具打压中国企业。",
+      "summary": "中新网8月20日电 据山西省纪委监委网站消息，山西晋中市能源局党组成员、副局长王爱青涉嫌严重违纪违法，目前正接受晋中市纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681167.shtml",
-      "publishedAt": "2026-08-20T09:40:57.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681215.shtml",
+      "publishedAt": "2026-08-20T10:43:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681166.shtml",
-      "title": "中国商务部回应美征收无人机关税",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-20/10681223.shtml",
+      "title": "香港7月整体消费物价指数同比上升1.7%",
       "category": "综合",
-      "summary": "中新社北京8月20日电 (记者 尹倩芸)针对美征收无人机关税相关问题，中国商务部新闻发言人何亚东20日在于北京举行的例行新闻发布会上表示，中方对此坚决反对，敦促美方立即撤销232相关关税措施。",
+      "summary": "中新社香港8月20日电 香港特区政府统计处20日公布，根据综合消费物价指数，2026年7月整体消费物价同比上升1.7%，较6月的相应升幅2.0%为低。剔除所有政府一次性纾困措施的影响，综合消费物价指数在2026年7月的同比升幅(即基本通胀率)为1.9%，与6月的相应升幅相同。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681166.shtml",
-      "publishedAt": "2026-08-20T09:40:29.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681223.shtml",
+      "publishedAt": "2026-08-20T10:41:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681177.shtml",
-      "title": "开局起步“十五五”：交通强国，海南锚定“五个新”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681220.shtml",
+      "title": "“快递进村”邮政兜底试点工作现场会在湖北房县召开",
       "category": "综合",
-      "summary": "中新网海口8月20日电 (记者 王子谦)交通运输是国民经济的基础性、先导性、战略性产业。封关运作后的海南，如何更好布局综合交通运输发展体系，带动自贸港建设？",
+      "summary": "中新网湖北十堰8月20日电 8月20日，“快递进村”邮政兜底试点工作现场会在湖北省十堰市房县召开。会议总结中西部农村地区“快递进村”邮政兜底试点工作阶段性成效，交流各地经验做法，部署下一阶段重点任务。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681177.shtml",
-      "publishedAt": "2026-08-20T09:40:19.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681220.shtml",
+      "publishedAt": "2026-08-20T10:40:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681175.shtml",
-      "title": "热轧卷板、不锈钢、低硫燃料油期权将于9月10日上市",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681219.shtml",
+      "title": "固原农林职业技术学院正式挂牌成立",
       "category": "综合",
-      "summary": "中新网上海8月20日电 (高志苗)中国证监会近日同意上海期货交易所(下称上期所，含上期能源)热轧卷板、不锈钢、低硫燃料油期权上市。上期所相关负责人20日就三个期权上市相关问题接受了媒体采访。",
+      "summary": "中新网固原8月20日电 (记者 李佩珊)8月20日，固原农林职业技术学院揭牌成立，这所经宁夏回族自治区人民政府批复设立、教育部备案的农林类高等职业技术学院正式办学，成为固原教育改革发展进程中的重要里程碑。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681175.shtml",
-      "publishedAt": "2026-08-20T09:37:57.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681219.shtml",
+      "publishedAt": "2026-08-20T10:39:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-20/10681141.shtml",
-      "title": "游客探访世界文化遗产南京明孝陵 触摸六百余年皇陵历史印记",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681218.shtml",
+      "title": "2026“盐”续真情·镜观山海摄影交流展在青海西宁开幕",
       "category": "综合",
-      "summary": "8月20日，游客在世界文化遗产南京明孝陵参观。中新社记者 泱波 摄 8月20日，游客在世界文化遗产南京明孝陵参观。中新社记者 泱波 摄 8月20日，游客在世界文化遗产南京明孝陵参观。中新社记者 泱波 摄 8月20日，游客在世界文化遗产南京明孝陵参观。中新社记者 泱波 摄 8月20日，游客在世界文化遗产南京明孝陵参观。中新社记者 泱波 摄 8月20日，游客在世",
+      "summary": "中新网西宁8月20日电 (张海雯)20日，2026“盐”续真情·镜观山海摄影交流展在西宁市职工书画院开幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681141.shtml",
-      "publishedAt": "2026-08-20T09:37:25.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681218.shtml",
+      "publishedAt": "2026-08-20T10:39:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681069.shtml",
-      "title": "商务部回应美炮制所谓“影子转运网络”虚假叙事",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681217.shtml",
+      "title": "北京强化民政技能人才建设 以赛提升殡仪服务专业水平",
       "category": "综合",
-      "summary": "中新网8月20日电 商务部新闻发言人何亚东在20日举行的例行新闻发布会上表示，美方《大规模转运骗局：兴起、规模与成本》报告罔顾事实、颠倒黑白，将正常的国际贸易投资诬称为“骗局”，炮制所谓“影子转运网络”的虚假叙事，这是典型的单边主义和保护主义做法，旨在打压封堵中国产品。中方对此强烈不满、坚决反对。",
+      "summary": "中新网北京8月20日电 (记者 徐婧) 2026年全国民政行业职业技能竞赛殡仪服务员、遗体防腐整容师北京地区选拔赛19日开赛。本次选拔赛持续强化民政技术技能人才梯队建设，引领殡葬服务领域工艺精进、技术创新与整体技能水平迭代提升。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681069.shtml",
-      "publishedAt": "2026-08-20T09:32:03.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681217.shtml",
+      "publishedAt": "2026-08-20T10:38:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-20/10681144.shtml",
-      "title": "“蜀都赋——乡情、经略与遥想中的益州万象”特展在成都开展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681209.shtml",
+      "title": "珠海机场国际货运口岸临时对外开放一年国际货邮吞吐破1.5万吨",
       "category": "综合",
-      "summary": "图为观众参观展览。中新社记者 安源 摄 图为观众参观展览。中新社记者 安源 摄 图为展览展出的新都博物馆收藏的东汉“市集画像砖”。中新社记者 安源 摄 图为观众购买文创产品。中新社记者 安源 摄 图为观众参观展览。中新社记者 安源 摄 图为观众参观展览。中新社记者 安源 摄 图为观众体验智能蜀锦织造。中新社记者 安源 摄 图为观众参观展览。中新社记者 安源 ",
+      "summary": "中新社广东珠海8月20日电 (记者 邓媛雯)珠海机场国际货运口岸运营方珠海交通控股集团有限公司20日公布，珠海机场国际货运口岸临时对外开放满一周年，累计国际货邮吞吐量突破1.5万吨，其中51%的货物来自东莞、佛山等地的电商及制造产业带。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-20/10681144.shtml",
-      "publishedAt": "2026-08-20T09:25:07.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681209.shtml",
+      "publishedAt": "2026-08-20T10:38:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-20/10681179.shtml",
-      "title": "多彩民族有多彩丨把“出海口”搬到家门口，5万多吨“贵州造”搭乘中欧班列出山",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681208.shtml",
+      "title": "青海：清洁能源和绿色算力产业发展实现“双提升”",
       "category": "综合",
-      "summary": "视频：多彩民族有多彩丨把“出海口”搬到家门口，5万多吨“贵州造”搭乘中欧班列出山来源：动静新闻客户端",
+      "summary": "中新网西宁8月20日电 (李隽)“我们立足高原资源能源优势，把产业‘四地’作为建设现代化产业体系的主战场，因地制宜发展新质生产力，特色优势产业势头强劲。”青海省发展和改革委员会党组成员、副主任吴密森20日在新闻发布会上表示，青海在清洁能源和绿色算力产业发展中，“含新量”“含绿量”实现“双提升”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-20/10681179.shtml",
-      "publishedAt": "2026-08-20T09:24:37.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681208.shtml",
+      "publishedAt": "2026-08-20T10:37:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681178.shtml",
-      "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681214.shtml",
+      "title": "乌克兰防空武器短缺，基辅遭空袭致13人丧生",
       "category": "综合",
-      "summary": "习近平致电祝贺希奇莱马当选连任赞比亚总统。",
+      "summary": "中新网8月20日电 据英国广播公司(BBC)当地时间20日报道，乌克兰方面表示，俄罗斯最近对乌克兰首都基辅的空袭已造成至少13人死亡，40人受伤，而基辅仍然面临防空导弹短缺的问题。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681178.shtml",
-      "publishedAt": "2026-08-20T09:22:54.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681214.shtml",
+      "publishedAt": "2026-08-20T10:32:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681169.shtml",
-      "title": "韩国总统李在明会见王毅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681213.shtml",
+      "title": "全斗焕的非法所得将被追回？韩国国会通过犯罪收益没收法案",
       "category": "综合",
-      "summary": "中新社首尔8月20日电 韩国总统李在明20日在首尔青瓦台会见中共中央政治局委员、外交部长王毅。",
+      "summary": "中新网8月20日电 据韩媒报道，韩国法务部当地时间20日宣布，以引入独立没收制度为核心的《关于隐瞒犯罪所得的规制和处罚法》修正案已获韩国国会全体会议通过。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681169.shtml",
-      "publishedAt": "2026-08-20T09:19:44.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681213.shtml",
+      "publishedAt": "2026-08-20T10:30:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681163.shtml",
-      "title": "抖音客服服务升级：从“聊天指引”到“卡片即办理”，让用户办事更省心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-20/10681210.shtml",
+      "title": "一元人民币，告诉你们什么叫多元",
       "category": "综合",
-      "summary": "近日，抖音客服面向用户上线智能服务新能力，在涉及资料递交、升级办理的咨询场景中，将传统的聊天式文字指引升级为“办理卡片”。用户与客服沟通时，可直接收到一张办理卡片，一次性呈现办理流程、所需材料与审核进度，实现“卡片即办理”，降低服务理解成本与沟通成本，提升办事的确定性与透明度。",
+      "summary": "这些年，一些美西方政客和媒体给中国乱扣帽子，已经到了“见字就能做文章”的程度。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681163.shtml",
-      "publishedAt": "2026-08-20T09:15:18.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-20/10681210.shtml",
+      "publishedAt": "2026-08-20T10:20:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681160.shtml",
-      "title": "拼多多雄安公司员工规模突破4000人，加快落地更多业务场景",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681207.shtml",
+      "title": "海南深化改革 推动交通高质量发展",
       "category": "综合",
-      "summary": "8月20日消息，拼多多雄安公司员工规模正式突破4000人，专项招聘计划已完成逾80%，全国数字产业人才加速奔赴雄安，持续为新区数字经济产业发展注入澎湃动能。",
+      "summary": "中新网海口8月20日电 (记者 王子谦)作为新时代改革开放的“试验田”，海南自贸港正在多个领域进行深层次改革，促进高质量发展。海南省发展和改革委员会副主任江洪20日在此间举行的新闻发布会上表示，将把深化改革作为推动交通高质量发展的根本动力，聚焦重点领域和关键环节持续突破。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681160.shtml",
-      "publishedAt": "2026-08-20T09:13:30.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681207.shtml",
+      "publishedAt": "2026-08-20T10:18:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681162.shtml",
-      "title": "体验豆包技能上新：手机遥控，电脑干活",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681200.shtml",
+      "title": "“首来族”过半 台青山西古建中触摸中华文明根脉",
       "category": "综合",
-      "summary": "近日，豆包一批功能上新，围绕AI生产力，其“工作任务”新增支持本地电脑、云电脑双模式，技能和连接器功能让AI效率大大提升，本地电脑模式还支持手机远程操作，并在Windows系统独家推出虚拟桌面功能，和用户操作互不干扰。让我们率先体验一下看看怎么回事？",
+      "summary": "中新网太原8月20日电 题：“首来族”过半 台青山西古建中触摸中华文明根脉",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681162.shtml",
-      "publishedAt": "2026-08-20T09:12:52.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681200.shtml",
+      "publishedAt": "2026-08-20T10:12:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681159.shtml",
-      "title": "南海热带低压持续影响 海南拉响多个预警",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681199.shtml",
+      "title": "14对新人在“神州北极”漠河举行集体中式婚礼",
       "category": "综合",
-      "summary": "中新网海口8月20日电 (记者 王子谦)南海热带低压20日白天持续影响海南岛，海南省多部门接连发布多个预警。",
+      "summary": "中新网漠河8月20日电 (田德雨 邵天李)8月20日，由大兴安岭地区妇联主办、漠河市妇联承办的“北极之恋 森爱良缘”集体婚礼活动在漠河市北极村举行。来自龙江森工集团、武警大兴安岭支队及辽宁朝阳、山西太原等地的14对新人，循着传统中式婚俗礼仪，在北极漠河演绎极致浪漫。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681159.shtml",
-      "publishedAt": "2026-08-20T09:10:06.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681199.shtml",
+      "publishedAt": "2026-08-20T10:11:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681161.shtml",
-      "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681198.shtml",
+      "title": "今年上半年，海南邮政行业多项指标高于全国行业平均水平",
       "category": "综合",
-      "summary": "新华社北京8月20日电",
+      "summary": "中新网海口8月20日电 (记者 王子谦)海南省邮政管理局纪检组组长、副局长陈振权20日在海南省新闻办公室举行的新闻发布会上说，今年上半年海南省邮政行业多项指标同比快速增长，均高于全国行业平均水平。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681161.shtml",
-      "publishedAt": "2026-08-20T09:09:46.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681198.shtml",
+      "publishedAt": "2026-08-20T10:11:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681158.shtml",
-      "title": "广东打造全省网络客运聚合平台",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681197.shtml",
+      "title": "海南产经新观察：“五网融合”，构建综合立体交通体系",
       "category": "综合",
-      "summary": "中新网广州8月20日电 (记者 蔡敏婕)广东省交通运输厅20日发布消息称，广东省网络客运聚合平台当天上线运行，即日起城际出行“一键直达”。",
+      "summary": "中新网海口8月20日电 (记者 王子谦)步入“十五五”，海南将“基本建成现代化综合交通运输体系”作为交通运输的发展目标。在20日举行的“开局起步‘十五五’”系列主题新闻发布会——《海南省“十五五”综合交通运输规划》专场上，海南官方明确，未来五年统筹推进航空、铁路、公路、水运、低空“五网融合”，构建陆海空立体衔接、全域协同高效的现代化综合交通运输体系。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681158.shtml",
-      "publishedAt": "2026-08-20T09:09:28.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681197.shtml",
+      "publishedAt": "2026-08-20T10:10:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681153.shtml",
-      "title": "秦腔名家扬州艺术交流会：“水袖皇后”齐爱云亲授水袖绝技",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681195.shtml",
+      "title": "APEC能源智库论坛发布报告强调能源合作是可谋求最大共识领域",
       "category": "综合",
-      "summary": "中新网扬州8月20日电 (徐珊珊 崔佳明)8月20日下午，扬州运河大剧院多功能厅举行秦韵扬声·戏脉相融——戏曲名家艺术交流会暨《秦腔经典专场》巡演剧组见面会，活动以“秦腔绝技·‘主角’登场”为主题。中国戏剧梅花奖、白玉兰奖得主、秦腔四大名旦之一、“水袖皇后”齐爱云，与梅花奖获得者、秦腔名小生张涛，以及热播电视剧《主角》中“周师”饰演者、秦腔名家同超联袂亮相，",
+      "summary": "中新社大连8月20日电 (记者 王梦瑶)APEC能源智库论坛8月20日在大连举行。会上发布的《中国—APEC能源合作启新程：以能源合作携手共促亚太共同繁荣》报告称，能源安全是亚太经合组织(APEC)各经济体核心关切，且多数经济体面临能源结构转型压力，能源合作一直是各经济体可以谋求最大共识的领域。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681153.shtml",
-      "publishedAt": "2026-08-20T09:08:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681195.shtml",
+      "publishedAt": "2026-08-20T10:09:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681053.shtml",
-      "title": "商务部：中国已成为厄瓜多尔第二大贸易伙伴",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681202.shtml",
+      "title": "北方小城的产业新路：田间连车间，丰产又丰收",
       "category": "综合",
-      "summary": "中新网8月20日电 商务部新闻发言人何亚东在20日举行的例行新闻发布会上表示，近年来，中国与厄瓜多尔政治互信日益巩固，务实合作成果丰硕。中厄自贸协定生效两年多来，双边贸易额快速增长，今年上半年达98.3亿美元，同比增速超过20%，中国已成为厄瓜多尔第二大贸易伙伴。双方还在基础设施、能矿领域开展了卓有成效的合作。",
+      "summary": "中新网乌兰察布8月20日电 题：北方小城的产业新路：田间连车间，丰产又丰收",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681053.shtml",
-      "publishedAt": "2026-08-20T09:08:28.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681202.shtml",
+      "publishedAt": "2026-08-20T10:09:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +554,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681154.shtml",
-      "title": "受热带低压影响 海口“三港”停运",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-20/10681203.shtml",
+      "title": "2026年中华文化大乐园—英国伦敦园开园",
       "category": "综合",
-      "summary": "中新网海口8月20日电 (记者 王子谦)海口市交通运输局20日16时发布通告称，受热带低压影响，海口新海港、秀英港和铁路南港已于当日16时停运，预计停运将持续至8月21日早上(具体复运时间视气象情况而定)。",
+      "summary": "中新网南宁8月20日电 (林浩)8月20日，广西大学介绍，2026年中华文化大乐园—英国伦敦园近日在伦敦正式开园。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681154.shtml",
-      "publishedAt": "2026-08-20T09:08:10.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681203.shtml",
+      "publishedAt": "2026-08-20T10:08:09.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113650",
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？",
+      "category": "科技",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113650",
+      "publishedAt": "2026-08-20T09:30:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -1128,24 +1146,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/113564",
       "publishedAt": "2026-08-18T07:05:05.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113438",
-      "title": "App+1 | 让任务栏更有用：WindowSill",
-      "category": "科技",
-      "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？ 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113438",
-      "publishedAt": "2026-08-18T06:30:00.000Z",
       "tags": [
         "科技",
         "效率",
