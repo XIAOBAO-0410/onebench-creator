@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T14:20:38.827Z",
-  "expiresAt": "2026-08-20T20:20:38.827Z",
+  "generatedAt": "2026-08-20T17:51:27.458Z",
+  "expiresAt": "2026-08-20T23:51:27.458Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,168 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "title": "特朗普称白宫立法事务主任布雷德将离职",
+      "category": "综合",
+      "summary": "美国总统特朗普20日在社交媒体发文，宣布白宫立法事务主任詹姆斯·布雷德将于9月离职。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681384.shtml",
+      "publishedAt": "2026-08-20T16:52:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "title": "德国今年4月以来约有1.4万人因高温相关因素死亡",
+      "category": "综合",
+      "summary": "中新社柏林8月20日电 (记者 马秀秀)德国罗伯特·科赫研究所(RKI)20日发布的最新报告显示，今年4月6日至8月9日期间，德国约有1.4万人因高温相关因素死亡，相当于每10万人中约有17人因此死亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681383.shtml",
+      "publishedAt": "2026-08-20T16:51:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681382.shtml",
+      "title": "餐饮黄牛高价倒卖排号是否涉嫌违法？律师解读来了",
+      "category": "综合",
+      "summary": "出门吃饭，遇到特别火爆的网红餐厅，您会选择默默排队几小时，还是无奈找“黄牛”加钱买“号”？如今，餐饮“黄牛”已经把免费的餐饮号变成了付费的商品，把等待变成了一门生意。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681382.shtml",
+      "publishedAt": "2026-08-20T16:49:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10681380.shtml",
+      "title": "歌剧《卡门》中文版厦门上演 97岁指挥家郑小瑛执棒",
+      "category": "综合",
+      "summary": "中新社厦门8月20日电 (吴冠标)歌剧《卡门》中文版20日晚在厦门嘉庚剧院上演，97岁指挥家郑小瑛执棒指挥，再度刷新世界最高龄歌剧指挥纪录。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681380.shtml",
+      "publishedAt": "2026-08-20T16:44:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681381.shtml",
+      "title": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+      "category": "综合",
+      "summary": "当地时间20日，伊朗外交部就美国对伊朗实施新一轮经济制裁发表声明，谴责美方扩大针对伊朗的经济和贸易制裁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681381.shtml",
+      "publishedAt": "2026-08-20T16:44:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681379.shtml",
+      "title": "胡塞武装称对沙特发动无人机袭击",
+      "category": "综合",
+      "summary": "当地时间20日傍晚，也门胡塞武装表示，对沙特目标实施了两次无人机袭击行动，以回击沙特侵犯也门萨达省领空。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681379.shtml",
+      "publishedAt": "2026-08-20T16:42:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-20/10681376.shtml",
+      "title": "香港举办“东盟电影节2026” 逾30部佳片促文化交流合作",
+      "category": "综合",
+      "summary": "中新社香港8月20日电 “东盟电影节2026”开幕典礼20日在香港举行。本届电影节将在全香港多个场地免费放映逾30部影片，助力推动香港与东盟在电影和其他创意领域的文化交流与合作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681376.shtml",
+      "publishedAt": "2026-08-20T15:06:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-20/10681377.shtml",
+      "title": "美军中央司令部称“华盛顿”号航母已部署在中东",
+      "category": "综合",
+      "summary": "美军中央司令部20日在社交媒体发文称，“乔治·华盛顿”号航母打击群在19日抵达中央司令部辖区后，正按预定部署在中东地区执行任务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10681377.shtml",
+      "publishedAt": "2026-08-20T15:05:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681375.shtml",
+      "title": "上市公司组织百人“抢公章”？ 海威华芯控制权纠纷升级",
+      "category": "综合",
+      "summary": "中新网北京8月20日电(左雨晴) 8月20日，“抢公章”突然冲上了微博热搜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681375.shtml",
+      "publishedAt": "2026-08-20T14:39:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681355.shtml",
       "title": "医院通报“孕妇因医生疏忽误服液体”：涉事医生已暂停执业",
@@ -400,168 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/ty/2026/08-20/10681346.shtml",
       "publishedAt": "2026-08-20T13:49:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
-      "title": "武警青海某支队开展“萌娃进军营”夏令营活动",
-      "category": "综合",
-      "summary": "中新网西宁8月20日电(祁增蓓)8月20日，武警青海总队某支队组织“萌娃进军营”主题夏令营活动。二十多名少年儿童走进高原军营，近距离接触军旅生活、学习国防知识，在沉浸式体验中解锁别样暑假。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681350.shtml",
-      "publishedAt": "2026-08-20T13:48:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
-      "title": "赵乐际同萨尔瓦多立法大会主席卡斯特罗举行会谈",
-      "category": "综合",
-      "summary": "中新社北京8月20日电 全国人大常委会委员长赵乐际20日在北京人民大会堂同萨尔瓦多立法大会主席卡斯特罗举行会谈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681362.shtml",
-      "publishedAt": "2026-08-20T13:48:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
-      "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
-      "category": "综合",
-      "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日晚，2026“举杯贺兰山·青年艺术季”在位于宁夏银川市的漫葡·看见贺兰演艺小镇收官。为期40天的系列文艺文旅活动汇聚全国优质文艺资源，联动全城业态拉动暑期消费，持续丰富银川文旅业态、提升城市文旅影响力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml",
-      "publishedAt": "2026-08-20T13:47:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-20/10681343.shtml",
-      "title": "“粤港养老通”落地 跨境养老金融迈入“双轮驱动”时代",
-      "category": "综合",
-      "summary": "中新网广州8月20日电 (记者 郭军)“粤港养老通”业务落地推广仪式20日在广州举行，标志着这项覆盖粤港两地的跨境养老惠民服务在广东正式全面落地。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-20/10681343.shtml",
-      "publishedAt": "2026-08-20T13:47:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681344.shtml",
-      "title": "广州知识产权法院2025年先行调解成功达三千余件",
-      "category": "综合",
-      "summary": "中新网广州8月20日电 (记者 方伟彬)广州知识产权法院20日召开调解工作座谈会，全面梳理知识产权纠纷调解工作成效。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681344.shtml",
-      "publishedAt": "2026-08-20T13:47:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
-      "title": "中法青年湖南芷江捐赠法国解密日本侵华档案",
-      "category": "综合",
-      "summary": "中新网怀化8月20日电 (付敬懿 杨若兰)8月20日，法国青年马库斯、白士杰与中国青年钟灏松一行来到位于湖南芷江侗族自治县的中国人民抗日战争胜利受降纪念馆，捐赠了一批法国官方解密抗战档案扫描件，以第三方国际视角丰富芷江抗战史料馆藏，补齐湖南抗战域外史证链条。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-20/10681339.shtml",
-      "publishedAt": "2026-08-20T13:46:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-20/10681341.shtml",
-      "title": "华裔少年穿行三秦 邂逅千年文脉",
-      "category": "综合",
-      "summary": "中新网西安8月20日电 题：华裔少年穿行三秦 邂逅千年文脉",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-20/10681341.shtml",
-      "publishedAt": "2026-08-20T13:46:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
-      "title": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
-      "category": "综合",
-      "summary": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量达7,650万，同比稳中有升；业务层面，内容影响力持续领跑，AI智能产品实现里程",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
-      "publishedAt": "2026-08-20T13:46:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-20/10681340.shtml",
-      "title": "联合国开发计划署“康养旅居可持续发展会议”在重庆江津举行",
-      "category": "综合",
-      "summary": "中新网重庆8月20日电(陈媛)联合国开发计划署“康养旅居可持续发展会议”暨首届江津(四面山)康养旅居产业高质量发展大会20日在重庆市江津区举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-20/10681340.shtml",
-      "publishedAt": "2026-08-20T13:46:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -960,24 +960,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113607",
-      "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
-      "category": "科技",
-      "summary": "Spotify 上线「播放列表备注」功能、Windows Server 2022 即将结束主流更新等。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113607",
-      "publishedAt": "2026-08-19T00:30:54.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad#1",
       "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
       "category": "国际",
@@ -1146,6 +1128,24 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/113564",
       "publishedAt": "2026-08-18T07:05:05.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113438",
+      "title": "App+1 | 让任务栏更有用：WindowSill",
+      "category": "科技",
+      "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？ 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113438",
+      "publishedAt": "2026-08-18T06:30:00.000Z",
       "tags": [
         "科技",
         "效率",
