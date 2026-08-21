@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T08:09:25.257Z",
-  "expiresAt": "2026-08-21T14:09:25.257Z",
+  "generatedAt": "2026-08-21T10:00:36.601Z",
+  "expiresAt": "2026-08-21T16:00:36.601Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681777.shtml",
-      "title": "2026宁夏科学实验展演汇演活动收官 趣味实验解锁科普新玩法",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681901.shtml",
+      "title": "工业经济大市吕梁探转型：稳住“基本盘”抢占“新赛道”",
       "category": "综合",
-      "summary": "中新网银川8月21日电 (记者 李佩珊)8月21日，2026宁夏科学实验展演汇演活动决赛在银川落幕。宁夏各地科普达人齐聚赛场，通过趣味情景演绎、实操科学实验，将晦涩的专业知识变得直观易懂，为大众带来沉浸式科普体验。",
+      "summary": "中新网太原8月21日电 (记者 范丽芳)作为山西工业经济总量“第一城”，吕梁如何破解资源型经济转型难题备受外界关注。21日，在山西太原举行的“开局起步‘十五五’”系列主题新闻发布会(吕梁市专场)上，吕梁市委副书记、市长熊义志用“四个提升”“四个拓展”介绍这座工业重镇未来五年的产业转型路线图。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681777.shtml",
-      "publishedAt": "2026-08-21T08:01:46.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681901.shtml",
+      "publishedAt": "2026-08-21T09:56:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-21/10681778.shtml",
-      "title": "肠道也会出现血管堵塞 突发剧烈腹痛要格外留心",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681910.shtml",
+      "title": "泰媒：泰国王后素提达参加“鹰狮”战机训练",
       "category": "综合",
-      "summary": "腹痛≠普通胃部不适！老年人、房颤人群若突发剧烈腹痛，需留意易出现漏诊的血管急症——急性肠系膜缺血。",
+      "summary": "中新网8月21日电 据泰国《民族报》报道，泰国王后素提达正在飞行训练中心接受“鹰狮”战斗机飞行训练。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681778.shtml",
-      "publishedAt": "2026-08-21T08:00:06.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681910.shtml",
+      "publishedAt": "2026-08-21T09:55:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681754.shtml",
-      "title": "吴伟任中投公司副董事长、总经理",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681899.shtml",
+      "title": "AI+中小企业数字化转型创新发展大会举行 专家建言数实共生",
       "category": "综合",
-      "summary": "中新网8月21日电 据中国投资有限责任公司官网8月21日消息，经国务院决定，董事会审议通过，吴伟任中投公司副董事长、总经理。",
+      "summary": "中新网北京8月21日电 (记者 张素)“人工智能+”行动纵深推进，培育新质生产力、深化数实融合、赋能中小微企业转型升级取得一系列成果。以“AI赋企·数实共生”为主题的AI+中小企业数字化转型创新发展大会近日在北京举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681754.shtml",
-      "publishedAt": "2026-08-21T07:59:42.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681899.shtml",
+      "publishedAt": "2026-08-21T09:55:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-21/10681776.shtml",
-      "title": "2026中国社区乒乓球联赛总决赛在北京启动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681898.shtml",
+      "title": "2026豫台经贸洽谈会在河南鹤壁举行 签约27个项目",
       "category": "综合",
-      "summary": "中新网北京8月21日电 8月20日，2026中国社区乒乓球联赛总决赛新闻发布会(简称“社乒赛”)在北京举行。根据赛事方案，本届社乒赛设置活力组(18—45岁)和长青组(46—70岁)两个组别，采用混合团体赛制，面向全国招募参赛队伍。各地可结合实际自主开展赛事交流，择优确定符合参赛条件的队伍将于今年10月共赴湖南醴陵参与全国总决赛。",
+      "summary": "中新社河南鹤壁8月21日电 (记者 韩章云)由国台办、河南省政府共同主办的2026豫台经贸洽谈会暨两岸智能装备制造对接活动21日在河南鹤壁开幕，共签约27个项目，涵盖人工智能、电子信息、新能源汽车产业链等领域。其中，汽车电子电器产业链协同合作、半导体高科技混气设备等8个项目进行了现场签约。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-21/10681776.shtml",
-      "publishedAt": "2026-08-21T07:59:10.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681898.shtml",
+      "publishedAt": "2026-08-21T09:54:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681743.shtml",
-      "title": "国家能源集团宁夏煤业原工会主席陈毅接受审查调查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-21/10681866.shtml",
+      "title": "中国疾控中心：自费接种四价、九价HPV疫苗视同完成国家免疫规划接种",
       "category": "综合",
-      "summary": "中新网8月21日电 据中央纪委国家监委驻国家能源集团纪检监察组、宁夏回族自治区纪委监委消息：国家能源集团宁夏煤业有限责任公司原工会主席陈毅涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家能源集团纪检监察组纪律审查和宁夏回族自治区石嘴山市监察委员会监察调查。",
+      "summary": "中新网8月21日电 国家卫生健康委8月21日举行新闻发布会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681743.shtml",
-      "publishedAt": "2026-08-21T07:58:48.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681866.shtml",
+      "publishedAt": "2026-08-21T09:54:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681738.shtml",
-      "title": "调查：菲律宾第二季度自评贫困和饥饿率上升",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-21/10681888.shtml",
+      "title": "全国65支青少年龙舟队竞渡长江三峡",
       "category": "综合",
-      "summary": "中新社马尼拉8月21日电 (记者 周璟)菲律宾OCTA研究机构最新调查显示，2026年第二季度，菲律宾自评贫困率和饥饿发生率均有所上升。",
+      "summary": "中新网宜昌8月21日电 (朱延筠 龚婷)第九届全国青少年龙舟锦标赛暨U系列龙舟赛21日在湖北省宜昌市夷陵区前湾水域开赛。来自全国各省、自治区、直辖市及香港特别行政区的65支青少年龙舟队伍相聚长江之畔，在碧波之上展开角逐，为古老的峡江龙舟文化注入蓬勃的青春力量。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681738.shtml",
-      "publishedAt": "2026-08-21T07:58:46.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-21/10681888.shtml",
+      "publishedAt": "2026-08-21T09:53:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681714.shtml",
-      "title": "让中华文化馨香跨越山海——记圣保罗州立大学孔子学院中方院长白梦璇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681890.shtml",
+      "title": "三部门联合推动已故人士金融账户便利查询服务",
       "category": "综合",
-      "summary": "中新社圣保罗8月21日电 题：让中华文化馨香跨越山海",
+      "summary": "中新网8月21日电 据国家金融监管总局网站消息，为贯彻落实国务院关于“高效办成一件事”的决策部署，持续优化个人身后金融事服务，国家金融监督管理总局办公厅、民政部办公厅、司法部办公厅近日联合发布通知，在全国范围内推广浙江省、青岛市在已故人士金融账户查询服务方面的试点经验，推动解决查询逝者金融资产信息面临的难点堵点问题，进一步优化群众办事体验。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681714.shtml",
-      "publishedAt": "2026-08-21T07:58:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681890.shtml",
+      "publishedAt": "2026-08-21T09:53:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681710.shtml",
-      "title": "日本静冈县一大型船舶起火致1死9伤",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-21/10681895.shtml",
+      "title": "中国网协5人获美网单打正赛席位 吴易昺递补入围",
       "category": "综合",
-      "summary": "中新网东京8月21日电 (记者 朱晨曦)据日本广播协会(NHK)报道，一艘大型船舶21日上午在日本静冈县发生火灾，目前已造成至少1人死亡、9人受伤。",
+      "summary": "中新社北京8月21日电 根据2026年美国网球公开赛北京时间21日更新的正赛入围名单，因多名球员退赛，中国选手吴易昺递补获得男单正赛资格。目前，共有5名中国网协球员入围本届美网单打正赛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681710.shtml",
-      "publishedAt": "2026-08-21T07:58:06.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-21/10681895.shtml",
+      "publishedAt": "2026-08-21T09:53:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-21/10681772.shtml",
-      "title": "《给阿嬷的情书》之外：东南亚华文教育的守脉和向新",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-21/10681854.shtml",
+      "title": "明确！没有接种HPV疫苗不影响入学",
       "category": "综合",
-      "summary": "中新社北京8月21日电 (记者 刘洋)电影《给阿嬷的情书》陆续在多个东南亚国家上映。影片中，南洋华侨历经险阻办华文学堂的故事，令不少华侨华人深受触动，也引发海外华文教育工作者的共鸣。",
+      "summary": "中新网8月21日电 国家卫生健康委8月21日举行新闻发布会，会上，中国疾病预防控制中心研究员王富珍介绍，去年，我国将HPV疫苗纳入了国家免疫规划，各地在积极推进疫苗接种工作。有些地方把HPV疫苗接种情况列为预防接种证查验内容，是为了帮助家长了解HPV疫苗的政策和相关知识，倡导及时接种、早做预防，是不会影响孩子入学的。如果孩子在开学前没有接种疫苗，建议家长在开",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-21/10681772.shtml",
-      "publishedAt": "2026-08-21T07:57:53.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681854.shtml",
+      "publishedAt": "2026-08-21T09:52:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681741.shtml",
-      "title": "中国农业银行内蒙古自治区分行原副巡视员姜文俊被“双开”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681886.shtml",
+      "title": "中西部精神医学专科联盟在重庆成立",
       "category": "综合",
-      "summary": "中新网8月21日电 据中央纪委国家监委驻中国农业银行纪检监察组、内蒙古自治区纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国农业银行纪检监察组、内蒙古自治区呼和浩特市监委对中国农业银行内蒙古自治区分行原副巡视员姜文俊严重违纪违法问题进行了立案审查调查。",
+      "summary": "中新网重庆8月21日电 (梁钦卿)第五届巴渝精神医学前沿会议暨人工智能赋能医疗创新学术会议21日在重庆举行。会上，中西部精神医学专科联盟正式成立。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681741.shtml",
-      "publishedAt": "2026-08-21T07:57:17.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681886.shtml",
+      "publishedAt": "2026-08-21T09:51:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681775.shtml",
-      "title": "“村字号”赛事上新 沉浸式乡土体验激活县域经济",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681893.shtml",
+      "title": "黑龙江省发布暴雨红色预警 铁力庆安等地累计雨量将超100毫米",
       "category": "综合",
-      "summary": "近日，《商务部等9部门关于进一步激发下沉市场活力 活跃县域消费的意见》发布，在支持县域消费渠道升级方面，提出促进商农文旅体融合发展。",
+      "summary": "中新网哈尔滨8月21日电(记者 王妮娜)黑龙江省气象台8月21日15时15分发布暴雨红色预警信号：过去2小时，铁力、庆安部分乡镇降水量已达60至70毫米，预计未来1小时仍有30至40毫米降水，累计雨量将超过100毫米，需注意防范。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681775.shtml",
-      "publishedAt": "2026-08-21T07:56:27.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681893.shtml",
+      "publishedAt": "2026-08-21T09:50:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681773.shtml",
-      "title": "湖北工业游升温 “老遗存”与“新智造”频出圈",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-21/10681896.shtml",
+      "title": "U18男篮亚洲杯：中国队击败菲律宾队晋级四强",
       "category": "综合",
-      "summary": "中新社武汉8月21日电 (记者 梁婷)兼具知识性与体验感的工业游，成为游客暑期出行新风潮。在湖北，改造焕新的老工业遗存、汇聚前沿科技的智能产线，吸引海内外研学团队、游客打卡体验。",
+      "summary": "中新社北京8月21日电 北京时间21日，2026年国际篮联U18男篮亚洲杯在印度艾哈迈达巴德展开四分之一决赛较量。中国U18男篮以117:103战胜菲律宾队，顺利挺进四强。凭借这场胜利，中国队也锁定了2027年U19男篮世界杯的参赛席位。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681773.shtml",
-      "publishedAt": "2026-08-21T07:56:15.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-21/10681896.shtml",
+      "publishedAt": "2026-08-21T09:49:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681768.shtml",
-      "title": "上海自贸区临港新片区 “十五五” 规划出炉：GDP 年均增长目标 7.5%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681897.shtml",
+      "title": "1-7月中国财政收入同比增长5.8%",
       "category": "综合",
-      "summary": "中新网上海8月21日电 (记者 李姝徵)上海市政府21日举行“开局起步‘十五五’”系列主题市政府新闻发布会，介绍《中国(上海)自由贸易试验区临港新片区发展“十五五”规划》(以下简称《规划》)等有关内容。",
+      "summary": "中新社北京8月21日电 (记者 赵建华)中国财政部21日公布的财政收支数据显示，今年1-7月，全国一般公共预算收入平稳较快增长，同比增速达到5.8%；全国一般公共预算支出保持必要强度，重点领域支出得到较好保障。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681768.shtml",
-      "publishedAt": "2026-08-21T07:55:23.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681897.shtml",
+      "publishedAt": "2026-08-21T09:48:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681770.shtml",
-      "title": "提升颜值、释放价值 “渝东门户”巫山加力生态文明建设",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-21/10681853.shtml",
+      "title": "医生解答：血常规有问题不代表患有白血病",
       "category": "综合",
-      "summary": "中新网重庆8月21日电 (张旭)中共巫山县委书记刘本万21日在重庆市政府新闻办举行的新闻发布会上介绍，面向“十五五”，巫山将深入实施绿色生态固本、绿色治理提效、绿色发展赋能、绿色生活塑形等“四大专项行动”，努力绘就人与自然和谐共生、生态颜值与发展质感相得益彰的现代化巫山新图景。",
+      "summary": "中新网8月21日电 国家卫生健康委21日举行新闻发布会，介绍血液系统疾病防治有关情况。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681770.shtml",
-      "publishedAt": "2026-08-21T07:55:11.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681853.shtml",
+      "publishedAt": "2026-08-21T09:46:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681767.shtml",
-      "title": "第七届中非媒体合作论坛：内容创新赋能人文合作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681894.shtml",
+      "title": "西藏民族团结里的“茶与盐巴”",
       "category": "综合",
-      "summary": "中新网北京8月21日电 (记者 高凯)第七届中非媒体合作论坛正在北京举行，其中的平行分论坛“内容创新赋能人文合作”中，来自中非政府主管部门、主流媒体和视听企业的相关负责人围绕议题展开交流。",
+      "summary": "中新网拉萨8月21日电 (记者 赵朗)从城市到乡村，从家庭到社区，“民族团结一家亲”的理念已融入日常生活的点滴之中。西藏各族群众共居、共学、共事、共乐，随处可见各族群众手足相亲、守望相助的温暖日常。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681767.shtml",
-      "publishedAt": "2026-08-21T07:53:31.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681894.shtml",
+      "publishedAt": "2026-08-21T09:46:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/08-21/10681774.shtml",
-      "title": "2人买3座拒绝让座，律师：合法购票即享有排他使用权",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681891.shtml",
+      "title": "我从草原来：一台歌舞晚会里的“中华民族一家亲”",
       "category": "综合",
-      "summary": "两人买了三张票，空位不让座引争议",
+      "summary": "中新网呼和浩特8月21日电 题：我从草原来：一台歌舞晚会里的“中华民族一家亲”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/08-21/10681774.shtml",
-      "publishedAt": "2026-08-21T07:52:27.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681891.shtml",
+      "publishedAt": "2026-08-21T09:45:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-21/10681769.shtml",
-      "title": "“香港电脑通讯节”开幕 民众踊跃入场采购",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681885.shtml",
+      "title": "广西防御热带低压 沿海涉水工程已全面停工",
       "category": "综合",
-      "summary": "图为民众选购电子产品。中新网记者 李志华 摄 图为外籍人士到场了解产品资讯。中新网记者 李志华 摄 图为参观者体验赛车游戏。中新网记者 李志华 摄 图为年轻人到场了解电子产品。中新网记者 李志华 摄 图为参观者体验虚拟现实游戏。中新网记者 李志华 摄",
+      "summary": "中新网南宁8月21日电(黄艳梅 莫卫华)记者21日从广西海事局获悉，南海热带低压进入北部湾后，8月21日呈现反复回旋态势，风力逐渐加大。广西海事局持续保持防台风二级响应不变。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-21/10681769.shtml",
-      "publishedAt": "2026-08-21T07:51:51.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681885.shtml",
+      "publishedAt": "2026-08-21T09:44:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681766.shtml",
-      "title": "“红色记忆·英烈丰碑”四川省长征英烈专题展主题活动在石棉县启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10681884.shtml",
+      "title": "2026“北京超高清视听·行！视听奇境”活动于青海玉树启幕",
       "category": "综合",
-      "summary": "中新网成都8月21日电 (记者 刘忠俊)8月21日，“红色记忆·英烈丰碑”四川省长征英烈专题展主题活动在四川省雅安市石棉县中国工农红军强渡大渡河遗址启幕。活动以“致敬·英烈”“传承·信念”“追寻·足迹”三个篇章铺展红色叙事，在大渡河畔缅怀先烈、淬炼初心、勇担使命。",
+      "summary": "中新网青海玉树8月21日电 由北京市广电局、北京市援青玉树指挥部主办，玉树州文体旅游广电局支持的2026“北京超高清视听·行！视听奇境”公共服务主题活动，日前在玉树市篮球馆正式启幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681766.shtml",
-      "publishedAt": "2026-08-21T07:51:47.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681884.shtml",
+      "publishedAt": "2026-08-21T09:43:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681771.shtml",
-      "title": "交通需求与人工智能技术加速对接",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-21/10681889.shtml",
+      "title": "“纸短情长——《给阿嬷的情书》观后展”在天津开幕",
       "category": "综合",
-      "summary": "首批41个典型场景发布，助力规模化创新应用",
+      "summary": "中新网天津8月21日电 (孙翼飞)20日，“纸短情长——《给阿嬷的情书》观后展”在天津工艺美术职业学院开幕。这场以电影为媒、以艺术为桥的展览，依托“中华文化大乐园”天津教师团多年海外教学实践，通过艺术创作与影像叙事，展现海外华文教育中文化根脉传承的温度与深度。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681771.shtml",
-      "publishedAt": "2026-08-21T07:50:27.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/08-21/10681889.shtml",
+      "publishedAt": "2026-08-21T09:42:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681765.shtml",
-      "title": "智慧医疗打通资源壁垒 把高水平诊疗服务送到百姓身边",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-21/10681868.shtml",
+      "title": "南京文博游热度攀升",
       "category": "综合",
-      "summary": "健康中国十年间，我国医疗卫生正在实现群众看病从“看得上、看得起”向“看得好”的跨越。过去，优质医疗资源高度集中在大城市，如今依托5G、人工智能、大数据、国产医疗装备等科技力量，群众可实现云端拍片、线上问诊、远程手术，打破地域壁垒，把高水平诊疗服务送到寻常百姓身边。",
+      "summary": "8月21日，江苏南京，观众在六朝博物馆内参观展陈的陶女俑。中新社记者 泱波 摄 8月21日，江苏南京，观众在六朝博物馆内参观展陈的文物。中新社记者 泱波 摄 8月21日，江苏南京，观众在城墙博物馆内参观展陈的城砖。中新社记者 泱波 摄 8月21日，江苏南京，观众在城墙博物馆内参观。中新社记者 泱波 摄 8月21日，江苏南京，观众在城墙博物馆内参观展陈的陶牛车",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681765.shtml",
-      "publishedAt": "2026-08-21T07:46:41.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-21/10681868.shtml",
+      "publishedAt": "2026-08-21T09:42:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681764.shtml",
-      "title": "我国牵头固态电池首项国际标准正式立项 推动新能源产业快速发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681887.shtml",
+      "title": "杭州“最年轻城区”巧打“融沪牌”",
       "category": "综合",
-      "summary": "记者今天从国家标准委了解到，由我国提出的国际标准提案《电动汽车驱动用二次锂离子电池 固态电池应用指南、测试项目及条件》近日在国际电工委员会成功立项。该标准是固态电池领域全球首个国际标准。",
+      "summary": "杭州市临平区。 周洌虔 供图 中新网杭州8月21日电(记者 王逸飞)日前，“沪杭湃”公众号上线启动仪式在杭州市临平区举行。该区域公众号立足临平、联结沪杭，围绕文化同源、经贸同频、产业同链、发展同向，记录两座城市的协同创新与共同成长。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681764.shtml",
-      "publishedAt": "2026-08-21T07:44:01.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681887.shtml",
+      "publishedAt": "2026-08-21T09:41:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681763.shtml",
-      "title": "假法务，真套路！起底短视频“法务总监”乱象",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#0",
+      "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
+      "category": "国际",
+      "summary": "美韓聯合軍事演習提前結束，此時北韓正處於實力強勢的位置。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T09:40:09.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-21/10681840.shtml",
+      "title": "立秋后天气转凉，气候变化影响情绪怎么办？专家解答",
       "category": "综合",
-      "summary": "假法务，真套路！",
+      "summary": "中新网8月21日电 国家卫生健康委8月21日举行新闻发布会。有记者问：立秋后天气将逐渐转凉，请问气候变化对精神健康是否有影响？出现哪些症状时需要重点关注？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681763.shtml",
-      "publishedAt": "2026-08-21T07:43:59.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681840.shtml",
+      "publishedAt": "2026-08-21T09:40:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681762.shtml",
-      "title": "新闻记者证遗失声明",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-21/10681780.shtml",
+      "title": "普通人在家如何进行自测体质？专家解答",
       "category": "综合",
-      "summary": "新闻记者证遗失声明",
+      "summary": "中新网8月21日电 国家卫生健康委8月21日举行新闻发布会，介绍时令节气与健康(立秋、处暑)有关情况。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681762.shtml",
-      "publishedAt": "2026-08-21T07:43:47.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-21/10681780.shtml",
+      "publishedAt": "2026-08-21T09:37:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10681756.shtml",
-      "title": "（文化中国行）飘扬在海边的鄂尔多斯古如歌",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681795.shtml",
+      "title": "日本核心CPI连续59个月同比上涨",
       "category": "综合",
-      "summary": "中新社大连8月21日电 题：飘扬在海边的鄂尔多斯古如歌",
+      "summary": "中新网东京8月21日电 (记者 朱晨曦)日本总务省21日公布的数据显示，7月日本去除生鲜食品后的核心消费价格指数(CPI)同比上涨1.8%至102.1。至此，日本核心CPI已连续59个月同比上涨。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681756.shtml",
-      "publishedAt": "2026-08-21T07:36:48.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681795.shtml",
+      "publishedAt": "2026-08-21T09:33:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681760.shtml",
-      "title": "外交部：中方祝贺阿拉姆吉尔先生当选孟加拉国总统",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10681791.shtml",
+      "title": "菲律宾布拉干省一母亲及两名子女被发现死于车内",
       "category": "综合",
-      "summary": "中新网北京8月21日电 (记者 张蔚然 谢雁冰)中国外交部发言人林剑21日主持例行记者会。",
+      "summary": "中新网马尼拉8月21日电 菲律宾警方20日说，北部布拉干省圣拉斐尔市一处偏僻地带，一名31岁女子及其两名未成年子女被发现死于一辆汽车内。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681760.shtml",
-      "publishedAt": "2026-08-21T07:36:10.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681791.shtml",
+      "publishedAt": "2026-08-21T09:33:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681759.shtml",
-      "title": "中方回应美国对伊朗施压：军事手段和制裁施压无助于解决问题",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681883.shtml",
+      "title": "黑龙江今夜到周末降雨连连 黑河伊春等地局部有暴雨",
       "category": "综合",
-      "summary": "中新网北京8月21日电 (记者 张蔚然)中国外交部发言人林剑21日主持例行记者会。",
+      "summary": "中国天气网讯 今天(8月21日)夜间到周末，黑龙江降雨连连，部分时段雨势较强，黑河、伊春等多地局部有暴雨。当地需防范连续降雨可能引发的次生灾害，公众雨天出行请留意交通安全。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681759.shtml",
-      "publishedAt": "2026-08-21T07:35:46.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681883.shtml",
+      "publishedAt": "2026-08-21T09:27:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10681757.shtml",
-      "title": "热带低压来袭 广西多举措防范强风雨",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681882.shtml",
+      "title": "今年1—7月全国吸收外资4383.3亿元人民币",
       "category": "综合",
-      "summary": "中新社南宁8月21日电 (陈秋霞 翟李强)受热带低压影响，广西沿海21日迎来明显风雨天气。当前正值开海季，当地渔船纷纷回港避风，海事、水利、气象等多部门部署推进防汛防台风各项防范工作。",
+      "summary": "2026年1—7月，全国新设立外商投资企业37711家，同比增长4.4%；实际使用外资金额4383.3亿元人民币，同比下降6.2%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10681757.shtml",
-      "publishedAt": "2026-08-21T07:35:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681882.shtml",
+      "publishedAt": "2026-08-21T09:23:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681755.shtml",
-      "title": "我国工业经济新动能贡献持续增强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681881.shtml",
+      "title": "云南警官学院党委原书记胡水旺接受审查调查",
       "category": "综合",
-      "summary": "央视网消息(新闻联播)：今年以来，我国高端装备制造、高技术制造业不断实现新突破，新动能加快成长壮大，推动工业经济加速向新、向优发展。",
+      "summary": "中新网8月21日电 据云南省纪委监委消息：云南警官学院党委原书记胡水旺涉嫌严重违纪违法，主动投案，目前正接受云南省纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681755.shtml",
-      "publishedAt": "2026-08-21T07:31:42.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681881.shtml",
+      "publishedAt": "2026-08-21T09:22:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10681753.shtml",
-      "title": "财政部：正在继续研究制定新政策新举措，今年下半年推出",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681879.shtml",
+      "title": "吉林省政府原党组成员、秘书长刘化文接受审查调查",
       "category": "综合",
-      "summary": "今天(21日)，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，财政部有关负责人介绍发挥积极财政政策作用，推动经济社会高质量发展有关情况，并答记者问。要点梳理→",
+      "summary": "中新网8月21日电 据吉林省纪委监委消息：吉林省政府原党组成员、秘书长刘化文涉嫌严重违纪违法，目前正接受吉林省纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681753.shtml",
-      "publishedAt": "2026-08-21T07:29:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681879.shtml",
+      "publishedAt": "2026-08-21T09:21:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681752.shtml",
-      "title": "美对伊朗施压 外交部：军事手段和制裁施压无助于解决问题",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10681877.shtml",
+      "title": "广西壮族自治区国资委原主任管跃庆接受审查调查",
       "category": "综合",
-      "summary": "8月21日，外交部发言人林剑主持例行记者会。有记者就美对伊朗施压提问。",
+      "summary": "中新网8月21日电 据广西壮族自治区纪委监委消息：广西壮族自治区国资委原党委书记、主任管跃庆涉嫌严重违纪违法，目前正接受广西壮族自治区纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681752.shtml",
-      "publishedAt": "2026-08-21T07:29:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681877.shtml",
+      "publishedAt": "2026-08-21T09:19:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -579,7 +596,7 @@
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T07:17:48.000Z",
+      "publishedAt": "2026-08-21T08:53:37.000Z",
       "tags": [
         "国际",
         "商业",
@@ -589,7 +606,41 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#0",
+      "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
+      "category": "国际",
+      "summary": "這是台灣相隔短短一年後再有公投，也是當地近8年來，第4度舉行公投。BBC中文整理了此次三大公投的背景和重點。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T08:32:05.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad#0",
+      "title": "生於烏克蘭，為何替俄羅斯作戰？被俘士兵向BBC講述背後故事",
+      "category": "国际",
+      "summary": "出生於烏克蘭，卻替俄羅斯作戰的男子會被控叛國罪，但在烏克蘭西部一座戰俘營裏，許多人認為自己是在保衛家園。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T08:21:37.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#1",
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
       "category": "国际",
       "summary": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
@@ -624,7 +675,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad#1",
       "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
       "category": "国际",
       "summary": "英國冰淇淋品牌 Little Moons 華裔共同創辦人分享她給任何考慮自行創業人士的建議。",
@@ -694,7 +745,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad#1",
       "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
       "category": "国际",
       "summary": "台灣總統賴清德宣布明年普發每人1萬元現金，理由是經濟成長創39年新高。但K型經濟下的分配焦慮與年底選舉，成為此政策的激辯核心。",
@@ -816,7 +867,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#4",
       "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
       "category": "国际",
       "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
@@ -1047,7 +1098,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#4",
       "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
       "category": "国际",
       "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
@@ -1207,23 +1258,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad#4",
-      "title": "日本企業應用人工智慧為何如此緩慢？",
-      "category": "国际",
-      "summary": "日本的風險規避和保守主義被認為是導致該國企業界對AI人工智慧接受度低的原因。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T00:06:44.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#5",
       "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
       "category": "国际",
@@ -1258,7 +1292,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#4",
       "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
       "category": "国际",
       "summary": "美國30個州已對Meta提起訴訟，要求徹底改革年輕用戶的社交平台。",
@@ -1365,23 +1399,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#4",
-      "title": "泰國槍枝問題規模有多大？1000萬把槍",
-      "category": "国际",
-      "summary": "泰國近期發生的槍擊事件凸顯了該國違法擁有槍支的問題，而相關法律對遏制暴力行為收效甚微。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T09:43:58.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
       "category": "国际",
@@ -1413,23 +1430,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad#4",
-      "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
-      "category": "国际",
-      "summary": "台灣前總統陳水扁的女兒陳幸妤，近日因離婚一事曝光，時隔多年再次成為了台灣輿論焦點，也引起社會反思20年前媒體追訪她的倫理問題。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T03:19:46.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
