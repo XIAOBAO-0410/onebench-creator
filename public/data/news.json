@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T21:01:41.163Z",
-  "expiresAt": "2026-08-22T03:01:41.163Z",
+  "generatedAt": "2026-08-21T23:01:21.126Z",
+  "expiresAt": "2026-08-22T05:01:21.126Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682145.shtml",
+      "title": "中国考古机构首次赴南美洲开展联合考古",
+      "category": "综合",
+      "summary": "北京时间8月22日，中国社会科学院考古研究所与秘鲁相关机构，在秘鲁苏佩，正式签署考古合作协议，将联合开展卡拉尔文明考古研究。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682145.shtml",
+      "publishedAt": "2026-08-21T22:52:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682144.shtml",
+      "title": "美国将向联合国支付7.25亿美元拖欠会费",
+      "category": "综合",
+      "summary": "央视记者当地时间8月21日获悉，一份美国国务院致国会的通知显示，特朗普政府已启动向联合国支付7.25亿美元的程序，用于偿还美国拖欠联合国的部分会费，预计将在特朗普下月赴纽约出席联合国大会并发表讲话前完成支付。不过，这7.25亿美元还不到美国欠款总额的20%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682144.shtml",
+      "publishedAt": "2026-08-21T22:50:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml",
+      "title": "伊朗称美经济战“注定失败” 特朗普否认军事选项受限",
+      "category": "综合",
+      "summary": "针对美国总统特朗普日前宣称要对伊朗实施的“毁灭性经济行动”，21日，伊朗方面密集发声予以谴责，表示美方经济施压“注定失败”，同时伊朗方面将制定计划应对制裁。同日，特朗普称对伊朗转向经济战并不意味着美国军事选项受限。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml",
+      "publishedAt": "2026-08-21T22:46:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682139.shtml",
+      "title": "世界青年花样滑冰大奖赛西安站：中立运动员日揽两金",
+      "category": "综合",
+      "summary": "中新社西安8月21日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站21日进入第二比赛日的争夺。当日，冰上舞蹈、女子单人滑两个项目的金牌均被来自俄罗斯的中立运动员斩获。中国队刘玉萱、金书贤分别摘得一枚银牌与铜牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682139.shtml",
+      "publishedAt": "2026-08-21T22:44:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682140.shtml",
+      "title": "中国人权研究会代表团访问尼泊尔",
+      "category": "综合",
+      "summary": "中新社加德满都8月21日电 (记者 崔楠)8月18日至21日，中国全国政协常委、民族和宗教委员会副主任、中国人权研究会常务副会长蒋建国率中国人权研究会代表团赴尼泊尔开展人权交流活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682140.shtml",
+      "publishedAt": "2026-08-21T22:44:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682141.shtml",
+      "title": "世界卫生组织欧洲区主任角逐下一任世界卫生组织总干事",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔8月21日电 (记者 德永健)比利时卫生专家、世界卫生组织欧洲区主任汉斯·克鲁格21日宣布，经比利时政府提名，他将参选下一任世界卫生组织总干事。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682141.shtml",
+      "publishedAt": "2026-08-21T22:43:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682142.shtml",
+      "title": "安理会就下任联合国秘书长遴选举行第二轮意向性投票",
+      "category": "综合",
+      "summary": "中新社联合国8月21日电 (记者 王帆)联合国安理会21日对角逐下任联合国秘书长职务的候选人进行第二轮意向性投票。与首轮投票相比，本轮候选人增至8人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682142.shtml",
+      "publishedAt": "2026-08-21T22:43:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682138.shtml",
+      "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限",
+      "category": "综合",
+      "summary": "当地时间8月21日，美国总统特朗普在马里兰州安德鲁斯联合基地表示，他认为伊朗尚未准备好达成“合适的协议”，华盛顿方面正在观察冲突中“事态的发展”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682138.shtml",
+      "publishedAt": "2026-08-21T22:36:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682137.shtml",
       "title": "越南青年赴广西研学 感知中国科创活力",
@@ -418,150 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682102.shtml",
       "publishedAt": "2026-08-21T13:57:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10682101.shtml",
-      "title": "第十一届京台青年创新创业大赛在京落幕",
-      "category": "综合",
-      "summary": "中新网北京8月21日电 (金志成)第十一届京台青年创新创业大赛决赛暨颁奖典礼21日在北京举行。两岸青年创业团队、专家学者、投资机构及产业界代表齐聚，围绕创新项目展示、产业合作、资源对接等展开交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682101.shtml",
-      "publishedAt": "2026-08-21T13:57:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-21/10682104.shtml",
-      "title": "《香港文学》风行500期 数十位作家学者共论香江文学发展",
-      "category": "综合",
-      "summary": "中新网香港8月21日电 (赵静怡 张语洽)《香港文学》杂志刊行500期座谈会暨新书发布会21日在港举行，数十位作家、学者和文化出版界人士齐聚香江，共同讨论香港文学的历史与发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682104.shtml",
-      "publishedAt": "2026-08-21T13:56:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-21/10682108.shtml",
-      "title": "2026年“百企千人”“展翅计划”港澳大学生实习计划在广州结业",
-      "category": "综合",
-      "summary": "中新网广州8月21日电 (张璐 余冰冰)据共青团广州市委员会21日消息，2026年“百企千人”“展翅计划”港澳大学生实习结业活动(简称“活动”)近日在广州举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682108.shtml",
-      "publishedAt": "2026-08-21T13:56:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10682099.shtml",
-      "title": "浙江开展红色根脉档案珍品故事讲座 让纸页“开口说话”",
-      "category": "综合",
-      "summary": "中新网杭州8月21日电(林波)杭州钱塘江大桥的钢铁骨架下，藏着茅以升怎样的家国抉择？西子湖畔的宁静院落里，新中国第一部宪法如何诞生？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682099.shtml",
-      "publishedAt": "2026-08-21T13:55:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10682106.shtml",
-      "title": "临床出题、产业破题 广州医博会搭医产协同创新平台",
-      "category": "综合",
-      "summary": "中新网广州8月21日电 (记者 蔡敏婕)智能体打通院内诊疗与院外居家照护全链路、可穿戴式脑机接口协助改善下肢运动功能、脑机接口多感官睡眠干预系统输出个性化睡眠改善方案......21日，2026广州医疗与健康产业博览会(下称“医博会”)在广州开幕，博览会以“创新驱动健康，湾区链接全球”为主题，总展览面积3万平方米，参展单位超200家。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682106.shtml",
-      "publishedAt": "2026-08-21T13:55:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10682107.shtml",
-      "title": "西藏山南举办跨区域招聘会 113人实现人岗对接",
-      "category": "综合",
-      "summary": "中新网拉萨8月21日电 (李林)20日，一场跨越3000多公里的专场招聘会在西藏山南市乃东区举行。招聘会上，36家武汉国资国企及龙头民企集中释放455个优质岗位，现场200余名青年进场求职，最终98人达成初步就业意向，15人当场签约，合计113人成功实现人岗对接。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682107.shtml",
-      "publishedAt": "2026-08-21T13:55:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10682096.shtml",
-      "title": "引入AI参与创作 第十届浙江省十大校园新锐写手评选落幕",
-      "category": "综合",
-      "summary": "中新网杭州8月21日电(曹丹 张丹)8月19日至21日，第十届浙江省十大校园新锐写手评选活动决赛在浙江杭州云谷学校举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682096.shtml",
-      "publishedAt": "2026-08-21T13:55:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10682105.shtml",
-      "title": "大型舞剧《武道》首次走出香港开启内地巡演",
-      "category": "综合",
-      "summary": "中新网上海8月21日电(记者 缪璐)大型舞剧“《武道》——李小龙的有法与无限”上海站演出21日举行，由此正式拉开其内地巡演序幕。此次演出获香港特别行政区政府驻上海经济贸易办事处(以下简称“香港驻沪办”)支持，是香港舞蹈团携该剧目首次走出香港、亮相内地舞台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10682105.shtml",
-      "publishedAt": "2026-08-21T13:55:06.000Z",
       "tags": [
         "国内",
         "社会",
