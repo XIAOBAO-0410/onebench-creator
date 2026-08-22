@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T23:01:21.126Z",
-  "expiresAt": "2026-08-22T05:01:21.126Z",
+  "generatedAt": "2026-08-22T03:11:20.613Z",
+  "expiresAt": "2026-08-22T09:11:20.613Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682145.shtml",
-      "title": "中国考古机构首次赴南美洲开展联合考古",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682209.shtml",
+      "title": "首超三十万亿 今年财政支出预算更多“投资于人”",
       "category": "综合",
-      "summary": "北京时间8月22日，中国社会科学院考古研究所与秘鲁相关机构，在秘鲁苏佩，正式签署考古合作协议，将联合开展卡拉尔文明考古研究。",
+      "summary": "8月21日，国新办举行“开局起步‘十五五’”系列主题新闻发布会，财政部相关负责人介绍今年超30万亿元财政资金投向。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682145.shtml",
-      "publishedAt": "2026-08-21T22:52:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682209.shtml",
+      "publishedAt": "2026-08-22T03:02:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682144.shtml",
-      "title": "美国将向联合国支付7.25亿美元拖欠会费",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682208.shtml",
+      "title": "预付费私教课教练突然离职 剩下的钱能全额退回吗？",
       "category": "综合",
-      "summary": "央视记者当地时间8月21日获悉，一份美国国务院致国会的通知显示，特朗普政府已启动向联合国支付7.25亿美元的程序，用于偿还美国拖欠联合国的部分会费，预计将在特朗普下月赴纽约出席联合国大会并发表讲话前完成支付。不过，这7.25亿美元还不到美国欠款总额的20%。",
+      "summary": "如今，预付式消费在健身房、美容院、教育培训等消费场景里较为常见，商家往往以“多买多送”的优惠，吸引消费者一次性进行大额充值。然而这种看起来划算的预付模式，中途一旦生变，退费往往波折重重。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682144.shtml",
-      "publishedAt": "2026-08-21T22:50:58.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682208.shtml",
+      "publishedAt": "2026-08-22T02:46:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml",
-      "title": "伊朗称美经济战“注定失败” 特朗普否认军事选项受限",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682203.shtml",
+      "title": "广东水利防汛防台风Ⅳ级应急响应启动",
       "category": "综合",
-      "summary": "针对美国总统特朗普日前宣称要对伊朗实施的“毁灭性经济行动”，21日，伊朗方面密集发声予以谴责，表示美方经济施压“注定失败”，同时伊朗方面将制定计划应对制裁。同日，特朗普称对伊朗转向经济战并不意味着美国军事选项受限。",
+      "summary": "中新网广州8月22日电 (记者 王坚)广东省水利厅水旱灾害防御领导小组于21日20时启动水利防汛防台风Ⅳ级应急响应。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml",
-      "publishedAt": "2026-08-21T22:46:58.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682203.shtml",
+      "publishedAt": "2026-08-22T02:44:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682139.shtml",
-      "title": "世界青年花样滑冰大奖赛西安站：中立运动员日揽两金",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682205.shtml",
+      "title": "（活力中国调研行）多元业态助力平潭国际旅游岛建设",
       "category": "综合",
-      "summary": "中新社西安8月21日电 (记者 张一辰)2026-2027赛季国际滑联世界青年花样滑冰大奖赛西安站21日进入第二比赛日的争夺。当日，冰上舞蹈、女子单人滑两个项目的金牌均被来自俄罗斯的中立运动员斩获。中国队刘玉萱、金书贤分别摘得一枚银牌与铜牌。",
+      "summary": "中新网福建平潭8月22日电 (郑江洛 雷宇竺)平潭68海里景区，怪石临海而立，海浪不断冲刷海岸。中新网记者近日在这里看到，两岸同心窗、海峡之眼等打卡点，游人络绎不绝。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682139.shtml",
-      "publishedAt": "2026-08-21T22:44:23.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682205.shtml",
+      "publishedAt": "2026-08-22T02:43:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682140.shtml",
-      "title": "中国人权研究会代表团访问尼泊尔",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682206.shtml",
+      "title": "2026年中国科技馆筑梦星球夏令营完成建设模拟“外星科考站”",
       "category": "综合",
-      "summary": "中新社加德满都8月21日电 (记者 崔楠)8月18日至21日，中国全国政协常委、民族和宗教委员会副主任、中国人权研究会常务副会长蒋建国率中国人权研究会代表团赴尼泊尔开展人权交流活动。",
+      "summary": "中新网北京8月22日电 (记者 孙自法)作为大型综合性科学教育项目“科学方法特训营”的重要活动，为期6天的2026年中国科技馆筑梦星球夏令营近日在北京结营，200余名优秀青少年和科学教师在夏令营期间通过制作工程作品，顺利完成建设模拟“外星科考站”任务。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682140.shtml",
-      "publishedAt": "2026-08-21T22:44:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682206.shtml",
+      "publishedAt": "2026-08-22T02:43:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682141.shtml",
-      "title": "世界卫生组织欧洲区主任角逐下一任世界卫生组织总干事",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682204.shtml",
+      "title": "越南青年在广西南宁体验人工智能应用",
       "category": "综合",
-      "summary": "中新社布鲁塞尔8月21日电 (记者 德永健)比利时卫生专家、世界卫生组织欧洲区主任汉斯·克鲁格21日宣布，经比利时政府提名，他将参选下一任世界卫生组织总干事。",
+      "summary": "图为越南青年观看智能机器人售卖咖啡。李映儒 摄 图为越南青年与机械手掌互动。陈秋霞 摄 图为越南青年观看智能机器人展示技能。陈秋霞 摄 图为越南青年观看智能机器人跳舞。陈秋霞 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682141.shtml",
-      "publishedAt": "2026-08-21T22:43:41.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682204.shtml",
+      "publishedAt": "2026-08-22T02:42:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682142.shtml",
-      "title": "安理会就下任联合国秘书长遴选举行第二轮意向性投票",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682207.shtml",
+      "title": "处暑首日 黑龙江正由北向南逐步开启入秋模式",
       "category": "综合",
-      "summary": "中新社联合国8月21日电 (记者 王帆)联合国安理会21日对角逐下任联合国秘书长职务的候选人进行第二轮意向性投票。与首轮投票相比，本轮候选人增至8人。",
+      "summary": "中新网哈尔滨8月22日电(王妮娜 王莹)“处暑无三日，新凉直万金。”22日，我国迎来处暑节气。此节气标志着盛夏暑热渐次消退，秋凉登场。黑龙江省气象部门发布提示，黑龙江省及东北大部地区暑气彻底收敛，暖湿气流逐步退场，干爽偏北气流主导天气，昼夜温差进一步拉大，晴好天气增多、秋高气爽特征凸显，完美契合“立秋不是秋，秋在处暑后”的北方物候特征，该省正由北向南逐步开启",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682142.shtml",
-      "publishedAt": "2026-08-21T22:43:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682207.shtml",
+      "publishedAt": "2026-08-22T02:42:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682138.shtml",
-      "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682202.shtml",
+      "title": "（长江十年行）崇明东滩的“鸟类客服”：等待跨越上万公里的重逢",
       "category": "综合",
-      "summary": "当地时间8月21日，美国总统特朗普在马里兰州安德鲁斯联合基地表示，他认为伊朗尚未准备好达成“合适的协议”，华盛顿方面正在观察冲突中“事态的发展”。",
+      "summary": "中新网上海8月22日电(记者 缪璐)长江奔流六千余公里，在上海崇明岛最东端汇入东海。咸水与淡水在此交融，潮水日复一日地冲刷，在滩涂上刻下密如蛛网的潮沟，造就了我国规模最大、发育最完善的河口型潮汐滩涂湿地——崇明东滩，这里也是国际重要湿地。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682138.shtml",
-      "publishedAt": "2026-08-21T22:36:29.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682202.shtml",
+      "publishedAt": "2026-08-22T02:38:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682137.shtml",
-      "title": "越南青年赴广西研学 感知中国科创活力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682200.shtml",
+      "title": "中国女排今晚迎亚锦赛首秀 迎战伊拉克女排",
       "category": "综合",
-      "summary": "【东盟专线】越南青年赴广西研学 感知中国科创活力",
+      "summary": "今天晚上，中国女排将迎来2026年女排亚锦赛的首秀，对手是伊拉克女排。2026年女排亚锦赛昨天在天津开赛，本届亚锦赛的成绩事关世锦赛和奥运会，前三名获得2027年女排世锦赛入场券，冠军则直通2028年洛杉矶奥运会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682137.shtml",
-      "publishedAt": "2026-08-21T17:25:24.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682200.shtml",
+      "publishedAt": "2026-08-22T02:18:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682131.shtml",
-      "title": "今年7月欧盟油价同比增长16.9%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682199.shtml",
+      "title": "羽毛球世锦赛半决赛今日开打 国羽四个单项冲击决赛入场券",
       "category": "综合",
-      "summary": "中新社布鲁塞尔8月21日电 (记者 德永健)欧盟统计局21日公布的数据显示，今年7月欧盟油价继续上涨，燃油和润滑油价格同比增长16.9%。",
+      "summary": "北京时间8月22日，2026年羽毛球世锦赛在印度新德里迎来第六个比赛日，将进行各单项半决赛的争夺。国羽拿下了6个四强席位，女单、男双、女双、混双四条战线全力冲击决赛入场券，其中混双、女双均有机会决赛会师。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682131.shtml",
-      "publishedAt": "2026-08-21T17:23:43.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682199.shtml",
+      "publishedAt": "2026-08-22T02:16:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
-      "title": "伊朗外长：美国对伊经济施压行动“注定失败”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682198.shtml",
+      "title": "平陆运河船舶过闸试行收费标准发布",
       "category": "综合",
-      "summary": "当地时间21日晚，伊朗外交部长阿拉格齐在社交媒体发文称，美国历届政府针对伊朗采取的制裁和施压政策均以失败告终，美国最新宣布的对伊经济施压行动同样“注定失败”。",
+      "summary": "广西壮族自治区发展和改革委员会、广西壮族自治区交通运输厅日前发布通知，明确平陆运河船舶过闸收费有关事项，具体如下：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682136.shtml",
-      "publishedAt": "2026-08-21T17:22:13.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682198.shtml",
+      "publishedAt": "2026-08-22T02:14:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682135.shtml",
-      "title": "网传飞机“散云止雨”加重内蒙古旱情？真相来了",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682196.shtml",
+      "title": "中国考古“走出去”首赴南美 与秘鲁签约联合开展卡拉尔文明研究",
       "category": "综合",
-      "summary": "近期，多条有关内蒙古牧区的短视频在网络热传，视频声称：内蒙古牧区原本预报有雨，但是飞机升空飞行几圈后，云层直接消散，本该落下的雨水凭空消失，因此认为飞机是在刻意驱散降雨，加重当地旱情。由于视频搭配AI画面呈现出了飞机“吞云驱雨”的场景，不少人信以为真，引发网友担忧。",
+      "summary": "中新网北京8月22日电 (记者 孙自法)记者8月22日从中国社会科学院考古研究所获悉，该所代表团与秘鲁文化部卡拉尔考古区、秘鲁国立圣马科斯大学考古学院当地时间8月21日在秘鲁苏佩市卡拉尔考古工作站正式签署考古合作协议，联合开展卡拉尔文明的考古研究。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682135.shtml",
-      "publishedAt": "2026-08-21T17:20:33.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682196.shtml",
+      "publishedAt": "2026-08-22T02:10:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682134.shtml",
-      "title": "日本新财年预算申请额或超130万亿日元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682186.shtml",
+      "title": "南京秦淮风光带迎来夜游人潮",
       "category": "综合",
-      "summary": "据日本方面21日消息，日本政府部门和机构2027财年(2027年4月至2028年3月)预算申请总额预计将超过130万亿日元(1美元约合159日元)，相比本财年的122万亿日元显著增加。",
+      "summary": "8月21日晚，江苏南京，游客在秦淮河文德桥上拍摄合影。中新社记者 泱波 摄 8月21日晚，江苏南京，游客在秦淮河文德桥上游玩。中新社记者 泱波 摄 8月21日晚，江苏南京，大批游客在夫子庙景区游玩。中新社记者 泱波 摄 8月21日晚，江苏南京，游客在秦淮河畔排队乘坐画舫。中新社记者 泱波 摄 8月21日晚，江苏南京，游客在秦淮河畔排队乘坐画舫。中新社记者 泱",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682134.shtml",
-      "publishedAt": "2026-08-21T17:11:11.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682186.shtml",
+      "publishedAt": "2026-08-22T02:07:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-22/10682130.shtml",
-      "title": "羽毛球世锦赛：中国队五对双打组合晋级四强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682194.shtml",
+      "title": "中医养生风“吹进”民众夜生活",
       "category": "综合",
-      "summary": "中新社北京8月21日电 在印度新德里当地时间21日进行的2026年世界羽毛球锦标赛双打1/4决赛中，冯彦哲/黄东萍、刘圣书/谭宁、梁伟铿/王昶等五对中国组合分别战胜各自对手，晋级各单项四强。",
+      "summary": "中新社长沙8月22日电 题：中医养生风“吹进”民众夜生活",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10682130.shtml",
-      "publishedAt": "2026-08-21T17:10:25.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682194.shtml",
+      "publishedAt": "2026-08-22T01:58:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-22/10682133.shtml",
-      "title": "国际足联就世界杯期间多起事件对阿根廷足协作出处罚",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682193.shtml",
+      "title": "今年第19号台风持续影响华南地区 多地强降雨频繁",
       "category": "综合",
-      "summary": "当地时间21日，国际足联纪律委员会发表声明称，根据相关调查报告，就2026年世界杯期间发生的多起事件作出处罚。国际足联纪律委员会对阿根廷足协处以总计32.1万美元的罚款，并对其接下来两场主场比赛实施50%的入场人数限制。",
+      "summary": "中新社北京8月22日电 (记者 陈溯)记者22日从中国气象局获悉，今年第19号台风持续影响华南地区，华南多地强降雨频繁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682133.shtml",
-      "publishedAt": "2026-08-21T17:09:49.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682193.shtml",
+      "publishedAt": "2026-08-22T01:55:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682132.shtml",
-      "title": "今年第18、19号台风同时活跃 会怎样影响我国？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-22/10682191.shtml",
+      "title": "上班族运动指南：拒绝突击 巧用碎片时间",
       "category": "综合",
-      "summary": "目前，西太平洋上有多个热带系统正在活跃，其中北部湾热带低压在今天下午已经加强为今年第19号台风，同时，台湾东侧热带扰动活跃，这两个热带系统离我们较近，今年第18号台风“沙德尔”较远，但强度较强。台风“沙德尔”如何发展？会登陆我国吗？多个热带系统同时活跃，会怎样相互影响？",
+      "summary": "国家卫生健康委21日举行新闻发布会，发布健康提示。一些上班族平时没有时间运动，希望在周末突击进行高强度锻炼，达到锻炼身体的效果。专家提示，这种运动模式存在健康风险。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682132.shtml",
-      "publishedAt": "2026-08-21T17:08:05.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-22/10682191.shtml",
+      "publishedAt": "2026-08-22T01:46:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10682129.shtml",
-      "title": "中国印尼外长防长“2+2”对话机制举行第二次部长级会议",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682187.shtml",
+      "title": "广西发布洪水蓝色预警",
       "category": "综合",
-      "summary": "中新社雅加达8月21日电 (记者 李志全)中国印尼外长防长“2+2”对话机制第二次部长级会议21日在雅加达举行，外交部长王毅、国防部长董军同印度尼西亚外长苏吉约诺、防长沙夫里共同主持，双方进行了深入战略沟通，达成一系列重要共识。",
+      "summary": "中新网南宁8月22日电(陈秋霞 周也茹)广西壮族自治区水文中心22日提供的信息显示，8月22日6时，明江支流派连河宁明县寨安乡河段超警1.50米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10682129.shtml",
-      "publishedAt": "2026-08-21T15:54:56.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682187.shtml",
+      "publishedAt": "2026-08-22T01:44:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10682122.shtml",
-      "title": "美国政府紧急下场救市难解美债危局",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682188.shtml",
+      "title": "国企建功自贸港：“助力海南特色农产品拓展国际市场”",
       "category": "综合",
-      "summary": "美国的债务问题，已经到了连自己人都捂不住的地步了。",
+      "summary": "中新网海口8月22日电 题：国企建功自贸港：“助力海南特色农产品拓展国际市场”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682122.shtml",
-      "publishedAt": "2026-08-21T15:35:11.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682188.shtml",
+      "publishedAt": "2026-08-22T01:44:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-21/10682124.shtml",
-      "title": "超100家创科企业已签约河套香港园区",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682190.shtml",
+      "title": "@同学们，暑假余额不足！远离野河“夺命局”，平平安安迎接新学期",
       "category": "综合",
-      "summary": "中新社香港8月21日电 香港特区政府政务司司长陈国基21日在社交媒体发文表示，河套深港科技创新合作区香港园区(简称“河套香港园区”)自2025年底开园以来，已有超过100家创科企业签订租约并陆续进驻，近2000名人员在园区工作，连同新田科技城协同发展，正逐步构建完整的产业生态圈，充分发挥“以产聚才”的作用。",
+      "summary": "近日，有媒体报道，西安一河滩，2名大人带着3个孩子因刷到短视频专程来“打卡”玩水，不料河水突然暴涨，5人被困河滩，直到民警深夜救援才脱险。入夏以来，类似的野外水域遇险事件频频发生——那些看着清澈平静的野河、水库和池塘，水下环境复杂多变，安全隐患不容忽视。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682124.shtml",
-      "publishedAt": "2026-08-21T15:33:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682190.shtml",
+      "publishedAt": "2026-08-22T01:42:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10682123.shtml",
-      "title": "旅德大熊猫双胞胎两岁生日记",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682189.shtml",
+      "title": "“绣花功夫”守护千年古城 绍兴仓桥直街探索提质焕新路径",
       "category": "综合",
-      "summary": "中新社柏林8月21日电 题：旅德大熊猫双胞胎两岁生日记",
+      "summary": "拥有2500多年建城史的浙江绍兴，是一座名副其实“没有围墙的博物馆”。但在古城保护中，如何平衡历史风貌与现代生活？如何摒弃“大拆大建”，以“绣花功夫”留住乡愁？绍兴仓桥直街用20多年的探索，给出了一个关于“人”的答案。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10682123.shtml",
-      "publishedAt": "2026-08-21T15:28:50.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682189.shtml",
+      "publishedAt": "2026-08-22T01:40:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-21/10682120.shtml",
-      "title": "土耳其请求国际刑警组织对内塔尼亚胡发出红色通缉令",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-22/10682183.shtml",
+      "title": "东西问｜安娜·达拉·瓦莱：绿色建筑，架起东西方交流桥梁",
       "category": "综合",
-      "summary": "当地时间21日，土耳其司法部长居尔莱克表示，土耳其已请求国际刑警组织对以色列总理内塔尼亚胡发出红色通缉令，指控其袭击试图向加沙运送人道主义援助物资的活动人士。",
+      "summary": "中新社西安8月22日电 题：绿色建筑，架起东西方交流桥梁",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-21/10682120.shtml",
-      "publishedAt": "2026-08-21T15:06:11.000Z",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-22/10682183.shtml",
+      "publishedAt": "2026-08-22T01:38:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-21/10682118.shtml",
-      "title": "怕说错话？怕被人议论？控制不住思虑？别着急，两招教你缓解职场焦虑",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682185.shtml",
+      "title": "会抓豆腐、拥有电子皮肤 国产机器人感知能力加速迭代",
       "category": "综合",
-      "summary": "立秋已过，处暑将至，暑热渐消，天气渐凉，日常饮食起居宜从防暑湿逐步过渡为防秋燥、健脾胃。季节交替之际，如何更好保持健康？在国家卫生健康委员会8月21日的新闻发布会上，多位健康专家就相关问题给出了健康提示。",
+      "summary": "2026世界机器人大会正在北京举办，就像我们人一样，手对于灵巧操作来说是最重要的，手也是在思考和干活之间最重要的桥梁。对于机器人来说也是这样。这个关键零部件应该怎么设计、怎么创新？记者在2026世界机器人大会上发现，参展商们也都是结合市场需求，展现自己的巧思。让我们跟随记者到展会现场去看一看。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-21/10682118.shtml",
-      "publishedAt": "2026-08-21T14:40:29.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682185.shtml",
+      "publishedAt": "2026-08-22T01:35:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-21/10682116.shtml",
-      "title": "“全球新工业革命联盟”落地香港 助力可持续发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682184.shtml",
+      "title": "南海开渔 解锁各地“山海好丰景”",
       "category": "综合",
-      "summary": "中新网香港8月21日电 非营利国际协作平台“全球新工业革命联盟”(Global New Industrial Revolution Alliance)近日在香港成立，发起人包括来自中国内地和香港，以及美国、欧洲、全球南方国家的知名经济学家、工商实业家、投资人和多边发展机构负责人。",
+      "summary": "把饭碗牢牢端在中国人手里，除了耕地，还要向森林、向江河湖海、向丰富的生物资源要食物，这就是大食物观。这不仅是为了解决资源有限条件下“吃得饱”的问题，也是为了满足中国人“吃得好、吃得健康”的需求。秋天，又是一个丰收季。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-21/10682116.shtml",
-      "publishedAt": "2026-08-21T14:07:21.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682184.shtml",
+      "publishedAt": "2026-08-22T01:32:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
-      "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682182.shtml",
+      "title": "主播说联播丨老家消费大变样！活跃消费，“奔县”有力度",
       "category": "综合",
-      "summary": "中新网海南洋浦8月21日电 (贾兴宇)海南洋浦港正在高标准建设西部陆海新通道国际航运枢纽，集装箱吞吐量快速增长。洋浦海事局21日介绍，近日推出针对国际航行集装箱船舶进口岸审批便利化新举措，实现“一次信息留存、多次便利申报”。",
+      "summary": "近日，商务部等9部门联合印发《关于进一步激发下沉市场活力活跃县域消费的意见》，提出18条措施活跃县域消费。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
-      "publishedAt": "2026-08-21T14:06:29.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682182.shtml",
+      "publishedAt": "2026-08-22T01:27:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10682114.shtml",
-      "title": "广西军区举办抢险救灾先进典型事迹报告会",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682181.shtml",
+      "title": "从“打卡”到“体验”解码暑期旅游新趋势",
       "category": "综合",
-      "summary": "中新网南宁8月21日电(韦佳秀)“只要人民有需要，我们就义无反顾、冲锋在前；只要人民有危难，我们就挺身而出、绝不退缩！”广西南宁警备区大校政治委员蒲毅21日在广西军区举办的“鏖战八桂展风采 奋进一流铸丰碑”抢险救灾先进典型事迹报告会上发言时说。",
+      "summary": "央视网消息(焦点访谈)：这个暑期，国内文旅市场持续火热，旅游市场进一步向县域、乡镇下沉。文化和旅游部启动2026年全国暑期文化和旅游消费季，联动多部门推出避暑研学、山地户外、长线旅游等多元供给，让游客畅享美好旅途。不同于传统观光游，今年暑期旅游呈现出两个明显特点：一是新业态、新玩法备受青睐；二是慢旅行、深度游成为热门选择。今天(8月21日)，我们透过多地暑期",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682114.shtml",
-      "publishedAt": "2026-08-21T14:06:07.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682181.shtml",
+      "publishedAt": "2026-08-22T01:21:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-21/10682117.shtml",
-      "title": "山东临沂一处独立平房院落发生爆炸 致1人死亡2人失联",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682180.shtml",
+      "title": "《给阿嬷的情书》海外票房破亿 多部国产影片海外热映",
       "category": "综合",
-      "summary": "8月21日，山东省临沂市沂河新区联合工作组发布情况通报：",
+      "summary": "近期，扎根本土生活、承载中国文化的多部国产电影陆续登陆海外院线。其中《给阿嬷的情书》凭借真实细腻的故事内容，收获多国观众认可，目前海外票房已超1亿元。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-21/10682117.shtml",
-      "publishedAt": "2026-08-21T14:03:07.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682180.shtml",
+      "publishedAt": "2026-08-22T01:19:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-21/10682111.shtml",
-      "title": "山西昔阳发现迄今最高等级夏代墓葬",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682179.shtml",
+      "title": "真金白银投得更实 政策举措落得更准",
       "category": "综合",
-      "summary": "中新社太原8月21日电 (记者 胡健)山西省考古研究院21日对外发布昔阳县钟村墓地考古发掘成果，当地考古人员在昔阳县钟村发现夏代贵族墓地。这批墓葬是迄今为止发现的等级最高的夏代贵族墓葬，填补了太行山西麓夏代考古空白。",
+      "summary": "财政支出预算安排首超三十万亿元，新增政府债券规模历年最大",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10682111.shtml",
-      "publishedAt": "2026-08-21T14:01:47.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682179.shtml",
+      "publishedAt": "2026-08-22T01:17:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10682112.shtml",
-      "title": "董军会见印度尼西亚国防部长",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682176.shtml",
+      "title": "探访中国民间艺术（钟馗画）之乡",
       "category": "综合",
-      "summary": "中新社雅加达8月21日电 中国国防部长董军21日在雅加达出席中印尼外长防长“2+2”对话机制第二次部长级会议期间，会见印尼国防部长沙夫里。",
+      "summary": "8月21日，航拍安徽省宿州市灵璧县钟馗文化园。中新社记者 韩苏原 摄 8月21日，安徽省宿州市灵璧县钟馗文化园，青年游客在印有《黑神话：钟馗》形象展板前打卡留念。中新社记者 韩苏原 摄 8月21日，安徽省宿州市灵璧县，尹氏钟馗画第五代传人尹婷婷正在创作钟馗画。中新社记者 韩苏原 摄 8月21日，安徽省宿州市灵璧县，尹氏钟馗画第五代传人尹婷婷正在点评学生们的钟",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682112.shtml",
-      "publishedAt": "2026-08-21T13:58:44.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682176.shtml",
+      "publishedAt": "2026-08-22T01:09:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-21/10682103.shtml",
-      "title": "闽宁科技合作推进会在宁夏银川召开",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201735.shtml",
+      "title": "旅德大熊猫双胞胎“梦好”“梦甜”喜迎两周岁生日",
       "category": "综合",
-      "summary": "中新网银川8月21日电 (记者 李佩珊)8月21日，闽宁科技合作推进会在宁夏银川召开。闽宁两省区科技主管部门、高校院所、科技企业及技术转移机构代表参会，系统总结三十年来闽宁科技协作成效经验，共商“十五五”时期科技创新务实合作举措。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682103.shtml",
-      "publishedAt": "2026-08-21T13:57:42.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201735.shtml",
+      "publishedAt": "2026-08-22T01:07:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-21/10682102.shtml",
-      "title": "西藏波密开展红色课堂进校园活动 厚植师生爱国情怀",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-22/10682177.shtml",
+      "title": "彭凯平：孩子和父母都在“求救”",
       "category": "综合",
-      "summary": "中新网拉萨8月21日电 (李林)21日，西藏林芝市波密县委宣传部介绍，波密县充分利用红色资源，开展红色课堂进校园活动。截至目前，该活动已实现全县乡镇中小学、县直中小学全覆盖，累计覆盖师生1400余人次，发放各类学习激励物资600余份。",
+      "summary": "中国新闻周刊记者：邱启媛",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10682102.shtml",
-      "publishedAt": "2026-08-21T13:57:34.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-22/10682177.shtml",
+      "publishedAt": "2026-08-22T01:04:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -636,6 +636,42 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142670",
+      "title": "世卫组织与北京大学加强合作，共同推进卫生应急准备工作",
+      "category": "国际",
+      "summary": "世界卫生组织与北京大学签署一项为期两年的项目合作协议，旨在通过研究、培训和创新分析方法，加强全球卫生应急准备工作。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142670",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142669",
+      "title": "古特雷斯：纪念恐怖主义受害者必须保护其尊严和权利",
+      "category": "国际",
+      "summary": "8月21日是纪念和悼念恐怖主义受害者国际日。联合国秘书长古特雷斯当天表示，今年的主题“缅怀与治愈”提醒人们，铭记是通向康复与重振之路。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142669",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1620,42 +1656,6 @@
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142639",
       "publishedAt": "2026-08-15T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142637",
-      "title": "【世界进行时】2026年8月14日",
-      "category": "国际",
-      "summary": "本期要点：联合国紧急划拨 500 万美元支持哥伦比亚应对地震灾情；红海船只遭致命袭击，加剧全球供应链不确定性；乌克兰：平民伤亡人数创新高；中东地区冰毒走私活动日益猖獗；世卫组织对特朗普政府关于疫苗的行政命令表示担忧；国际劳工组织：全球青年失业率上升 年轻人获得体面工作的道路愈发艰难；欧洲非法入境人数下降，移民路线却变得更加危险。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142637",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142636",
-      "title": "联合国追加3050万美元应急资金应对刚果民主共和国埃博拉疫情",
-      "category": "国际",
-      "summary": "联合国副秘书长兼人道主义事务和紧急救济协调员弗莱彻周五表示，埃博拉病毒正在刚果民主共和国加速传播，联合国将进一步扩大疫情应对行动。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142636",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
       "tags": [
         "国际",
         "公共政策",
