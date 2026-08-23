@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T13:48:48.607Z",
-  "expiresAt": "2026-08-23T19:48:48.607Z",
+  "generatedAt": "2026-08-23T15:00:20.491Z",
+  "expiresAt": "2026-08-23T21:00:20.491Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,96 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-23/10682857.shtml",
+      "title": "桂台两地青少年以球为媒叙情谊",
+      "category": "综合",
+      "summary": "中新社南宁8月23日电 (俞靖)2026“桂花杯”暨第九届“海花杯”桂台青少年足球友谊赛(南宁站)23日在南宁市开赛。来自台湾的足球少年与广西球员齐聚绿茵场，以球会友、增进情谊。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682857.shtml",
+      "publishedAt": "2026-08-23T14:44:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-23/10682856.shtml",
+      "title": "第二十一届中国长春电影节开幕 16部影片逐“金鹿”",
+      "category": "综合",
+      "summary": "中新社长春8月23日电 (记者 郭佳)第二十一届中国长春电影节23日晚开幕，《给阿嬷的情书》《镖人：风起大漠》《志愿军：浴血和平》等16部影片将角逐“金鹿奖”十大奖项。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682856.shtml",
+      "publishedAt": "2026-08-23T14:42:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-23/10682855.shtml",
+      "title": "二十五载汉语为桥 五洲青年厦门逐冠",
+      "category": "综合",
+      "summary": "中新社厦门8月23日电 (吴冠标)第25届“汉语桥”世界大学生中文比赛全球总决赛23日在厦门举行，德国选手黎维获全球总冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682855.shtml",
+      "publishedAt": "2026-08-23T14:39:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-23/10682854.shtml",
+      "title": "“赛考斯”与殷玉珍重逢：时隔26年的拥抱",
+      "category": "综合",
+      "summary": "中新社内蒙古鄂尔多斯8月23日电 题：“赛考斯”与殷玉珍重逢：时隔26年的拥抱",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682854.shtml",
+      "publishedAt": "2026-08-23T14:38:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-23/10682850.shtml",
+      "title": "日本浦河附近海域发生6.0级地震",
+      "category": "综合",
+      "summary": "据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。(总台记者 刘耀鸿）",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682850.shtml",
+      "publishedAt": "2026-08-23T13:56:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad#0",
       "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
       "category": "国际",
@@ -39,12 +129,47 @@
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T13:42:27.000Z",
+      "publishedAt": "2026-08-23T13:56:41.000Z",
       "tags": [
         "国际",
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#0",
+      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
+      "category": "国际",
+      "summary": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T13:56:22.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
+      "title": "现场直击：见到赛考斯，殷玉珍练了很久的英文，一句也没能说出口",
+      "category": "综合",
+      "summary": "8月23日下午，中国“治沙劳模”殷玉珍早早来到内蒙古鄂尔多斯伊金霍洛国际机场，等待迎接一位阔别26年的美国故人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-23/10682849.shtml",
+      "publishedAt": "2026-08-23T13:53:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
       ],
       "hot": false
     },
@@ -477,131 +602,6 @@
         "财经",
         "教育",
         "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-23/10682822.shtml",
-      "title": "中钢协：继续推动钢铁剩余产能全面完成超低排放改造",
-      "category": "综合",
-      "summary": "中新网北京8月23日电 (记者 阮煜琳)中国钢铁工业协会消息，河钢集团有限公司党委书记、董事长刘键就任新一任钢协会长。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682822.shtml",
-      "publishedAt": "2026-08-23T12:42:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-23/10682819.shtml",
-      "title": "伊朗总统：伊朗已处于“全面战争”之中",
-      "category": "综合",
-      "summary": "中新网8月23日电 据美国有线电视新闻网(CNN)报道，当地时间23日，伊朗总统佩泽希齐扬表示，伊朗正处于“全面战争”之中，并承认随着美国准备加大对伊朗的制裁力度，伊朗面临经济困难。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682819.shtml",
-      "publishedAt": "2026-08-23T12:40:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-23/10682793.shtml",
-      "title": "敦煌医药文化跨界出圈 “滋补”丝路康养游",
-      "category": "综合",
-      "summary": "图为8月12日在敦煌市中医医院“敦煌医学展馆”里展陈的送子脉枕头。中新社记者 李亚龙 摄 图为8月12日在敦煌市中医医院“敦煌医学展馆”里系统呈现的敦煌医学“前世今生”。中新社记者 李亚龙 摄 图为8月12日在敦煌市中医医院“敦煌医学展馆”里系统呈现的敦煌医学“前世今生”。中新社记者 李亚龙 摄 图为8月12日在敦煌市中医医院“敦煌医学展馆”里系统呈现的敦煌",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682793.shtml",
-      "publishedAt": "2026-08-23T12:40:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-23/10682791.shtml",
-      "title": "世界斯诺克武汉公开赛：肖国栋晋级下一轮",
-      "category": "综合",
-      "summary": "图为肖国栋在比赛中。中新社记者 张畅 摄 图为肖国栋在比赛中。中新社记者 张畅 摄 图为肖国栋在比赛中。中新社记者 张畅 摄 图为肖国栋在比赛中。中新社记者 张畅 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682791.shtml",
-      "publishedAt": "2026-08-23T12:38:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-23/10682790.shtml",
-      "title": "镇北堡西部影城暑期游人如织",
-      "category": "综合",
-      "summary": "图为游客在景区内参观。中新社记者 于晶 摄 图为游客在景区内参观。中新社记者 于晶 摄 图为游客在景区内拍照打卡。中新社记者 于晶 摄 图为游客在景区内参观。中新社记者 于晶 摄 图为游客在景区内拍照打卡。中新社记者 于晶 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682790.shtml",
-      "publishedAt": "2026-08-23T12:37:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-23/10682789.shtml",
-      "title": "16支队伍香港竞逐机器人大赛争“武林至尊”",
-      "category": "综合",
-      "summary": "图为各支参赛队伍在后台调试机器人。中新网记者 李志华 摄 图为中国电子科技大学的参赛队员调试机器人。中新网记者 李志华 摄 图为中国电子科技大学参赛队的机器人在比赛中。中新网记者 李志华 摄 图为中国电子科技大学的参赛队伍在比赛中得分。中新网记者 李志华 摄 图为参赛队伍在比赛中。中新网记者 李志华 摄 图为香港中文大学的参赛队伍在比赛中。中新网记者 李志华",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-23/10682789.shtml",
-      "publishedAt": "2026-08-23T12:36:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad#0",
-      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
-      "category": "国际",
-      "summary": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T11:36:31.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
