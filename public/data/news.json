@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T14:27:39.395Z",
-  "expiresAt": "2026-08-24T20:27:39.395Z",
+  "generatedAt": "2026-08-24T17:52:56.709Z",
+  "expiresAt": "2026-08-24T23:52:56.709Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,114 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10683494.shtml",
+      "title": "Spirit战队获得TI2026冠军 达成三冠王",
+      "category": "综合",
+      "summary": "中新网北京8月24日电(记者 岳川)第十五届DOTA2国际邀请赛(TI2026)23日晚在上海东方体育中心收官。总决赛中，Spirit战队以3比2战胜VISION战队，捧起了象征DOTA2最高荣誉的冠军盾。至此，Spirit战队成为TI历史上首支三度折桂的队伍，创造赛事新纪录。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683494.shtml",
+      "publishedAt": "2026-08-24T15:59:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-24/10683493.shtml",
+      "title": "欧盟启动民防机制驰援塞尔维亚应对山火",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔8月24日电 (记者 德永健)在塞尔维亚山火持续蔓延之际，欧盟24日通报已启动民防机制，调派飞机和消防队驰援塞尔维亚灭火。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683493.shtml",
+      "publishedAt": "2026-08-24T15:29:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683492.shtml",
+      "title": "应急管理部针对福建启动国家地质灾害四级应急响应",
+      "category": "综合",
+      "summary": "受台风“紫檀”、“简拉维”残余环流影响，8月25日至27日，福建东部部分地区有大暴雨，局地特大暴雨。经与自然资源部联合会商研判，福建东部部分地区发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月24日针对福建启动地质灾害四级应急响应，派出工作组指导地方做好台风暴雨期间地质灾害防范应对工作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683492.shtml",
+      "publishedAt": "2026-08-24T15:15:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683491.shtml",
+      "title": "宇宙小红点不只是一个点 最新天文研究发现或存在于致密宿主星系",
+      "category": "综合",
+      "summary": "中新网北京8月24日电 (记者 孙自法)宇宙中的小红点究竟是怎样的存在？北京时间8月24日夜间，施普林格·自然旗下专业学术期刊《自然-天文学》在线发表中国学者领衔完成的一篇研究论文认为，小红点可能位于总质量约为太阳10亿倍的小型致密宿主星系中。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683491.shtml",
+      "publishedAt": "2026-08-24T15:08:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-24/10683488.shtml",
+      "title": "香港特区立法会主席鼓励港人港企更好融入国家发展大局",
+      "category": "综合",
+      "summary": "中新社北京8月24日电 (记者 张晓曦)全国人大常委会委员、香港特区立法会主席李慧琼24日在北京出席活动，鼓励在内地发展的港人港企发挥自身优势，助力香港更好融入和服务国家发展大局。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-24/10683488.shtml",
+      "publishedAt": "2026-08-24T14:59:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683487.shtml",
+      "title": "（活力中国调研行）“淄博赶烤”吸引前NBA球星 网络热度下降但“外来客”增多",
+      "category": "综合",
+      "summary": "中新社山东淄博8月24日电 题：“淄博赶烤”吸引前NBA球星 网络热度下降但“外来客”增多",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683487.shtml",
+      "publishedAt": "2026-08-24T14:24:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1202010.shtml",
       "title": "李强会见约旦国王阿卜杜拉二世",
@@ -76,6 +184,24 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683483.shtml",
       "publishedAt": "2026-08-24T14:15:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1202011.shtml",
+      "title": "广西龙州：左江龙州段抗洪抢险全力推进",
+      "category": "综合",
+      "summary": "图为龙州县城受淹地带。(无人机照片) 陈冠言 摄 图为救援船只开进龙州县城受淹地带。(无人机照片) 陈冠言 摄 图为龙州县城受淹地带。 陈冠言 摄 图为前来支援的广西贵港市消防救援支队消防员乘橡皮艇进入受淹地带。陈冠言 摄 图为消防救援人员转运受困民众。陈冠言 摄 图为消防救援人员转运受困民众。陈冠言 摄 图为消防救援人员转运受困民众。陈冠言 摄 图为未受淹",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1202011.shtml",
+      "publishedAt": "2026-08-24T14:14:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -436,132 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683465.shtml",
       "publishedAt": "2026-08-24T13:43:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201990.shtml",
-      "title": "（长征胜利90周年）宁夏西吉：龙王坝村的蝶变",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201990.shtml",
-      "publishedAt": "2026-08-24T13:43:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683459.shtml",
-      "title": "国产机器人出海加速跑 哈尔滨“智造”驶入快车道",
-      "category": "综合",
-      "summary": "中新网哈尔滨8月24日电 题：国产机器人出海加速跑 哈尔滨“智造”驶入快车道",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683459.shtml",
-      "publishedAt": "2026-08-24T13:43:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683457.shtml",
-      "title": "邬贺铨：AI兴起 互联网基础资源技术创新正当时",
-      "category": "综合",
-      "summary": "中新网北京8月24日电 (陈昊星)在AI时代，IPv6(互联网协议第6版)的重要性更加凸显。近日，在第五届互联网基础资源高质量发展会议上，中国工程院院士邬贺铨作题为《面向智能体的互联网基础资源》的主题演讲。他认为，面对AI和智能体兴起的考验，互联网基础资源技术创新正当时。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683457.shtml",
-      "publishedAt": "2026-08-24T13:43:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-24/10683423.shtml",
-      "title": "开学季孩子烦躁焦虑 家长该怎么办？",
-      "category": "综合",
-      "summary": "中新网银川8月24日电 (记者 杨迪)开学在即，孩子出现情绪低落、烦躁易怒的现象，到医院检查却查不出问题，家长该怎么应对？宁夏卫生健康委24日举办“时令节气与健康”(处暑)发布会，邀请专家作答。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-24/10683423.shtml",
-      "publishedAt": "2026-08-24T13:40:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-24/10683432.shtml",
-      "title": "“香港青少年看湖湘”活动在湖南株洲启幕",
-      "category": "综合",
-      "summary": "中新网株洲8月24日电(陈飞)24日，由株洲市海联会、香港株洲联谊会共同主办的“香港青少年看湖湘”活动在湖南株洲开营，43名香港青少年跨越山海奔赴湖南，开启一场集红色研学、工业探秘、文化溯源、乡村实践于一体的沉浸式湖湘之旅，搭建湘港青年交往交流交融的青春桥梁。株洲市委常委、市委统战部部长罗绍昀宣布开营。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-24/10683432.shtml",
-      "publishedAt": "2026-08-24T13:40:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683424.shtml",
-      "title": "风雨中的“复标”行动 福州航标处快速复位闽江口漂移航标",
-      "category": "综合",
-      "summary": "中新网福州8月24日电(蔡志武)受台风“简拉维”影响，23日，福州航标处闽江口“龙牙石”灯浮发生漂移，航标助航效能受损。该航标承担着水道内500吨以下船舶导助航以及归港渔船通航保障的重要作用。险情发生后，福州航标处迅速启动航标应急抢修预案，抢抓台风影响前有利海况，高效完成漂移灯浮应急复位作业，及时消除航道安全隐患。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683424.shtml",
-      "publishedAt": "2026-08-24T13:39:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683435.shtml",
-      "title": "第八届“科学探索奖”公布获奖名单，50位青年科学家榜上有名",
-      "category": "综合",
-      "summary": "中新网北京8月24日电 (记者 刘文文)第八届“科学探索奖”获奖名单24日正式揭晓，50位青年科学家榜上有名。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683435.shtml",
-      "publishedAt": "2026-08-24T13:38:55.000Z",
       "tags": [
         "国内",
         "社会",
