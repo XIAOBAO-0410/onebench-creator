@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T17:52:56.709Z",
-  "expiresAt": "2026-08-24T23:52:56.709Z",
+  "generatedAt": "2026-08-24T19:48:20.000Z",
+  "expiresAt": "2026-08-25T01:48:20.000Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -568,6 +568,42 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142677",
+      "title": "联合国：苏丹冲突持续升级，平民苦难日益加深",
+      "category": "国际",
+      "summary": "联合国主管政治和建设和平事务的副秘书长迪卡洛周一向安理会通报苏丹局势时表示，自6月份上次通报以来，冲突持续升级，民众苦难日益加深，多个战线仍在交火。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142677",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142676",
+      "title": "古特雷斯：全球粮食供应已成为冲突中的“附带损害”",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周一表示，霍尔木兹海峡、黑海和曼德海峡的海上交通中断加剧了饥荒危机，必须立即停止。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142676",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1293,6 +1329,23 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:a0ffe9af-2cfc-49b6-8d84-6c5828860870",
+      "title": "世卫组织和非洲疾控中心欢迎向刚果民主共和国分配埃博拉疫苗",
+      "category": "健康",
+      "summary": "上周，刚果民主共和国政府向国际疫苗供应协调小组申请从全球埃博拉病毒病疫苗储备中调拨埃尔维博（Ervebo）疫苗。提出这一请求的目的是在当前的本迪布焦病毒病疫情中进行使用。埃尔维博疫苗已获得许可并被推荐用于埃博拉病毒病（以前称为扎伊尔型埃博拉病毒）疫情。本周一，国际疫苗供应协调小组通知刚果政府，将立即发放首批7万剂疫苗。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/20-08-2026-who-and-africa-cdc-welcome-the-allocation-of-ebola-vaccines-to-the-democratic-republic-of-the-congo",
+      "publishedAt": "2026-08-20T09:31:59.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#5",
       "title": "台灣為何此刻提出「鞭刑入法」公投？",
       "category": "国际",
@@ -1636,42 +1689,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142645",
-      "publishedAt": "2026-08-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142644",
-      "title": "遏制荒漠化 保护我们“最关键的基础设施”",
-      "category": "国际",
-      "summary": "随着热浪日益致命，火灾和灾害肆虐城市，海平面上升正吞噬着陆地。然而，土地退化这一环境危机仍被危险地忽视。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142644",
-      "publishedAt": "2026-08-17T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142643",
-      "title": "刚果（金）当前埃博拉疫情成为该国史上最致命的一次",
-      "category": "国际",
-      "summary": "世界卫生组织周一表示，刚果民主共和国（刚果（金））本迪布焦型病毒埃博拉疫情现已成为该国历史上致死人数最多的一次。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142643",
       "publishedAt": "2026-08-17T12:00:00.000Z",
       "tags": [
         "国际",
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/16-06-2026-medical-product-alert-n-2-2026--falsified-jakavi-(ruxolitinib)",
       "publishedAt": "2026-06-16T08:50:42.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:e473aa4a-97a4-489b-b1d1-c38811549a13",
-      "title": "就最终完成《世卫组织大流行协定》病原体获取和惠益分享附件致七国集团、二十国集团、金砖国家以及世界各国领导人的公开信",
-      "category": "健康",
-      "summary": "巴西联邦共和国总统路易斯·伊纳西奥·卢拉·达席尔瓦与世界卫生组织总干事谭德塞博士联名致信七国集团峰会。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
-      "publishedAt": "2026-06-15T09:05:36.000Z",
       "tags": [
         "健康",
         "育儿",
