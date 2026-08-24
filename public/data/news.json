@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T06:05:51.334Z",
-  "expiresAt": "2026-08-24T12:05:51.334Z",
+  "generatedAt": "2026-08-24T08:31:36.502Z",
+  "expiresAt": "2026-08-24T14:31:36.502Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,31 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-24/10683103.shtml",
-      "title": "艺术家吕凉告别“推销员” 经典话剧《推销员之死》在京连演三场",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#0",
+      "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
+      "category": "国际",
+      "summary": "塔利班重返執政五年後，BBC跟隨其高層人物，觀察這個組織如何重塑阿富汗。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T08:27:43.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683236.shtml",
+      "title": "跨越20多年 赛·考斯基与殷玉珍温暖重逢",
       "category": "综合",
-      "summary": "中新网北京8月24日电 (记者 应妮)23日晚，北京天桥艺术中心大剧场灯光渐暗，伴随着低音长笛的响起，一位身着西服、头戴礼帽的推销员威利·洛曼拿着两只硕大的箱子缓缓地走入舞台……这是上海话剧艺术中心制作出品的阿瑟·米勒经典话剧《推销员之死》开场，也是艺术家吕凉最后一次提着箱子走上舞台。",
+      "summary": "美国友人赛·考斯基与殷玉珍跨越20余载的治沙情谊感动了很多人，如今，这段相隔万里的缘分迎来温暖后续，23日，赛·考斯基和殷玉珍重逢了！",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683103.shtml",
-      "publishedAt": "2026-08-24T06:03:49.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683236.shtml",
+      "publishedAt": "2026-08-24T08:23:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +67,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683121.shtml",
-      "title": "马祖队亮相“闽超”赛场 与福州队上演友谊赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-24/10683226.shtml",
+      "title": "三部门：加快推进家庭医生签约服务向专科医生拓展",
       "category": "综合",
-      "summary": "中新社福州8月24日电 (记者 闫旭)继厦金足球友谊赛、岚(福建平潭简称)台足球交流赛后，2026年福建省城市足球联赛(“闽超”)23日晚又迎来一场两岸交流赛事——福马足球友谊赛，福州队坐镇主场迎战马祖队。",
+      "summary": "中新网8月24日电 据国家卫健委网站消息，国家卫生健康委办公厅、国家中医药局综合司、国家疾控局综合司日前联合发布《关于印发进一步深化“六个拓展” 做实家庭医生签约服务若干措施的通知》。通知提到，加快推进签约服务由全科医生向专科医生拓展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683121.shtml",
-      "publishedAt": "2026-08-24T06:03:15.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-24/10683226.shtml",
+      "publishedAt": "2026-08-24T08:21:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +85,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683088.shtml",
-      "title": "航行警告！南海部分水域进行军事训练 禁止驶入",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-24/10683231.shtml",
+      "title": "中国语言资源保护工程成果展示馆开馆",
       "category": "综合",
-      "summary": "中新网8月24日电 据中国海事局网站消息，清澜海事局发布航行警告，自8月24日12时至8月26日18时，南海部分水域进行军事训练，禁止驶入。",
+      "summary": "中新网长沙8月24日电 (记者 邓霞)8月24日，中国语言资源保护工程成果展示馆在湖南长沙正式开放，标志着中国语言资源保护实现从“数据库”向“活态展”的跨越。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683088.shtml",
-      "publishedAt": "2026-08-24T06:00:54.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683231.shtml",
+      "publishedAt": "2026-08-24T08:20:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +103,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-24/10683115.shtml",
-      "title": "太原晋祠圣母殿宋代彩塑启动为期14个月保护修复",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683232.shtml",
+      "title": "中韩建交34周年 中方：愿推动中韩战略合作伙伴关系不断迈上新台阶",
       "category": "综合",
-      "summary": "中新社太原8月24日电 (记者 胡健)中国现存最早的皇家祭祀园林晋祠24日开启对宋代圣母殿五尊彩塑的保护修复工作，此次修复将持续至2027年10月26日，施工期间将对五尊彩塑所在区域设置局部围挡。",
+      "summary": "中新网北京8月24日电 (记者 李京泽)中国外交部发言人林剑24日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683115.shtml",
-      "publishedAt": "2026-08-24T05:59:20.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683232.shtml",
+      "publishedAt": "2026-08-24T08:20:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-24/10683129.shtml",
-      "title": "尹锡悦夫妇在列，韩国特检组公布180天调查结果：58人遭起诉",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-24/10683228.shtml",
+      "title": "广东机器人产业凭什么稳居全国第一梯队？",
       "category": "综合",
-      "summary": "中新网8月24日电 据韩国MBC电视台报道，韩国“第二综合特别检察组”结束了为期180天的调查，当地时间24日公布了调查结果。",
+      "summary": "8月23日，为期5天的2026世界机器人大会(WRC)在北京亦庄落下帷幕。本届大会上，“南粤具匠”集中亮相，超50家广东企业集中参展、参赛，规模稳居全国第一梯队，多家龙头企业晋级机器人大赛总决赛，让外界清晰看到机器人产业江湖新的风云际会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683129.shtml",
-      "publishedAt": "2026-08-24T05:58:24.000Z",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-24/10683228.shtml",
+      "publishedAt": "2026-08-24T08:17:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683099.shtml",
-      "title": "助残养老有“新帮手” 浙江加速AI惠民场景落地",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-24/10683227.shtml",
+      "title": "如何科学做好中小学、幼儿园学段衔接？“十问十答”来了",
       "category": "综合",
-      "summary": "中新网杭州8月24日电 题：助残养老有“新帮手”浙江加速AI惠民场景落地",
+      "summary": "今年9月，一批学龄前儿童将升入小学，正式开启学校生活；一批小学生将迈入初中校园，迎接更加丰富多彩的中学生活。学段衔接是孩子学业生涯中的关键过渡期，家长关心、社会关注。如何尊重孩子的成长规律，科学做好学段衔接？一起来看“十问十答”——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683099.shtml",
-      "publishedAt": "2026-08-24T05:56:48.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-24/10683227.shtml",
+      "publishedAt": "2026-08-24T08:17:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683098.shtml",
-      "title": "2026年“左宗棠与边疆治理”学术研讨会在新疆哈密举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-24/10683221.shtml",
+      "title": "华裔大学生海南研习行：“让世界喝一杯生长在陨石坑上的茶”",
       "category": "综合",
-      "summary": "中新网新疆哈密8月24日电 (袁鹏冲)2026年“左宗棠与边疆治理”学术研讨会23日在新疆哈密左宗棠凤凰台历史文化公园举行。本次研讨会汇聚全国多所高校及社科研究机构的专家学者，立足新时代边疆治理现代化视角，系统复盘左宗棠经略新疆的实践历程，深度挖掘其治疆理念的精神内核与时代内涵。",
+      "summary": "中新网海南白沙8月24日电 题：华裔大学生海南研习行：“让世界喝一杯生长在陨石坑上的茶”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683098.shtml",
-      "publishedAt": "2026-08-24T05:55:18.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-24/10683221.shtml",
+      "publishedAt": "2026-08-24T08:14:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683118.shtml",
-      "title": "厦金“小三通”客运航线单日出入境旅客量创2023年复航以来新高",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/08-24/news1066387.shtml",
+      "title": "这很中国·国风出海｜传统技艺里藏生活智慧 外国青年被中华文化“圈粉”",
       "category": "综合",
-      "summary": "中新社厦门8月24日电 (吴冠标)厦门边检总站高崎边检站24日通报称，8月23日厦金“小三通”客运航线单日出入境旅客量超7900人次，创2023年复航以来新高。",
+      "summary": "艾草锤，漆扇，这些日常小物，为何在外国青年手中成了读懂东方的钥匙？远道而来的外国青年们在吉林开启了一场非遗体验。制作艾草锤，感受它所承载的生活智慧；绘制漆扇，感受色彩里蕴含的东方浪漫。对他们而言，这样沉浸式接触传统手艺的机会十分难得。在体验中，他们发现中国文化已不再是遥远的概念，而是也藏在他们的生活中。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683118.shtml",
-      "publishedAt": "2026-08-24T05:54:42.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/08-24/news1066387.shtml",
+      "publishedAt": "2026-08-24T08:13:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683097.shtml",
-      "title": "台风“简拉维”已在福建泉州沿海登陆",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683223.shtml",
+      "title": "竞逐全球“箱”当给力，江苏向海而新“要”来了什么？",
       "category": "综合",
-      "summary": "中新网福州8月24日电 (记者 龙敏)福建省防汛办24日通报，今年第20号台风“简拉维”24日11时由热带低压加强为热带风暴级，其中心已于12时30分前后在福建泉州台商投资区张坂镇沿海登陆，登陆时中心附近最大风力8级(18米/秒)，中心最低气压998百帕。登陆后将继续向西北方向移动，强度逐渐减弱。",
+      "summary": "凌晨，从连云港行至黄海深处的“苏海1号”，全自动投喂系统启动，近40万尾三文鱼争相摄食；夜色，一艘艘巨轮即将交付远航；淮海腹地，徐州陆港的班列鸣笛启程，8小时后将从连云港装船出海。954公里海岸线上，这样的场景每天都在上演。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683097.shtml",
-      "publishedAt": "2026-08-24T05:52:11.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683223.shtml",
+      "publishedAt": "2026-08-24T08:13:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683096.shtml",
-      "title": "一粒沙海稻米，何以站上全球稻米品质高地？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683211.shtml",
+      "title": "重庆忠县打造三峡库区特色中等城市特色产业集群县域样板",
       "category": "综合",
-      "summary": "中新网新疆阿拉尔8月24日电 (史玉江)在新疆塔克拉玛干沙漠边缘，曾被认定“种不出好庄稼”的土地，如今农田连片、稻浪翻滚，实现荒漠盐碱地的高效利用。所产沙漠稻米连续六年斩获国际米食味品鉴大会中国区金奖，站上全球稻米品质高地，颠覆固有想象。",
+      "summary": "中新网重庆8月24日电(陈媛)重庆市忠县县委书记徐海波24日在重庆市政府新闻办举行的新闻发布会上介绍，面向“十五五”，忠县将锚定“加快打造三峡库区特色中等城市特色产业集群县域样板”总目标，以特色产业集群支撑高质量发展，以特色中等城市建设赋能高品质生活，探索形成可复制可推广的库区县域高质量发展样板。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683096.shtml",
-      "publishedAt": "2026-08-24T05:51:03.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683211.shtml",
+      "publishedAt": "2026-08-24T08:13:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683124.shtml",
-      "title": "转人工菜单入口须清晰醒目 企业对AI客服答复承担责任",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683210.shtml",
+      "title": "国家体育总局体育基金管理中心副主任罗建彬被查",
       "category": "综合",
-      "summary": "我国首个聚焦人工客服与智能客服协同机制的国家标准9月起实施，记者近日开展实测，倾听市民诉求并解读新规亮点",
+      "summary": "中新网8月24日电 据中央纪委国家监委驻国家体育总局纪检监察组、广东省纪委监委消息：国家体育总局体育基金管理中心副主任、纪委书记罗建彬涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家体育总局纪检监察组纪律审查和广东省韶关市监委监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683124.shtml",
-      "publishedAt": "2026-08-24T05:48:45.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683210.shtml",
+      "publishedAt": "2026-08-24T08:11:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10683119.shtml",
-      "title": "中国篮协公示亚运会参赛名单 胡金秋、杨舒予等名将在列",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683215.shtml",
+      "title": "青海：完善生态保护修复体系 筑牢“中华水塔”生态屏障",
       "category": "综合",
-      "summary": "中新社北京8月24日电 (记者 邢翀)中国篮球协会24日发布爱知·名古屋亚运会篮球、三人篮球项目参赛运动员公示名单，其中男、女篮大名单各14人，胡金秋、杨舒予等名将在列。",
+      "summary": "【凝心聚力 真抓实干 奋力实现“十五五”良好开局】青海：完善生态保护修复体系 筑牢“中华水塔”生态屏障",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683119.shtml",
-      "publishedAt": "2026-08-24T05:48:11.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683215.shtml",
+      "publishedAt": "2026-08-24T08:11:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683116.shtml",
-      "title": "打破多项人类运动纪录 机器人性能持续进阶",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683213.shtml",
+      "title": "个别国家和机构借香港特区司法案件恶意抹黑 外交部：坚决反对",
       "category": "综合",
-      "summary": "中新社北京8月24日电 (记者 吕少威 陈杭 徐婧)天卓队机器人以9.39秒的成绩打破了9.58秒的人类百米世界纪录；天工Ultra机器人原地跳高跳出2.8843米的成绩，超越了人类男子跳高世界纪录2.45米……",
+      "summary": "中新网北京8月24日电 (记者 李京泽)中国外交部发言人林剑24日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683116.shtml",
-      "publishedAt": "2026-08-24T05:46:25.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683213.shtml",
+      "publishedAt": "2026-08-24T08:10:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683106.shtml",
-      "title": "（乡村行·看振兴）山西繁峙：特色农业赋能乡村 “链”起千户增收路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683212.shtml",
+      "title": "云南文山万寿菊“由花成膏”热销海外",
       "category": "综合",
-      "summary": "中新网忻州8月24日电 题：山西繁峙：特色农业赋能乡村 “链”起千户增收路",
+      "summary": "中新网文山8月24日电 (陆希成 合丹妮 曹轩)时下，云南省文山壮族苗族自治州丘北县等地万寿菊进入采收旺季，连片花海铺展山野。一批经萃取、分离、精制等工艺制成的万寿菊浸膏，日前经昆明海关所属天保海关监管验放后，出口墨西哥、印度、泰国等国家和地区。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683106.shtml",
-      "publishedAt": "2026-08-24T05:46:03.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683212.shtml",
+      "publishedAt": "2026-08-24T08:09:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683104.shtml",
-      "title": "（活力中国调研行）“奔县”去山东：小城正成文旅新宠",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10683209.shtml",
+      "title": "NBA球星杰伦·威廉姆斯助力中国草根篮球热",
       "category": "综合",
-      "summary": "中新网济南8月24日电 (国璇 李明芮)随着“特种兵”式打卡游的热度降温，以慢节奏、深体验为特征的“慢充旅行”正悄然成为出游新风尚。山东省文化和旅游厅党组副书记、副厅长刘少华24日在“活力中国调研行”山东主题采访活动情况介绍会上透露，山东的县域文旅正告别千篇一律，“奔县游”正在山东多地持续升温。",
+      "summary": "中新网上海8月24日电 (记者 缪璐)2026阿迪达斯“火拼”篮球草根联赛全国总决赛23日晚间在上海复兴岛落下帷幕。作为这项赛事迈入第11年的里程碑之战，8支从全国突围的顶尖草根球队在此展开巅峰对决。最终，雄钢1122问鼎全国总冠军。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683104.shtml",
-      "publishedAt": "2026-08-24T05:45:31.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683209.shtml",
+      "publishedAt": "2026-08-24T08:08:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683114.shtml",
-      "title": "中国夏粮旺季收购进入高峰",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683206.shtml",
+      "title": "广西崇左多地发生洪涝灾害 警方救助多名遇险人员",
       "category": "综合",
-      "summary": "中新社北京8月24日电 (记者 陈溯)中国国家粮食和物资储备局24日发布的最新数据显示，目前，中国夏粮旺季收购进入高峰，全国各类粮食经营主体累计收购小麦超9000万吨，南方早籼稻迎来集中上市。各地收购工作有序开展，收购进展整体顺利。",
+      "summary": "中新网崇左8月24日电 (林浩)连日来，受台风“紫檀”影响，广西崇左市多地发生洪涝灾害，崇左警方组建多支应急救援突击队，配备救生衣、冲锋舟等抢险装备，对受灾严重区域开展全方位搜寻救援，采用肩背、人抬、舟艇转运等方式，安全转移受困民众，救助多名遇险人员。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683114.shtml",
-      "publishedAt": "2026-08-24T05:44:31.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683206.shtml",
+      "publishedAt": "2026-08-24T08:08:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-24/10683112.shtml",
-      "title": "内塔尼亚胡警告哈马斯停止从加沙向以色列“放风筝”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683204.shtml",
+      "title": "郁江发生2026年第2号洪水",
       "category": "综合",
-      "summary": "中新社北京8月24日电 综合消息：以色列总理内塔尼亚胡与以国防部长卡茨当地时间23日发表联合声明，称若巴勒斯坦伊斯兰抵抗运动(哈马斯)不立即停止从加沙地带向以色列放飞无人机、气球和风筝，以国防军将加大对相关人员的打击力度，并疏散加沙地带相关区域居民。",
+      "summary": "中新网南宁8月24日电 (陈秋霞 周也茹)广西壮族自治区水文中心24日提供的信息显示，受强降雨及上游来水影响，郁江南宁水文站8月24日14时25分水位涨至73.00米，达到水利部《全国主要江河洪水编号规定》的标准，此次洪水编号为“郁江2026年第2号洪水”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683112.shtml",
-      "publishedAt": "2026-08-24T05:43:15.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683204.shtml",
+      "publishedAt": "2026-08-24T08:07:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683111.shtml",
-      "title": "台风“紫檀”致广西防汛形势严峻 水利部门落实防御举措",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683208.shtml",
+      "title": "从“避暑”到“避暑+”，文旅融合的新解法",
       "category": "综合",
-      "summary": "中新网南宁8月24日电 (陈秋霞 骆远柱)8月21日以来，受台风“紫檀”影响，广西防汛形势严峻。广西水利厅迅速响应、靠前部署，从严从实落实各项防汛防御举措，全力确保民众生命财产安全。",
+      "summary": "【好评中国】中安时评 | 从“避暑”到“避暑+”，文旅融合的新解法",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683111.shtml",
-      "publishedAt": "2026-08-24T05:42:27.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683208.shtml",
+      "publishedAt": "2026-08-24T08:06:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683109.shtml",
-      "title": "受台风影响 海口“三港”或将于8月25日凌晨停运",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/08-24/10683207.shtml",
+      "title": "菜市场里有了“新生活”",
       "category": "综合",
-      "summary": "中新网海口8月24日电 (记者 王子谦)海口市交通运输局24日10时发布提示称，受台风“紫檀”影响，海口新海港、秀英港和铁路南港或将于25日凌晨停运。",
+      "summary": "【好评中国·新角色】菜市场里有了“新生活”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683109.shtml",
-      "publishedAt": "2026-08-24T05:40:49.000Z",
+      "url": "https://www.chinanews.com.cn/ll/2026/08-24/10683207.shtml",
+      "publishedAt": "2026-08-24T08:05:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683095.shtml",
-      "title": "广西继续发布洪水红色预警 郁江将出现2026年第2号洪水",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683203.shtml",
+      "title": "活力中国调研行丨福建：特色产业“链”上新文旅",
       "category": "综合",
-      "summary": "中新网南宁8月24日电(陈秋霞 周也茹)广西壮族自治区水文中心24日提供的信息显示，8月23日8时至24日8时，受上游来水及区间强降雨影响，左江及支流黑水河、凭祥河，明江及支流公安河、派连河、思州河，平而河，北仑河等15条河流20个水文站出现超警0.07至6.96米的洪水。",
+      "summary": "科技日报记者 沈唯 刘莉 符晓波 李禾",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683095.shtml",
-      "publishedAt": "2026-08-24T05:38:41.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683203.shtml",
+      "publishedAt": "2026-08-24T08:03:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-24/10683090.shtml",
-      "title": "国际矿物学协会大会举行 全球学者共话“矿物万象”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201943.shtml",
+      "title": "（长征胜利90周年）甘肃会宁：从“筹粮支前”到“产业富民”",
       "category": "综合",
-      "summary": "中新网南京8月24日电 (记者 徐珊珊)第24届国际矿物学协会大会8月20日至24日在南京举行。这是该大会继1990年在北京举办之后，再度在中国举办。来自29个国家和地区的700余名专家学者及研究生参会，围绕“矿物万象，共赴新程”的主题展开交流研讨。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683090.shtml",
-      "publishedAt": "2026-08-24T05:38:05.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-24/1201943.shtml",
+      "publishedAt": "2026-08-24T08:03:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-24/10683113.shtml",
-      "title": "民调显示超七成加拿大民众支持退出加美贸易谈判",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683201.shtml",
+      "title": "提质惠民，释放服务消费潜力",
       "category": "综合",
-      "summary": "加拿大民调机构安格斯·里德研究所23日发布的调查结果显示，超七成加拿大民众支持政府退出加美贸易谈判。",
+      "summary": "【光明论坛】提质惠民，释放服务消费潜力",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10683113.shtml",
-      "publishedAt": "2026-08-24T05:37:49.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683201.shtml",
+      "publishedAt": "2026-08-24T08:02:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-24/10683101.shtml",
-      "title": "广西南宁：洪水来袭 邕江大堤关闸防洪",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10683187.shtml",
+      "title": "中国青少年场地摩托国际公开赛在广州举行",
       "category": "综合",
-      "summary": "图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为邕江边低洼地带被淹。（无人机照片） 陈冠言 摄 图为当日早间实时水位。（无人机照片） 陈冠言 摄 图为淹入水中的民生码头“邕”字碑。（无人机照片） 陈冠言 摄 图为一处交通闸已关闸防洪。 陈冠言 摄 ",
+      "summary": "中新网广州8月24日电 (记者 张璐)2026奥华力广州世界超级之星杯暨中国青少年场地摩托国际公开赛(简称“赛事”)23日在广州从化国际赛车场开幕，并迎来超级决赛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683101.shtml",
-      "publishedAt": "2026-08-24T05:37:47.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683187.shtml",
+      "publishedAt": "2026-08-24T08:02:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-24/10683093.shtml",
-      "title": "电影文化节目《周末一起看电影》解码《八仙！》的东方浪漫与文化气韵",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683200.shtml",
+      "title": "外交部：美官员攻击中国科技企业言论颠倒黑白",
       "category": "综合",
-      "summary": "中新网北京8月24日电 正在热播的电影《八仙！》英文名是什么？如何从传统国风中汲取灵感？从哪些实景古建中取景？电影文化节目《周末一起看电影》23日晚在总台综合频道播出，主持人与电影《八仙！》主创团队一同走进影片台前幕后，感受电影中的东方美学意蕴，体味中华优秀传统文化的传承与创新。",
+      "summary": "新华社北京8月24日电(记者吴梦桐、万倩仪)就近日美方个别官员在社交媒体攻击中国科技企业，外交部发言人林剑24日在例行记者会上答问时表示，有关言论捏造事实、颠倒黑白，是赤裸裸的科技霸凌与单边胁迫，中方对此坚决反对。中国科技企业是名副其实可信赖的供应商。倒是美方长期在拉美和加勒比地区搞监听监控、网络攻击，让美洲国家感到不安全、不可信赖。我们奉劝美方停止政治操弄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683093.shtml",
-      "publishedAt": "2026-08-24T05:36:39.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683200.shtml",
+      "publishedAt": "2026-08-24T08:01:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-24/10683091.shtml",
-      "title": "“闽超”福马足球友谊赛在福州开赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-24/10683186.shtml",
+      "title": "童心童声叙云南 《山林童话》将亮相全国少数民族文艺会演",
       "category": "综合",
-      "summary": "图为球迷为双方球员加油。中新社记者 吕明 摄 图为双方球员在球门前激烈拼抢。中新社记者 吕明 摄 图为以“两马”（福州马尾#8204;与#8204;马祖）灯笼为主题的节目表演助兴赛事。中新社记者 吕明 摄 图为双方球员在比赛中激烈拼抢。中新社记者 吕明 摄 图为福州球员（红）起脚射门。中新社记者 吕明 摄 图为双方球员在比赛中激烈拼抢。中新社记者 吕明 摄 ",
+      "summary": "中新网昆明8月24日电(陆星羽)“剧目融入魔幻云海、奇幻菌林等云南特色意象，希望能把这片土地丰富的生态与文化，带给全国观众。”作为第七届全国少数民族文艺会演中唯一一台入选的儿童剧目，《山林童话》舞美总监王洋近日接受中新网采访时有感而发。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683091.shtml",
-      "publishedAt": "2026-08-24T05:36:11.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-24/10683186.shtml",
+      "publishedAt": "2026-08-24T08:00:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683100.shtml",
-      "title": "冒用“中国地震预警网”名义发布预警信息 成都高新减灾研究所被通报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-24/10683189.shtml",
+      "title": "以毽为媒传津派文脉 华北五省市花毽邀请赛在天津开赛",
       "category": "综合",
-      "summary": "中新网成都8月24日电 (记者 刘忠俊)四川省地震局8月24日发布情况通报，成都高新减灾研究所冒用“中国地震预警网”名义，通过个别手机及手表等渠道发布震级为7.7级的预警信息，引起社会关注。",
+      "summary": "中新网天津8月24日电 (记者 江莹)彩毽翻飞传非遗，以赛会友促传承。2026年“天穆杯”华北五省市花毽邀请赛于23日在天津北辰正式启幕。赛事汇聚北京、天津、河北、山东、山西五省市20支代表团、190名花毽高手同台竞技，以“非遗+体育”创新模式搭建区域文体交流平台，鲜活展现津派传统文化的独特韵味与时代活力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683100.shtml",
-      "publishedAt": "2026-08-24T05:35:21.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-24/10683189.shtml",
+      "publishedAt": "2026-08-24T08:00:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683102.shtml",
-      "title": "他折了三根肋骨，救起两条生命",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683192.shtml",
+      "title": "官方通报广西桂平一船舶失控漂流：已安全停泊，无人员伤亡",
       "category": "综合",
-      "summary": "“当时没想那么多，看见他们俩跳进江里，就想着赶紧下去救人，再晚一点，可能就来不及了。”8月23日，梧州市红十字会医院，潘俊荣躺在病床上。说起3天前的那次救援，他下意识地护住左胸，那里，3根肋骨已经骨折。",
+      "summary": "中新网8月24日电 据“新桂平”微信公众号消息，8月24日，广西桂平市应急管理局发布一起船舶失控漂流事件的情况通报称，2026年8月23日22时许，“富航9689”船在桂平市郁江桥江段失控漂流。接报后，相关部门立即组织人员前往现场处置，22:40分左右，船只已安全停泊，无人员伤亡。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683102.shtml",
-      "publishedAt": "2026-08-24T05:33:42.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683192.shtml",
+      "publishedAt": "2026-08-24T07:59:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683089.shtml",
-      "title": "四川长宁4.7级地震 中国地震局启动四级应急响应",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683199.shtml",
+      "title": "外交部：敦促有关方面停止以任何方式干预香港事务",
       "category": "综合",
-      "summary": "中新网北京8月24日电 (记者 孙自法)记者从中国地震局获悉，四川省宜宾市长宁县8月24日早上发生4.7级地震后，中国地震局迅速启动四级应急响应。",
+      "summary": "8月24日，外交部发言人林剑主持例行记者会。有记者问：针对香港特区司法机构依法裁定的案件，美国等个别国家和欧盟发表声明或表态，对上述判决表示关切。中方对此有何回应？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683089.shtml",
-      "publishedAt": "2026-08-24T05:33:18.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683199.shtml",
+      "publishedAt": "2026-08-24T07:59:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-24/10683094.shtml",
-      "title": "5.6米拼豆《清明上河图》亮相兰州书展 像素手工“译”经典",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-24/10683198.shtml",
+      "title": "美国威胁对与伊朗有商业往来的国家实施二级制裁 中方呼吁各方保持理性克制",
       "category": "综合",
-      "summary": "图为《清明上河图》拼豆，该作品用186000颗拼豆拼出汴河的烟波。王牧雨 摄 该展区还展出全国各地拼豆爱好者的80余件原创作品，其中包括鲁迅头像、《读者》杂志封面等文学主题拼豆，把经典文化形象变成像素艺术。图为拼豆作品《鲁迅》。王牧雨 摄 图为拼豆作品《像素风作家头像》，作品涵盖古今中外文学大师的经典造型。王牧雨 摄 图为用拼豆复刻《读者》杂志经典封面。王牧",
+      "summary": "中新网北京8月24日电 (记者 李京泽)中国外交部发言人林剑24日主持例行记者会。有记者就美国威胁对与伊朗有商业往来的国家实施二级制裁提问。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-24/10683094.shtml",
-      "publishedAt": "2026-08-24T05:32:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-24/10683198.shtml",
+      "publishedAt": "2026-08-24T07:58:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +571,55 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-24/10683092.shtml",
-      "title": "四川地震局：成都高新减灾研究所冒用“中国地震预警网”名义发布地震预警信息",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-24/10683194.shtml",
+      "title": "共富特写：浙江山村海岛就医记",
       "category": "综合",
-      "summary": "中新网8月24日电 据四川省地震局微信公众号消息，据中国地震台网正式测定：2026年8月24日8时26分在四川宜宾市长宁县(北纬28.33度，东经104.98度)发生4.7级地震，震源深度5公里。成都高新减灾研究所冒用“中国地震预警网”名义，通过荣耀、维沃手机以及小天才手表等渠道向社会公众发布震级为7.7级的预警信息，引起社会关注。四川省地震局已于2026年",
+      "summary": "中新网杭州8月24日电(张煜欢 陈嘉美)晨雾漫过群山，巡回诊疗车点亮车灯，穿梭在蜿蜒山路，把流动诊室送进深山村落；东海潮起潮落，海岛远程诊室实时连线，让岛民足不出岛，便能对接省级医疗资源……",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683092.shtml",
-      "publishedAt": "2026-08-24T05:32:14.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-24/10683194.shtml",
+      "publishedAt": "2026-08-24T07:58:55.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113563",
+      "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+      "category": "科技",
+      "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113563",
+      "publishedAt": "2026-08-24T07:14:08.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad#0",
+      "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
+      "category": "国际",
+      "summary": "位於布里斯托爾的「編織微笑」小組旨在促進移英港人的交流互動。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T06:15:27.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -659,7 +711,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad#1",
       "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
       "category": "国际",
       "summary": "軍方表示，這些襲擊「意圖製造動盪」，目前沒有任何組織承認責任。",
@@ -746,7 +798,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#1",
       "title": "如何不用鬧鐘就能起床？",
       "category": "国际",
       "summary": "只要稍微安排睡眠，自然起床其實很容易。",
@@ -777,23 +829,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad#1",
-      "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
-      "category": "国际",
-      "summary": "有評論認為，最近一項針對英國人的調查顯示，他們在金錢方面過於謹慎，但BBC經濟事務編輯指出，事情並沒有這麼簡單。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T00:12:49.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -859,23 +894,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T13:39:35.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#1",
-      "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
-      "category": "国际",
-      "summary": "法庭認為，支聯會雖未使用或鼓吹暴力手段，但中國《香港國安法》頒布後，三人仍堅持「結束一黨專政」行動綱領，屬於「顛覆國家政權」罪中的「其他非法手段」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T13:24:42.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1271,24 +1289,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113567",
-      "title": "十年阅读历程，这是我的阅读工具推荐",
-      "category": "科技",
-      "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113567",
-      "publishedAt": "2026-08-20T07:25:47.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
