@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T21:47:56.416Z",
-  "expiresAt": "2026-08-26T03:47:56.416Z",
+  "generatedAt": "2026-08-25T23:13:12.672Z",
+  "expiresAt": "2026-08-26T05:13:12.672Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,168 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684225.shtml",
+      "title": "美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀",
+      "category": "综合",
+      "summary": "中新网8月26日电 据美国广播公司(ABC)当地时间25日报道，一名男子23日在美国蒙大拿州比灵斯市一处住宅内与亲属共进晚餐时，杀害了包括4名儿童在内的8名亲属，随后自杀身亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684225.shtml",
+      "publishedAt": "2026-08-25T23:00:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684224.shtml",
+      "title": "美移民执法局7月逮捕近5万人 创特朗普第二任期单月新高",
+      "category": "综合",
+      "summary": "中新社华盛顿8月25日电 据美国媒体25日报道，美国移民与海关执法局(ICE)7月逮捕近5万名移民，创美国总统特朗普第二任期以来单月逮捕人数最高纪录。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684224.shtml",
+      "publishedAt": "2026-08-25T22:46:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-26/10684223.shtml",
+      "title": "8月26日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-26/10684223.shtml",
+      "publishedAt": "2026-08-25T22:45:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684222.shtml",
+      "title": "加拿大宣布对价值约200亿美元美国商品征收报复性关税",
+      "category": "综合",
+      "summary": "中新网8月26日电 据路透社报道，当地时间25日，加拿大政府宣布对价值约200亿美元的美国商品征收报复性关税。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684222.shtml",
+      "publishedAt": "2026-08-25T22:44:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+      "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+      "category": "综合",
+      "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+      "publishedAt": "2026-08-25T22:31:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-26/10684220.shtml",
+      "title": "爱吃糖的小孩长大了，甜食配方怎么改？",
+      "category": "综合",
+      "summary": "爱吃糖的小孩长大了，甜食配方怎么改？(新视野)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-26/10684220.shtml",
+      "publishedAt": "2026-08-25T22:00:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "title": "古巴谴责美国延长对古实施经济封锁",
+      "category": "综合",
+      "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "publishedAt": "2026-08-25T21:56:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+      "title": "中方呼吁推动停火止战以保障粮食生产安全",
+      "category": "综合",
+      "summary": "中国常驻联合国代表傅聪25日在武装冲突与粮食安全问题安理会高级别公开辩论会上发言，呼吁推动停火止战以保障粮食生产的安全环境。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+      "publishedAt": "2026-08-25T21:54:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684217.shtml",
+      "title": "台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
+      "category": "综合",
+      "summary": "中国天气网讯 今天(8月26日)3时25分前后，今年第19号台风“紫檀”以热带风暴级再次登陆广东省徐闻县。受“紫檀”及其减弱后的环流、季风槽共同影响，今明天，广西、广东、云南等地将有强降雨，部分地区有大到暴雨，局地大暴雨，需防范持续降雨可能引发的次生灾害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684217.shtml",
+      "publishedAt": "2026-08-25T21:52:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
       "title": "俄远东在建天然气化工项目火灾致死人数升至3人",
@@ -417,168 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684188.shtml",
       "publishedAt": "2026-08-25T14:02:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml",
-      "title": "湖北形成“海陆空多向联动”的国际物流格局",
-      "category": "综合",
-      "summary": "中新网武汉8月25日电 (梁婷 潘庆芳)记者25日从2026年加快建设交通强国大会获悉，依托近洋直航与陆上铁路、航空枢纽互补，湖北形成“海陆空多向联动”的国际物流格局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml",
-      "publishedAt": "2026-08-25T14:01:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684187.shtml",
-      "title": "鸠山由纪夫：对历史真诚反省并表达共情，才能通向真正和解",
-      "category": "综合",
-      "summary": "中新社北京8月25日电 (马帅莎 余湛奕 刘纪)“促进建设和平与繁荣的亚洲命运共同体”对话大会25日在北京举办。日本前首相鸠山由纪夫在开幕式上表示，对历史真诚反省并表达共情，才能通向真正和解之路。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684187.shtml",
-      "publishedAt": "2026-08-25T13:59:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684190.shtml",
-      "title": "江苏常州通报“星宇股份被曝批量劝退应届生”",
-      "category": "综合",
-      "summary": "中新网8月25日电 据常州市人民政府网站消息，8月25日晚，江苏省常州市人力资源和社会保障局发布星宇股份解聘应届大学毕业生情况通报。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684190.shtml",
-      "publishedAt": "2026-08-25T13:59:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684184.shtml",
-      "title": "“山海万象·中马沉浸视听交流展”打开双方数字文化合作新空间",
-      "category": "综合",
-      "summary": "中新网吉隆坡8月25日电(记者 刘育英)“山海万象·中马沉浸视听交流展”闭幕式暨“中马数字文化论坛”于8月24日在马来西亚吉隆坡举办。展览运用沉浸影像、虚拟现实、人工智能、交互装置等多元数字艺术形式，围绕山水海洋、文化记忆、自然生态与数字技术开展多维度艺术探索。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684184.shtml",
-      "publishedAt": "2026-08-25T13:59:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
-      "title": "多国科创企业共聚香港 聚焦AI向善推动全球合作",
-      "category": "综合",
-      "summary": "中新社香港8月25日电 (张语洽 刘玥晴)第二届GIS全球创新展暨全球创新峰会25日在香港开幕。展会汇聚来自中国内地、香港和澳门，以及欧洲、美国、日本、新加坡、澳大利亚等国家和地区的科技企业，聚焦推动全球创科合作、助力人工智能(AI)向善发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-25/10684186.shtml",
-      "publishedAt": "2026-08-25T13:58:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684191.shtml",
-      "title": "向失职失责“亮剑” 为美丽中国“护航”——中央组织部负责人就修订颁布《党政领导干部生态环境损害责任追究办法》答记者问",
-      "category": "综合",
-      "summary": "新华社北京8月25日电 近日，中共中央办公厅印发新修订的《党政领导干部生态环境损害责任追究办法》(以下简称《办法》)。日前，中央组织部负责人就《办法》修订和贯彻实施等问题回答了记者提问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684191.shtml",
-      "publishedAt": "2026-08-25T13:58:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684185.shtml",
-      "title": "上海冀“十五五”期间新增认定跨国公司地区总部数量逾300家",
-      "category": "综合",
-      "summary": "中新社上海8月25日电 上海市政府25日发布的《上海市加快国际贸易中心建设“十五五”规划》提出，“十五五”期间，上海将新增认定跨国公司地区总部数量达300家以上。上海将优化升级支持总部经济发展政策，支持总部集聚研发创新、财资管理、投资决策、供应链管理等多项功能，升级成为亚太区总部、事业部全球总部。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684185.shtml",
-      "publishedAt": "2026-08-25T13:57:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684183.shtml",
-      "title": "湛江海事部门严阵以待防御台风“紫檀”",
-      "category": "综合",
-      "summary": "中新网湛江8月25日电 (梁盛 谢晓琳)为防范台风“紫檀”带来的海上交通安全风险，湛江海事局从25日16时起，全域启动防热带气旋二级应急响应，针对不同吨位船舶实施差异化管控。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684183.shtml",
-      "publishedAt": "2026-08-25T13:56:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
-      "title": "中越边境广西宁明爱店口岸恢复通关",
-      "category": "综合",
-      "summary": "中新网广西崇左8月25日电 (黄令妍)8月25日8时30分起，位于中越边境广西崇左市宁明县的爱店口岸恢复通关服务。记者当天在口岸看到，双向四条出入境货运通道上，满载越南榴莲、中国电子产品等货物的货车顺畅通行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
-      "publishedAt": "2026-08-25T13:55:27.000Z",
       "tags": [
         "国内",
         "社会",
