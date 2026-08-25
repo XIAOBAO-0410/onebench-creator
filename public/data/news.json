@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T14:31:12.164Z",
-  "expiresAt": "2026-08-25T20:31:12.164Z",
+  "generatedAt": "2026-08-25T17:49:33.711Z",
+  "expiresAt": "2026-08-25T23:49:33.711Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,203 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad#0",
+      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
+      "category": "国际",
+      "summary": "中國反對美國對伊朗頒布「非法單邊制裁」。學者指出華府不便此刻對付德黑蘭的石油大買家，以免讓9月底習近平訪美增添變數。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:53:04.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684210.shtml",
+      "title": "中印边界问题特别代表在北京举行会晤",
+      "category": "综合",
+      "summary": "中新社北京8月25日电 8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题和双边关系等进行了全面深入、友好坦诚的沟通。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684210.shtml",
+      "publishedAt": "2026-08-25T15:47:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684209.shtml",
+      "title": "美军机降落莫斯科？克宫回应",
+      "category": "综合",
+      "summary": "中新网8月25日电 据路透社25日报道，航班追踪网站Flightradar24的数据显示，一架美国军用运输机降落在莫斯科伏努科沃机场。对此，克里姆林宫表示，没有关于该飞机的信息。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684209.shtml",
+      "publishedAt": "2026-08-25T15:45:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
+      "title": "加拿大宣布对美国商品征收报复性关税",
+      "category": "综合",
+      "summary": "当地时间25日，加拿大政府宣布，对价值约200亿美元的美国商品征收报复性关税。(央视新闻客户端）",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684208.shtml",
+      "publishedAt": "2026-08-25T15:26:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684207.shtml",
+      "title": "一名在韩失踪中国公民遇害 嫌疑人已被捕",
+      "category": "综合",
+      "summary": "中新社首尔8月25日电 (记者 金旭)中国驻釜山总领事馆当地时间25日称，经同韩国警方核实，一名失踪数日的中国女留学生当天被发现死亡，警方已以涉嫌杀人罪逮捕一名30多岁男子。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684207.shtml",
+      "publishedAt": "2026-08-25T15:23:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
+      "title": "2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球上映计划",
+      "category": "综合",
+      "summary": "据网络平台数据",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684206.shtml",
+      "publishedAt": "2026-08-25T15:08:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684199.shtml",
+      "title": "德国二季度GDP环比增速上调至0.3%",
+      "category": "综合",
+      "summary": "中新社柏林8月25日电 (记者 马秀秀)德国联邦统计局25日公布的数据显示，经价格、季节和工作日调整后，今年第二季度德国国内生产总值(GDP)环比增长0.3%，较此前公布的初步数据上调0.1个百分点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684199.shtml",
+      "publishedAt": "2026-08-25T14:57:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684198.shtml",
+      "title": "马来西亚热浪来袭 多地发布高温警报",
+      "category": "综合",
+      "summary": "中新社吉隆坡8月25日电 (记者 刘育英)马来西亚近日遭遇热浪天气。马来西亚气象局25日对全国17个地区发布一级高温“警戒”警报，提醒民众注意防暑降温。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684198.shtml",
+      "publishedAt": "2026-08-25T14:54:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-25/10684197.shtml",
+      "title": "俄远东一在建天然气化工项目发生火灾致1人死亡百余人受伤",
+      "category": "综合",
+      "summary": "中新社莫斯科8月25日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目25日通报称，该项目施工现场发生火灾，造成1人死亡、百余人不同程度受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-25/10684197.shtml",
+      "publishedAt": "2026-08-25T14:53:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-25/10684200.shtml",
+      "title": "广东拥抱AI 助力流行音乐创作",
+      "category": "综合",
+      "summary": "中新社广州8月25日电 (程景伟 谢丽巧)首届流行音乐创作大会(广东)25日在广州启幕，广东省文联专职副主席王垂林介绍，除原创音乐赛道，大赛还特别设立AI音乐赛道，用户可以使用AI创作流行歌曲并参赛。据悉，大赛将评选出46首获奖歌曲，其中原创作品30首、AI作品16首。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-25/10684200.shtml",
+      "publishedAt": "2026-08-25T14:45:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684196.shtml",
+      "title": "马龙邀请台湾青年“登陆”：“大陆适合每一位热爱运动的年轻人”",
+      "category": "综合",
+      "summary": "中新社上海8月25日电 (记者 陈建新 缪璐)“欢迎大家来大陆，走进校园、走进训练基地，参与训练交流、赛事活动、学习实践。”25日在上海出席一场两岸青年交流活动时，奥运冠军马龙向台湾青年发出邀请。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684196.shtml",
+      "publishedAt": "2026-08-25T14:43:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684195.shtml",
       "title": "广西9条河流超警 左江崇左水文站超警7.59米",
@@ -392,182 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684174.shtml",
-      "title": "台风“紫檀”或二次登陆广东雷州半岛",
-      "category": "综合",
-      "summary": "中新网广州8月25日电 (记者 王坚)台风“紫檀”在25日18时40分前后登陆海南省昌江县。广东气象部门表示，“紫檀”或将二次登陆广东雷州半岛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684174.shtml",
-      "publishedAt": "2026-08-25T13:40:52.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142647",
+      "title": "【专题报道】地中海的另一场“奥德赛”：生态宝藏何以走出危机",
+      "category": "国际",
+      "summary": "距荷马史诗《奥德赛》诞生已逾2500年。如今，英国导演克里斯托弗·诺兰执导的电影《奥德赛》再次将这段跨越千年的传奇旅程搬上大银幕。从神话中的惊涛骇浪，到今天真实世界里的生态危机，这片海域依然在经历一场漫长而艰难的“奥德赛”——只是这一次，主角不再是奥德修斯，而是地中海本身。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142647",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
-      "title": "天工机器人百米竞速跑出8.86秒 再创纪录",
-      "category": "综合",
-      "summary": "中新网北京8月25日电 (记者 吕少威 陈杭 徐婧)第二届世界人形机器人运动会正在北京进行中。在25日举行的100米大型组复赛中，第一组成绩再次刷新纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
-      "publishedAt": "2026-08-25T13:40:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684175.shtml",
-      "title": "陈文清会见越南最高人民法院院长阮文广",
-      "category": "综合",
-      "summary": "新华社北京8月25日电 中共中央政治局委员、中央政法委书记陈文清25日在京会见越共中央书记处书记、越南最高人民法院院长阮文广。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684175.shtml",
-      "publishedAt": "2026-08-25T13:34:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684172.shtml",
-      "title": "甘肃加快“碳足迹”管理体系建设",
-      "category": "综合",
-      "summary": "中新网兰州8月25日电 (记者 冯志军)当归、黄芪、马铃薯种业、油橄榄等4项农特产品碳足迹量化方法已纳入地方标准立项计划，金川集团电积钴等15个镍钴系列产品、张掖市8个农产品完成碳足迹核算与认证……今年以来，甘肃加快推进碳足迹管理体系建设。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684172.shtml",
-      "publishedAt": "2026-08-25T13:33:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684170.shtml",
-      "title": "台风“沙德尔”逼近 福建沿海22条客渡运航线停运",
-      "category": "综合",
-      "summary": "中新社福州8月25日电 (记者 闫旭)今年第18号台风“沙德尔”(强台风级)25日下午已移入福建省热带气旋警戒区。据中央气象台预计，“沙德尔”将于27日夜间至28日上午在浙江象山到福建福清一带沿海登陆。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684170.shtml",
-      "publishedAt": "2026-08-25T13:33:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684171.shtml",
-      "title": "浙江义乌春节用品超前开启“羊年模式”",
-      "category": "综合",
-      "summary": "中新社浙江义乌8月25日电 (董易鑫 陈蓓蓓)“今年客户采购羊年春节用品的节奏比往年快。这个月，我们已经交付了首批海外订单。”8月25日，主营年画产品的浙江义乌商户王子说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684171.shtml",
-      "publishedAt": "2026-08-25T13:32:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684166.shtml",
-      "title": "中式书香门第主题“南方列车”试运营 铁路文旅漫行阅古今",
-      "category": "综合",
-      "summary": "中新网长沙8月25日电 (付敬懿 杨一苗)全国首列中式书香门第主题品质旅游列车——“南方列车·白云号”25日试运营，项目由湖南文体旅产业集团有限公司联合广州白云产业投资集团有限公司，与中国铁路广州局集团有限公司合力打造，以文化IP赋能、高端服务提质、跨域联动增效，重塑铁路文旅价值。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684166.shtml",
-      "publishedAt": "2026-08-25T13:31:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684165.shtml",
-      "title": "重返毛乌素，“赛考斯”带走一罐沙、留下新的树",
-      "category": "综合",
-      "summary": "中新社内蒙古鄂尔多斯8月25日电 题：重返毛乌素，“赛考斯”带走一罐沙、留下新的树",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684165.shtml",
-      "publishedAt": "2026-08-25T13:30:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684151.shtml",
-      "title": "内蒙古兴和县突发山洪 一车辆被冲走致4死1失联",
-      "category": "综合",
-      "summary": "中新网乌兰察布8月25日电 (记者 张林虎)25日，记者从内蒙古自治区乌兰察布市相关部门获悉，兴和县因降雨引发山洪，一辆汽车被洪水冲走，目前造成4人遇难、1人失联，当地正全力展开搜救。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684151.shtml",
-      "publishedAt": "2026-08-25T13:29:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684169.shtml",
-      "title": "西吉沙沟乡：水培蔬菜搭上冷链快车 直供江浙沪市场",
-      "category": "综合",
-      "summary": "中新网宁夏西吉8月25日电 题：西吉沙沟乡：水培蔬菜搭上冷链快车 直供江浙沪市场",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684169.shtml",
-      "publishedAt": "2026-08-25T13:29:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -712,19 +747,92 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad#0",
-      "title": "我六歲就來月經了，但醫生們也不知道為什麼",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142682",
+      "title": "联合国谴责南苏丹伏击事件，两名维和人员遇害",
       "category": "国际",
-      "summary": "性早熟會導致兒童過早出現第二性徵，而且對女孩的影響比例明顯較高。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T00:10:45.000Z",
+      "summary": "联合国秘书长发言人周一表示，古特雷斯秘书长以最强烈措辞谴责南苏丹琼莱州发生的针对联合国南苏丹特派团巡逻队的伏击事件。两名埃塞俄比亚维和人员在袭击中遇难，另有七人受伤。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142682",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
       "tags": [
         "国际",
-        "商业",
-        "科技",
-        "社会"
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142681",
+      "title": "联合国：乌克兰战争持续升级，平民伤亡和人道主义需求加剧",
+      "category": "国际",
+      "summary": "联合国主管政治和建设和平事务的副秘书长迪卡洛周一向安理会通报乌克兰局势时表示，战争持续造成死亡、破坏和流离失所，平民伤亡人数仍在攀升。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142681",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142680",
+      "title": "粮农组织：释放园艺业潜力是促使农业食品体系转型、提供健康膳食的关键",
+      "category": "国际",
+      "summary": "粮农组织总干事屈冬玉周一在日本京都举行的2026年国际园艺大会上表示，农业必须超越仅关注生产足够数量粮食的阶段，更加重视提供健康饮食所需的多样化、营养丰富的食物。他强调，园艺业对于改善营养状况、增强生计韧性以及构建更可持续的农业食品体系具有重要作用。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142680",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142679",
+      "title": "联合国：儿童和青少年仍面临艾滋病毒防治缺口",
+      "category": "国际",
+      "summary": "联合国儿童基金会最新发布的2026年艾滋病毒估计数据显示，儿童和青少年继续受到全球艾滋病毒应对工作缺口的不成比例影响。国际资金减少和服务中断正带来额外风险。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142679",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142678",
+      "title": "刚果民主共和国埃博拉疫情持续超过100天 确诊病例超过5200例",
+      "category": "国际",
+      "summary": "刚果民主共和国埃博拉疫情暴发已超过100天，该国周一宣布累计确诊病例超过5200例。世卫组织表示，此次疫情已成为该国蔓延速度最快的疫情，病毒传播速度已超过防控措施的推进速度，需要大幅加强应对措施。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142678",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1599,114 +1707,6 @@
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142652",
       "publishedAt": "2026-08-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142653",
-      "title": "世卫组织和儿基会：医疗机构卫生设施仍存在显著缺口",
-      "category": "国际",
-      "summary": "世界卫生组织和联合国儿童基金会周二发布报告显示，全球医疗机构在供水、卫生设施、个人卫生、环境清洁和医疗废物管理方面仍存在明显缺口。到2025年，85%的医疗机构拥有基本供水服务，72%拥有基本卫生服务，71%拥有基本医疗废物管理服务，但仅59%达到基本环境清洁标准，40%符合基本卫生设施服务要求。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142653",
-      "publishedAt": "2026-08-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142651",
-      "title": "加沙地带：仅3%的耕地既可进入又未受损",
-      "category": "国际",
-      "summary": "联合国粮食及农业组织和联合国卫星中心周二发布最新地理空间评估报告显示，截至2026年6月24日，加沙地带仅有3%的耕地既可进入又未受损。自2025年10月以来，这类耕地面积减少25.5%。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142651",
-      "publishedAt": "2026-08-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142650",
-      "title": "哥伦比亚地震：联合国加大对10万人的援助力度",
-      "category": "国际",
-      "summary": "根据周二发布的最新情况通报，随着上周发生7.4级毁灭性地震后需求持续增加，联合国正在哥伦比亚西部加大人道主义援助力度。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142650",
-      "publishedAt": "2026-08-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142649",
-      "title": "埃博拉：运送病人的摩托车骑手或成加强应对的关键",
-      "category": "国际",
-      "summary": "在刚果民主共和国（刚果（金））有史以来最致命的埃博拉疫情前线，世界卫生组织于周二公布了大规模推动社区参与的详细计划，此前一天，又发生了一起针对救护车的袭击事件。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142649",
-      "publishedAt": "2026-08-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142648",
-      "title": "联合国：利比亚政治进程取得进展，但仍面临治理、安全和经济挑战",
-      "category": "国际",
-      "summary": "联合国秘书长利比亚问题特别代表汉娜·塔特周二在安理会表示，推动利比亚政治进程向前发展依然至关重要。近期大范围停电、公众不满情绪以及持续热浪，暴露出制度分裂、公共资源大规模挪用、投资不足和决策缺乏协调等治理问题。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142648",
-      "publishedAt": "2026-08-18T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142645",
-      "title": "西岸库斯拉村围困局势有所缓解，但加沙危机加剧",
-      "category": "国际",
-      "summary": "联合国周一表示，人道主义工作者已接触到在约旦河西岸北部库斯拉村被以色列定居者围困数日的巴勒斯坦家庭；与此同时，官员们警告称，这种对峙局面绝不能成为“新常态”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142645",
-      "publishedAt": "2026-08-17T12:00:00.000Z",
       "tags": [
         "国际",
         "公共政策",
