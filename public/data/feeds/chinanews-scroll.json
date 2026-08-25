@@ -5,6 +5,27 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "title": "俄远东在建天然气化工项目火灾致死人数升至3人",
+      "meta": "中国新闻网 · 2026/8/25",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "publishedAt": "2026-08-25T21:44:00.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684215.shtml",
+      "title": "美国8月消费者信心指数降至7个月来最低值",
+      "meta": "中国新闻网 · 2026/8/25",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684215.shtml",
+      "publishedAt": "2026-08-25T20:07:48.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684214.shtml",
+      "title": "广西龙州多个村落成“孤岛” 救援人员水陆多轮接力紧急送物资",
+      "meta": "中国新闻网 · 2026/8/25",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684214.shtml",
+      "publishedAt": "2026-08-25T20:06:46.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684213.shtml",
       "title": "湄公河水位上涨致柬埔寨四省逾1.8万户家庭受灾",
       "meta": "中国新闻网 · 2026/8/25",
@@ -192,29 +213,8 @@
       "meta": "中国新闻网 · 2026/8/25",
       "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
       "publishedAt": "2026-08-25T13:55:27.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-      "title": "“香港动能”主题巡展天津启幕 冀拓津港合作新空间",
-      "meta": "中国新闻网 · 2026/8/25",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-      "publishedAt": "2026-08-25T13:51:54.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
-      "title": "浙江制造业深度拥抱人工智能 加快推进体系化落地",
-      "meta": "中国新闻网 · 2026/8/25",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
-      "publishedAt": "2026-08-25T13:48:12.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684173.shtml",
-      "title": "张荣恭冀两岸青年在振兴中华过程中相向而行",
-      "meta": "中国新闻网 · 2026/8/25",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684173.shtml",
-      "publishedAt": "2026-08-25T13:43:30.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T19:49:45.909Z",
+  "updatedAt": "2026-08-25T21:47:56.416Z",
   "provider": "OneBench 公共资讯快照"
 }
