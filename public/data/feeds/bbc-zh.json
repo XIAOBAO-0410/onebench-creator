@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyr5y5exro/trad#0",
+      "title": "慈善？演戲？科茨沃爾德？哈利和梅根會怎樣重建英國生活？",
+      "meta": "BBC 中文 · 2026/8/25",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgyr5y5exro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T08:03:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#0",
+      "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
+      "meta": "BBC 中文 · 2026/8/25",
+      "url": "https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T07:23:12.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cje82403k49o/trad#0",
       "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
       "meta": "BBC 中文 · 2026/8/25",
@@ -26,14 +40,14 @@
       "publishedAt": "2026-08-25T00:10:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad#1",
       "title": "烏克蘭遭革職防長告訴BBC，該質問澤連斯基對貪腐所知多少",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T08:40:31.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad#1",
       "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
       "meta": "BBC 中文 · 2026/8/24",
       "url": "https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad?at_medium=RSS&at_campaign=rss",
@@ -82,7 +96,7 @@
       "publishedAt": "2026-08-23T09:43:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#5",
       "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
@@ -117,8 +131,8 @@
       "publishedAt": "2026-08-21T09:40:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad#1",
-      "title": "生於烏克蘭，為何替俄羅斯作戰？被俘士兵向BBC講述背後故事",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad#4",
+      "title": "生於烏克蘭，為何替俄羅斯作戰？俘虜向BBC講述背後故事",
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T08:21:37.000Z"
@@ -129,13 +143,6 @@
       "meta": "BBC 中文 · 2026/8/21",
       "url": "https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-21T00:04:00.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#5",
-      "title": "台灣為何此刻提出「鞭刑入法」公投？",
-      "meta": "BBC 中文 · 2026/8/20",
-      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T08:57:23.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#4",
@@ -164,13 +171,6 @@
       "meta": "BBC 中文 · 2026/8/18",
       "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T18:00:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
-      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
-      "meta": "BBC 中文 · 2026/8/16",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T10:44:03.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T05:52:57.620Z",
+  "updatedAt": "2026-08-25T08:23:52.158Z",
   "provider": "OneBench 公共资讯快照"
 }
