@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/113851",
+      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+      "meta": "少数派 · 2026/8/26",
+      "url": "https://sspai.com/post/113851",
+      "publishedAt": "2026-08-26T07:11:40.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113714",
       "title": "在正镶白旗，用五天共同生活理解现代牧场",
       "meta": "少数派 · 2026/8/26",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/8/24",
       "url": "https://sspai.com/post/113563",
       "publishedAt": "2026-08-24T07:14:08.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/112983",
-      "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
-      "meta": "少数派 · 2026/8/24",
-      "url": "https://sspai.com/post/112983",
-      "publishedAt": "2026-08-24T03:30:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T05:58:59.851Z",
+  "updatedAt": "2026-08-26T08:24:27.632Z",
   "provider": "OneBench 公共资讯快照"
 }
