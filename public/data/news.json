@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T01:10:44.607Z",
-  "expiresAt": "2026-08-28T07:10:44.607Z",
+  "generatedAt": "2026-08-28T21:55:04.866Z",
+  "expiresAt": "2026-08-29T03:55:04.866Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685589.shtml",
-      "title": "台风登陆浙江",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686254.shtml",
+      "title": "沃什称美联储抗通胀尚未结束 市场上调加息预期",
       "category": "综合",
-      "summary": "据中央气象台最新消息，台风“沙德尔”(台风级)的中心已于今天8时5分前后在浙江台州玉环市坎门街道沿海登陆，登陆时中心附近最大风力有12级(35米/秒)，中心最低气压975百帕。",
+      "summary": "中新社纽约8月28日电 (记者 王帆)美国联邦储备委员会主席沃什28日在怀俄明州举行的杰克逊霍尔全球央行年度经济政策研讨会上表示，高通胀对经济极为不利，美联储抗击通胀的努力尚未结束。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685589.shtml",
-      "publishedAt": "2026-08-28T00:52:03.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686254.shtml",
+      "publishedAt": "2026-08-28T17:31:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685576.shtml",
-      "title": "刚果（金）埃博拉疫情迅速蔓延 联合国秘书长吁提供援助",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686253.shtml",
+      "title": "俄国防部称成功实施洲际导弹战斗训练发射",
       "category": "综合",
-      "summary": "中新社联合国8月27日电 联合国秘书长古特雷斯27日在纽约联合国总部表示，刚果(金)埃博拉疫情正迅速蔓延，他呼吁国际社会立即强化应对，提供支持和援助。",
+      "summary": "中新社莫斯科8月28日电 俄罗斯国防部28日通报说，俄军在俄西北部成功实施洲际弹道导弹的战斗训练发射。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685576.shtml",
-      "publishedAt": "2026-08-28T00:49:57.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686253.shtml",
+      "publishedAt": "2026-08-28T17:30:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685575.shtml",
-      "title": "世卫组织宣布乌干达本轮埃博拉疫情结束",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686252.shtml",
+      "title": "西藏吉隆泥石流灾害已致7人遇难554人失联",
       "category": "综合",
-      "summary": "中新社约翰内斯堡8月27日电 世界卫生组织和非洲疾病预防控制中心27日分别宣布，乌干达本轮埃博拉疫情结束。与此同时，疫情仍在邻国刚果(金)蔓延，多款针对本迪布焦型埃博拉病毒的候选疫苗正在加速研发。",
+      "summary": "记者从西藏自治区应急管理厅获悉，截至29日1时，已救出热索村群众2人，吉隆泥石流灾害已造成7人遇难，554人失联。(记者刘洲鹏、格桑朗杰、丁增尼达）",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685575.shtml",
-      "publishedAt": "2026-08-28T00:49:29.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686252.shtml",
+      "publishedAt": "2026-08-28T17:24:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685588.shtml",
-      "title": "外媒：委内瑞拉考虑退出欧佩克 最终决定尚未作出",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686251.shtml",
+      "title": "翻山越岭、向险而行 中国救援队挺进吉隆口岸救援核心位置开展不间断搜救作业",
       "category": "综合",
-      "summary": "中新网8月28日电 据彭博社当地时间27日援引消息人士报道，委内瑞拉正在评估退出石油输出国组织(欧佩克)的可能性。",
+      "summary": "中新网日喀则8月29日电 题：翻山越岭、向险而行 中国救援队挺进吉隆口岸救援核心位置开展不间断搜救作业",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685588.shtml",
-      "publishedAt": "2026-08-28T00:44:53.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686251.shtml",
+      "publishedAt": "2026-08-28T16:20:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/gn/shipin/2026/08-28/news1066817.shtml",
-      "title": "习言道｜习近平心中的“最大政绩”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686242.shtml",
+      "title": "传承抗战精神 台盟爱国主义教育基地在沈阳揭牌",
       "category": "综合",
-      "summary": "“共产党人必须牢记，为民造福是最大政绩。”从梁家河到正定，从福建到浙江，从上海到中央，习近平总书记心里始终装着人民。政绩之本，在于为民。为民造福，是习近平总书记矢志不渝的追求。",
+      "summary": "中新社沈阳8月28日电 (姜月恒)“勿忘九一八 传承抗战精神”暨纪念九一八事变爆发95周年活动28日在沈阳举行。活动回顾两岸同胞共御外侮的峥嵘岁月，深挖抗战精神所蕴含的两岸共同精神内核，“台盟爱国主义教育基地”在沈阳“九·一八”历史博物馆揭牌。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/gn/shipin/2026/08-28/news1066817.shtml",
-      "publishedAt": "2026-08-28T00:43:03.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686242.shtml",
+      "publishedAt": "2026-08-28T15:54:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685586.shtml",
-      "title": "台风“沙德尔”最强风雨时段到来 明后天强降雨深入内陆",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686243.shtml",
+      "title": "从天津到比什凯克，全球聚焦“上合时间”",
       "category": "综合",
-      "summary": "中国天气网讯 今天(8月28日)，随着今年第18号台风“沙德尔”登陆浙江玉环，风雨最强时段开启，浙江、福建局地或有特大暴雨，浙江东部沿海警惕风、雨、潮“三碰头”。明后天，“沙德尔”深入内陆并与冷空气结合影响，强降雨或影响江西、湖南、湖北、广东、广西、贵州等地。在“沙德尔”风雨的影响下，南方高温范围将缩减。",
+      "summary": "中新社北京8月28日电 题：从天津到比什凯克，全球聚焦“上合时间”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685586.shtml",
-      "publishedAt": "2026-08-28T00:42:07.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686243.shtml",
+      "publishedAt": "2026-08-28T15:46:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10685582.shtml",
-      "title": "中国暂停签发前往西藏日喀则电子边境管理区通行证",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10686220.shtml",
+      "title": "东西问丨“掉线”半年，霍尔木兹早已不是从前的霍尔木兹",
       "category": "综合",
-      "summary": "中新社北京8月28日电 (记者 郭超凯)中国国家移民管理局27日晚发布公告，宣布暂停签发前往西藏自治区日喀则市电子边境管理区通行证。",
+      "summary": "中新网北京8月28日电 题：“掉线”半年，霍尔木兹早已不是从前的霍尔木兹",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685582.shtml",
-      "publishedAt": "2026-08-28T00:40:29.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10686220.shtml",
+      "publishedAt": "2026-08-28T15:12:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685583.shtml",
-      "title": "西藏吉隆：近500名群众已转移至临时安置点 将防治次生灾害",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-28/10686235.shtml",
+      "title": "南部非洲华人华侨纪念孙中山诞辰160周年图片展在南非举行",
       "category": "综合",
-      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。据初步统计，截至27日上午8时，成功搜救热索村民2人，排查发现遇难3人、失联558人。其中，外籍人员260人。",
+      "summary": "中新社约翰内斯堡8月28日电 (记者 孙翔)南部非洲华人华侨纪念孙中山先生诞辰160周年座谈会暨图片展近日在南非约翰内斯堡举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685583.shtml",
-      "publishedAt": "2026-08-28T00:37:41.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/08-28/10686235.shtml",
+      "publishedAt": "2026-08-28T15:09:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,392 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202363.shtml",
-      "title": "四川汶川：长征主题羌绣作品让红色历史焕发新生",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-28/10686236.shtml",
+      "title": "鲁迅文学奖首次在上海颁奖",
+      "category": "综合",
+      "summary": "中新社上海8月28日电 (记者 王笈)上海是中国现代文学巨匠鲁迅曾长期生活与写作的城市。在鲁迅先生逝世90周年之际，“中国文学盛典·鲁迅文学奖之夜”28日晚首次在上海举办，为第九届鲁迅文学奖获奖作品颁奖。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-28/10686236.shtml",
+      "publishedAt": "2026-08-28T15:08:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686237.shtml",
+      "title": "中国科学家破解亚非水稻种间生殖隔离之谜",
+      "category": "综合",
+      "summary": "中新社南京8月28日电 (记者 徐珊珊)中国工程院院士万建民领衔的研究团队28日在国际学术期刊《科学》在线发表最新研究成果，首次揭示了亚洲栽培稻与非洲栽培稻种间生殖隔离的分子机制，并找到了打破这一屏障的“钥匙”。该成果为培育超高产亚非杂交稻新品种提供了重要理论基础和种质资源。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686237.shtml",
+      "publishedAt": "2026-08-28T15:08:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-28/10686241.shtml",
+      "title": "中银香港今年上半年盈利237.39亿港元 同比增长7.1%",
+      "category": "综合",
+      "summary": "中新社香港8月28日电 (张语洽)中银香港(控股)有限公司(下称“中银香港”)28日公布2026年中期业绩。期内，中银香港股东应占溢利为237.39亿港元，同比增长7.1%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-28/10686241.shtml",
+      "publishedAt": "2026-08-28T15:07:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686238.shtml",
+      "title": "中国通过新修订的农业法 保障农民权益增加农民收入",
+      "category": "综合",
+      "summary": "中新社北京8月28日电 (记者 李京泽 郭超凯)十四届全国人大常委会第二十四次会议28日表决通过新修订的农业法。全国人大常委会法工委经济法室负责人当日在答记者问时表示，保障农民权益，增加农民收入是此次修法的重要内容之一。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686238.shtml",
+      "publishedAt": "2026-08-28T15:07:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-28/10686239.shtml",
+      "title": "第二十一届中国长春电影节闭幕 《给阿嬷的情书》获评委会大奖",
+      "category": "综合",
+      "summary": "中新社长春8月28日电 (高龙安 张瑶)第二十一届中国长春电影节28日晚闭幕，“金鹿奖”十大奖项揭晓。《给阿嬷的情书》获评委会大奖，李思潼凭借该片获最佳女演员奖。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-28/10686239.shtml",
+      "publishedAt": "2026-08-28T15:06:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686240.shtml",
+      "title": "军事专家：“中华第一舰”退役是中国海军装备现代化重要节点",
+      "category": "综合",
+      "summary": "中新社北京8月28日电 (记者 李纯)据中国官媒报道，中国第二代国产导弹驱逐舰首舰112舰，28日退出现役。军事专家张军社接受中新社记者专访时指出，作为中国海军052型导弹驱逐舰的首舰，112舰退役是海军装备现代化进程中的一个重要节点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686240.shtml",
+      "publishedAt": "2026-08-28T15:04:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686234.shtml",
+      "title": "西藏吉隆泥石流到底是如何发生的？独家动画演示灾害全程",
+      "category": "综合",
+      "summary": "8月26日10时30分许，尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。这场泥石流到底是如何发生的？为什么有如此强的破坏力？来看中央广播电视总台制作的全过程动画演示。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686234.shtml",
+      "publishedAt": "2026-08-28T14:46:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-28/10686204.shtml",
+      "title": "草间弥生作品亮相拍卖市场引藏家关注",
+      "category": "综合",
+      "summary": "8月28日晚，佳士得香港二十及二十一世纪艺术系列拍卖上海预展亮相佳士得上海艺术空间。两幅草间弥生经典的“南瓜”画作成为本场预展的焦点，吸引藏家关注。佳士得中国表示，对草间弥生女士辞世深感哀痛。她非凡的艺术生涯独树一帜，为当代艺术留下了不可磨灭的深远影响。中新社记者 张亨伟 摄 8月28日晚，佳士得香港二十及二十一世纪艺术系列拍卖上海预展亮相佳士得上海艺术空间",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-28/10686204.shtml",
+      "publishedAt": "2026-08-28T14:44:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-28/10686186.shtml",
+      "title": "首届美人鱼潜水世界杯：混合组双人技巧预赛开赛",
+      "category": "综合",
+      "summary": "图为中国组合徐申洁、乔王玄婧在比赛中。中新社记者 骆云飞 摄 图为中国组合夏子末、何译雯在比赛中。中新社记者 骆云飞 摄 图为中国组合徐申洁、乔王玄婧在比赛中。中新社记者 骆云飞 摄 图为中国组合夏子末、何译雯在比赛中。中新社记者 骆云飞 摄 图为中国香港组合茹芷荞、Fajar Desmana在比赛中。中新社记者 骆云飞 摄 图为中国香港组合茹芷荞、Faja",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-28/10686186.shtml",
+      "publishedAt": "2026-08-28T14:43:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-28/10686185.shtml",
+      "title": "中国造汽车经中老铁路出口提速 运量同比增长近6倍",
+      "category": "综合",
+      "summary": "8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢内。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，商品汽",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-28/10686185.shtml",
+      "publishedAt": "2026-08-28T14:32:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686217.shtml",
+      "title": "广西13条河流超警 郁江2026年第2号洪水过境南宁城区",
+      "category": "综合",
+      "summary": "中新网南宁8月28日电 (陈秋霞 周也茹)广西壮族自治区水文中心28日提供的信息显示，郁江南宁水文站于8月28日13时05分出现75.47米的洪峰水位(警戒水位73.0米)，超警2.47米，相应流量10600立方米每秒。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686217.shtml",
+      "publishedAt": "2026-08-28T14:19:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-28/10686216.shtml",
+      "title": "中基协：7月ABS新增备案规模逾1900亿元",
+      "category": "综合",
+      "summary": "中新网北京8月28日电 (记者 陈康亮)根据中国证券投资基金业协会(下称中基协)28日披露的数据，2026年7月，资产支持专项计划(下称ABS)新增备案189只，新增备案规模合计1956.14亿元(人民币，下同)。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686216.shtml",
+      "publishedAt": "2026-08-28T14:18:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-28/10686215.shtml",
+      "title": "粤开证券谈美债波动：政策干预难以根本上破除市场担忧",
+      "category": "综合",
+      "summary": "中新网北京8月28日电 (记者 陈康亮)关于近期美债市场波动，粤开证券28日发布的一份研报指出，政策干预难以根本上破除市场担忧。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686215.shtml",
+      "publishedAt": "2026-08-28T14:15:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686213.shtml",
+      "title": "探访上海南外滩量身定制中心：多举措升级，让外国游客乐享“中国购”",
+      "category": "综合",
+      "summary": "中新网上海8月28日电 题：探访上海南外滩量身定制中心：多举措升级，让外国游客乐享“中国购”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686213.shtml",
+      "publishedAt": "2026-08-28T14:13:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686212.shtml",
+      "title": "中国出台耕地保护和质量提升法 保障国家粮食安全",
+      "category": "综合",
+      "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过耕地保护和质量提升法，自2027年1月1日起施行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686212.shtml",
+      "publishedAt": "2026-08-28T14:13:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686210.shtml",
+      "title": "中国出台医疗保障法 维护公民医疗保障合法权益",
+      "category": "综合",
+      "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过医疗保障法，自2027年1月1日起施行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686210.shtml",
+      "publishedAt": "2026-08-28T14:12:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-28/10686211.shtml",
+      "title": "（经济观察）中国楼市大步迈向“现房销售时代”",
+      "category": "综合",
+      "summary": "中新社北京8月28日电 (记者 庞无忌)在中国实施30余年的商品房预售制度，迎来重大改革。中国住房和城乡建设部等三部门28日对外发布《关于完善商品住房销售制度的通知》，大幅提高商品房预售条件的同时，明确将现房销售作为新房销售的“优先”选项。行业专家认为，今后，现房销售有望取代预售，成为中国商品房销售的主流模式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686211.shtml",
+      "publishedAt": "2026-08-28T14:10:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686193.shtml",
+      "title": "重庆市委巡视组副厅局长级巡视专员高卫东接受审查调查",
+      "category": "综合",
+      "summary": "中新网8月28日电 据重庆市纪委监委消息：重庆市委巡视组副厅局长级巡视专员高卫东涉嫌严重违纪违法，目前正接受重庆市纪委监委纪律审查和监察调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686193.shtml",
+      "publishedAt": "2026-08-28T14:07:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686209.shtml",
+      "title": "治理“暴走团”“开门杀”“僵尸车”，法律出手了",
+      "category": "综合",
+      "summary": "道路千万条，安全第一条。随着道路交通参与者越来越多，交通问题也日益复杂多样。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686209.shtml",
+      "publishedAt": "2026-08-28T14:06:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10686208.shtml",
+      "title": "尼泊尔山洪遇难人数升至579人 1924人失联",
+      "category": "综合",
+      "summary": "据尼泊尔国家减少灾害风险管理局28日公布的数据，截至当地时间28日19时，尼泊尔北部地区山洪造成的死亡人数升至579人，失联人数升至1924人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10686208.shtml",
+      "publishedAt": "2026-08-28T14:04:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686207.shtml",
+      "title": "汇聚中吉友好的大河，习近平这样说",
+      "category": "综合",
+      "summary": "8月28日，在赴比什凯克对吉尔吉斯斯坦进行国事访问并出席2026年上海合作组织峰会前夕，中国国家主席习近平在《吉尔吉斯斯坦言论报》、“卡巴尔”国家通讯社发表题为《携手开创中吉关系高质量发展新局面》的署名文章。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686207.shtml",
+      "publishedAt": "2026-08-28T13:57:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202491.shtml",
+      "title": "十四届全国人大常委会第二十四次会议在北京闭幕",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202363.shtml",
-      "publishedAt": "2026-08-28T00:34:36.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202491.shtml",
+      "publishedAt": "2026-08-28T13:52:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,380 +572,281 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685577.shtml",
-      "title": "比尔·盖茨发布12页长文警告AI冲击：这次真的不同",
-      "category": "综合",
-      "summary": "中新网8月28日电 “动荡的AI时代已经到来，我们的选择至关重要。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685577.shtml",
-      "publishedAt": "2026-08-28T00:26:40.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142702",
+      "title": "尼泊尔洪灾影响巨大 遇难人数持续攀升",
+      "category": "国际",
+      "summary": "随着尼泊尔当局确认已在受灾地区打捞出538具遗体，这场致命洪灾的影响被描述为“巨大”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142702",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10685574.shtml",
-      "title": "我国首版全国几何基准影像成果 用途几何？",
-      "category": "综合",
-      "summary": "自然资源部昨天(27日)正式发布我国首版覆盖全部陆地国土的国家级几何基准影像。通过高精度配准，它可以将原始卫星影像数据处理成为位置精度统一的影像数据成果；类似于雕版印刷中的模具，确保不同批次的生产成果实现严格的位置套合，为数字中国建设提供坚实的时空数据支撑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685574.shtml",
-      "publishedAt": "2026-08-28T00:23:22.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142701",
+      "title": "【联合国会客厅】放过孩子 好好吃饭",
+      "category": "国际",
+      "summary": "战争会夺走什么？对一个孩子来说，可能是学校、家庭和玩耍的时光，也可能是最简单的一顿饭。《欢迎来龙餐馆》导演文牧野做客最新一期《联合国会客厅》，从电影中的一间餐馆、一个孩子和一顿饭出发，谈论战争与儿童，也重新追问一个最朴素的问题：和平对于一个孩子来说，究竟意味着什么？",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142701",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202358.shtml",
-      "title": "四川茂县：立足生态优势做好农产品文章",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202358.shtml",
-      "publishedAt": "2026-08-28T00:22:50.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980env4n78o/trad#0",
+      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
+      "category": "国际",
+      "summary": "在中國，災難應對往往也帶有政治訊號。尤其是中共中央總書記作出「重要指示」，或總理、副總理親赴現場，通常意味著北京把事件視為需要高度關注和統籌應對的重大危機。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c980env4n78o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T11:41:29.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10685565.shtml",
-      "title": "国家移民管理局：暂停签发前往西藏日喀则市电子边境管理区通行证",
-      "category": "综合",
-      "summary": "中新网8月28日电 据国家移民管理局微信公众号消息，国家移民管理局27日发布关于暂停签发前往西藏自治区日喀则市电子边境管理区通行证的公告。公告称，2026年8月26日10时30分许，因尼泊尔一侧发生大规模泥石流灾害，造成西藏自治区日喀则市吉隆口岸重大人员伤亡、失联。目前，吉隆口岸道路、通信中断，仍有可能发生次生灾害，抢险救灾工作正在紧张有序开展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685565.shtml",
-      "publishedAt": "2026-08-28T00:22:04.000Z",
+      "id": "sspai-https://sspai.com/post/113944",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "category": "科技",
+      "summary": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113944",
+      "publishedAt": "2026-08-28T09:44:32.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202350.shtml",
-      "title": "2026年亚太经合组织第三次高官会开幕式在大连举行",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202350.shtml",
-      "publishedAt": "2026-08-28T00:16:52.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/trad#1",
+      "title": "「因古老而安全」：為何舊技術有時更能防範黑客攻擊？",
+      "category": "国际",
+      "summary": "對黑客攻擊的擔憂，促使一些人轉而使用那些被新一代網絡罪犯忽略的技術。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T09:14:33.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685572.shtml",
-      "title": "家庭医生签约服务，何以提升感受度",
-      "category": "综合",
-      "summary": "家庭医生签约服务，何以提升感受度(人民眼·健康中国)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685572.shtml",
-      "publishedAt": "2026-08-28T00:16:17.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad#0",
+      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
+      "category": "国际",
+      "summary": "近年來，中國的「陪伴經濟」異軍突起，AI和機器人技術的高速發展亦給這個市場注入諸多新的可能。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T08:51:11.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685570.shtml",
-      "title": "台风“沙德尔”在浙江省台州玉环市登陆",
-      "category": "综合",
-      "summary": "据中央气象台最新消息，台风“沙德尔”(台风级)的中心已于今天8时05分前后在浙江台州玉环市坎门街道沿海登陆，登陆时中心附近最大风力有12级(35米/秒)，中心最低气压975百帕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685570.shtml",
-      "publishedAt": "2026-08-28T00:13:17.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980e6r9jzgo/trad#2",
+      "title": "追溯西藏尼泊爾致命山洪如何發生",
+      "category": "国际",
+      "summary": "一場災難性山洪和泥石流席捲了尼泊爾與中國西藏交界的邊境地區，吞噬了城鎮、沖毀了橋梁，並導致兩地數百人死亡。BBC Verify利用已核實的影片和衛星圖像，追蹤這場致命山洪的發展路徑。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c980e6r9jzgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T08:14:57.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685569.shtml",
-      "title": "加税的代价落到马桶上！美加贸易战让美国老百姓上厕所难了！",
-      "category": "综合",
-      "summary": "加税的代价落到马桶上！美加贸易战让美国老百姓上厕所难了！| 国际早察",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685569.shtml",
-      "publishedAt": "2026-08-28T00:08:57.000Z",
+      "id": "sspai-https://sspai.com/post/68623",
+      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+      "category": "科技",
+      "summary": "这些内容，即使毕了业也能有所帮助。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/68623",
+      "publishedAt": "2026-08-28T07:04:57.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685567.shtml",
-      "title": "美媒：受伊朗战事影响 驻欧美军拦截弹库存严重短缺",
-      "category": "综合",
-      "summary": "中新网8月28日电 据美联社当地时间27日报道，驻欧洲的美国国防官员和北约官员透露，受伊朗战事影响，美军在欧洲的先进导弹拦截弹库存已降至“极度危急”水平，其中“最令人担忧”的是“爱国者”拦截弹的库存。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685567.shtml",
-      "publishedAt": "2026-08-28T00:04:07.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#0",
+      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
+      "category": "国际",
+      "summary": "特朗普簽署這項行政命令之際，美加貿易談判已於上週稍後時間宣告破裂。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T05:35:04.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685566.shtml",
-      "title": "产权车位≠私人仓库！业主车位改仓储索赔 法院判决驳回诉求",
-      "category": "综合",
-      "summary": "业主花钱买的拥有产权的车位，是否想怎么利用就怎么利用？肯定有不少人会脱口而出：“那当然。”“我有产权我做主，想怎么用就怎么用。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685566.shtml",
-      "publishedAt": "2026-08-28T00:03:43.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1",
+      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "category": "国际",
+      "summary": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國各數百人失聯，其中包括大批外國遊客。中國總理李強抵達吉隆指導救災。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T05:05:14.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685564.shtml",
-      "title": "从秒级响应到情绪承接，客服人员的权益如何保障？",
-      "category": "综合",
-      "summary": "AI客服日渐普及，人工客服却更累了",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685564.shtml",
-      "publishedAt": "2026-08-27T23:54:46.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#0",
+      "title": "「在我眼中它就是黃金」：香港捲起卡牌熱，一張卡如何從遊戲工具變資產？",
+      "category": "国际",
+      "summary": "市場分析公司統計，全球集換式卡牌（TCG）市場規模到2031年有望升至128.6億美元。原本屬於小朋友的遊戲工具，何以突然變成「紙上黃金」？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T04:32:04.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202347.shtml",
-      "title": "尼泊尔努瓦果德县山洪灾区现场直击",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202347.shtml",
-      "publishedAt": "2026-08-27T23:51:08.000Z",
+      "id": "sspai-https://sspai.com/post/113883",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "category": "科技",
+      "summary": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113883",
+      "publishedAt": "2026-08-28T04:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685562.shtml",
-      "title": "暴雨预警！14省区市部分地区有大到暴雨 浙江福建局地特大暴雨",
-      "category": "综合",
-      "summary": "中国天气网讯 中央气象台8月28日06时继续发布暴雨黄色预警：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685562.shtml",
-      "publishedAt": "2026-08-27T23:48:29.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#1",
+      "title": "女性罵髒話很低劣嗎？莫迪批評言論引燃印度「蟑螂人民黨」示威後續辯論",
+      "category": "国际",
+      "summary": "印度在野黨議員拉胡爾·甘地的言論再次引發有關性別差異的辯論，焦點在於人們對辱罵總理莫迪言論的反應是否因性別而有所不同。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T02:49:24.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/08-28/10685561.shtml",
-      "title": "“一赛事两名称”，两度被叫停 关注不规范参赛与文化之困",
-      "category": "综合",
-      "summary": "“一赛事两名称”，两度被叫停",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/08-28/10685561.shtml",
-      "publishedAt": "2026-08-27T23:48:11.000Z",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad#2",
+      "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
+      "category": "国际",
+      "summary": "近年全球掀起一波集換式卡牌熱潮，除了玩樂以外，更有不少人用來投資炒賣。美國市場分析公司統計，2025年全球集換式卡牌市場規模達到約78億美元，到2031年有望升至128.6億美元。一張卡由遊戲變成資產，成為「紙上黃金」。BBC中文拆解卡牌熱潮的起因以及熱潮延續的可能性。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T02:06:41.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685560.shtml",
-      "title": "多地创新利用城市空间服务市民：地铁小角落 便民纳凉处",
-      "category": "综合",
-      "summary": "多地创新利用城市空间服务市民",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685560.shtml",
-      "publishedAt": "2026-08-27T23:44:21.000Z",
+      "id": "sspai-https://sspai.com/post/113909",
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+      "category": "科技",
+      "summary": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113909",
+      "publishedAt": "2026-08-28T01:56:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10685557.shtml",
-      "title": "台风红色预警继续发布：“沙德尔”即将登陆浙江沿海",
-      "category": "综合",
-      "summary": "中新网8月28日电 据中央气象台网站消息，中央气象台8月28日06时继续发布台风红色预警：今年第18号台风“沙德尔”(强台风级)的中心今天(28日)早晨5点钟位于浙江省温州市以东大约130公里的东海海面上，就是北纬28.1度、东经122.0度，中心附近最大风力14级(42米/秒)，中心最低气压为955百帕，七级风圈半径150-300公里，十级风圈半径80-1",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10685557.shtml",
-      "publishedAt": "2026-08-27T23:42:45.000Z",
+      "id": "sspai-https://sspai.com/post/113922",
+      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+      "category": "科技",
+      "summary": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113922",
+      "publishedAt": "2026-08-28T00:29:37.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202344.shtml",
-      "title": "“家门口”享高品质医疗 四川省高原病防治基地将投入使用",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202344.shtml",
-      "publishedAt": "2026-08-27T23:36:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-28/10685555.shtml",
-      "title": "多地电影院推进“电影+”多业态融合 一张电影票，解锁更多“新玩法”",
-      "category": "综合",
-      "summary": "“小狗也可以和我一起看电影了。”近日，在北京东坝万达影城，一位带着宠物前来观影的观众开启了一场特别的观影体验。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-28/10685555.shtml",
-      "publishedAt": "2026-08-27T23:34:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-28/10685554.shtml",
-      "title": "无目的地的邮轮“海上微度假”何以受追捧？",
-      "category": "综合",
-      "summary": "从追问“靠岸去哪玩”到期待“船上有什么”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685554.shtml",
-      "publishedAt": "2026-08-27T23:29:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685553.shtml",
-      "title": "法国总统选举主要候选人就经济议题展开辩论",
-      "category": "综合",
-      "summary": "中新社巴黎8月27日电 (记者 李洋)法国总统选举主要候选人当地时间27日在巴黎就经济议题展开辩论。他们均认为法国经济面临严峻挑战，但给出的解决方案各有不同。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685553.shtml",
-      "publishedAt": "2026-08-27T23:21:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10685552.shtml",
-      "title": "俄方警告英国向乌克兰转让导弹技术是在“玩火”",
-      "category": "综合",
-      "summary": "中新社莫斯科8月27日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃27日在例行记者会上表示，英国向乌克兰转让“风暴之影”巡航导弹制造技术是在“玩火”，其后果可能“完全无法预料”，甚至会波及其自身。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685552.shtml",
-      "publishedAt": "2026-08-27T23:20:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -589,19 +868,92 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1",
-      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142700",
+      "title": "乌干达宣布本迪布焦型埃博拉疫情结束",
       "category": "国际",
-      "summary": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國各數百人失聯，其中包括大批外國遊客。中國總理李強抵達吉隆指導救災。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T12:08:37.000Z",
+      "summary": "非洲疾病控制与预防中心和世界卫生组织周四宣布，乌干达由本迪布焦型埃博拉病毒引发的疫情已结束。自该国最后一名患者、一例输入性病例于2026年7月16日出院以来，已连续42天未出现新增确诊病例。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142700",
+      "publishedAt": "2026-08-27T12:00:00.000Z",
       "tags": [
         "国际",
-        "商业",
-        "科技",
-        "社会"
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142699",
+      "title": "联合国：叙利亚正处于关键时刻 国际社会应支持政治过渡和人道主义复苏",
+      "category": "国际",
+      "summary": "秘书长叙利亚问题副特使科尔多内和代理助理秘书长兼紧急救济副协调员拉特瓦特周四向安理会通报叙利亚局势，表示叙利亚政治过渡和复苏取得进展，但仍面临安全、人道主义、问责和资源等方面的重大挑战，国际社会必须提供更多支持。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142699",
+      "publishedAt": "2026-08-27T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142698",
+      "title": "古特雷斯就波黑塞族前军事领导人姆拉迪奇去世发表声明",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周四通过发言人发表声明，表示注意到波黑塞族武装力量前指挥官姆拉迪奇去世，并强调针对其犯下的种族灭绝罪、危害人类罪以及违反战争法或战争惯例罪作出的司法裁决是最终裁决，相关事实已成为历史记录的一部分。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142698",
+      "publishedAt": "2026-08-27T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142697",
+      "title": "古特雷斯：此次疫情是有记录以来蔓延速度最快的埃博拉疫情",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周四表示，刚果民主共和国埃博拉疫情是有记录以来蔓延速度最快的埃博拉疫情，其蔓延速度和范围都超过了遏制疫情的应对措施，但疫情是可以遏制的。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142697",
+      "publishedAt": "2026-08-27T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142696",
+      "title": "喜马拉雅山洪灾发生一天后，震惊与毁灭仍在持续",
+      "category": "国际",
+      "summary": "据报道，周三山洪暴发冲袭尼泊尔和中国的城镇及村庄后，仍有数百人下落不明，救援队伍正努力抵达因灾被隔离的社区。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142696",
+      "publishedAt": "2026-08-27T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -624,7 +976,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad#1",
       "title": "日本藝術家「波點女王」草間彌生逝世，享年97歲",
       "category": "国际",
       "summary": "她以色彩繽紛的作品吸引了大量觀眾，並為女性藝術家作品拍賣出有史以來最高的價格。",
@@ -659,7 +1011,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad#1",
       "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
       "category": "国际",
       "summary": "BBC科技編輯佐伊·克萊曼（Zoe Kleinman）認為，我們無止境刷看負面資訊的習慣已時日無多。",
@@ -676,7 +1028,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad#1",
       "title": "「家人在我眼前被洪水沖走了」：中尼邊境山洪倖存者憶述事發經過",
       "category": "国际",
       "summary": "有尼泊爾災區的倖存者告訴BBC，她的多名家人在自己的眼前被洪水沖走，而她和兒子因爬到屋頂上而得以生還。",
@@ -684,23 +1036,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-27T06:17:23.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2e0k9d7lkyo/trad#2",
-      "title": "西藏尼泊爾山洪致逾160人死亡 吉隆口岸大樓被吞沒",
-      "category": "国际",
-      "summary": "尼泊爾北部接壤西藏地區週三發生毀滅性洪災，導致中尼兩國逾160人死亡。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c2e0k9d7lkyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T05:56:59.000Z",
       "tags": [
         "国际",
         "商业",
@@ -724,40 +1059,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad#1",
-      "title": "這些藥物讓人更難以應對高溫",
-      "category": "国际",
-      "summary": "一些最常獲處方的藥物，包括用於治療抑鬱症、注意力不足過動症（ADHD）和高血壓的藥物，可能會增加脫水及其他與高溫相關疾病的風險。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T00:02:59.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad#1",
-      "title": "特斯拉為何捲入中國大規模汽車召回風波？",
-      "category": "国际",
-      "summary": "中國史上最大規模的汽車召回事件影響超過400萬輛由特斯拉、小鵬汽車、小米等公司生產的汽車。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T00:02:54.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -888,7 +1189,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#1",
       "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
       "category": "国际",
       "summary": "近日，中國河北省被揭發收購商為達到保鮮效果，將大白菜蘸取工業甲醛，再裝車運輸到外地，事件引發官方及輿論高度關注。",
@@ -896,23 +1197,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T11:07:16.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad#1",
-      "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
-      "category": "国际",
-      "summary": "多莉·帕頓（Dolly Parton，桃莉·巴頓、桃麗·巴頓）是一位傳奇的創作歌手，她的音樂涵蓋了愛情、失去、女性賦權和精神信仰等主題。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T10:25:24.000Z",
       "tags": [
         "国际",
         "商业",
@@ -940,24 +1224,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/prime/story/zhuanglesha-260826",
-      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-      "category": "科技",
-      "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
-      "publishedAt": "2026-08-26T07:59:03.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad#4",
       "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
       "category": "国际",
@@ -975,41 +1241,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113851",
-      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
-      "category": "科技",
-      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113851",
-      "publishedAt": "2026-08-26T07:11:40.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad#1",
-      "title": "中國青少年濫藥問題：利用處方藥物來「逃避現實」",
-      "category": "国际",
-      "summary": "一名青少年告訴BBC，學生們因為害怕失敗而尋求處方藥。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T06:12:27.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#1",
       "title": "「辱毛」雕塑家高兟被判處三年有期徒刑",
       "category": "国际",
@@ -1018,58 +1249,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T05:40:19.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad#1",
-      "title": "「我感到被騙了」：AI假醫師給台灣老人的震撼教育",
-      "category": "国际",
-      "summary": "近一年來，AI生成影片在台灣長者社群間廣泛流傳。最常見形式是由一名「醫師」或「專家」的虛擬人物主持，但有關健康與生活資訊往往虛實參半。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T03:58:37.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113714",
-      "title": "在正镶白旗，用五天共同生活理解现代牧场",
-      "category": "科技",
-      "summary": "这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113714",
-      "publishedAt": "2026-08-26T02:39:24.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad#1",
-      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
-      "category": "国际",
-      "summary": "中國反對美國對伊朗頒布「非法單邊制裁」。學者指出華府不便此刻對付德黑蘭的石油大買家，以免讓9月底習近平訪美增添變數。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:53:04.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1222,24 +1401,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/113828",
-      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
-      "category": "科技",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113828",
-      "publishedAt": "2026-08-25T09:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#5",
       "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
       "category": "国际",
@@ -1270,24 +1431,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113673",
-      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
-      "category": "科技",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113673",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
@@ -1574,96 +1717,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142670",
-      "title": "世卫组织与北京大学加强合作，共同推进卫生应急准备工作",
-      "category": "国际",
-      "summary": "世界卫生组织与北京大学签署一项为期两年的项目合作协议，旨在通过研究、培训和创新分析方法，加强全球卫生应急准备工作。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142670",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142669",
-      "title": "古特雷斯：纪念恐怖主义受害者必须保护其尊严和权利",
-      "category": "国际",
-      "summary": "8月21日是纪念和悼念恐怖主义受害者国际日。联合国秘书长古特雷斯当天表示，今年的主题“缅怀与治愈”提醒人们，铭记是通向康复与重振之路。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142669",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142668",
-      "title": "索马里儿童危机加剧，205家卫生和营养机构关闭",
-      "category": "国际",
-      "summary": "联合国儿童基金会周五表示，援助削减正导致索马里卫生和营养机构关闭，饮用水、教育和儿童保护服务也受到影响。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142668",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142667",
-      "title": "救援人员警告：刚果（金）埃博拉疫情呈指数级蔓延",
-      "category": "国际",
-      "summary": "随着刚果（金）历史上最致命的埃博拉疫情于周五持续蔓延，联合国救援人员再次发出紧急呼吁，要求国际社会立即提供支持，因为目前用于救生工作的资金已严重短缺。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142667",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142551",
-      "title": "【子午播报】2026年8月21日",
-      "category": "国际",
-      "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，从救灾物资到太阳能光伏板，怎么把货卖到联合国？",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142551",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1l136ry802o/trad#2",
       "title": "「蟑螂人民黨」的崛起：印度Z世代到底在抗議什麼？",
       "category": "国际",
@@ -1677,42 +1730,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142666",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达",
-      "category": "国际",
-      "summary": "联合国机构周四表示，在哥伦比亚西部发生强震十天后，估计有120万人需要人道主义援助，而部分社区仍仅获得少量或根本未获得援助。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142666",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142665",
-      "title": "中东：加沙94%居民需要住所，以色列在黎巴嫩加大破坏力度",
-      "category": "国际",
-      "summary": "联合国机构和维和人员周四警告称，随着以色列在加沙地带持续开火和发动空袭，该地区210万居民中有94%需要住所。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142665",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -1742,23 +1759,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T05:11:59.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad#2",
-      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
-      "category": "国际",
-      "summary": "2026年度中國高校畢業生達1,270萬人，創歷史新高，加上往屆未就業與回流的海外留學生，求職人數突破1,500萬人。面對「降本增效」的職場新常態，年輕一代應如何調整定位？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T03:41:21.000Z",
       "tags": [
         "国际",
         "商业",

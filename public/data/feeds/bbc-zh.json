@@ -5,6 +5,69 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980env4n78o/trad#0",
+      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c980env4n78o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T11:41:29.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/trad#1",
+      "title": "「因古老而安全」：為何舊技術有時更能防範黑客攻擊？",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T09:14:33.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad#0",
+      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T08:51:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980e6r9jzgo/trad#2",
+      "title": "追溯西藏尼泊爾致命山洪如何發生",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c980e6r9jzgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T08:14:57.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#0",
+      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T05:35:04.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1",
+      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T05:05:14.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#0",
+      "title": "「在我眼中它就是黃金」：香港捲起卡牌熱，一張卡如何從遊戲工具變資產？",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T04:32:04.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#1",
+      "title": "女性罵髒話很低劣嗎？莫迪批評言論引燃印度「蟑螂人民黨」示威後續辯論",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T02:49:24.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad#2",
+      "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
+      "meta": "BBC 中文 · 2026/8/28",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T02:06:41.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#0",
       "title": "科學家分析尼泊爾—西藏致命山洪的來龍去脈",
       "meta": "BBC 中文 · 2026/8/27",
@@ -12,67 +75,32 @@
       "publishedAt": "2026-08-27T16:52:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1",
-      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
-      "meta": "BBC 中文 · 2026/8/27",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T12:08:37.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad#1",
       "title": "日本藝術家「波點女王」草間彌生逝世，享年97歲",
       "meta": "BBC 中文 · 2026/8/27",
       "url": "https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-27T09:40:20.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad#1",
       "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
       "meta": "BBC 中文 · 2026/8/27",
       "url": "https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-27T06:36:56.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad#1",
       "title": "「家人在我眼前被洪水沖走了」：中尼邊境山洪倖存者憶述事發經過",
       "meta": "BBC 中文 · 2026/8/27",
       "url": "https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-27T06:17:23.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2e0k9d7lkyo/trad#2",
-      "title": "西藏尼泊爾山洪致逾160人死亡 吉隆口岸大樓被吞沒",
-      "meta": "BBC 中文 · 2026/8/27",
-      "url": "https://www.bbc.com/zhongwen/articles/c2e0k9d7lkyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T05:56:59.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad#1",
-      "title": "這些藥物讓人更難以應對高溫",
-      "meta": "BBC 中文 · 2026/8/27",
-      "url": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T00:02:59.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad#1",
-      "title": "特斯拉為何捲入中國大規模汽車召回風波？",
-      "meta": "BBC 中文 · 2026/8/27",
-      "url": "https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T00:02:54.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#1",
       "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T11:07:16.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad#1",
-      "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
-      "meta": "BBC 中文 · 2026/8/26",
-      "url": "https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T10:25:24.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad#4",
@@ -82,32 +110,11 @@
       "publishedAt": "2026-08-26T07:35:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad#1",
-      "title": "中國青少年濫藥問題：利用處方藥物來「逃避現實」",
-      "meta": "BBC 中文 · 2026/8/26",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T06:12:27.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#1",
       "title": "「辱毛」雕塑家高兟被判處三年有期徒刑",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T05:40:19.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad#1",
-      "title": "「我感到被騙了」：AI假醫師給台灣老人的震撼教育",
-      "meta": "BBC 中文 · 2026/8/26",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T03:58:37.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad#1",
-      "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
-      "meta": "BBC 中文 · 2026/8/25",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:53:04.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#5",
@@ -187,13 +194,6 @@
       "publishedAt": "2026-08-14T05:11:59.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad#2",
-      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
-      "meta": "BBC 中文 · 2026/8/14",
-      "url": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T03:41:21.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
       "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
       "meta": "BBC 中文 · 2026/8/4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-28T01:10:44.607Z",
+  "updatedAt": "2026-08-28T21:55:04.866Z",
   "provider": "OneBench 公共资讯快照"
 }
