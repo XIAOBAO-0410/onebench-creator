@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T21:55:04.866Z",
-  "expiresAt": "2026-08-29T03:55:04.866Z",
+  "generatedAt": "2026-08-28T22:23:22.313Z",
+  "expiresAt": "2026-08-29T04:23:22.313Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686257.shtml",
+      "title": "俄方称未收到9月恢复乌克兰问题谈判的提议",
+      "category": "综合",
+      "summary": "俄罗斯外交部发言人扎哈罗娃28日表示，俄方未收到关于9月恢复乌克兰问题谈判的提议，无论是从乌克兰方面还是从其他方面。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686257.shtml",
+      "publishedAt": "2026-08-28T21:59:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686256.shtml",
+      "title": "伊朗：持续控制霍尔木兹海峡 船只未经协调不得通过",
+      "category": "综合",
+      "summary": "当地时间8月28日，伊朗伊斯兰革命卫队海军发表声明称，美国官员关于霍尔木兹海峡开放的声明为谎言，其目的只是为了控制油价并掩盖其失败。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686256.shtml",
+      "publishedAt": "2026-08-28T21:58:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686255.shtml",
+      "title": "欧盟紧急援助200万欧元支持尼泊尔山洪受灾社区",
+      "category": "综合",
+      "summary": "中新社布鲁塞尔8月28日电 (记者 德永健)欧盟28日宣布向尼泊尔提供200万欧元紧急援助，用于支持尼泊尔山洪受灾社区。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686255.shtml",
+      "publishedAt": "2026-08-28T21:56:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686254.shtml",
       "title": "沃什称美联储抗通胀尚未结束 市场上调加息预期",
@@ -518,56 +572,110 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10686208.shtml",
-      "title": "尼泊尔山洪遇难人数升至579人 1924人失联",
-      "category": "综合",
-      "summary": "据尼泊尔国家减少灾害风险管理局28日公布的数据，截至当地时间28日19时，尼泊尔北部地区山洪造成的死亡人数升至579人，失联人数升至1924人。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10686208.shtml",
-      "publishedAt": "2026-08-28T14:04:00.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142708",
+      "title": "世卫组织：乌克兰医疗体系持续承受战争冲击",
+      "category": "国际",
+      "summary": "世界卫生组织驻乌克兰代表哈比希特周五表示，近期乌克兰遭遇的警报和袭击数量创下自2022年2月俄罗斯入侵以来的最高纪录。上周克里维里赫发生两次袭击，造成140人受伤，其中包括23名儿童，另有16人遇难。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142708",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686207.shtml",
-      "title": "汇聚中吉友好的大河，习近平这样说",
-      "category": "综合",
-      "summary": "8月28日，在赴比什凯克对吉尔吉斯斯坦进行国事访问并出席2026年上海合作组织峰会前夕，中国国家主席习近平在《吉尔吉斯斯坦言论报》、“卡巴尔”国家通讯社发表题为《携手开创中吉关系高质量发展新局面》的署名文章。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686207.shtml",
-      "publishedAt": "2026-08-28T13:57:31.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142707",
+      "title": "联合国：海地暴力持续恶化 人道主义危机加剧",
+      "category": "国际",
+      "summary": "联合国海地综合办事处主任兼秘书长特别代表马谢乌周五向安理会表示，8月23日夜至24日凌晨发生在海地肯斯科夫的黑帮袭击造成至少47人死亡，数十人被绑架，许多人受伤和流离失所。他呼吁立即无条件释放所有被绑架者，包括妇女和儿童，并强调必须进一步加强对海地的国际安全支持。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142707",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202491.shtml",
-      "title": "十四届全国人大常委会第二十四次会议在北京闭幕",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-28/1202491.shtml",
-      "publishedAt": "2026-08-28T13:52:06.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142706",
+      "title": "世卫组织：刚果（金）埃博拉疫情仍构成突发公共卫生事件 但未达到“大流行”门槛",
+      "category": "国际",
+      "summary": "世界卫生组织总干事谭德塞周五表示，根据《国际卫生条例》应急委员会建议，刚果民主共和国（刚果（金））本迪布焦型病毒埃博拉疫情仍符合“国际关注的突发公共卫生事件”标准，但不符合大流行紧急情况标准。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142706",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142705",
+      "title": "标志性公约签署65周年 难民署呼吁采取新举措防止无国籍状态",
+      "category": "国际",
+      "summary": "在1961年《减少无国籍状态公约》缔结65周年之际，联合国难民署呼吁重申政治承诺，确保每个人都能享有国籍权。难民署国表示，全球至少有450万人属于无国籍或国籍不明，还有数百万人受到这一问题影响但未被官方数据记录。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142705",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142704",
+      "title": "欧洲和北美地区严重干旱和热浪加剧森林和城市自然环境压力",
+      "category": "国际",
+      "summary": "联合国欧洲经济委员会周五表示，该组织各成员国，尤其是欧洲和北美地区，持续的严重干旱和创纪录的夏季高温正加剧森林生态系统压力。欧洲干旱观测站数据显示，目前欧盟和英国50%的领土处于干旱状态，严重降水不足正影响土壤湿度和森林健康。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142704",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142703",
+      "title": "霍尔木兹海峡通行受阻六个月 国际海事组织关注海员处境",
+      "category": "国际",
+      "summary": "在伊朗冲突导致霍尔木兹海峡受阻整整六个月之际，国际海事组织呼吁采取切实可行的解决方案并加强合作，以恢复航行自由；与此同时，该机构对深陷困境的海员的处境深表担忧。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142703",
+      "publishedAt": "2026-08-28T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1524,60 +1632,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142678",
-      "title": "刚果民主共和国埃博拉疫情持续超过100天 确诊病例超过5200例",
-      "category": "国际",
-      "summary": "刚果民主共和国埃博拉疫情暴发已超过100天，该国周一宣布累计确诊病例超过5200例。世卫组织表示，此次疫情已成为该国蔓延速度最快的疫情，病毒传播速度已超过防控措施的推进速度，需要大幅加强应对措施。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142678",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142677",
-      "title": "联合国：苏丹冲突持续升级，平民苦难日益加深",
-      "category": "国际",
-      "summary": "联合国主管政治和建设和平事务的副秘书长迪卡洛周一向安理会通报苏丹局势时表示，自6月份上次通报以来，冲突持续升级，民众苦难日益加深，多个战线仍在交火。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142677",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142676",
-      "title": "古特雷斯：全球粮食供应已成为冲突中的“附带损害”",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周一表示，霍尔木兹海峡、黑海和曼德海峡的海上交通中断加剧了饥荒危机，必须立即停止。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142676",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad#4",
       "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
       "category": "国际",
@@ -1612,24 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142675",
-      "title": "联合国人权监测团：俄罗斯袭击乌克兰购物中心违反国际人道法",
-      "category": "国际",
-      "summary": "联合国乌克兰人权监测团周六表示，俄罗斯周五对乌中部第聂伯罗彼得罗夫斯克州克里维里赫市一处人流量大的购物中心发动袭击，从目前的情况来看，这一行为违反了国际人道法。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142675",
-      "publishedAt": "2026-08-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad#2",
       "title": "中國機器人打破人類百米短跑世界紀錄",
       "category": "国际",
@@ -1643,24 +1679,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142674",
-      "title": "【专题报道 | 前方视野】希望告别“灾后救援”，干旱韧性指数重构全球抗旱防线",
-      "category": "国际",
-      "summary": "干旱不仅吞噬着农田与水资源，更威胁着全球超过18亿人的生存与生计。它也不只是单纯的“自然灾害”，而是能够演变成跨越经济、社会乃至政治领域的全球性挑战。面对越来越频繁、越来越严重的干旱，传统的“灾后救灾”模式已难以为继。究竟该如何打破这一恶性循环？一套全新的评估体系——干旱韧性指数正尝试给出答案。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142674",
-      "publishedAt": "2026-08-22T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -1695,24 +1713,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142672",
-      "title": "【世界进行时】2026年8月21日",
-      "category": "国际",
-      "summary": "本期要点：刚果（金）埃博拉疫情呈指数级蔓延；国际刑事法院强烈反对美国新的制裁指令；哥伦比亚地震灾区120万人亟需援助，部分社区仍无法抵达；加沙94%的居民需要住所；几内亚比绍半数疑似猴痘病例为儿童；索马里儿童危机加剧，205家卫生和营养机构关闭；联合国纪念世界人道主义日。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142672",
-      "publishedAt": "2026-08-21T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
