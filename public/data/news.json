@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T14:23:23.055Z",
-  "expiresAt": "2026-08-29T20:23:23.055Z",
+  "generatedAt": "2026-08-29T16:23:26.194Z",
+  "expiresAt": "2026-08-29T22:23:26.194Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686607.shtml",
+      "title": "中超第25轮：国安战平英博 降级区内斗海牛惨败",
+      "category": "综合",
+      "summary": "中新社北京8月29日电 (刘梦青)2026赛季中超联赛第25轮比赛29日全部战罢。争冠集团中，北京国安与大连英博上演强强对话，最终双方1:1握手言和。降级区展开内斗，武汉三镇5:1横扫青岛海牛。海牛吞下联赛八连败的苦果，排名垫底。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686607.shtml",
+      "publishedAt": "2026-08-29T16:02:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686604.shtml",
+      "title": "准确溯源冰岩崩位置 中方部署卫星遥感加强吉隆泥石流灾害监测",
+      "category": "综合",
+      "summary": "中新社北京8月29日电 (记者 郭超凯 陈溯)记者29日从中国应急管理部获悉，该部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对西藏日喀则市吉隆县泥石流灾害过程开展监测。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686604.shtml",
+      "publishedAt": "2026-08-29T15:29:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686603.shtml",
+      "title": "西藏自治区政协向全区各级政协委员发出倡议",
+      "category": "综合",
+      "summary": "致全区各级政协委员的倡议书",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686603.shtml",
+      "publishedAt": "2026-08-29T15:18:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686602.shtml",
+      "title": "记者手记：在尼泊尔灾区，我带5名获救同胞回“加”",
+      "category": "综合",
+      "summary": "中新社加德满都8月29日电 题：记者手记：在尼泊尔灾区，我带5名获救同胞回“加”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686602.shtml",
+      "publishedAt": "2026-08-29T15:07:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686598.shtml",
+      "title": "三部门调拨1万件中央救灾物资支持云南受灾群众安置",
+      "category": "综合",
+      "summary": "中新网8月29日电 据“应急管理部”微信公众号消息，8月29日，国家防灾减灾救灾委员会办公室、应急管理部针对近期强降雨导致云南昆明市磨憨磨丁经济合作区洪涝灾害影响，根据灾区群众避险转移和安置救助需要，会同国家粮食和物资储备局调拨帐篷、折叠床、被子、毛毯等1万件中央救灾物资，支持灾区做好救灾救助工作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686598.shtml",
+      "publishedAt": "2026-08-29T14:53:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-29/1202558.shtml",
+      "title": "武警日喀则支队救援官兵组织河道一侧搜救清淤工作",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-29/1202558.shtml",
+      "publishedAt": "2026-08-29T14:49:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686599.shtml",
+      "title": "王毅同尼泊尔外长希西尔通电话",
+      "category": "综合",
+      "summary": "新华社北京8月29日电#8195;中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686599.shtml",
+      "publishedAt": "2026-08-29T14:46:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-29/10686568.shtml",
+      "title": "武警日喀则支队在吉隆口岸附近任务区域开展现场消杀作业",
+      "category": "综合",
+      "summary": "8月29日下午，武警日喀则支队卫勤保障分队在吉隆口岸附近任务区域开展现场消杀作业。杨鑫瑞 摄 8月29日下午，武警日喀则支队卫勤保障分队在吉隆口岸附近任务区域开展现场消杀作业。杨鑫瑞 摄 8月29日下午，武警日喀则支队卫勤保障分队在吉隆口岸附近任务区域开展现场消杀作业。杨鑫瑞 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-29/10686568.shtml",
+      "publishedAt": "2026-08-29T14:39:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-29/10686571.shtml",
       "title": "香港多家机构捐款支援西藏吉隆泥石流灾区救援工作",
@@ -418,150 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/hr/2026/08-29/10686567.shtml",
       "publishedAt": "2026-08-29T13:22:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686570.shtml",
-      "title": "“为推动吉中关系高质量发展提供重要指引”",
-      "category": "综合",
-      "summary": "“为推动吉中关系高质量发展提供重要指引”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686570.shtml",
-      "publishedAt": "2026-08-29T13:21:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686569.shtml",
-      "title": "拾光纪·习主席即将出访，这些要点值得关注",
-      "category": "综合",
-      "summary": "视频：拾光纪·习主席即将出访，这些要点值得关注来源：人民日报客户端",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686569.shtml",
-      "publishedAt": "2026-08-29T13:15:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-29/10686550.shtml",
-      "title": "女书画家五人联展亮相角楼图书馆 彰显女性细腻情思",
-      "category": "综合",
-      "summary": "中新网北京8月29日电 (记者 应妮)由北京市东城区书画协会、角楼图书馆联合主办的“墨韵芳华——东城女书画家五人联展”28日在京开幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-29/10686550.shtml",
-      "publishedAt": "2026-08-29T13:13:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686549.shtml",
-      "title": "2026雄安新区青年求职能力实训专项行动（第三场）综合专场举办",
-      "category": "综合",
-      "summary": "中新网雄安8月29日电 (李玉素 韩冰)8月29日，2026雄安新区青年求职能力实训专项行动(第三场)综合专场举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686549.shtml",
-      "publishedAt": "2026-08-29T13:12:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686548.shtml",
-      "title": "（台湾写真）时隔80载 台湾抗日志士后人重走“光复致敬路”",
-      "category": "综合",
-      "summary": "中新社台北8月29日电 题：时隔80载 台湾抗日志士后人重走“光复致敬路”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686548.shtml",
-      "publishedAt": "2026-08-29T13:11:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-29/10686546.shtml",
-      "title": "东西问丨邱威功：人工智能治理为何需要东方“共赢”智慧？",
-      "category": "综合",
-      "summary": "中新社曼谷8月29日电 题：人工智能治理为何需要东方“共赢”智慧？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/08-29/10686546.shtml",
-      "publishedAt": "2026-08-29T13:11:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686563.shtml",
-      "title": "“背着国徽去审判”如何推动民族团结进步？",
-      "category": "综合",
-      "summary": "中新网大理8月29日电 题：“背着国徽去审判”如何推动民族团结进步？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686563.shtml",
-      "publishedAt": "2026-08-29T13:10:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686560.shtml",
-      "title": "西藏吉隆县两村全员安全撤离 泥石流灾害安置点物资齐备",
-      "category": "综合",
-      "summary": "中新社西藏日喀则8月29日电 (赵朗 贡嘎来松)中新社记者8月29日走进西藏吉隆镇吉甫村的民宿安置点看到，这里食物、被褥等物资齐备。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686560.shtml",
-      "publishedAt": "2026-08-29T13:08:27.000Z",
       "tags": [
         "国内",
         "社会",
