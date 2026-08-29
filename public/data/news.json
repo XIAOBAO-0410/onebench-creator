@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T22:23:22.313Z",
-  "expiresAt": "2026-08-29T04:23:22.313Z",
+  "generatedAt": "2026-08-29T00:23:39.839Z",
+  "expiresAt": "2026-08-29T06:23:39.839Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686262.shtml",
+      "title": "群众就医负担持续减轻 全国医疗卫生机构超110万个",
+      "category": "综合",
+      "summary": "昨日，国家卫生健康委发布《2025年我国卫生健康事业发展统计公报》。《公报》显示，群众就医负担持续减轻，社区卫生服务中心次均门诊费用同比降幅超11%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686262.shtml",
+      "publishedAt": "2026-08-28T23:40:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-29/10686261.shtml",
+      "title": "我国高端重型燃机首次整机出口海外",
+      "category": "综合",
+      "summary": "昨天(28日)，记者从东方电气集团获悉，由我国自主研制的F级50兆瓦重型燃气轮机从四川德阳启运，发往哈萨克斯坦，这是我国全国产化高端重型燃机首次整机出口海外，标志着我国在该领域打破国外长期技术垄断，跻身国际高端能源装备市场。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-29/10686261.shtml",
+      "publishedAt": "2026-08-28T23:39:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-29/10686260.shtml",
+      "title": "忙于控糖的你“控”对了吗",
+      "category": "综合",
+      "summary": "图源：中国青年报 “无糖”“0糖”“0蔗糖”……走进超市，货架标签仿佛一枚枚“安心印章”，让林晓在购买饮料和零食时少了许多心理负担。作为“无糖饮料重度用户”，她习惯每天喝一罐无糖可乐，工位抽屉里放着无糖苏打饼干。“压力太大时需要一些健康的小甜水。”林晓说，“吃起来没负担，还觉得很自律。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-29/10686260.shtml",
+      "publishedAt": "2026-08-28T23:20:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686259.shtml",
+      "title": "俄称打击乌军用仓库和港口 乌称袭击俄炼油厂",
+      "category": "综合",
+      "summary": "俄罗斯国防部8月28日通报，俄军当天使用攻击型无人机，命中乌克兰基辅地区用于存放远程巡航导弹成品及火箭助推器燃料的仓库综合体，以及敖德萨港6座军用物资仓库。通报还称，过去一周，俄军共控制苏梅、顿涅茨克、扎波罗热地区7座居民点，打击了1艘乌海军巡逻艇和8艘服务于乌军的船只。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686259.shtml",
+      "publishedAt": "2026-08-28T23:09:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-29/10686258.shtml",
+      "title": "8月29日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-29/10686258.shtml",
+      "publishedAt": "2026-08-28T23:03:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686257.shtml",
       "title": "俄方称未收到9月恢复乌克兰问题谈判的提议",
@@ -472,96 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686213.shtml",
       "publishedAt": "2026-08-28T14:13:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686212.shtml",
-      "title": "中国出台耕地保护和质量提升法 保障国家粮食安全",
-      "category": "综合",
-      "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过耕地保护和质量提升法，自2027年1月1日起施行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686212.shtml",
-      "publishedAt": "2026-08-28T14:13:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686210.shtml",
-      "title": "中国出台医疗保障法 维护公民医疗保障合法权益",
-      "category": "综合",
-      "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过医疗保障法，自2027年1月1日起施行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686210.shtml",
-      "publishedAt": "2026-08-28T14:12:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-28/10686211.shtml",
-      "title": "（经济观察）中国楼市大步迈向“现房销售时代”",
-      "category": "综合",
-      "summary": "中新社北京8月28日电 (记者 庞无忌)在中国实施30余年的商品房预售制度，迎来重大改革。中国住房和城乡建设部等三部门28日对外发布《关于完善商品住房销售制度的通知》，大幅提高商品房预售条件的同时，明确将现房销售作为新房销售的“优先”选项。行业专家认为，今后，现房销售有望取代预售，成为中国商品房销售的主流模式。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686211.shtml",
-      "publishedAt": "2026-08-28T14:10:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686193.shtml",
-      "title": "重庆市委巡视组副厅局长级巡视专员高卫东接受审查调查",
-      "category": "综合",
-      "summary": "中新网8月28日电 据重庆市纪委监委消息：重庆市委巡视组副厅局长级巡视专员高卫东涉嫌严重违纪违法，目前正接受重庆市纪委监委纪律审查和监察调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686193.shtml",
-      "publishedAt": "2026-08-28T14:07:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686209.shtml",
-      "title": "治理“暴走团”“开门杀”“僵尸车”，法律出手了",
-      "category": "综合",
-      "summary": "道路千万条，安全第一条。随着道路交通参与者越来越多，交通问题也日益复杂多样。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686209.shtml",
-      "publishedAt": "2026-08-28T14:06:48.000Z",
       "tags": [
         "国内",
         "社会",
