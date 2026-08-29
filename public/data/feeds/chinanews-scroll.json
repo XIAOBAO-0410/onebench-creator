@@ -5,6 +5,27 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
+      "title": "斯诺克武汉公开赛：常冰玉斩获首个排名赛冠军",
+      "meta": "中国新闻网 · 2026/8/29",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
+      "publishedAt": "2026-08-29T22:09:33.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
+      "title": "强降雨致云南磨憨水库漫坝 紧急转移2200余人",
+      "meta": "中国新闻网 · 2026/8/29",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
+      "publishedAt": "2026-08-29T22:09:17.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
+      "title": "王毅同尼泊尔外长通电话：面对灾情，两国要坚定站在一起",
+      "meta": "中国新闻网 · 2026/8/29",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
+      "publishedAt": "2026-08-29T22:08:37.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686607.shtml",
       "title": "中超第25轮：国安战平英博 降级区内斗海牛惨败",
       "meta": "中国新闻网 · 2026/8/29",
@@ -192,29 +213,8 @@
       "meta": "中国新闻网 · 2026/8/29",
       "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686574.shtml",
       "publishedAt": "2026-08-29T13:26:24.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686572.shtml",
-      "title": "准确溯源冰岩崩位置 应急管理部部署卫星遥感加强吉隆泥石流灾害监测",
-      "meta": "中国新闻网 · 2026/8/29",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686572.shtml",
-      "publishedAt": "2026-08-29T13:26:20.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686573.shtml",
-      "title": "吉尔吉斯斯坦各界期待习近平主席对吉进行国事访问",
-      "meta": "中国新闻网 · 2026/8/29",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686573.shtml",
-      "publishedAt": "2026-08-29T13:24:40.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-29/10686567.shtml",
-      "title": "侨界爱心人士积极参与广西灾后重建 助困难学子求学",
-      "meta": "中国新闻网 · 2026/8/29",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-29/10686567.shtml",
-      "publishedAt": "2026-08-29T13:22:54.000Z"
     }
   ],
-  "updatedAt": "2026-08-29T20:23:22.531Z",
+  "updatedAt": "2026-08-29T22:23:33.188Z",
   "provider": "OneBench 公共资讯快照"
 }
