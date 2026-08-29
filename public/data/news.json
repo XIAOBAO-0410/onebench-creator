@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T00:23:39.839Z",
-  "expiresAt": "2026-08-29T06:23:39.839Z",
+  "generatedAt": "2026-08-29T02:23:28.238Z",
+  "expiresAt": "2026-08-29T08:23:28.238Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686262.shtml",
-      "title": "群众就医负担持续减轻 全国医疗卫生机构超110万个",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-29/10686301.shtml",
+      "title": "这些常吃的东西，竟然也是过敏原",
       "category": "综合",
-      "summary": "昨日，国家卫生健康委发布《2025年我国卫生健康事业发展统计公报》。《公报》显示，群众就医负担持续减轻，社区卫生服务中心次均门诊费用同比降幅超11%。",
+      "summary": "那些常吃的东西，竟然也是过敏原",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686262.shtml",
-      "publishedAt": "2026-08-28T23:40:54.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-29/10686301.shtml",
+      "publishedAt": "2026-08-29T02:13:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-29/10686261.shtml",
-      "title": "我国高端重型燃机首次整机出口海外",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686299.shtml",
+      "title": "尼泊尔山洪遇难人数升至616人",
       "category": "综合",
-      "summary": "昨天(28日)，记者从东方电气集团获悉，由我国自主研制的F级50兆瓦重型燃气轮机从四川德阳启运，发往哈萨克斯坦，这是我国全国产化高端重型燃机首次整机出口海外，标志着我国在该领域打破国外长期技术垄断，跻身国际高端能源装备市场。",
+      "summary": "根据尼泊尔警方公布的最新数据，截至当地时间29日早6时，尼泊尔北部地区山洪造成的死亡人数升至616人。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-29/10686261.shtml",
-      "publishedAt": "2026-08-28T23:39:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686299.shtml",
+      "publishedAt": "2026-08-29T02:10:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-29/10686260.shtml",
-      "title": "忙于控糖的你“控”对了吗",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-29/10686296.shtml",
+      "title": "当孩子的“情绪树洞”变成AI",
       "category": "综合",
-      "summary": "图源：中国青年报 “无糖”“0糖”“0蔗糖”……走进超市，货架标签仿佛一枚枚“安心印章”，让林晓在购买饮料和零食时少了许多心理负担。作为“无糖饮料重度用户”，她习惯每天喝一罐无糖可乐，工位抽屉里放着无糖苏打饼干。“压力太大时需要一些健康的小甜水。”林晓说，“吃起来没负担，还觉得很自律。”",
+      "summary": "相信家长对以下场景不会陌生：孩子遇到难题，第一反应不是动脑思考，而是拍照问AI要答案；与朋友吵架了，孩子的“情绪树洞”变成了AI，首选找AI吐槽烦恼；作文题直接发给AI，短短几秒钟就能得到一篇完整的文章……AI温和耐心、不发脾气、随时在线，既能答疑解惑，又能承接孩子的情绪，家长也能得到片刻喘息，看起来好处多多。那么，AI陪伴会给孩子带来什么样的风险？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/08-29/10686260.shtml",
-      "publishedAt": "2026-08-28T23:20:33.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-29/10686296.shtml",
+      "publishedAt": "2026-08-29T01:56:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686259.shtml",
-      "title": "俄称打击乌军用仓库和港口 乌称袭击俄炼油厂",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686295.shtml",
+      "title": "医美“重启人生”？是谁在制造容貌焦虑",
       "category": "综合",
-      "summary": "俄罗斯国防部8月28日通报，俄军当天使用攻击型无人机，命中乌克兰基辅地区用于存放远程巡航导弹成品及火箭助推器燃料的仓库综合体，以及敖德萨港6座军用物资仓库。通报还称，过去一周，俄军共控制苏梅、顿涅茨克、扎波罗热地区7座居民点，打击了1艘乌海军巡逻艇和8艘服务于乌军的船只。",
+      "summary": "做正颌手术这笔钱，鹿柠攒了10年，甚至为此休学1年。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686259.shtml",
-      "publishedAt": "2026-08-28T23:09:44.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686295.shtml",
+      "publishedAt": "2026-08-29T01:56:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,122 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-29/10686258.shtml",
-      "title": "8月29日早报",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-29/10686294.shtml",
+      "title": "3岁以下婴幼儿到底能不能吃糖",
+      "category": "综合",
+      "summary": "3岁以下婴幼儿能不能吃糖？如何科学地吃糖，将健康风险降到最低？这是不少新手爸妈的困惑，甚至有家长谈“糖”色变，试图将所有的糖拒之门外。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/08-29/10686294.shtml",
+      "publishedAt": "2026-08-29T01:52:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686292.shtml",
+      "title": "被曝考虑2028年竞选美国总统 美防长回应",
+      "category": "综合",
+      "summary": "中新网8月29日电 据美国全国广播公司(NBC)当地时间28日援引消息人士说法，美国国防部长皮特·赫格塞思正在和亲近人士讨论参加2028年美国总统竞选的可能性。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686292.shtml",
+      "publishedAt": "2026-08-29T01:48:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/08-29/10686291.shtml",
+      "title": "警惕！甲状腺疾病十大认知误区",
+      "category": "综合",
+      "summary": "在我们颈部前方、气管两侧，藏着一个形似蝴蝶的腺体——甲状腺。它的正常重量不足30克，却被称作全身代谢的“核心发动机”，它分泌的激素调控着新陈代谢、生长发育、体温、心率乃至情绪波动。近年来，随着体检普及率提升，甲状腺结节、甲状腺癌、甲减、甲亢等疾病检出率逐年走高，但大众对甲状腺疾病的认知却存在各类偏差。结合临床常见问题，本文梳理出关于甲状腺的十大认知误区，帮大",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-29/10686291.shtml",
+      "publishedAt": "2026-08-29T01:48:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686290.shtml",
+      "title": "推动机器人落地应用 促进集成电路产业高质量发展——国家发展改革委解读经济热点",
+      "category": "综合",
+      "summary": "新华社北京8月28日电 题：推动机器人落地应用 促进集成电路产业高质量发展——国家发展改革委解读经济热点",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686290.shtml",
+      "publishedAt": "2026-08-29T01:46:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686286.shtml",
+      "title": "走红海外，不少外国游客来上海体验“中国式时尚”",
+      "category": "综合",
+      "summary": "走红海外，不少外国游客来沪先去南外滩量身定制中心——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686286.shtml",
+      "publishedAt": "2026-08-29T01:37:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-29/10686280.shtml",
+      "title": "中国选手郑钦文晋级美网女单正赛",
+      "category": "综合",
+      "summary": "中新社纽约8月28日电 当地时间28日进行的2026年美国网球公开赛女单资格赛决胜轮比赛中，中国选手郑钦文以2:1击败俄罗斯选手普里丹金娜，晋级美网女单正赛。中国选手袁悦和布云朝克特无缘美网单打正赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-29/10686280.shtml",
+      "publishedAt": "2026-08-29T01:36:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686278.shtml",
+      "title": "习言道｜一图了解上海合作组织",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-29/10686258.shtml",
-      "publishedAt": "2026-08-28T23:03:26.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686278.shtml",
+      "publishedAt": "2026-08-29T01:31:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,122 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686257.shtml",
-      "title": "俄方称未收到9月恢复乌克兰问题谈判的提议",
-      "category": "综合",
-      "summary": "俄罗斯外交部发言人扎哈罗娃28日表示，俄方未收到关于9月恢复乌克兰问题谈判的提议，无论是从乌克兰方面还是从其他方面。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686257.shtml",
-      "publishedAt": "2026-08-28T21:59:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686256.shtml",
-      "title": "伊朗：持续控制霍尔木兹海峡 船只未经协调不得通过",
-      "category": "综合",
-      "summary": "当地时间8月28日，伊朗伊斯兰革命卫队海军发表声明称，美国官员关于霍尔木兹海峡开放的声明为谎言，其目的只是为了控制油价并掩盖其失败。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686256.shtml",
-      "publishedAt": "2026-08-28T21:58:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686255.shtml",
-      "title": "欧盟紧急援助200万欧元支持尼泊尔山洪受灾社区",
-      "category": "综合",
-      "summary": "中新社布鲁塞尔8月28日电 (记者 德永健)欧盟28日宣布向尼泊尔提供200万欧元紧急援助，用于支持尼泊尔山洪受灾社区。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686255.shtml",
-      "publishedAt": "2026-08-28T21:56:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686254.shtml",
-      "title": "沃什称美联储抗通胀尚未结束 市场上调加息预期",
-      "category": "综合",
-      "summary": "中新社纽约8月28日电 (记者 王帆)美国联邦储备委员会主席沃什28日在怀俄明州举行的杰克逊霍尔全球央行年度经济政策研讨会上表示，高通胀对经济极为不利，美联储抗击通胀的努力尚未结束。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686254.shtml",
-      "publishedAt": "2026-08-28T17:31:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686253.shtml",
-      "title": "俄国防部称成功实施洲际导弹战斗训练发射",
-      "category": "综合",
-      "summary": "中新社莫斯科8月28日电 俄罗斯国防部28日通报说，俄军在俄西北部成功实施洲际弹道导弹的战斗训练发射。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686253.shtml",
-      "publishedAt": "2026-08-28T17:30:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686252.shtml",
-      "title": "西藏吉隆泥石流灾害已致7人遇难554人失联",
-      "category": "综合",
-      "summary": "记者从西藏自治区应急管理厅获悉，截至29日1时，已救出热索村群众2人，吉隆泥石流灾害已造成7人遇难，554人失联。(记者刘洲鹏、格桑朗杰、丁增尼达）",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686252.shtml",
-      "publishedAt": "2026-08-28T17:24:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686251.shtml",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-29/1202506.shtml",
       "title": "翻山越岭、向险而行 中国救援队挺进吉隆口岸救援核心位置开展不间断搜救作业",
       "category": "综合",
-      "summary": "中新网日喀则8月29日电 题：翻山越岭、向险而行 中国救援队挺进吉隆口岸救援核心位置开展不间断搜救作业",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686251.shtml",
-      "publishedAt": "2026-08-28T16:20:40.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-29/1202506.shtml",
+      "publishedAt": "2026-08-29T01:31:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686242.shtml",
-      "title": "传承抗战精神 台盟爱国主义教育基地在沈阳揭牌",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686282.shtml",
+      "title": "特朗普签署行政令 启动筹建“美国太空学院”",
       "category": "综合",
-      "summary": "中新社沈阳8月28日电 (姜月恒)“勿忘九一八 传承抗战精神”暨纪念九一八事变爆发95周年活动28日在沈阳举行。活动回顾两岸同胞共御外侮的峥嵘岁月，深挖抗战精神所蕴含的两岸共同精神内核，“台盟爱国主义教育基地”在沈阳“九·一八”历史博物馆揭牌。",
+      "summary": "中新网8月29日电 综合白宫官网、路透社等外媒报道，当地时间8月28日，美国总统特朗普在休斯敦约翰逊航天中心宣布启动筹建“美国太空学院”，并签署相关行政令。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686242.shtml",
-      "publishedAt": "2026-08-28T15:54:10.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686282.shtml",
+      "publishedAt": "2026-08-29T01:30:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686243.shtml",
-      "title": "从天津到比什凯克，全球聚焦“上合时间”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/08-29/10686281.shtml",
+      "title": "开学季，重点防范三类传染病",
       "category": "综合",
-      "summary": "中新社北京8月28日电 题：从天津到比什凯克，全球聚焦“上合时间”",
+      "summary": "国家疾控局发布防控指南——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686243.shtml",
-      "publishedAt": "2026-08-28T15:46:26.000Z",
+      "url": "https://www.chinanews.com.cn/life/2026/08-29/10686281.shtml",
+      "publishedAt": "2026-08-29T01:26:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,32 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-28/10686220.shtml",
-      "title": "东西问丨“掉线”半年，霍尔木兹早已不是从前的霍尔木兹",
+      "id": "sspai-https://sspai.com/post/112775",
+      "title": "2026 烟灶选购指南",
+      "category": "科技",
+      "summary": "如何在新老国标换代这一年买到合适自己的烟机灶具呢？ 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/112775",
+      "publishedAt": "2026-08-29T01:20:06.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686279.shtml",
+      "title": "中式养生：从网红跟风到观念认同",
       "category": "综合",
-      "summary": "中新网北京8月28日电 题：“掉线”半年，霍尔木兹早已不是从前的霍尔木兹",
+      "summary": "“Chinamaxxing”持续发酵，中国人熟悉的养生方式正以意想不到的速度，成为全球年轻人模仿的新时尚",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-28/10686220.shtml",
-      "publishedAt": "2026-08-28T15:12:30.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686279.shtml",
+      "publishedAt": "2026-08-29T01:20:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-28/10686235.shtml",
-      "title": "南部非洲华人华侨纪念孙中山诞辰160周年图片展在南非举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686277.shtml",
+      "title": "为何三个台风登陆浙江玉环同一街道？气象专家解读",
       "category": "综合",
-      "summary": "中新社约翰内斯堡8月28日电 (记者 孙翔)南部非洲华人华侨纪念孙中山先生诞辰160周年座谈会暨图片展近日在南非约翰内斯堡举行。",
+      "summary": "短短一个多月的时间内，第9号台风“巴威”、第13号台风“白海豚”、第18号台风“沙德尔”，三台风相继登陆浙江玉环坎门街道。为何今年这么多台风都在这个街道登陆呢？来看气象专家的解读。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-28/10686235.shtml",
-      "publishedAt": "2026-08-28T15:09:26.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686277.shtml",
+      "publishedAt": "2026-08-29T01:16:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-28/10686236.shtml",
-      "title": "鲁迅文学奖首次在上海颁奖",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/08-29/10686276.shtml",
+      "title": "发布虚假招聘信息为“求职类诈骗”引流 10人被刑拘",
       "category": "综合",
-      "summary": "中新社上海8月28日电 (记者 王笈)上海是中国现代文学巨匠鲁迅曾长期生活与写作的城市。在鲁迅先生逝世90周年之际，“中国文学盛典·鲁迅文学奖之夜”28日晚首次在上海举办，为第九届鲁迅文学奖获奖作品颁奖。",
+      "summary": "公安网安部门持续推进“净网—2026”专项行动，深挖网上虚假招聘信息犯罪线索。近日，山东烟台公安网安部门侦破一个涉嫌非法利用信息网络发布虚假招聘信息，为“求职类诈骗”引流的犯罪窝点，依法刑事拘留10人。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-28/10686236.shtml",
-      "publishedAt": "2026-08-28T15:08:54.000Z",
+      "url": "https://www.chinanews.com.cn/fz/2026/08-29/10686276.shtml",
+      "publishedAt": "2026-08-29T01:15:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686237.shtml",
-      "title": "中国科学家破解亚非水稻种间生殖隔离之谜",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686275.shtml",
+      "title": "市场监管总局印发信用修复服务指南",
       "category": "综合",
-      "summary": "中新社南京8月28日电 (记者 徐珊珊)中国工程院院士万建民领衔的研究团队28日在国际学术期刊《科学》在线发表最新研究成果，首次揭示了亚洲栽培稻与非洲栽培稻种间生殖隔离的分子机制，并找到了打破这一屏障的“钥匙”。该成果为培育超高产亚非杂交稻新品种提供了重要理论基础和种质资源。",
+      "summary": "事前预防·事中快办·事后回访|市场监管总局印发信用修复服务指南",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686237.shtml",
-      "publishedAt": "2026-08-28T15:08:06.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686275.shtml",
+      "publishedAt": "2026-08-29T01:11:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-28/10686241.shtml",
-      "title": "中银香港今年上半年盈利237.39亿港元 同比增长7.1%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686274.shtml",
+      "title": "三部门推进商品房销售制度改革 房贷有哪些新变化？将如何影响购房决策？",
       "category": "综合",
-      "summary": "中新社香港8月28日电 (张语洽)中银香港(控股)有限公司(下称“中银香港”)28日公布2026年中期业绩。期内，中银香港股东应占溢利为237.39亿港元，同比增长7.1%。",
+      "summary": "住房城乡建设部、自然资源部、金融监管总局联合印发的《关于完善商品住房销售制度的通知》8月28日正式发布。通知要求各地有力有序推行商品住房现房销售，规范预售条件、加强资金监管，并同步完善相关配套政策。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/08-28/10686241.shtml",
-      "publishedAt": "2026-08-28T15:07:30.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686274.shtml",
+      "publishedAt": "2026-08-29T01:05:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686238.shtml",
-      "title": "中国通过新修订的农业法 保障农民权益增加农民收入",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686273.shtml",
+      "title": "部署构建全流程信用修复服务机制 市场监管总局印发指南",
       "category": "综合",
-      "summary": "中新社北京8月28日电 (记者 李京泽 郭超凯)十四届全国人大常委会第二十四次会议28日表决通过新修订的农业法。全国人大常委会法工委经济法室负责人当日在答记者问时表示，保障农民权益，增加农民收入是此次修法的重要内容之一。",
+      "summary": "央视新闻客户端消息：记者今天(29日)了解到，市场监管总局印发《市场监督管理信用修复服务指南》，部署各地市场监管部门着力构建全流程信用修复服务机制。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686238.shtml",
-      "publishedAt": "2026-08-28T15:07:04.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686273.shtml",
+      "publishedAt": "2026-08-29T01:01:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-28/10686239.shtml",
-      "title": "第二十一届中国长春电影节闭幕 《给阿嬷的情书》获评委会大奖",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686272.shtml",
+      "title": "特朗普宣布：美委达成\"世界史上最大石油协议\"",
       "category": "综合",
-      "summary": "中新社长春8月28日电 (高龙安 张瑶)第二十一届中国长春电影节28日晚闭幕，“金鹿奖”十大奖项揭晓。《给阿嬷的情书》获评委会大奖，李思潼凭借该片获最佳女演员奖。",
+      "summary": "中新网8月29日电 当地时间28日，美国总统特朗普在社交媒体发文宣布，美国已与委内瑞拉达成协议。他表示，“我们与委内瑞拉达成的协议是迄今为止世界历史上规模最大的石油协议！”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-28/10686239.shtml",
-      "publishedAt": "2026-08-28T15:06:18.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686272.shtml",
+      "publishedAt": "2026-08-29T00:58:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-28/10686240.shtml",
-      "title": "军事专家：“中华第一舰”退役是中国海军装备现代化重要节点",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686271.shtml",
+      "title": "“沙德尔”减弱为热带低压并向西偏南方向移动 江南江淮华南等地有强降雨",
       "category": "综合",
-      "summary": "中新社北京8月28日电 (记者 李纯)据中国官媒报道，中国第二代国产导弹驱逐舰首舰112舰，28日退出现役。军事专家张军社接受中新社记者专访时指出，作为中国海军052型导弹驱逐舰的首舰，112舰退役是海军装备现代化进程中的一个重要节点。",
+      "summary": "中新网8月29日电 据中央气象台网站消息，今年第18号台风“沙德尔”已于昨天(28日)夜间由热带风暴级减弱为热带低压，今天(29日)早晨5点钟其中心位于江西省抚州市南丰县境内，中心最低气压为998百帕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-28/10686240.shtml",
-      "publishedAt": "2026-08-28T15:04:45.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686271.shtml",
+      "publishedAt": "2026-08-29T00:55:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686234.shtml",
-      "title": "西藏吉隆泥石流到底是如何发生的？独家动画演示灾害全程",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-29/10686269.shtml",
+      "title": "1105名运动员参赛创纪录 第七届中国晋中国际柔力球大赛9月开赛",
       "category": "综合",
-      "summary": "8月26日10时30分许，尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。这场泥石流到底是如何发生的？为什么有如此强的破坏力？来看中央广播电视总台制作的全过程动画演示。",
+      "summary": "新闻发布会现场。王子畅 摄 中新网晋中8月29日电(高雨晴)第七届中国晋中国际柔力球大赛将于9月12日至17日在山西省晋中市太谷区开赛。记者27日从晋中市委宣传部、晋中市新闻办举办的新闻发布会上获悉，截至目前，赛事共收到海内外122支代表队、1105名运动员报名参赛，参赛队伍和人数均创历史新高。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686234.shtml",
-      "publishedAt": "2026-08-28T14:46:38.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-29/10686269.shtml",
+      "publishedAt": "2026-08-29T00:43:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-28/10686204.shtml",
-      "title": "草间弥生作品亮相拍卖市场引藏家关注",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686268.shtml",
+      "title": "广西住建部门全力应对台风“紫檀” 守护城乡安全",
       "category": "综合",
-      "summary": "8月28日晚，佳士得香港二十及二十一世纪艺术系列拍卖上海预展亮相佳士得上海艺术空间。两幅草间弥生经典的“南瓜”画作成为本场预展的焦点，吸引藏家关注。佳士得中国表示，对草间弥生女士辞世深感哀痛。她非凡的艺术生涯独树一帜，为当代艺术留下了不可磨灭的深远影响。中新社记者 张亨伟 摄 8月28日晚，佳士得香港二十及二十一世纪艺术系列拍卖上海预展亮相佳士得上海艺术空间",
+      "summary": "中新网南宁8月29日电(姚琳尹)广西住房和城乡建设厅8月28日介绍，受台风“紫檀”影响，广西崇左遭遇持续强降雨，多条河流超警戒水位，城市桥梁、管网、房屋、水气等基础设施承压严峻。广西住房和城乡建设厅指导崇左、宁明住房城乡建设系统，聚焦桥梁抢险、排涝保通、隐患管控、民生保障等关键环节，精准落实防汛救灾举措，全力筑牢城乡安全防线。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-28/10686204.shtml",
-      "publishedAt": "2026-08-28T14:44:56.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686268.shtml",
+      "publishedAt": "2026-08-29T00:42:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-28/10686186.shtml",
-      "title": "首届美人鱼潜水世界杯：混合组双人技巧预赛开赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686270.shtml",
+      "title": "防灾减灾救灾，总书记强调坚持极限思维、底线思维",
       "category": "综合",
-      "summary": "图为中国组合徐申洁、乔王玄婧在比赛中。中新社记者 骆云飞 摄 图为中国组合夏子末、何译雯在比赛中。中新社记者 骆云飞 摄 图为中国组合徐申洁、乔王玄婧在比赛中。中新社记者 骆云飞 摄 图为中国组合夏子末、何译雯在比赛中。中新社记者 骆云飞 摄 图为中国香港组合茹芷荞、Fajar Desmana在比赛中。中新社记者 骆云飞 摄 图为中国香港组合茹芷荞、Faja",
+      "summary": "学习进行时丨防灾减灾救灾，总书记强调坚持极限思维、底线思维",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-28/10686186.shtml",
-      "publishedAt": "2026-08-28T14:43:38.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686270.shtml",
+      "publishedAt": "2026-08-29T00:41:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-28/10686185.shtml",
-      "title": "中国造汽车经中老铁路出口提速 运量同比增长近6倍",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686267.shtml",
+      "title": "山水相依 民心相亲",
       "category": "综合",
-      "summary": "8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢内。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，工作人员将商品汽车驶入列车车厢。中新社记者 李嘉娴 摄 8月28日，商品汽",
+      "summary": "众行致远｜山水相依 民心相亲",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/08-28/10686185.shtml",
-      "publishedAt": "2026-08-28T14:32:47.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686267.shtml",
+      "publishedAt": "2026-08-29T00:35:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686217.shtml",
-      "title": "广西13条河流超警 郁江2026年第2号洪水过境南宁城区",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686266.shtml",
+      "title": "唇齿相依、命运与共、相互成就——习近平主席署名文章为开创中吉关系高质量发展新局面指引方向",
       "category": "综合",
-      "summary": "中新网南宁8月28日电 (陈秋霞 周也茹)广西壮族自治区水文中心28日提供的信息显示，郁江南宁水文站于8月28日13时05分出现75.47米的洪峰水位(警戒水位73.0米)，超警2.47米，相应流量10600立方米每秒。",
+      "summary": "新华社北京8月28日电 题：唇齿相依、命运与共、相互成就——习近平主席署名文章为开创中吉关系高质量发展新局面指引方向",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686217.shtml",
-      "publishedAt": "2026-08-28T14:19:18.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686266.shtml",
+      "publishedAt": "2026-08-29T00:33:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-28/10686216.shtml",
-      "title": "中基协：7月ABS新增备案规模逾1900亿元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-29/10686265.shtml",
+      "title": "伊朗最高领袖发声：禁止任何有损社会凝聚力的行为",
       "category": "综合",
-      "summary": "中新网北京8月28日电 (记者 陈康亮)根据中国证券投资基金业协会(下称中基协)28日披露的数据，2026年7月，资产支持专项计划(下称ABS)新增备案189只，新增备案规模合计1956.14亿元(人民币，下同)。",
+      "summary": "中新网8月29日电 据伊朗媒体当地时间28日报道，伊朗最高领袖穆杰塔巴·哈梅内伊发表了最新声明。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686216.shtml",
-      "publishedAt": "2026-08-28T14:18:02.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686265.shtml",
+      "publishedAt": "2026-08-29T00:30:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-28/10686215.shtml",
-      "title": "粤开证券谈美债波动：政策干预难以根本上破除市场担忧",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686264.shtml",
+      "title": "吉隆口岸搜救最新情况：救援队在吉隆拉网式排查搜救",
       "category": "综合",
-      "summary": "中新网北京8月28日电 (记者 陈康亮)关于近期美债市场波动，粤开证券28日发布的一份研报指出，政策干预难以根本上破除市场担忧。",
+      "summary": "西藏日喀则市吉隆县泥石流灾害救援持续进行中。今晨，应急管理部、国家消防救援局调派的中国救援队四川消防救援总队陆地搜救队，持续在吉隆口岸泥石流灾害现场开展废墟搜寻，队员们克服复杂地形条件，对重点区域进行细致勘查、拉网式排查，持续开展不间断搜救作业。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10686215.shtml",
-      "publishedAt": "2026-08-28T14:15:38.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686264.shtml",
+      "publishedAt": "2026-08-29T00:27:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +572,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-28/10686213.shtml",
-      "title": "探访上海南外滩量身定制中心：多举措升级，让外国游客乐享“中国购”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686263.shtml",
+      "title": "堰塞湖如何形成？将给抢险救援工作带来哪些风险？专家解读",
       "category": "综合",
-      "summary": "中新网上海8月28日电 题：探访上海南外滩量身定制中心：多举措升级，让外国游客乐享“中国购”",
+      "summary": "当前，在尼泊尔和我国两河的交汇处出现了明显的堰塞湖，专家介绍，这样的堰塞湖有两个。中国安能侦测分队昨天(28日)对堰塞湖及周边道路开展现场勘察，布设监测设备紧盯滑坡体变化，相关库容、下游影响评估工作正在推进。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-28/10686213.shtml",
-      "publishedAt": "2026-08-28T14:13:40.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686263.shtml",
+      "publishedAt": "2026-08-29T00:24:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -1310,24 +1328,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/68227",
-      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
-      "category": "科技",
-      "summary": "学生党到底有哪些专享福利？看这一篇就对了。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/68227",
-      "publishedAt": "2026-08-26T08:25:44.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
