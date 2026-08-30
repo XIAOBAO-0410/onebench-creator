@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T22:23:33.188Z",
-  "expiresAt": "2026-08-30T04:23:33.188Z",
+  "generatedAt": "2026-08-30T00:23:37.829Z",
+  "expiresAt": "2026-08-30T06:23:37.829Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,113 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686615.shtml",
+      "title": "西藏吉隆“8·26”泥石流灾害已致16人遇难",
+      "category": "综合",
+      "summary": "今天(30日)，西藏吉隆“8·26”泥石流灾害新闻发布会在吉隆镇举行。8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日18时，灾害造成16人遇难，546人失联。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686615.shtml",
+      "publishedAt": "2026-08-30T00:15:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#0",
+      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
+      "category": "国际",
+      "summary": "接二連三的失敗，令外界對機械人全面接管披薩餐廳製作流程的前景失去信心。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T00:14:20.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/08-30/10686614.shtml",
+      "title": "8月30日早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-30/10686614.shtml",
+      "publishedAt": "2026-08-29T23:03:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml",
+      "title": "尼日尔军方称逮捕多名企图发动兵变的士兵",
+      "category": "综合",
+      "summary": "当地时间8月29日，总台记者获悉，尼日尔国防部表示，该国国防与安全部队已成功挫败当天发生在首都尼亚美的兵变企图，多名参与叛乱的士兵被现场逮捕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml",
+      "publishedAt": "2026-08-29T22:46:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml",
+      "title": "美称与委内瑞拉达成石油协议 被批“公然盗窃”",
+      "category": "综合",
+      "summary": "美国总统特朗普当地时间8月28日在社交媒体发文宣布，美国已与委内瑞拉达成协议，获得对委内瑞拉已探明石油储量中逾650亿桶的“多数控制权”。该协议遭到多方批评，美方的行为也被网友怒斥为是对委内瑞拉石油的“公然盗窃”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml",
+      "publishedAt": "2026-08-29T22:43:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
+      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
+      "category": "综合",
+      "summary": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过伊朗的协调和许可。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
+      "publishedAt": "2026-08-29T22:16:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
       "title": "斯诺克武汉公开赛：常冰玉斩获首个排名赛冠军",
@@ -482,96 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686580.shtml",
-      "title": "多种专业设备集结全力抢通G216线受损路段 直击西藏泥石流救援现场",
-      "category": "综合",
-      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686580.shtml",
-      "publishedAt": "2026-08-29T13:49:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686577.shtml",
-      "title": "新华鲜报｜务农重本 农业法完成修订",
-      "category": "综合",
-      "summary": "务农重本，国之大纲。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686577.shtml",
-      "publishedAt": "2026-08-29T13:45:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686576.shtml",
-      "title": "绝不放弃任何希望——应急管理部前方工作组有关负责人介绍吉隆泥石流灾害当前救援处置工作",
-      "category": "综合",
-      "summary": "新华社西藏吉隆8月29日电 题：绝不放弃任何希望——应急管理部前方工作组有关负责人介绍吉隆泥石流灾害当前救援处置工作",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686576.shtml",
-      "publishedAt": "2026-08-29T13:44:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686575.shtml",
-      "title": "党旗在吉隆泥石流灾害救援一线高高飘扬 消防救援队伍已投入救援力量681人开展不间断拉网式搜寻",
-      "category": "综合",
-      "summary": "中新网北京8月29日电 记者29日从应急管理部获悉，西藏日喀则市吉隆县泥石流灾害发生后，应急管理部、国家消防救援局调派消防救援力量跨区域增援，全力支持地方做好救援处置工作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686575.shtml",
-      "publishedAt": "2026-08-29T13:28:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686574.shtml",
-      "title": "时政微观察丨“玛纳斯”见证中吉传统友谊",
-      "category": "综合",
-      "summary": "时维孟秋，天朗气清。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686574.shtml",
-      "publishedAt": "2026-08-29T13:26:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142711",
       "title": "【子午播报】2026年8月29日",
       "category": "国际",
@@ -874,7 +891,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#1",
       "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
       "category": "国际",
       "summary": "特朗普簽署這項行政命令之際，美加貿易談判已於上週稍後時間宣告破裂。",
@@ -1376,23 +1393,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T07:35:58.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad#1",
-      "title": "「辱毛」雕塑家高兟被判處三年有期徒刑",
-      "category": "国际",
-      "summary": "用以起訴高兟的「侵害英雄烈士名譽罪」於2021年寫進中國《刑法》，被批評為對藝術自由的攻擊。他被判處該罪的最高刑罰。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c0qxznd10kgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T05:40:19.000Z",
       "tags": [
         "国际",
         "商业",
