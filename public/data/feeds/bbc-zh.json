@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad#0",
+      "title": "尼泊爾洪災：最新衛星圖像揭示村莊災情的嚴重程度",
+      "meta": "BBC 中文 · 2026/8/30",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T03:53:00.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#0",
       "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
       "meta": "BBC 中文 · 2026/8/30",
@@ -47,15 +54,8 @@
       "publishedAt": "2026-08-28T05:35:04.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1",
-      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
-      "meta": "BBC 中文 · 2026/8/28",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T05:05:14.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#0",
-      "title": "「在我眼中它就是黃金」：香港捲起卡牌熱，一張卡如何從遊戲工具變資產？",
+      "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
       "meta": "BBC 中文 · 2026/8/28",
       "url": "https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-28T04:32:04.000Z"
@@ -75,7 +75,7 @@
       "publishedAt": "2026-08-28T02:06:41.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#1",
       "title": "科學家分析尼泊爾—西藏致命山洪的來龍去脈",
       "meta": "BBC 中文 · 2026/8/27",
       "url": "https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad?at_medium=RSS&at_campaign=rss",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T02:23:52.466Z",
+  "updatedAt": "2026-08-30T04:23:32.428Z",
   "provider": "OneBench 公共资讯快照"
 }
