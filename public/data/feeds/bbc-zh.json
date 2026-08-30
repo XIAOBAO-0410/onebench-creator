@@ -5,7 +5,14 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#0",
+      "title": "洪災衝擊西藏口岸畫面未在中國播出，當地災民情況我們所知甚少",
+      "meta": "BBC 中文 · 2026/8/30",
+      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T10:03:31.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad#1",
       "title": "澳洲每年上演全球最大型烏賊交配活動——今年盛況不再",
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad?at_medium=RSS&at_campaign=rss",
@@ -101,13 +108,6 @@
       "meta": "BBC 中文 · 2026/8/27",
       "url": "https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-27T09:40:20.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad#1",
-      "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
-      "meta": "BBC 中文 · 2026/8/27",
-      "url": "https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T06:36:56.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T08:23:32.096Z",
+  "updatedAt": "2026-08-30T10:23:35.592Z",
   "provider": "OneBench 公共资讯快照"
 }
