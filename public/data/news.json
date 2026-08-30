@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T14:23:27.792Z",
-  "expiresAt": "2026-08-30T20:23:27.792Z",
+  "generatedAt": "2026-08-30T16:23:28.902Z",
+  "expiresAt": "2026-08-30T22:23:28.902Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,258 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686965.shtml",
+      "title": "弘扬“上海精神” 凝聚“上合力量”",
+      "category": "综合",
+      "summary": "微视频｜弘扬“上海精神” 凝聚“上合力量”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686965.shtml",
+      "publishedAt": "2026-08-30T15:58:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686964.shtml",
+      "title": "RUN GIRLS女子跑在顺义奥林匹克水上公园开赛",
+      "category": "综合",
+      "summary": "中新网北京8月30日电 记者获悉，第十七届北京奥运城市体育文化节RUN GIRLS女子跑30日在顺义奥林匹克水上公园开跑。近3000名跑者齐聚北京2008年奥运会赛艇、皮划艇比赛场地，完成10公里挑战。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686964.shtml",
+      "publishedAt": "2026-08-30T15:57:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686963.shtml",
+      "title": "拾光纪·总统夫妇热情迎接！吉尔吉斯斯坦高规格欢迎习主席抵达",
+      "category": "综合",
+      "summary": "当地时间8月30日下午，国家主席习近平乘专机抵达吉尔吉斯斯坦首都比什凯克。吉尔吉斯斯坦总统扎帕罗夫夫妇热情迎接。毡房旁，骑士与礼兵列队，以高规格欢迎习近平主席抵达。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686963.shtml",
+      "publishedAt": "2026-08-30T15:51:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686962.shtml",
+      "title": "联播+｜一方有难 八方支援",
+      "category": "综合",
+      "summary": "｜联播+｜8月28日，习近平总书记主持中央政治局会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作。两天前，灾害刚发生，总书记高度重视并作出重要指示，要求千方百计搜救失联人员，转移安置受威胁群众，加强监测预警，防止发生次生灾害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686962.shtml",
+      "publishedAt": "2026-08-30T15:49:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686961.shtml",
+      "title": "吉隆受灾核心区淤泥超一米 消防救援力量711人、13犬不间断拉网式搜寻",
+      "category": "综合",
+      "summary": "中新网北京8月30日电(记者 郭超凯)记者30日从应急管理部获悉，截至目前，应急管理部、国家消防救援局共调集消防救援力量711人、车辆120台、搜救犬13只，对吉隆泥石流受灾区持续开展不间断拉网式搜寻。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686961.shtml",
+      "publishedAt": "2026-08-30T15:27:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686960.shtml",
+      "title": "习近平同吉尔吉斯斯坦总统小范围晤谈",
+      "category": "综合",
+      "summary": "当地时间8月30日晚，国家主席习近平和夫人彭丽媛应邀同吉尔吉斯斯坦总统扎帕罗夫和夫人扎帕罗娃在总统官邸共进晚餐，在亲切友好的气氛中进行了交流。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686960.shtml",
+      "publishedAt": "2026-08-30T15:19:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686959.shtml",
+      "title": "中国女排2:3惜败泰国队 获亚锦赛亚军",
+      "category": "综合",
+      "summary": "中新社天津8月30日电 (记者 周亚强)2026年亚洲女子排球锦标赛决赛30日晚在天津落幕。卫冕冠军泰国队经过五局苦战，以3:2逆转战胜东道主中国队，成功卫冕，并获得2028年洛杉矶奥运会亚洲区唯一直通席位。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686959.shtml",
+      "publishedAt": "2026-08-30T15:06:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686957.shtml",
+      "title": "尼泊尔泥石流灾害中取得联系的中方人员已安全转移",
+      "category": "综合",
+      "summary": "当地时间8月30日，据中国驻尼泊尔大使馆消息，截至当地时间当天中午，在尼泊尔泥石流灾害中已取得联系的中方人员已全部转移至安全地区。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686957.shtml",
+      "publishedAt": "2026-08-30T14:33:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686956.shtml",
+      "title": "西藏吉隆口岸通信信号抢通 信号可送达核心救援现场",
+      "category": "综合",
+      "summary": "记者从西藏自治区通信管理局了解到，吉隆口岸首个紧邻国门的应急基站开通投用。通信抢修人员通过新建的基站与在口岸的救援队员完成通话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686956.shtml",
+      "publishedAt": "2026-08-30T14:30:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns/2026/08-30/news1067100.shtml",
+      "title": "直击西藏吉隆口岸抢险救灾：技术护航水陆空救援力量挺进核心区",
+      "category": "综合",
+      "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏自治区日喀则市吉隆县吉隆口岸重大人员伤亡、失联。灾害发生后，中国迅速启动应急响应。目前，已动员组织解放军、武警、中国消防救援队、边防、公安以及中国安能等各方救援力量2141人，调派救援车辆269辆、救援装备3922套。现在，水陆空三路并进，挺进受灾核心区。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-30/news1067100.shtml",
+      "publishedAt": "2026-08-30T14:28:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-30/10686954.shtml",
+      "title": "沪港协同创新再深化 香港大学张江基地二期正式启用",
+      "category": "综合",
+      "summary": "中新社上海8月30日电 (记者 李姝徵)香港大学张江基地二期8月30日启用，标志着香港大学在上海教育、科研、创新及人才合作布局迈入全新深化阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686954.shtml",
+      "publishedAt": "2026-08-30T14:25:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-30/10686953.shtml",
+      "title": "（文化中国行）中式书香“碰撞”西方魔幻 江西婺源奇幻图书馆走红",
+      "category": "综合",
+      "summary": "中新社江西婺源8月30日电(记者 姜涛)当婺源中式书房所承载的耕读书香传统，被嫁接进高迪式魔幻主义的空间语境，东西方文化在江西婺源不期而遇。近日，位于婺源县弦高城景区内的天坑图书馆在网络走红，吸引大量游客。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-30/10686953.shtml",
+      "publishedAt": "2026-08-30T14:25:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686952.shtml",
+      "title": "西藏吉隆因山体滑坡形成的新堰塞湖已自然过流、基本排空",
+      "category": "综合",
+      "summary": "中新社北京8月30日电 (记者 郭超凯 陈溯)记者30日从中国应急管理部获悉，西藏吉隆泥石流灾害现场最新监测发现，此前山体滑坡形成的新堰塞湖已自然过流、基本排空，抢险救援救灾各项工作正抓紧开展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686952.shtml",
+      "publishedAt": "2026-08-30T14:24:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686951.shtml",
+      "title": "塞浦路斯发生客轮倾覆事故致6人死亡",
+      "category": "综合",
+      "summary": "中新社北京8月30日电 尼科西亚消息：当地时间8月30日，一艘载有267人的客轮在塞浦路斯北部港口城市杰尔内附近海域沉没，目前已经造成6人死亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686951.shtml",
+      "publishedAt": "2026-08-30T14:23:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686950.shtml",
       "title": "年轻人为什么不爱当班主任了？",
@@ -320,204 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686936.shtml",
-      "title": "600名骑手齐聚鸡西竞速骑行",
-      "category": "综合",
-      "summary": "中新网哈尔滨8月30日电(王妮娜 迟莹莹)8月30日，2026中国·鸡西公路自行车赛(鸡西站)开赛，吸引了来自四川、福建、贵州、安徽等11个省34个地市的600余名专业骑手。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686936.shtml",
-      "publishedAt": "2026-08-30T13:02:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-30/10686935.shtml",
-      "title": "比什凯克国立大学孔院院长：海外中文教育从兴趣走向需求",
-      "category": "综合",
-      "summary": "中新社比什凯克8月30日电 (记者 单璐 黄钰钦)“过去，是我们主动问当地学校要不要开中文课；如今，是学校来找我们，希望为不同专业学生开设配套中文课程，中文教师已经供不应求。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-30/10686935.shtml",
-      "publishedAt": "2026-08-30T13:01:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/08-30/10686933.shtml",
-      "title": "当职业教育进入“智能时代” 浙江如何重塑技能人才？",
-      "category": "综合",
-      "summary": "中新网杭州8月30日电 题：当职业教育进入“智能时代” 浙江如何重塑技能人才？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686933.shtml",
-      "publishedAt": "2026-08-30T13:01:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686928.shtml",
-      "title": "尼泊尔泥石流灾害已致794人遇难",
-      "category": "综合",
-      "summary": "根据尼泊尔警方公布的最新数据，截至当地时间30日17时45分，尼泊尔泥石流造成的遇难人数升至794人。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686928.shtml",
-      "publishedAt": "2026-08-30T12:56:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686925.shtml",
-      "title": "塞浦路斯渡轮倾覆事故已有159人获救 至少6人死亡",
-      "category": "综合",
-      "summary": "当地时间8月30日，塞浦路斯北部杰尔尼市市长辛库尔表示，当天早些时候在该市北部海面倾覆的渡轮上已有159人获救。目前搜救行动仍在进行中。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686925.shtml",
-      "publishedAt": "2026-08-30T12:46:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-30/1202635.shtml",
-      "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-30/1202635.shtml",
-      "publishedAt": "2026-08-30T12:46:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-30/10686922.shtml",
-      "title": "陕西省2026职业技能大赛榆林开幕",
-      "category": "综合",
-      "summary": "中新网陕西榆林8月30日电 (记者 阿琳娜)陕西省2026职业技能大赛29日在榆林开幕，大赛以“技能成就梦想 技能兴陕报国”为主题，坚持“公平公正、绿色安全、节俭务实、开放共享”办赛原则，采用集中开放办赛、赛展演会集成模式，打造富有陕西特色的职业技能竞赛品牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686922.shtml",
-      "publishedAt": "2026-08-30T12:46:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686921.shtml",
-      "title": "巴西宾客探访库布其治沙：“我们将把这里的经验带回巴西”",
-      "category": "综合",
-      "summary": "中新网鄂尔多斯8月30日电 (记者 李爱平)内蒙古自治区鄂尔多斯市林业和草原局30日对外消息称，多名巴西宾客在结束了蒙古国乌兰巴托举行的《联合国防治荒漠化公约》第十七次缔约方大会后，于29日在鄂尔多斯市探访了中国第七大沙漠——库布其沙漠。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686921.shtml",
-      "publishedAt": "2026-08-30T12:44:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686920.shtml",
-      "title": "赣江观澜：“荆公故里”江西抚州如何擦亮王安石文化名片？",
-      "category": "综合",
-      "summary": "中新网抚州8月30日电 题：赣江观澜：“荆公故里”江西抚州如何擦亮王安石文化名片？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686920.shtml",
-      "publishedAt": "2026-08-30T12:42:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-30/10686918.shtml",
-      "title": "AI驱动提质增效 美年健康上半年营收38.44亿元",
-      "category": "综合",
-      "summary": "近日，美年健康(002044.SZ)发布2026年半年度报告显示，2026年上半年营业收入38.44亿元，其中主营收入中结合AI技术手段取得的收入超2.18亿元。体检行业具有较强的季节性特征，在上半年传统淡季，受节假日分布、企事业单位的财务核算周期影响，部分企业预算后置、到检后置。美年健康表示，公司整体订单签订相对稳定，受到检节奏影响的业务将在下半年逐步释放",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686918.shtml",
-      "publishedAt": "2026-08-30T12:40:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686917.shtml",
-      "title": "复旦大学迎来5100余名本科新生 数智化工具升级迎新服务",
-      "category": "综合",
-      "summary": "中新网上海8月30日电 (记者 陈静)来自白俄罗斯的艾菲(Evita Lazarenka)是复旦大学管理学院的新生，她从高中就开始学习中文。“我对中国文化比较感兴趣，中国发展也非常快，所以我觉得来中国学习会带来更多的机会。”30日，她对记者说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686917.shtml",
-      "publishedAt": "2026-08-30T12:38:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#0",
       "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
       "category": "国际",
@@ -531,60 +585,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686923.shtml",
-      "title": "中吉友好，写在比什凯克街头",
-      "category": "综合",
-      "summary": "人民网比什凯克8月29日电 (记者寇杰、褚梦琦)走进吉尔吉斯斯坦首都比什凯克，中国元素随处可见。蜜雪冰城门店里，排着队的年轻人品尝珍珠奶茶。街道上，中国品牌的电动出租车和公交车穿梭往来。地下商场的摊位上摆着中文教材，不时有年轻人驻足翻阅。遇见中国人时，“你好”“谢谢”“再见”这些词语，当地人说得越来越顺口。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686923.shtml",
-      "publishedAt": "2026-08-30T12:35:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686919.shtml",
-      "title": "韩国总统李在明改组内阁 提名六部长官人选",
-      "category": "综合",
-      "summary": "中新网8月30日电 据韩联社报道，韩国总统秘书室室长姜勋植30日表示，韩国总统李在明当天提名六个部门长官候选人。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686919.shtml",
-      "publishedAt": "2026-08-30T12:29:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686875.shtml",
-      "title": "伊朗最高领袖最新声明：美以是地区团结之敌",
-      "category": "综合",
-      "summary": "中新网8月30日电 综合外媒报道，伊朗最高领袖穆杰塔巴·哈梅内伊30日发表声明说，西亚地区国家的统治者，必须认清其真正的敌人，了解他们的阴谋，并与之对抗。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686875.shtml",
-      "publishedAt": "2026-08-30T12:27:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
