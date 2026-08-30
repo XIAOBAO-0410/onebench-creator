@@ -5,18 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#0",
+      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
+      "meta": "BBC 中文 · 2026/8/30",
+      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T12:37:59.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad#0",
       "title": "Dolly Parton的父親生前不識字，於是她給數百萬孩子寄上書本",
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T11:03:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#0",
-      "title": "洪災衝擊西藏口岸畫面未在中國播出，當地災民情況我們所知甚少",
-      "meta": "BBC 中文 · 2026/8/30",
-      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T10:03:31.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T12:23:38.193Z",
+  "updatedAt": "2026-08-30T14:23:27.792Z",
   "provider": "OneBench 公共资讯快照"
 }
