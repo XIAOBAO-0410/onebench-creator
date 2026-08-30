@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad#0",
+      "title": "澳洲每年上演全球最大型烏賊交配活動——今年盛況不再",
+      "meta": "BBC 中文 · 2026/8/30",
+      "url": "https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T06:45:53.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad#0",
       "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
       "meta": "BBC 中文 · 2026/8/30",
@@ -19,7 +26,7 @@
       "publishedAt": "2026-08-30T03:53:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#1",
       "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
@@ -110,7 +117,7 @@
       "publishedAt": "2026-08-27T06:17:23.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad#5",
       "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +129,6 @@
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T07:35:58.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#5",
-      "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
-      "meta": "BBC 中文 · 2026/8/25",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T09:28:45.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T06:23:38.274Z",
+  "updatedAt": "2026-08-30T08:23:32.096Z",
   "provider": "OneBench 公共资讯快照"
 }
