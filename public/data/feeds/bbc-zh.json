@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlwd2w1vnlo/trad#0",
+      "title": "美國NASA全新超強望遠鏡將改寫我們對宇宙的理解",
+      "meta": "BBC 中文 · 2026/8/31",
+      "url": "https://www.bbc.com/zhongwen/articles/cqlwd2w1vnlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T13:34:48.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdr7yd0zyg1o/trad#0",
       "title": "洪水來襲前幾分鐘，這位尼泊爾校長及時疏散了900名學生",
       "meta": "BBC 中文 · 2026/8/31",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-08-31T09:41:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980y406995o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980y406995o/trad#2",
       "title": "韓國統一教領袖韓鶴子涉貪罪成，判囚兩年",
       "meta": "BBC 中文 · 2026/8/31",
       "url": "https://www.bbc.com/zhongwen/articles/c980y406995o/trad?at_medium=RSS&at_campaign=rss",
@@ -124,13 +131,6 @@
       "publishedAt": "2026-08-28T05:35:04.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad#2",
-      "title": "「在我眼中它就是黃金」：一張卡如何從遊戲工具變資產？",
-      "meta": "BBC 中文 · 2026/8/28",
-      "url": "https://www.bbc.com/zhongwen/articles/c0j3w0wxj18o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T04:32:04.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#5",
       "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
       "meta": "BBC 中文 · 2026/8/28",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-31T12:23:34.772Z",
+  "updatedAt": "2026-08-31T14:23:29.362Z",
   "provider": "OneBench 公共资讯快照"
 }
