@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T20:23:28.954Z",
-  "expiresAt": "2026-09-01T02:23:28.954Z",
+  "generatedAt": "2026-08-31T22:23:28.220Z",
+  "expiresAt": "2026-09-01T04:23:28.220Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+      "title": "习近平在埃及媒体发表署名文章",
+      "category": "综合",
+      "summary": "新华社开罗9月1日电#8195;9月1日，在赴开罗对埃及进行国事访问之际，国家主席习近平在埃及《金字塔报》、《消息报》、《共和国报》发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章。文章全文如下：",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+      "publishedAt": "2026-08-31T21:30:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
       "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687522.shtml",
       "publishedAt": "2026-08-31T14:25:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687524.shtml",
-      "title": "十年雪域光明路：从\"送手术\"到\"送标准\"",
-      "category": "综合",
-      "summary": "中新网上海8月31日电 (李秋莹)2017年，第一支光正新视界眼科公益医疗队踏上青藏高原，在西藏日喀则“点亮”17台公益白内障手术的“烛光”。今年8月，2026“雪域情·光明行”援藏公益行动在日喀则萨迦县圆满完成。从2017年首次进藏，到2026年再次奔赴，这支来自上海的医疗队足迹已遍及西藏拉萨、昌都、日喀则及青海果洛等地。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687524.shtml",
-      "publishedAt": "2026-08-31T14:23:45.000Z",
       "tags": [
         "国内",
         "社会",

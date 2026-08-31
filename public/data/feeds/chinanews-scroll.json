@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+      "title": "习近平在埃及媒体发表署名文章",
+      "meta": "中国新闻网 · 2026/8/31",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687580.shtml",
+      "publishedAt": "2026-08-31T21:30:26.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
       "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
       "meta": "中国新闻网 · 2026/8/31",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/8/31",
       "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687522.shtml",
       "publishedAt": "2026-08-31T14:25:03.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687524.shtml",
-      "title": "十年雪域光明路：从\"送手术\"到\"送标准\"",
-      "meta": "中国新闻网 · 2026/8/31",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687524.shtml",
-      "publishedAt": "2026-08-31T14:23:45.000Z"
     }
   ],
-  "updatedAt": "2026-08-31T20:23:28.954Z",
+  "updatedAt": "2026-08-31T22:23:28.220Z",
   "provider": "OneBench 公共资讯快照"
 }
