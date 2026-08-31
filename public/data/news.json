@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T16:23:35.430Z",
-  "expiresAt": "2026-08-31T22:23:35.430Z",
+  "generatedAt": "2026-08-31T18:23:36.873Z",
+  "expiresAt": "2026-09-01T00:23:36.873Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -35,7 +35,7 @@
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
       "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
       "category": "综合",
-      "summary": "新华社比什凯克8月31日电#8195;中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
+      "summary": "新华社比什凯克8月31日电",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/09-01/10687579.shtml",
@@ -585,6 +585,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142716",
+      "title": "风险加剧：海平面上升对人类意味着什么",
+      "category": "国际",
+      "summary": "目前，海平面上升的速度已超过有记录以来的任何时期。其影响已然显现，威胁也在不断加剧。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142716",
+      "publishedAt": "2026-08-31T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1678,24 +1696,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142682",
-      "title": "联合国谴责南苏丹伏击事件，两名维和人员遇害",
-      "category": "国际",
-      "summary": "联合国秘书长发言人周一表示，古特雷斯秘书长以最强烈措辞谴责南苏丹琼莱州发生的针对联合国南苏丹特派团巡逻队的伏击事件。两名埃塞俄比亚维和人员在袭击中遇难，另有七人受伤。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142682",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
