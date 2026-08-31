@@ -5,6 +5,20 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114043",
+      "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
+      "meta": "少数派 · 2026/8/31",
+      "url": "https://sspai.com/post/114043",
+      "publishedAt": "2026-08-31T10:48:43.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/114041",
+      "title": "派评 | 近期值得关注的 App",
+      "meta": "少数派 · 2026/8/31",
+      "url": "https://sspai.com/post/114041",
+      "publishedAt": "2026-08-31T10:05:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/prime/story/",
       "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
       "meta": "少数派 · 2026/8/31",
@@ -59,22 +73,8 @@
       "meta": "少数派 · 2026/8/28",
       "url": "https://sspai.com/post/68623",
       "publishedAt": "2026-08-28T07:04:57.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113883",
-      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "meta": "少数派 · 2026/8/28",
-      "url": "https://sspai.com/post/113883",
-      "publishedAt": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113909",
-      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
-      "meta": "少数派 · 2026/8/28",
-      "url": "https://sspai.com/post/113909",
-      "publishedAt": "2026-08-28T01:56:00.000Z"
     }
   ],
-  "updatedAt": "2026-08-31T10:23:26.852Z",
+  "updatedAt": "2026-08-31T12:23:34.772Z",
   "provider": "OneBench 公共资讯快照"
 }
