@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114027",
+      "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
+      "meta": "少数派 · 2026/8/31",
+      "url": "https://sspai.com/post/114027",
+      "publishedAt": "2026-08-31T06:57:03.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113827",
       "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
       "meta": "少数派 · 2026/8/31",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/8/28",
       "url": "https://sspai.com/post/113922",
       "publishedAt": "2026-08-28T00:29:37.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113905",
-      "title": "新玩意 250｜少数派的编辑们最近买了啥？",
-      "meta": "少数派 · 2026/8/27",
-      "url": "https://sspai.com/post/113905",
-      "publishedAt": "2026-08-27T10:00:05.000Z"
     }
   ],
-  "updatedAt": "2026-08-31T06:23:32.803Z",
+  "updatedAt": "2026-08-31T08:23:24.506Z",
   "provider": "OneBench 公共资讯快照"
 }

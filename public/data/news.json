@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T06:23:32.803Z",
-  "expiresAt": "2026-08-31T12:23:32.803Z",
+  "generatedAt": "2026-08-31T08:23:24.506Z",
+  "expiresAt": "2026-08-31T14:23:24.506Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687210.shtml",
-      "title": "海信旗下纳真科技通过港交所上市聆讯 AI产业再布新局",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687275.shtml",
+      "title": "累计飞行超130余小时 两部门调派翼龙无人机持续开展应急指挥通信保障任务",
       "category": "综合",
-      "summary": "8月30日，纳真科技发布聆讯后资料集，意味着该公司已正式通过港交所IPO聆讯。纳真科技是一家全球光通信全栈供应商，公司深耕光芯片、光模块、光终端全产业链，依托自研光电转换技术与高速封装工艺，产品广泛应用于AI云计算、电信传输、5G无线通信、宽带接入等核心场景。主要服务全球头部云服务商、国内外电信运营商、大型网络设备厂商等优质终端客户，产品远销北美、欧洲、东南",
+      "summary": "中新网8月31日电 据应急管理部网站消息，西藏日喀则市吉隆县泥石流灾害发生后，灾区道路损毁、电力瘫痪、通信中断，应急管理部会同工业和信息化部立即调派3架翼龙无人机赶赴灾区，持续开展应急指挥通信保障、灾情侦察等任务。截至8月31日12时，翼龙无人机累计飞行超130余小时，保障通话3900余次。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687210.shtml",
-      "publishedAt": "2026-08-31T06:18:44.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687275.shtml",
+      "publishedAt": "2026-08-31T08:17:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-31/10687208.shtml",
-      "title": "中国官方：以共建“一带一路”国家为重点深化特殊教育交流合作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687277.shtml",
+      "title": "洋洋大观丨北京与开罗，双向奔赴的故事",
       "category": "综合",
-      "summary": "中新社北京8月31日电 (记者 曾玥)记者8月31日获悉，中国官方近日发文部署“十五五”时期推进特殊教育优质融合发展。文中提出，积极将特殊教育纳入政府间双边教育交流合作机制框架，以共建“一带一路”国家，特别是周边国家、非洲国家等为重点，深化特殊教育领域多维度、深层次交流合作。",
+      "summary": "视频：洋洋大观 | 北京与开罗，双向奔赴的故事来源：新华社",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-31/10687208.shtml",
-      "publishedAt": "2026-08-31T06:17:12.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687277.shtml",
+      "publishedAt": "2026-08-31T08:16:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687211.shtml",
-      "title": "为中埃关系深入发展擘画新蓝图——埃及各界期待习近平主席对埃进行国事访问",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687276.shtml",
+      "title": "上海推动建立长三角地区海外服务站和人才资源共享共建机制",
       "category": "综合",
-      "summary": "新华社北京/开罗8月31日电 题：为中埃关系深入发展擘画新蓝图——埃及各界期待习近平主席对埃进行国事访问",
+      "summary": "中新网上海8月31日电(记者 陈静)上海市知识产权局方面31日披露，今年以来，上海推动建立长三角地区海外服务站和人才资源共享共建机制，形成上海海外智库专家、长三角地区海外服务站和具有涉外执业律师资格专家名单。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687211.shtml",
-      "publishedAt": "2026-08-31T06:14:42.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687276.shtml",
+      "publishedAt": "2026-08-31T08:15:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687205.shtml",
-      "title": "机器人“西进”的启示",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687271.shtml",
+      "title": "（活力中国调研行）黑龙江探索“寒地特色”传统村落活态保护新路径",
       "category": "综合",
-      "summary": "机器人“西进”的启示(现场评论)",
+      "summary": "中新网哈尔滨8月31日电(赵宇航 贾亦夫 李梦 姜禹帆)8月31日，黑龙江省住建厅副厅长申林在“活力中国调研行”黑龙江主题采访活动情况介绍会上透露，黑龙江省现有国家级传统村落26个，国家传统村落集中连片示范县1个，初步形成“东部集聚、沿江延展、多点分布”的格局。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687205.shtml",
-      "publishedAt": "2026-08-31T06:05:55.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687271.shtml",
+      "publishedAt": "2026-08-31T08:13:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-31/10687145.shtml",
-      "title": "沈河区民族团结宣讲展演走进沈阳方城头条胡同",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-31/10687273.shtml",
+      "title": "中吉合作垃圾发电项目助力绿色经济发展",
       "category": "综合",
-      "summary": "有这样一座古城——青砖黛瓦承载千年文脉，街巷烟火汇聚万家温情。沈阳方城，自古便是各族群众相融共生、邻里守望的温情沃土，岁岁年年，续写着民族团结的动人篇章。",
+      "summary": "作为2026年上海合作组织峰会的举办地——吉尔吉斯斯坦首都比什凯克是一座人口快速增长的城市。如今，城市人口规模已超过100万。如何解决城市发展与生态环境平衡问题，是比什凯克面临的挑战之一。其中，垃圾处理问题曾困扰这座城市多年。而中吉合作的比什凯克垃圾发电项目为这个问题带来转机。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-31/10687145.shtml",
-      "publishedAt": "2026-08-31T06:05:17.000Z",
+      "url": "https://www.chinanews.com.cn/ydyl/2026/08-31/10687273.shtml",
+      "publishedAt": "2026-08-31T08:13:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687204.shtml",
-      "title": "金观平：用好规划这台“导航仪”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687274.shtml",
+      "title": "词元驱动数据驱动，一场科创盛会看见新质生产力",
       "category": "综合",
-      "summary": "大国发展经纬万端，发挥好规划对各领域工作的引领推动作用至关重要。近段时间，《旅游强国建设“十五五”规划》《扩大消费“十五五”规划》《体育强国建设“十五五”规划》《国民健康“十五五”规划》《城市更新“十五五”规划》等一系列国家级专项规划密集出台，给出了未来5年特定领域发展的任务书、路线图与时间表。",
+      "summary": "智能具身机器人自主穿梭、精密机械臂精准作业、创意十足的机器人舞狮秀、民生服务机器人智能交互……2026中国国际大数据产业博览会现场，一众前沿智能装备集中亮相，全方位展现数字科技赋能实体经济的全新图景。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687204.shtml",
-      "publishedAt": "2026-08-31T06:03:19.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687274.shtml",
+      "publishedAt": "2026-08-31T08:13:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687203.shtml",
-      "title": "好评中国·“经”彩开局｜外资加速涌入中国高技术产业",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-31/10687265.shtml",
+      "title": "“进贡”丑闻震荡政坛 日本民众：我们根本不需要自民党",
       "category": "综合",
-      "summary": "实际使用外资数据是观察对外开放的一扇窗口。商务部最新数据显示，1至7月份，我国实际使用外资金额4383.3亿元人民币。其中，高技术产业实际使用外资1823.1亿元人民币，同比增长32.7%，占全国实际使用外资的41.6%，较去年同期提升12.2个百分点。",
+      "summary": "中新网8月31日电 综合日媒报道，日本执政党自由民主党福冈县分支机构逼迫成员“进贡”大额资金的丑闻持续发酵。该事件引发朝野多方批评和民众强烈不满，也让屡陷金钱丑闻的自民党再度面临舆论与选举双重压力。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687203.shtml",
-      "publishedAt": "2026-08-31T06:01:25.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687265.shtml",
+      "publishedAt": "2026-08-31T08:11:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-31/10687202.shtml",
-      "title": "修通脚下路，点亮眼中光——吉尔吉斯斯坦人眼中的“上合温度”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687272.shtml",
+      "title": "APEC“中国年”最后一次高官会将于11月APEC领导人会议前夕在深圳举行",
       "category": "综合",
-      "summary": "视频：修通脚下路，点亮眼中光——吉尔吉斯斯坦人眼中的“上合温度”来源：新华社",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥 张素)8月31日，中国外交部发言人郭嘉昆主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687202.shtml",
-      "publishedAt": "2026-08-31T05:57:29.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687272.shtml",
+      "publishedAt": "2026-08-31T08:11:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-31/10687199.shtml",
-      "title": "德国各界人士看好德中经贸合作前景",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-31/10687266.shtml",
+      "title": "2026中国虚拟体育公开赛总决赛收官",
       "category": "综合",
-      "summary": "新华社德国纽伦堡8月30日电(记者尹亮)德国政商学界和体育界多名人士日前在德国纽伦堡举行的一场论坛上表示，面对全球经济格局调整和新一轮科技变革，德中经贸合作具有广阔空间。",
+      "summary": "中新网合肥8月31日电 2026中国虚拟体育公开赛总决赛30日在安徽合肥收官。经过三天角逐，各项目冠军相继产生；同期举行的中国虚拟体育嘉年华吸引近万人次到场参观体验。从专业竞赛到大众体验，从数字赛场到城市生活，这项国家级虚拟体育赛事集中呈现体育与数字技术融合发展的新场景。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687199.shtml",
-      "publishedAt": "2026-08-31T05:51:22.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-31/10687266.shtml",
+      "publishedAt": "2026-08-31T08:07:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/08-31/10687190.shtml",
-      "title": "中国贸促会：今年前7个月受理涉共建“一带一路”国家仲裁案件289件",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687267.shtml",
+      "title": "平陆运河通江达海，凭什么“又快又省又智慧”？",
       "category": "综合",
-      "summary": "中新网8月31日电 8月31日中国贸促会召开8月例行新闻发布会，会上中国贸促会新闻发言人杨帆表示，今年1至7月，中国贸促会所属贸仲委、海仲委受理涉及共建国家的仲裁案件289件。",
+      "summary": "中新网南宁8月31日电(记者 杨陈 冯抒敏)平陆运河通航在即。这条全长134.2公里、沟通西江水系与钦江水系、直通北部湾的出海大通道，从开工起就要连闯几道“硬考题”：最大水头差29.6米、批复取水流量24立方米每秒、还要建成世界内河规模最大的5000吨级深水船闸。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/08-31/10687190.shtml",
-      "publishedAt": "2026-08-31T05:50:30.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687267.shtml",
+      "publishedAt": "2026-08-31T08:07:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687192.shtml",
-      "title": "平陆运河带来新港口 云南剥隘古渡期待新“船”奇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-31/10687238.shtml",
+      "title": "2026年中国暑运迎来最后一日",
       "category": "综合",
-      "summary": "中新社云南文山8月31日电 (记者 韩帅南 杜潇潇)在云南省文山壮族苗族自治州富宁县剥隘镇跑船十几年的63岁重庆船工梅成荣，近日手机响个不停，“很多货运老板打电话问我，什么时候能走水路运货，通过平陆运河出海？”",
+      "summary": "8月31日，江苏南京，旅客们在火车站出行。中新社记者 泱波 摄 8月31日，江苏南京，旅客们在火车站出行。中新社记者 泱波 摄 8月31日，江苏南京，旅客们在火车站出行。中新社记者 泱波 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687192.shtml",
-      "publishedAt": "2026-08-31T05:50:22.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-31/10687238.shtml",
+      "publishedAt": "2026-08-31T08:05:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/shipin/cns-d/2026/08-31/news1067165.shtml",
-      "title": "台湾民众为大陆赠台大熊猫“圆圆”庆祝22岁生日",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-31/10687225.shtml",
+      "title": "云南昆明小学生创意十足迎开学",
       "category": "综合",
-      "summary": "8月30日，是大陆赠台大熊猫“圆圆”的22岁生日，台湾民众早早来到台北市立动物园大熊猫馆，为“圆圆”庆生。",
+      "summary": "8月31日，云南昆明各小学迎来秋季新学期开学第一天。昆明武成小学的孩子们亲手制作，戴着寓意“新学期从头开始”的创意帽子，手捧肯定自我成长的“冠军奖杯”入校，以趣味独特的方式开启新学期。中新社记者 刘冉阳 摄 8月31日，云南昆明各小学迎来秋季新学期开学第一天。昆明武成小学的孩子们亲手制作，戴着寓意“新学期从头开始”的创意帽子，手捧肯定自我成长的“冠军奖杯”入",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/shipin/cns-d/2026/08-31/news1067165.shtml",
-      "publishedAt": "2026-08-31T05:49:40.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-31/10687225.shtml",
+      "publishedAt": "2026-08-31T08:04:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687193.shtml",
-      "title": "中国贸促会：前7个月已审批赴共建“一带一路”国家出展项目976项",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687263.shtml",
+      "title": "安徽“十五五”期间锚定技能人才总量达950万人目标",
       "category": "综合",
-      "summary": "中新网8月31日电 中国贸促会于31日召开8月例行新闻发布会。会上，中国贸促会新闻发言人杨帆介绍，截至7月底，中国贸促会已审批2026年赴共建“一带一路”国家出展项目976项，涉及67个组展单位和48个国家，计划展出面积59.9万平方米。其中，已实施347项，实际展出面积12.66万平方米，参展公司近9000家。",
+      "summary": "中新网合肥8月31日电 (江婉琪)安徽省人力资源和社会保障厅31日在“启航‘十五五’ 奋力往前赶”系列主题新闻发布会上透露，“十五五”期间安徽已锚定新增专业技术人员130万人、招收博士后7500人、技能人才总量达950万人、高技能人才达330万人目标，进一步锻造高素质技术技能人才队伍。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687193.shtml",
-      "publishedAt": "2026-08-31T05:49:08.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687263.shtml",
+      "publishedAt": "2026-08-31T08:03:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687099.shtml",
-      "title": "中央气象台继续发布暴雨黄色预警",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-31/1202678.shtml",
+      "title": "“赛考斯”参加中美教师交流活动",
       "category": "综合",
-      "summary": "中新网8月31日电 据中央气象台网站消息，中央气象台8月31日10时继续发布暴雨黄色预警。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687099.shtml",
-      "publishedAt": "2026-08-31T05:48:48.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-31/1202678.shtml",
+      "publishedAt": "2026-08-31T08:02:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687187.shtml",
-      "title": "财税专家解读增值税法“视同应税交易”新规的判定逻辑",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687261.shtml",
+      "title": "深度丨中国今年新一轮元首外交启动：跨越亚非、连接中东、辐射全球南方",
       "category": "综合",
-      "summary": "中新网北京8月31日电 (记者 赵建华)自增值税法正式施行以来，“视同应税交易”规则的调整持续引发经营主体关注。记者31日从税务部门了解到，相关咨询量增长显著：总分机构货物调拨要不要缴税，“买一赠一”是否仍需按无偿赠送计税，新规的调整会不会增加税负或产生新的涉税风险？",
+      "summary": "从比什凯克到开罗，中国今年新一轮元首外交启动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687187.shtml",
-      "publishedAt": "2026-08-31T05:48:06.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687261.shtml",
+      "publishedAt": "2026-08-31T07:55:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687181.shtml",
-      "title": "巴西女孩宋一诺的“汉语桥”中国之旅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687260.shtml",
+      "title": "坚持落实管党治党政治责任",
       "category": "综合",
-      "summary": "中新网米纳斯吉拉斯8月31日电 题：巴西女孩宋一诺的“汉语桥”中国之旅",
+      "summary": "坚持落实管党治党政治责任※",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687181.shtml",
-      "publishedAt": "2026-08-31T05:44:26.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687260.shtml",
+      "publishedAt": "2026-08-31T07:54:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687180.shtml",
-      "title": "传承与创新并进——温州新生代企业家的“接力”和“超越”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687259.shtml",
+      "title": "丁薛祥将赴俄罗斯出席第十一届东方经济论坛 中方介绍活动安排和期待",
       "category": "综合",
-      "summary": "中新网温州8月31日电(邵燕飞 傅飞扬)瓯江潮涌，奔腾入海。2026年经济“半年报”数据显示，温州稳居长三角城市GDP前十，延续着稳健的发展态势。去年，这座民营经济重镇GDP首破万亿元，成为全国第28座“万亿之城”。从千年商港到万亿新城，温州用数字印证着一座城市的韧性与活力。",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥 张素)8月31日，中国外交部发言人宣布：应俄罗斯联邦政府邀请，中共中央政治局常委、国务院副总理丁薛祥将于9月2日至4日赴俄罗斯出席第十一届东方经济论坛，并举行中俄投资合作委员会第十三次会议、能源合作委员会第二十三次会议和第八届中俄能源商务论坛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687180.shtml",
-      "publishedAt": "2026-08-31T05:43:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687259.shtml",
+      "publishedAt": "2026-08-31T07:53:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-31/10687195.shtml",
-      "title": "“中吉关系在上合组织框架下将迎来新机遇”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/mz/2026/08-31/10687256.shtml",
+      "title": "以党建为抓手 新疆高校马院这样做实铸魂育人",
       "category": "综合",
-      "summary": "全球媒体聚焦｜“中吉关系在上合组织框架下将迎来新机遇”",
+      "summary": "中新网乌鲁木齐8月31日电 (袁鹏冲)红湖静流，薪火相传。在今年全国“两优一先”表彰大会上，新疆大学马克思主义学院(简称“学院”)党委获评“全国先进基层党组织”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687195.shtml",
-      "publishedAt": "2026-08-31T05:41:58.000Z",
+      "url": "https://www.chinanews.com.cn/mz/2026/08-31/10687256.shtml",
+      "publishedAt": "2026-08-31T07:53:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687191.shtml",
-      "title": "高清大图丨扎帕罗夫总统为习近平举行欢迎仪式",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687257.shtml",
+      "title": "习近平：坚持落实管党治党政治责任",
       "category": "综合",
-      "summary": "当地时间8月31日上午，国家主席习近平出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式。",
+      "summary": "坚持落实管党治党政治责任※",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687191.shtml",
-      "publishedAt": "2026-08-31T05:40:08.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687257.shtml",
+      "publishedAt": "2026-08-31T07:52:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687189.shtml",
-      "title": "中国贸促会：6月份全球经贸摩擦指数处于高位",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687255.shtml",
+      "title": "外交部回应美国财长涉华言论：中方从不刻意追求贸易顺差，反对单边关税措施",
       "category": "综合",
-      "summary": "中新网8月31日电 中国贸促会于8月31日召开8月例行新闻发布会，发布2026年6月份全球经贸摩擦指数。",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥)中国外交部发言人郭嘉昆8月31日主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687189.shtml",
-      "publishedAt": "2026-08-31T05:37:57.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687255.shtml",
+      "publishedAt": "2026-08-31T07:51:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687188.shtml",
-      "title": "2026数博会映照“十五五”数字经济发展新图景",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687240.shtml",
+      "title": "交通运输部：8月24日—8月30日国家铁路运输货物7610.3万吨",
       "category": "综合",
-      "summary": "新华社贵阳8月30日电 题：2026数博会映照“十五五”数字经济发展新图景",
+      "summary": "中新网8月31日电 据“交通运输部”微信公众号消息，8月31日，交通运输部发布8月24日—8月30日全国物流保通保畅运行情况。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687188.shtml",
-      "publishedAt": "2026-08-31T05:34:33.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687240.shtml",
+      "publishedAt": "2026-08-31T07:50:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-31/10687185.shtml",
-      "title": "马杜罗社交账号公布狱中照片：面带微笑，身着运动服",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687254.shtml",
+      "title": "挪威国王哈拉尔五世逝世 中方表示深切哀悼",
       "category": "综合",
-      "summary": "中新网8月31日电 据卡塔尔半岛电视台报道，当地时间30日，遭美国强行控制的委内瑞拉总统马杜罗的社交媒体账号发布了两张他在狱中的照片。",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥 张素)8月31日，中国外交部发言人郭嘉昆主持例行记者会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687185.shtml",
-      "publishedAt": "2026-08-31T05:34:05.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687254.shtml",
+      "publishedAt": "2026-08-31T07:44:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687183.shtml",
-      "title": "中国贸促会：7月份全国贸促系统优惠原产地证书签证金额同比增长24.77%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687250.shtml",
+      "title": "颠覆性创新攻克国际难题 同步加速器发明成果获中国专利金奖",
       "category": "综合",
-      "summary": "中新网8月31日电 中国贸促会31日举办新闻发布会，会上，中国贸促会新闻发言人杨帆发布2026年7月份全国贸促系统商事认证数据。数据显示，7月份全国贸促系统优惠原产地证书签证金额同比增长24.77%。",
+      "summary": "中新网北京8月31日电 (记者 孙自法)记者8月31日从中国科学院近代物理研究所获悉，该所申报的发明专利“连续波慢引出同步加速器”，近日荣获中国专利金奖。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687183.shtml",
-      "publishedAt": "2026-08-31T05:32:37.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687250.shtml",
+      "publishedAt": "2026-08-31T07:43:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,122 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687184.shtml",
-      "title": "通往吉隆口岸216国道已抢通533米 降雨或增大救援难度",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687253.shtml",
+      "title": "擅闯中国使馆的日本自卫队官员村田晃大已被解职 中方回应",
+      "category": "综合",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥 张素)8月31日，中国外交部发言人郭嘉昆主持例行记者会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687253.shtml",
+      "publishedAt": "2026-08-31T07:42:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687251.shtml",
+      "title": "外交部驳斥外媒关于吉隆泥石流灾害成因的不当言论",
+      "category": "综合",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥)针对有外国媒体就近日中国和尼泊尔边境吉隆－热索瓦口岸泥石流灾害的成因发表不当言论，中国外交部发言人郭嘉昆8月31日在例行记者会上驳斥道，中国和尼泊尔两国的专家和官方机构对此次灾害的成因已经做出了一些研判，分析是由于尼泊尔境内高位冰川崩塌引发的。在大灾大难面前，我们坚决反对这种没有事实依据的恶意揣测。(完)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687251.shtml",
+      "publishedAt": "2026-08-31T07:42:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687248.shtml",
+      "title": "外交部：尼方一侧受灾地区失联中国公民近百人 尼方正全力搜救",
+      "category": "综合",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥)中国外交部发言人郭嘉昆8月31日主持例行记者会。会上有记者就吉隆泥石流灾害救援情况提问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687248.shtml",
+      "publishedAt": "2026-08-31T07:40:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687247.shtml",
+      "title": "比亚迪第10000座闪充站落成，闪充中国达成关键里程碑",
+      "category": "综合",
+      "summary": "8月28日，“闪充中国”战略迎来关键里程碑，比亚迪不断扩大闪充站点布局，第10000座闪充站暨深圳龙华闪充旗舰站正式落成，一举创下三项中国车企之最：国内自建充电站数量最多、建成万座充电站最快、国内充电站覆盖地域最广。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687247.shtml",
+      "publishedAt": "2026-08-31T07:39:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-31/10687246.shtml",
+      "title": "中方：在尼泊尔灾区取得联系的中方人员全部得到妥善转移安置",
+      "category": "综合",
+      "summary": "中新网北京8月31日电(记者 郭超凯 曾玥)中国外交部发言人郭嘉昆8月31日主持例行记者会。会上有记者就吉隆泥石流灾害救援涉外工作进展提问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687246.shtml",
+      "publishedAt": "2026-08-31T07:34:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687244.shtml",
+      "title": "A股收评：三大指数低开高走集体收涨，超3100只个股飘红",
+      "category": "综合",
+      "summary": "A股收评：三大指数低开高走集体收涨，超3100只个股飘红；AI大模型概念股走强，文化传媒领涨，电脑硬件、半导体上涨；贵金属、汽车下跌",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687244.shtml",
+      "publishedAt": "2026-08-31T07:32:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-31/10687243.shtml",
+      "title": "通往吉隆口岸的216国道已抢通533米 降雨或增大救援难度",
       "category": "综合",
       "summary": "8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日18时，灾害已造成16人遇难、546人失联。目前，抢险救援救灾各项工作仍在紧张有序推进。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687184.shtml",
-      "publishedAt": "2026-08-31T05:30:19.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-31/10687243.shtml",
+      "publishedAt": "2026-08-31T07:31:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,74 +572,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-31/10687179.shtml",
-      "title": "第十九届欧洽会将于10月在成都举办",
-      "category": "综合",
-      "summary": "中新网8月31日电 中国贸促会于31日召开8月例行新闻发布会。会上，中国贸促会新闻发言人杨帆介绍，第十九届中国—欧盟投资贸易科技合作洽谈会(简称“欧洽会”)将于10月21日至23日在成都中国—欧洲中心举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687179.shtml",
-      "publishedAt": "2026-08-31T05:30:01.000Z",
+      "id": "sspai-https://sspai.com/post/114027",
+      "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
+      "category": "科技",
+      "summary": "查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114027",
+      "publishedAt": "2026-08-31T06:57:03.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-31/10687186.shtml",
-      "title": "中吉乌铁路吉尔吉斯斯坦境内段建设全面推进",
-      "category": "综合",
-      "summary": "中吉乌铁路吉尔吉斯斯坦境内段建设全面推进——",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687186.shtml",
-      "publishedAt": "2026-08-31T05:29:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-31/10687176.shtml",
-      "title": "舞蹈诗剧《蜀道》以诗意肢体铺展千年“人民之路”",
-      "category": "综合",
-      "summary": "中新网成都8月31日电 题：舞蹈诗剧《蜀道》将亮相北京 以诗意肢体铺展千年“人民之路”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-31/10687176.shtml",
-      "publishedAt": "2026-08-31T05:25:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-31/10687175.shtml",
-      "title": "皮划艇静水世锦赛：中国队2金1银2铜收官",
-      "category": "综合",
-      "summary": "中新社北京8月31日电 当地时间8月30日，2026年皮划艇静水世界锦标赛在波兰波兹南落幕，中国队以2金1银2铜收官。其中，女子四人皮艇500米金牌实现了中国乃至亚洲皮艇奥运项目的历史性突破。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-31/10687175.shtml",
-      "publishedAt": "2026-08-31T05:14:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -549,42 +603,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-31/news1067161.shtml",
-      "title": "小城大业丨中国“洗楼”黑科技出海 高空作业蜘蛛人转型飞手",
-      "category": "综合",
-      "summary": "近日，在广东东莞，一架高空清洗无人机正在清洗大楼外立面。随着低空经济的发展，由“蜘蛛人”清洗高楼的传统方式正在向更安全、更高效的方式转型，这款高空清洗无人机甚至吸引了外国买家。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/cj/shipin/cns-d/2026/08-31/news1067161.shtml",
-      "publishedAt": "2026-08-31T05:08:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-31/10687182.shtml",
-      "title": "“中国始终发挥着积极、建设性作用”",
-      "category": "综合",
-      "summary": "“中国始终发挥着积极、建设性作用”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-31/10687182.shtml",
-      "publishedAt": "2026-08-31T05:06:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -1290,24 +1308,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113905",
-      "title": "新玩意 250｜少数派的编辑们最近买了啥？",
-      "category": "科技",
-      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113905",
-      "publishedAt": "2026-08-27T10:00:05.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
