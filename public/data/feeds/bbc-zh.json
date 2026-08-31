@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdr7yd0zyg1o/trad#0",
+      "title": "土石流來襲前幾分鐘，這位中學校長及時疏散了900名學生",
+      "meta": "BBC 中文 · 2026/8/31",
+      "url": "https://www.bbc.com/zhongwen/articles/cdr7yd0zyg1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T03:36:41.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad#0",
       "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
       "meta": "BBC 中文 · 2026/8/31",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-08-30T06:45:53.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad#1",
       "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad?at_medium=RSS&at_campaign=rss",
@@ -59,13 +66,6 @@
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T03:53:00.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#1",
-      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
-      "meta": "BBC 中文 · 2026/8/30",
-      "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T00:14:20.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c980env4n78o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-31T02:23:28.644Z",
+  "updatedAt": "2026-08-31T04:23:42.104Z",
   "provider": "OneBench 公共资讯快照"
 }
