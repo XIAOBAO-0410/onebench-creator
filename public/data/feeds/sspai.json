@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/prime/story/",
+      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
+      "meta": "少数派 · 2026/8/31",
+      "url": "https://sspai.com/prime/story/",
+      "publishedAt": "2026-08-31T09:09:27.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114027",
       "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
       "meta": "少数派 · 2026/8/31",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/8/28",
       "url": "https://sspai.com/post/113909",
       "publishedAt": "2026-08-28T01:56:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113922",
-      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
-      "meta": "少数派 · 2026/8/28",
-      "url": "https://sspai.com/post/113922",
-      "publishedAt": "2026-08-28T00:29:37.000Z"
     }
   ],
-  "updatedAt": "2026-08-31T08:23:24.506Z",
+  "updatedAt": "2026-08-31T10:23:26.852Z",
   "provider": "OneBench 公共资讯快照"
 }
