@@ -5,18 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#0",
+      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
+      "meta": "BBC 中文 · 2026/9/1",
+      "url": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T14:11:23.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad#0",
       "title": "泥石流摧毀西藏吉隆口岸的關鍵幾分鐘",
       "meta": "BBC 中文 · 2026/9/1",
       "url": "https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T12:01:05.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#0",
-      "title": "上合組織25週年：中國舞臺、伊朗考驗，還是「清談場所」？",
-      "meta": "BBC 中文 · 2026/9/1",
-      "url": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T08:58:51.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c93vq6245q2o/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T12:34:34.135Z",
+  "updatedAt": "2026-09-01T14:29:34.791Z",
   "provider": "OneBench 公共资讯快照"
 }
