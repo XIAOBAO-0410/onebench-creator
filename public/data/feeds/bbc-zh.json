@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c93vq6245q2o/trad#3",
+      "title": "「大家都是做做樣子」：香港高中公民科推行五週年",
+      "meta": "BBC 中文 · 2026/9/1",
+      "url": "https://www.bbc.com/zhongwen/articles/c93vq6245q2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T08:18:19.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad#3",
       "title": "前線報導：BBC走訪中尼邊境被洪災抹去的小鎮",
       "meta": "BBC 中文 · 2026/9/1",
@@ -180,13 +187,6 @@
       "publishedAt": "2026-08-21T13:39:35.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w1r9d8gn2o/trad#3",
-      "title": "「結束一黨專政」：為何令支聯會煽動顛覆政權罪成？",
-      "meta": "BBC 中文 · 2026/8/21",
-      "url": "https://www.bbc.com/zhongwen/articles/c1w1r9d8gn2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T12:59:23.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#4",
       "title": "美國稱數十國助中國避特朗普關稅",
       "meta": "BBC 中文 · 2026/8/14",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T06:35:14.244Z",
+  "updatedAt": "2026-09-01T08:31:02.772Z",
   "provider": "OneBench 公共资讯快照"
 }
