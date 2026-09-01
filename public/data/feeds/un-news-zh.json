@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142722",
+      "title": "尼泊尔洪灾：死亡人数持续攀升，妇女和女童处境令人担忧",
+      "meta": "联合国新闻 · 2026/9/1",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142722",
+      "publishedAt": "2026-09-01T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142719",
       "title": "尽管全球烟草产量下降，非洲产量仍在增加",
       "meta": "联合国新闻 · 2026/8/31",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/8/25",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142687",
       "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142686",
-      "title": "【世界交汇点】对话刘克凡——在联合国做新闻的26年",
-      "meta": "联合国新闻 · 2026/8/25",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142686",
-      "publishedAt": "2026-08-25T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T14:29:34.791Z",
+  "updatedAt": "2026-09-01T16:43:19.714Z",
   "provider": "OneBench 公共资讯快照"
 }
