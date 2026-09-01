@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c15897j72vno/trad#0",
+      "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
+      "meta": "BBC 中文 · 2026/9/1",
+      "url": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T01:19:55.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqlwd2w1vnlo/trad#0",
       "title": "美國NASA全新超強望遠鏡將改寫我們對宇宙的理解",
       "meta": "BBC 中文 · 2026/8/31",
@@ -54,7 +61,7 @@
       "publishedAt": "2026-08-31T00:15:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/trad#2",
       "title": "為何台灣公視屢陷預算爭議？",
       "meta": "BBC 中文 · 2026/8/31",
       "url": "https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +129,6 @@
       "meta": "BBC 中文 · 2026/8/28",
       "url": "https://www.bbc.com/zhongwen/articles/c980e6r9jzgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-28T08:14:57.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad#2",
-      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」",
-      "meta": "BBC 中文 · 2026/8/28",
-      "url": "https://www.bbc.com/zhongwen/articles/c804ld7kl93o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T05:35:04.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T00:39:22.451Z",
+  "updatedAt": "2026-09-01T02:28:08.984Z",
   "provider": "OneBench 公共资讯快照"
 }

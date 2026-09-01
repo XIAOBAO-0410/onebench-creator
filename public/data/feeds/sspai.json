@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114055",
+      "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+      "meta": "少数派 · 2026/9/1",
+      "url": "https://sspai.com/post/114055",
+      "publishedAt": "2026-09-01T00:17:20.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114043",
       "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
       "meta": "少数派 · 2026/8/31",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/8/28",
       "url": "https://sspai.com/post/113944",
       "publishedAt": "2026-08-28T09:44:32.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/68623",
-      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
-      "meta": "少数派 · 2026/8/28",
-      "url": "https://sspai.com/post/68623",
-      "publishedAt": "2026-08-28T07:04:57.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T00:39:22.451Z",
+  "updatedAt": "2026-09-01T02:28:08.984Z",
   "provider": "OneBench 公共资讯快照"
 }
