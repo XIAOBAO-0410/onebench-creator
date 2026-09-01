@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#0",
+      "title": "上合組織25週年：中國舞臺、伊朗考驗，還是「清談場所」？",
+      "meta": "BBC 中文 · 2026/9/1",
+      "url": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T08:58:51.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c93vq6245q2o/trad#3",
       "title": "「大家都是做做樣子」：香港高中公民科推行五週年",
       "meta": "BBC 中文 · 2026/9/1",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-09-01T04:44:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c15897j72vno/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c15897j72vno/trad#2",
       "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
       "meta": "BBC 中文 · 2026/9/1",
       "url": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad?at_medium=RSS&at_campaign=rss",
@@ -138,13 +145,6 @@
       "publishedAt": "2026-08-30T03:53:00.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad#2",
-      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
-      "meta": "BBC 中文 · 2026/8/30",
-      "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T00:14:20.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad#2",
       "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
       "meta": "BBC 中文 · 2026/8/28",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T08:31:02.772Z",
+  "updatedAt": "2026-09-01T10:31:35.808Z",
   "provider": "OneBench 公共资讯快照"
 }
