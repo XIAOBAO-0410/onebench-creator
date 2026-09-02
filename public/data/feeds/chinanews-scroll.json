@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-03/10689166.shtml",
+      "title": "英国政府推出“重塑英国”新政框架",
+      "meta": "中国新闻网 · 2026/9/2",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689166.shtml",
+      "publishedAt": "2026-09-02T22:26:28.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
       "title": "新闻背景：大埃及博物馆",
       "meta": "中国新闻网 · 2026/9/2",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/9/2",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-02/10689137.shtml",
       "publishedAt": "2026-09-02T14:37:19.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689136.shtml",
-      "title": "辽宁辽阳“十五五”发力七大领域 推动全面振兴取得新突破",
-      "meta": "中国新闻网 · 2026/9/2",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689136.shtml",
-      "publishedAt": "2026-09-02T14:37:05.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T20:29:21.565Z",
+  "updatedAt": "2026-09-02T22:28:43.781Z",
   "provider": "OneBench 公共资讯快照"
 }

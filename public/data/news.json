@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T20:29:21.565Z",
-  "expiresAt": "2026-09-03T02:29:21.565Z",
+  "generatedAt": "2026-09-02T22:28:43.781Z",
+  "expiresAt": "2026-09-03T04:28:43.781Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-03/10689166.shtml",
+      "title": "英国政府推出“重塑英国”新政框架",
+      "category": "综合",
+      "summary": "中新社伦敦9月2日电 (记者 欧阳开宇)英国政府2日正式推出“重塑英国”新政框架，设立三大专项工作组，将公共服务管控、社区重建振兴、降低生活成本列为本届政府核心施政主轴，系统性调整英国长期经济与社会治理模式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689166.shtml",
+      "publishedAt": "2026-09-02T22:26:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
       "title": "新闻背景：大埃及博物馆",
@@ -554,24 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689136.shtml",
-      "title": "辽宁辽阳“十五五”发力七大领域 推动全面振兴取得新突破",
-      "category": "综合",
-      "summary": "中新网沈阳9月2日电 (王涵) 辽宁省政府新闻办9月2日在沈阳召开“开局起步‘十五五’奋力推动新时代辽宁全面振兴取得新突破”系列主题新闻发布会辽阳专场，辽阳市政府在会上介绍该市“十五五”时期经济社会发展相关情况，明确经济发展、创新驱动等5大类20项主要指标，部署11个领域重点任务，将聚焦七个方面重点突破。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689136.shtml",
-      "publishedAt": "2026-09-02T14:37:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad#2",
       "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
       "category": "国际",
@@ -619,6 +619,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142733",
+      "title": "古特雷斯对美伊再次交火深表关切",
+      "category": "国际",
+      "summary": "联合国秘书长发言人周三在每日新闻简报会上表示，古特雷斯秘书长对9月1日晚美国与伊朗之间再次发生交火深表关切，并对有关平民伤亡的报道深感震惊，其中包括据称袭击伊朗一场婚礼的空袭事件。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142733",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142732",
+      "title": "旨在改善猴痘疫苗可及性的全球倡议正式启动",
+      "category": "国际",
+      "summary": "由国际疫苗供应协调小组负责协调的旨在建立猴痘疫苗储备的全球倡议正式宣告启动。该倡议将建立长期机制，确保各国在应对猴痘疫情时能够获得疫苗。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142732",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142731",
+      "title": "世界粮食计划署谴责苏丹食品援助卡车遭空袭",
+      "category": "国际",
+      "summary": "世界粮食计划署周二强烈谴责日前发生在苏丹南科尔多凡州的一起空袭事件。此次袭击摧毁了超过50吨的食品。这些物资原本足以向5800人提供为期一个月的救命援助。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142731",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1653,60 +1707,6 @@
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142698",
       "publishedAt": "2026-08-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142697",
-      "title": "古特雷斯：此次疫情是有记录以来蔓延速度最快的埃博拉疫情",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周四表示，刚果民主共和国埃博拉疫情是有记录以来蔓延速度最快的埃博拉疫情，其蔓延速度和范围都超过了遏制疫情的应对措施，但疫情是可以遏制的。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142697",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142696",
-      "title": "喜马拉雅山洪灾发生一天后，震惊与毁灭仍在持续",
-      "category": "国际",
-      "summary": "据报道，周三山洪暴发冲袭尼泊尔和中国的城镇及村庄后，仍有数百人下落不明，救援队伍正努力抵达因灾被隔离的社区。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142696",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142695",
-      "title": "古特雷斯：联合国维和行动必须适应新的现实",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周三在联合国大会关于联合国维和行动审查的讲话中表示，联合国维和行动是维护国际和平与安全不可或缺的工具，但面对不断变化的冲突形势，必须适应新的现实。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142695",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
       "tags": [
         "国际",
         "公共政策",
