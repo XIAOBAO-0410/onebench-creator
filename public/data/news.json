@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T18:31:57.834Z",
-  "expiresAt": "2026-09-03T00:31:57.834Z",
+  "generatedAt": "2026-09-02T20:29:21.565Z",
+  "expiresAt": "2026-09-03T02:29:21.565Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
+      "title": "新闻背景：大埃及博物馆",
+      "category": "综合",
+      "summary": "中新社开罗9月2日电 2025年11月1日正式开馆的大埃及博物馆是世界最大单一文明博物馆，占地约50万平方米，馆藏文物超过10万件，集纳了埃及从史前时代到罗马时期的大量珍贵文物，涵盖埃及数千年历史。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689165.shtml",
+      "publishedAt": "2026-09-02T19:19:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689164.shtml",
+      "title": "习近平圆满结束对埃及的国事访问",
+      "category": "综合",
+      "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日晚，中国国家主席习近平结束对埃及的国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689164.shtml",
+      "publishedAt": "2026-09-02T19:12:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689163.shtml",
+      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+      "category": "综合",
+      "summary": "中新社开罗9月2日电 (记者 郭金超 谢雁冰)当地时间9月2日下午，中国国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689163.shtml",
+      "publishedAt": "2026-09-02T19:09:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689161.shtml",
+      "title": "新华图讯｜习近平圆满结束对埃及的国事访问",
+      "category": "综合",
+      "summary": "当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689161.shtml",
+      "publishedAt": "2026-09-02T18:33:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689162.shtml",
+      "title": "新华图讯｜习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+      "category": "综合",
+      "summary": "当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689162.shtml",
+      "publishedAt": "2026-09-02T18:30:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689160.shtml",
       "title": "习近平圆满结束对埃及的国事访问",
@@ -472,96 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689136.shtml",
       "publishedAt": "2026-09-02T14:37:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-02/10689132.shtml",
-      "title": "4位教育学者获得2026年度一丹奖",
-      "category": "综合",
-      "summary": "中新网香港9月2日电 慈善基金会一丹奖基金会2日在香港举行新闻发布会，公布2026年度一丹奖得奖名单，4位教育学者获奖。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-02/10689132.shtml",
-      "publishedAt": "2026-09-02T14:36:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689135.shtml",
-      "title": "平陆运河“三大枢纽”船闸运行方案获得批复",
-      "category": "综合",
-      "summary": "记者从广西壮族自治区交通运输厅了解到，9月1日，广西壮族自治区交通运输厅正式批复平陆运河马道、企石、青年“三大枢纽”船闸运行方案。该方案的批复，筑牢了平陆运河“三大枢纽”船闸依法合规运营、安全有序运行的制度根基，标志着平陆运河即将进入全线通航新阶段。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689135.shtml",
-      "publishedAt": "2026-09-02T14:27:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689134.shtml",
-      "title": "越山海｜当埃及金字塔遇上中国科技",
-      "category": "综合",
-      "summary": "视频：越山海｜当埃及金字塔遇上中国科技来源：人民日报客户端",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689134.shtml",
-      "publishedAt": "2026-09-02T14:24:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689130.shtml",
-      "title": "南海之滨的“上合回响” 海南自贸港拓宽互利共赢新空间",
-      "category": "综合",
-      "summary": "中新网海口9月2日电 (记者 张茜翼)五年前，乌兹别克斯坦青年阿力从海南热带海洋学院毕业；五年后，他以安集延州州长翻译的身份回到海南，在友好省州签约现场与恩师重逢。这段跨越时空的师生佳话，成为海南与上合组织国家合作“从交流到交心”的生动注脚。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689130.shtml",
-      "publishedAt": "2026-09-02T14:24:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689129.shtml",
-      "title": "守护绿水青山 海南构建生态环境信用监管体系",
-      "category": "综合",
-      "summary": "中新网海口9月2日电 (张茜翼 王俞力)信用正在成为海南生态环境治理的“硬标尺”。2日海南省新闻办公室举行的发布会上，海南省生态环境厅副厅长、新闻发言人李小山透露，“十五五”期间，海南将以优化提升环境信用评价体系为核心，构建更加科学、精准、高效的生态环境信用监管体系，推动信用监管与生态环境治理深度融合。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689129.shtml",
-      "publishedAt": "2026-09-02T14:24:20.000Z",
       "tags": [
         "国内",
         "社会",
