@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/80562",
+      "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
+      "meta": "少数派 · 2026/9/2",
+      "url": "https://sspai.com/post/80562",
+      "publishedAt": "2026-09-02T07:22:27.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113581",
       "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
       "meta": "少数派 · 2026/9/2",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/8/31",
       "url": "https://sspai.com/post/114041",
       "publishedAt": "2026-08-31T10:05:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/prime/story/home-made-beverages-4",
-      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-      "meta": "少数派 · 2026/8/31",
-      "url": "https://sspai.com/prime/story/home-made-beverages-4",
-      "publishedAt": "2026-08-31T09:09:27.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T06:37:49.053Z",
+  "updatedAt": "2026-09-02T08:30:11.909Z",
   "provider": "OneBench 公共资讯快照"
 }
