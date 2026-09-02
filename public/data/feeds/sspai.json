@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114084",
+      "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
+      "meta": "少数派 · 2026/9/2",
+      "url": "https://sspai.com/post/114084",
+      "publishedAt": "2026-09-02T09:40:56.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/80562",
       "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
       "meta": "少数派 · 2026/9/2",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/8/31",
       "url": "https://sspai.com/post/114043",
       "publishedAt": "2026-08-31T10:48:43.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114041",
-      "title": "派评 | 近期值得关注的 App",
-      "meta": "少数派 · 2026/8/31",
-      "url": "https://sspai.com/post/114041",
-      "publishedAt": "2026-08-31T10:05:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T10:29:37.705Z",
+  "updatedAt": "2026-09-02T12:35:11.485Z",
   "provider": "OneBench 公共资讯快照"
 }
