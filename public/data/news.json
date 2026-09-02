@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T00:36:49.999Z",
-  "expiresAt": "2026-09-02T06:36:49.999Z",
+  "generatedAt": "2026-09-02T02:40:48.194Z",
+  "expiresAt": "2026-09-02T08:40:48.194Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-02/10688409.shtml",
-      "title": "全国小学、初中已全部完成新教材替换，这些学科改动大→",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688508.shtml",
+      "title": "中央网信办深入开展“清朗·整治AI应用乱象”专项行动第二阶段工作",
       "category": "综合",
-      "summary": "本周，全国大中小学开启秋季学期，伴随着开学，同学们的校园生活也迎来一系列新举措、新变化。其中，自2024年秋季学期开始陆续投入使用的新教材，到今年秋季学期，全国小学、初中阶段已全部完成替换。新教材都有哪些新变化？师生如何平稳衔接？",
+      "summary": "近期，中央网信办组织开展“清朗·整治AI应用乱象”专项行动第二阶段工作，聚焦利用AI制作发布虚假信息、传播暴力低俗内容、假冒仿冒他人、侵害未成年人权益等突出问题，部署各地网信部门深入推进重点整治任务，督促网站平台集中清理AI生成各类违法不良信息，依法查处违规账号和移动应用程序，有效遏制AI生成合成信息内容乱象，推动AI应用服务健康有序发展。截至目前，累计清理",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688409.shtml",
-      "publishedAt": "2026-09-02T00:35:08.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688508.shtml",
+      "publishedAt": "2026-09-02T02:36:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688407.shtml",
-      "title": "政策密集出台 京沪深楼市成交齐增",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688504.shtml",
+      "title": "海南“科创杯”决赛：AI赋能诸多应用场景",
       "category": "综合",
-      "summary": "北京8月新房二手房成交量",
+      "summary": "中新网海口9月2日电 (记者 王晓斌)第十五届中国创新创业大赛(海南赛区)暨海南省第十二届“科创杯”创新创业大赛决赛1日在海口举办。决赛入围项目中，超过三分之一的项目以AI为核心技术或关键支撑——从AI+HR开放生态平台到具身智能机器人，从智能细胞制备到情感计算模组，AI正在渗透进多个产业方向，赋能诸多应用场景。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688407.shtml",
-      "publishedAt": "2026-09-02T00:32:56.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688504.shtml",
+      "publishedAt": "2026-09-02T02:36:21.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-02/10688402.shtml",
-      "title": "国家基本药物目录上新！家门口能开到的药将持续扩容",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688507.shtml",
+      "title": "中埃两大文明双向奔赴——不断书写两国人民世代友好篇章",
       "category": "综合",
-      "summary": "《国家基本药物目录(2026版)》自昨天起正式施行。基本药物是指满足疾病防治基本用药需求，剂型适宜，价格合理，能够保障供应，可公平获得的药品。群众看病、医生开药，临床用药优先用什么，国家基本药物目录是重要依据。新版目录药物总数增至794种，新增116个品种药物。此次目录更新调整主要聚焦于哪些药物？回应了哪些群众关切的用药需求？一起了解。",
+      "summary": "“中国和埃及同为文明古国，都为人类社会发展贡献了宝贵的精神财富和璀璨的文化瑰宝。”9月1日，在赴开罗对埃及进行国事访问之际，习近平主席在当地媒体发表署名文章指出，“两大文明跨越时空持久双向奔赴，不断书写中埃两国人民世代友好篇章。”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-02/10688402.shtml",
-      "publishedAt": "2026-09-02T00:27:37.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688507.shtml",
+      "publishedAt": "2026-09-02T02:34:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688401.shtml",
-      "title": "427万辆新能源车因门把手隐患被召回 莫让“科技感”凌驾于安全红线之上",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688494.shtml",
+      "title": "国台办：衷心感谢台各界对吉隆泥石流灾害表达关心慰问",
       "category": "综合",
-      "summary": "427万辆新能源车因门把手隐患被召回",
+      "summary": "中新网9月2日电 国务院台湾事务办公室举行例行新闻发布会，发言人就近期两岸热点问题回答记者提问。有记者问：8月26日，尼泊尔一侧发生泥石流，造成西藏日喀则市吉隆口岸人员伤亡、失联，灾害发生后，中国国民党主席郑丽文、台湾各界人士和在大陆台胞台企纷纷表达关心与慰问，并向受灾地区和民众捐款。请问对此有何回应？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688401.shtml",
-      "publishedAt": "2026-09-02T00:24:45.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688494.shtml",
+      "publishedAt": "2026-09-02T02:33:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688398.shtml",
-      "title": "暑运出行变迁 藏着中国消费的鲜活底气",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688505.shtml",
+      "title": "每天超两亿人次绿色出行，何以实现？",
       "category": "综合",
-      "summary": "62天超11亿人次奔赴",
+      "summary": "地铁、公交、骑行成为不少城市通勤常态",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688398.shtml",
-      "publishedAt": "2026-09-02T00:16:55.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688505.shtml",
+      "publishedAt": "2026-09-02T02:33:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688396.shtml",
-      "title": "未成年人独自出行如何“各解各题”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688493.shtml",
+      "title": "（活力中国调研行）黑龙江北林：深化科研合作 提升寒地作物育种能力",
       "category": "综合",
-      "summary": "铁路“两人三座”争议引深思",
+      "summary": "中新网黑龙江绥化9月2日电 (李梦 姜禹帆)记者近日随2026年“活力中国调研行”黑龙江主题采访活动走进黑龙江绥化市北林区，了解当地种业发展情况。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688396.shtml",
-      "publishedAt": "2026-09-02T00:12:35.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688493.shtml",
+      "publishedAt": "2026-09-02T02:33:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688395.shtml",
-      "title": "烘焙界的“世界杯”，中国人夺冠",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688503.shtml",
+      "title": "赖清德当局称防务预算将破万亿新台币 国台办回应",
       "category": "综合",
-      "summary": "冰点人物",
+      "summary": "中新网9月2日电 9月2日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德当局宣称，2027年台湾防务预算将首度突破1万亿元新台币，“要让国防资源都转化为可恃的防卫战力”，不能让大陆误判“台湾自我防卫的决心”。请问对此有何评论？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688395.shtml",
-      "publishedAt": "2026-09-02T00:10:34.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688503.shtml",
+      "publishedAt": "2026-09-02T02:32:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688391.shtml",
-      "title": "养老监护缺失，谁来“兜底”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688486.shtml",
+      "title": "最高检发布知识产权检察办案技术支持典型案例",
       "category": "综合",
-      "summary": "保姆张梅发现，照顾了患有阿尔茨海默病的84岁老人5年后，聘请她的雇主、老人的女儿王丽也患上了阿尔茨海默病。母女二人在上海普陀区独居，白天，张梅要照顾二人洗澡、如厕，给她们做饭、喂药。半夜，她要起身帮王丽和母亲换湿掉的衣服，哄着她们入睡。张梅不堪重负、打算离职，又找不到接管这对母女的人。",
+      "summary": "中新网9月2日电 据最高检网站消息，9月2日，最高人民检察院公开发布知识产权检察办案技术支持典型案例。这批典型案例由最高检知识产权检察厅、检察技术信息研究中心共同编发，集中反映了检察机关近年来主动适应知识产权案件专业性、技术性强的特点，推动检察与技术深度融合取得的办案实效。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688391.shtml",
-      "publishedAt": "2026-09-02T00:04:26.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688486.shtml",
+      "publishedAt": "2026-09-02T02:31:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,392 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-02/10688388.shtml",
-      "title": "各开10家网店非法销售盗版教材 两男子分别获刑并处罚金",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202897.shtml",
+      "title": "从工业金刚石到培育钻石 走进新疆首条金刚石生产线",
       "category": "综合",
-      "summary": "本报记者 罗莎莎",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-02/10688388.shtml",
-      "publishedAt": "2026-09-02T00:02:04.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202897.shtml",
+      "publishedAt": "2026-09-02T02:29:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-02/10688497.shtml",
+      "title": "叮！请查收您的健康“小瓶子” | 全民健康生活方式日",
+      "category": "综合",
+      "summary": "9月1日",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-02/10688497.shtml",
+      "publishedAt": "2026-09-02T02:26:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202891.shtml",
+      "title": "足协杯：北京国安胜兰州陇原竞技",
+      "category": "综合",
+      "summary": "9月1日，在北京工人体育场进行的2026中国足球协会杯第六轮比赛中，北京国安3比1胜兰州陇原竞技，晋级下一轮。图为北京国安队球员曹永竞（左）在比赛中射门。中新社记者 赵文宇 摄 9月1日，在北京工人体育场进行的2026中国足球协会杯第六轮比赛中，北京国安3比1胜兰州陇原竞技，晋级下一轮。图为北京国安队球员贾非凡（左）在比赛中拼抢。中新社记者 赵文宇 摄 9月",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202891.shtml",
+      "publishedAt": "2026-09-02T02:26:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688496.shtml",
+      "title": "赖清德当局称防务预算将破万亿新台币 国台办回应",
+      "category": "综合",
+      "summary": "9月2日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德当局宣称，2027年台湾防务预算将首度突破1万亿元新台币，“要让国防资源都转化为可恃的防卫战力”，不能让大陆误判“台湾自我防卫的决心”。请问对此有何评论？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688496.shtml",
+      "publishedAt": "2026-09-02T02:26:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688485.shtml",
+      "title": "宁夏算力监测调度平台接入全国一体化算力网",
+      "category": "综合",
+      "summary": "中新网银川9月2日电 (记者 于晶)9月1日，记者从宁夏回族自治区数据中心获悉，宁夏算力监测调度平台正式入驻国家级算力监测调度试验平台，获批算力多量纲、算力算效衡量两项标准验证试点单位。此举标志着宁夏算力资源成功接入全国一体化算力网，将实现算力资源标准化互联、一体化调度，宁夏算力调度运营服务能力迈上新台阶。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688485.shtml",
+      "publishedAt": "2026-09-02T02:23:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688490.shtml",
+      "title": "广西稳步推进基层卫生发展条例立法工作",
+      "category": "综合",
+      "summary": "中新网南宁9月2日电 (陈秋霞)记者9月1日从广西壮族自治区人大常委会获悉，广西基层卫生发展条例立法工作正在稳步推进，将助力当地基层卫生事业迈入法治化发展轨道。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688490.shtml",
+      "publishedAt": "2026-09-02T02:23:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688491.shtml",
+      "title": "罕见“复活”！台风“沙德尔”为何能二次发威？",
+      "category": "综合",
+      "summary": "8月30日停编的第18号台风“沙德尔”，9月1日凌晨在南海西北部海域“复活”，再度加强为台风(热带风暴级，该续编台风中央气象台将继续维持原台风名称“沙德尔”和编号2618不变)。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688491.shtml",
+      "publishedAt": "2026-09-02T02:22:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688489.shtml",
+      "title": "2026全国十佳新闻工作者，名单公示！",
+      "category": "综合",
+      "summary": "2026年“全国十佳新闻工作者”宣传选树活动名单公示",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688489.shtml",
+      "publishedAt": "2026-09-02T02:19:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688488.shtml",
+      "title": "国家层面首次明确158个基层病种",
+      "category": "综合",
+      "summary": "今天(2日)上午，国家医保局召开新闻发布会，发布按病种付费3.0版分组方案和技术规范。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688488.shtml",
+      "publishedAt": "2026-09-02T02:19:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688484.shtml",
+      "title": "两部门联合发布今秋首个花粉浓度预报服务提示",
+      "category": "综合",
+      "summary": "中新网9月2日电 9月1日18时，国家卫生健康委员会、中国气象局联合发布2026年秋季第1期花粉浓度预报服务提示。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688484.shtml",
+      "publishedAt": "2026-09-02T02:18:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688487.shtml",
+      "title": "郑建邦：在贵州纳雍的大地上绘就乡村振兴的美丽画卷",
+      "category": "综合",
+      "summary": "在贵州纳雍的大地上绘就乡村振兴的美丽画卷",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688487.shtml",
+      "publishedAt": "2026-09-02T02:17:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688482.shtml",
+      "title": "国台办：衷心感谢台各界对吉隆泥石流灾害表达关心慰问",
+      "category": "综合",
+      "summary": "9月2日，国务院台办举行例行新闻发布会。有记者问：8月26日，尼泊尔一侧发生泥石流，造成西藏日喀则市吉隆口岸人员伤亡、失联。灾害发生后，中国国民党主席郑丽文、台湾各界人士和在大陆台商台企纷纷表达关心与慰问，并向受灾地区和民众捐款。请问对此有何回应？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688482.shtml",
+      "publishedAt": "2026-09-02T02:14:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202884.shtml",
+      "title": "灾后第七天 重访尼泊尔努瓦果德灾区",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202884.shtml",
+      "publishedAt": "2026-09-02T02:11:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-02/10688479.shtml",
+      "title": "事关特医食品 两项国家标准今起实施",
+      "category": "综合",
+      "summary": "今天(2日)起，国家卫生健康委、市场监管总局联合发布的食品安全国家标准《特殊医学用途配方食品通则》和《肿瘤全营养配方食品》正式实施。这两项食品安全国家标准，将对特医食品的创新研发、注册监管、产业发展等产生重大影响。(央视新闻客户端)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-02/10688479.shtml",
+      "publishedAt": "2026-09-02T02:09:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202871.shtml",
+      "title": "歌舞剧《天边格桑花》在北京上演 讲述两代守边人的故事",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202871.shtml",
+      "publishedAt": "2026-09-02T02:07:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/09-02/10688476.shtml",
+      "title": "创业补贴咋就成了黑心中介的“唐僧肉”？",
+      "category": "综合",
+      "summary": "创业补贴本是政府为鼓励和支持高校毕业生等群体自主创业而设立的政策性扶持资金，各地标准从几千元到数十万元不等。然而，部分中介机构却盯上了这笔钱：有的以“代办申请”为名，收取服务费和高额抽成；有的甚至通过成立皮包公司、购买服务冒充成果等方式骗补，形成了一条灰色产业链。(见8月31日《工人日报》)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-02/10688476.shtml",
+      "publishedAt": "2026-09-02T02:05:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688438.shtml",
+      "title": "以色列抓获哈马斯高级安全官员 国际组织警告加沙及西岸人道状况恶化",
+      "category": "综合",
+      "summary": "中新社北京9月2日电 综合消息：以色列1日在加沙地带抓获巴勒斯坦伊斯兰抵抗运动(哈马斯)内部安全机构负责人。国际组织1日对加沙地带和约旦河西岸的人道主义状况发出警告。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688438.shtml",
+      "publishedAt": "2026-09-02T02:05:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10688475.shtml",
+      "title": "数智赋能黔山田：从“云端”算力到“田间”丰收",
+      "category": "综合",
+      "summary": "近日，2026中国国际大数据产业博览会(简称“数博会”)在贵阳正式拉开帷幕。在这场以“词元——数据要素价值释放新路径”为主题的科技盛会中，大数据赋能山地特色农业备受瞩目。从展馆内前沿的农业大模型，到岑巩县田间地头高效运转的“1小时烘干圈”，贵州正以数智化为引擎，推动传统农业向现代化、标准化转型，在喀斯特大地上绘就一幅科技与生态交融的丰收新图景。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688475.shtml",
+      "publishedAt": "2026-09-02T02:05:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688473.shtml",
+      "title": "河南省南阳市政府原党组成员邓俊峰接受审查调查",
+      "category": "综合",
+      "summary": "中新网9月2日电 据河南省纪委监委消息：南阳市政府原党组成员、副市长邓俊峰涉嫌严重违纪违法，主动投案，目前正接受河南省纪委监委纪律审查和监察调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688473.shtml",
+      "publishedAt": "2026-09-02T02:04:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688472.shtml",
+      "title": "中国铁路通信信号集团有限公司原党委副书记徐宗祥被开除党籍",
+      "category": "综合",
+      "summary": "中新网9月2日电 据中央纪委国家监委驻国务院国资委纪检监察组、湖南省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻国务院国资委纪检监察组和湖南省邵阳市监委对中国铁路通信信号集团有限公司原党委副书记、总经理徐宗祥严重违纪违法问题进行了立案审查调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688472.shtml",
+      "publishedAt": "2026-09-02T02:04:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688468.shtml",
+      "title": "外媒：美国银行副总裁在纽约时报广场被刺身亡",
+      "category": "综合",
+      "summary": "中新网9月2日电 据路透社报道，当地时间8月31日下午，美国银行的一位副总裁在纽约时报广场被刺身亡，年仅32岁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688468.shtml",
+      "publishedAt": "2026-09-02T02:03:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688470.shtml",
+      "title": "中国驻新西兰大使馆发言人就美、新拟在库克群岛建立深水港答记者问",
+      "category": "综合",
+      "summary": "中新网9月2日电 据“中国驻新西兰大使馆”微信公众号消息，驻新西兰使馆发言人就美、新拟在库克群岛建立深水港答记者问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688470.shtml",
+      "publishedAt": "2026-09-02T02:03:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -228,380 +606,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-02/10688387.shtml",
-      "title": "AI与人工客服流转规则有“标”可依",
-      "category": "综合",
-      "summary": "《顾客联络服务 人工与智能客户服务协同要求》实施",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-02/10688387.shtml",
-      "publishedAt": "2026-09-01T23:56:17.000Z",
+      "id": "sspai-https://sspai.com/post/114093",
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+      "category": "科技",
+      "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114093",
+      "publishedAt": "2026-09-01T23:58:40.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10688386.shtml",
-      "title": "促进民营经济高质量发展丨解难题、送政策，看民营企业如何轻装出海",
-      "category": "综合",
-      "summary": "新华社北京8月30日电 题：解难题、送政策，看民营企业如何轻装出海",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688386.shtml",
-      "publishedAt": "2026-09-01T23:52:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688385.shtml",
-      "title": "博物馆的“距今”为何年年不变？碳-14测年基准揭秘",
-      "category": "综合",
-      "summary": "走进博物馆，“距今约3000年”“距今约10000年”的说明牌随处可见。老实说，你在参观时，有没有在心里嘀咕过——这数字怎么年年都不变？是不是博物馆一直偷懒没换？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688385.shtml",
-      "publishedAt": "2026-09-01T23:49:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202851.shtml",
-      "title": "习近平抵达开罗对埃及进行国事访问",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202851.shtml",
-      "publishedAt": "2026-09-01T23:47:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688383.shtml",
-      "title": "台风蓝色预警：“沙德尔”强降雨影响5省 南海大部风力较强",
-      "category": "综合",
-      "summary": "中国天气网讯 中央气象台9月2日06时继续发布台风蓝色预警：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688383.shtml",
-      "publishedAt": "2026-09-01T23:42:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-02/10688382.shtml",
-      "title": "如何将“健康第一”摆上餐桌？记者探访“开学第一餐”",
-      "category": "综合",
-      "summary": "开学第一天不仅要让孩子们学得好，也要吃得好。上午10点45分，在工作人员的带领下，记者走进北京市海淀区第二十中学附属实验学校的后厨，一进门烟火气扑面而来。操作台上各类菜品被摆放得整整齐齐，铁锅翻炒滋滋作响，师傅们正忙着烹制孩子们中午的午餐，土豆炖牛肉、素什锦轮番出锅，热气裹挟着饭菜香气在后厨弥漫。一旁的万能蒸烤箱精准控制油盐用量和烹饪时间，再也不靠老师傅凭手",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688382.shtml",
-      "publishedAt": "2026-09-01T23:39:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688381.shtml",
-      "title": "美众议院通过临时拨款法案，以避免政府在中期选举前“停摆”",
-      "category": "综合",
-      "summary": "中新网9月2日电 据英国《卫报》报道，美国众议院当地时间9月1日通过了一项临时拨款法案，以避免政府在11月中期选举前“停摆”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688381.shtml",
-      "publishedAt": "2026-09-01T23:38:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688380.shtml",
-      "title": "我国科研团队首次实现高光谱相机实时解析",
-      "category": "综合",
-      "summary": "高光谱成像能通过物质特有的光谱信息识别材质和成分，是遥感监测、工业检测等领域的重要技术。近日，北京理工大学科研团队首创片上光谱计算新方法，将原本依赖大型服务器完成的光谱解析集成到便携设备中，实现高光谱信息的现场实时处理。相关成果近日发表于国际学术期刊《科学》。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688380.shtml",
-      "publishedAt": "2026-09-01T23:37:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688379.shtml",
-      "title": "希奇莱马宣誓就任赞比亚总统 开启第二个五年任期",
-      "category": "综合",
-      "summary": "中新社约翰内斯堡9月1日电 卢萨卡消息：赞比亚总统哈凯恩德·希奇莱马当地时间9月1日在首都卢萨卡宣誓就职，开启第二个五年任期。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688379.shtml",
-      "publishedAt": "2026-09-01T23:36:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
-      "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
-      "category": "综合",
-      "summary": "中新社柏林9月1日电 德国政府9月1日表示，俄罗斯应对8月上旬发生在德东部莱比锡机场的无人机袭击未遂事件负责，并宣布关闭俄罗斯驻波恩总领事馆等一系列反制措施。俄方否认参与事件，并表示将采取对等回应。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
-      "publishedAt": "2026-09-01T23:33:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688373.shtml",
-      "title": "英国首相伯纳姆在议会发表声明 阐述施政方向",
-      "category": "综合",
-      "summary": "中新社伦敦9月1日电 (记者 欧阳开宇)当地时间9月1日，英国首相安迪·伯纳姆首次以首相身份在议会下院发表重要政策声明，系统阐述施政方向，涉及对外安全、移民、经济民生、权力下放、公用事业改革等多项重大议题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688373.shtml",
-      "publishedAt": "2026-09-01T23:33:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
-      "title": "“开学第一课”：俄宇航员与学生定下五年中文之约",
-      "category": "综合",
-      "summary": "中新社莫斯科9月1日电 (记者 田冰)9月1日是俄罗斯“知识日”，也是新学年开学日。在师生、家长和各界嘉宾的见证下，俄罗斯中国国际学校当天迎来别具意义的“开学第一课”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
-      "publishedAt": "2026-09-01T23:32:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688371.shtml",
-      "title": "中国第二批援尼紧急援助物资雨中运抵加德满都",
-      "category": "综合",
-      "summary": "中新社加德满都9月1日电 (记者 崔楠)当地时间9月1日下午5时30分许，中国政府向尼泊尔提供的第二批紧急援助物资搭载中国空军运-20大型运输机，在大雨中运抵尼泊尔加德满都特里布万国际机场。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688371.shtml",
-      "publishedAt": "2026-09-01T23:32:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688370.shtml",
-      "title": "暴雨黄色预警：浙江福建等5省部分地区有大暴雨",
-      "category": "综合",
-      "summary": "中国天气网讯 中央气象台9月2日06时继续发布暴雨黄色预警：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688370.shtml",
-      "publishedAt": "2026-09-01T23:25:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688369.shtml",
-      "title": "北京未来三天以晴为主 明后天最高气温可达32至33℃",
-      "category": "综合",
-      "summary": "中国天气网讯 今天(9月2日)，北京天气以晴为主，最高气温30℃。明后天晴朗天气持续，白天气温升高，最高气温可达32至33℃，热意提升，紫外线强，需注意防晒、补水。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688369.shtml",
-      "publishedAt": "2026-09-01T23:23:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10688368.shtml",
-      "title": "珍稀蛇类标本遭游客“把玩致损”！博物馆标本为什么碰不得？",
-      "category": "综合",
-      "summary": "近日，一件发生在国家动物博物馆的不文明参观事件引发广泛关注。8月29日晚，国家动物博物馆发布《强烈谴责！》文章提到，在一层濒危动物展厅两个孩子在舟山眼镜蛇标本和莽山原矛头蝮标本前玩闹，不断用手抓、用脚踢标本。随行的父亲非但没有制止，反而把两件标本拿起来，递给孩子。两件真品标本不同程度受损，其中莽山原矛头蝮标本伤情较重。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10688368.shtml",
-      "publishedAt": "2026-09-01T23:22:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/09-02/10688367.shtml",
-      "title": "蔬菜里的“天然钙片”！秋天常吃有助于平稳血脂血糖",
-      "category": "综合",
-      "summary": "木耳菜口感酷似木耳",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/09-02/10688367.shtml",
-      "publishedAt": "2026-09-01T23:17:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10688366.shtml",
-      "title": "特朗普发出强硬威胁：若伊朗实施报复，将遭美方更猛烈打击",
-      "category": "综合",
-      "summary": "中新网9月2日电 据美国《政客》新闻网报道，当地时间9月1日，美国对伊朗发动新一轮袭击，美国总统特朗普在社交媒体上表示，此次袭击“规模大、力度强”，并警告伊朗不要实施任何报复性打击。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688366.shtml",
-      "publishedAt": "2026-09-01T23:12:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-02/10688365.shtml",
-      "title": "9月2日新闻早报",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-02/10688365.shtml",
-      "publishedAt": "2026-09-01T22:56:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688364.shtml",
-      "title": "新华图讯丨习近平抵达开罗对埃及进行国事访问",
-      "category": "综合",
-      "summary": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688364.shtml",
-      "publishedAt": "2026-09-01T22:53:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10688363.shtml",
-      "title": "双预警齐发！这些地区有大暴雨、雷暴大风",
-      "category": "综合",
-      "summary": "中央气象台9月2日6时继续发布暴雨黄色预警：预计，9月2日8时至3日8时，湖南东南部、江西中南部、浙江东部和南部、福建东部和南部、广东东部、台湾岛南部以及黑龙江东部等地部分地区有大到暴雨，其中，江西南部、浙江南部、福建东北部和东南部、广东东部、台湾岛南部等地部分地区有大暴雨(100-230毫米)。上述部分地区伴有短时强降水(最大小时降雨量20～50毫米，局地",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688363.shtml",
-      "publishedAt": "2026-09-01T22:45:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -1052,24 +1070,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/114027",
       "publishedAt": "2026-08-31T06:57:03.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113827",
-      "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
-      "category": "科技",
-      "summary": "门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？ 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113827",
-      "publishedAt": "2026-08-31T02:53:32.000Z",
       "tags": [
         "科技",
         "效率",

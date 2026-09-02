@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114093",
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+      "meta": "少数派 · 2026/9/1",
+      "url": "https://sspai.com/post/114093",
+      "publishedAt": "2026-09-01T23:58:40.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114078",
       "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
       "meta": "少数派 · 2026/9/1",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/8/31",
       "url": "https://sspai.com/post/114027",
       "publishedAt": "2026-08-31T06:57:03.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113827",
-      "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
-      "meta": "少数派 · 2026/8/31",
-      "url": "https://sspai.com/post/113827",
-      "publishedAt": "2026-08-31T02:53:32.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T00:36:49.999Z",
+  "updatedAt": "2026-09-02T02:40:48.194Z",
   "provider": "OneBench 公共资讯快照"
 }
