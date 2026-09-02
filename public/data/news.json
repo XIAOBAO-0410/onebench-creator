@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T14:29:16.642Z",
-  "expiresAt": "2026-09-02T20:29:16.642Z",
+  "generatedAt": "2026-09-02T16:30:22.840Z",
+  "expiresAt": "2026-09-02T22:30:22.840Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,456 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689158.shtml",
+      "title": "四渡赤水用兵如神 实现红军从被动到主动的战略转变",
+      "category": "综合",
+      "summary": "开学第一课丨四渡赤水用兵如神 实现红军从被动到主动的战略转变",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689158.shtml",
+      "publishedAt": "2026-09-02T16:18:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-03/10689157.shtml",
+      "title": "韩国釜山近海一拖船倾覆 致1人死亡6人失踪",
+      "category": "综合",
+      "summary": "中新社首尔9月3日电 (记者 金旭)当地时间2日，韩国釜山近海发生一起拖船倾覆事故，造成1人死亡、6人失踪。韩国总统李在明要求调动一切可用资源，全力开展人员救援，并做好善后处置工作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689157.shtml",
+      "publishedAt": "2026-09-02T16:16:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-02/news1067549.shtml",
+      "title": "直击西藏吉隆口岸泥石流受灾核心区 各方救援人员开展搜救工作",
+      "category": "综合",
+      "summary": "9月2日17时许，记者抵达西藏吉隆口岸受灾核心区域。国旗飘扬在吉隆口岸联检大楼原址，各方救援人员开展搜救工作。当日上午10时，西藏吉隆泥石流灾害救援通道陆路通道已基本打通，救援人员、救援物资和部分装备已通过陆路通道进入核心区并开展深入救援工作。(李林 贡嘎来松 江飞波 制作 侯诗蕊)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-02/news1067549.shtml",
+      "publishedAt": "2026-09-02T15:40:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-02/10689155.shtml",
+      "title": "中国羽毛球大师赛：世锦赛混双冠军爆冷出局",
+      "category": "综合",
+      "summary": "中新社深圳9月2日电 (记者 张璐 索有为)在深圳举行的2026李宁·中国羽毛球大师赛9月2日进入第二个比赛日，2026年世界羽毛球锦标赛混双冠军、法国组合吉凯尔/德尔吕以0:2不敌中国台北组合刘广珩/许尹鏸，爆冷出局。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-02/10689155.shtml",
+      "publishedAt": "2026-09-02T15:39:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689154.shtml",
+      "title": "“大”和“新”的中国市场为外企提供机会清单",
+      "category": "综合",
+      "summary": "“放眼世界，中国可能是唯一兼具‘大’和‘新’两个特点的富有潜力市场。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689154.shtml",
+      "publishedAt": "2026-09-02T15:10:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689116.shtml",
+      "title": "习言道｜谈及中东局势，习近平提出四点倡议",
+      "category": "综合",
+      "summary": "当地时间9月2日，埃及总统塞西同中国国家主席习近平在开罗太阳宫举行会谈。两国元首就中东局势深入沟通。习近平指出——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689116.shtml",
+      "publishedAt": "2026-09-02T14:56:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689152.shtml",
+      "title": "亚太民间社会会议在山东济南开幕",
+      "category": "综合",
+      "summary": "中新网济南9月2日电 (杨兵 吕妍 李明芮)亚太民间社会会议9月2日在山东济南开幕。中外嘉宾聚焦科技创新、民生建设、文明互鉴等议题，为深化亚太区域合作贡献智慧。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689152.shtml",
+      "publishedAt": "2026-09-02T14:54:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689153.shtml",
+      "title": "从1.4亿人“全球购”看中国机遇2.0",
+      "category": "综合",
+      "summary": "从1.4亿人“全球购”看中国机遇2.0(新视窗)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689153.shtml",
+      "publishedAt": "2026-09-02T14:52:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10689150.shtml",
+      "title": "中印尼双本币交易前7个月达388.72亿美元",
+      "category": "综合",
+      "summary": "中新社雅加达9月2日电 (记者 李志全)中国银行(香港)雅加达分行2日表示，今年前7个月，中印尼双本币交易(LCT)规模达388.72亿美元，月均LCT用户达18444户。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10689150.shtml",
+      "publishedAt": "2026-09-02T14:49:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-02/10689151.shtml",
+      "title": "新学期，新变化——各地多措并举护航学生成长",
+      "category": "综合",
+      "summary": "9月1日，全国各地中小学迎来秋季新学期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10689151.shtml",
+      "publishedAt": "2026-09-02T14:48:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689147.shtml",
+      "title": "天津出台2026年营商环境“施工图” 部署五大行动",
+      "category": "综合",
+      "summary": "中新网天津9月2日电 (记者 周亚强)天津市政府新闻办2日举行政策吹风会，解读《2026年天津市推进营商环境提质升级行动计划》。该计划提出五项行动、23项任务，为全年营商环境优化提供具体抓手和实施路径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689147.shtml",
+      "publishedAt": "2026-09-02T14:45:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689146.shtml",
+      "title": "天津出台方案推进交旅融合 到2028年培育超40个特色产品",
+      "category": "综合",
+      "summary": "中新网天津9月2日电 (记者 周亚强)记者2日从天津市交通运输委员会获悉，该委日前会同天津市文化和旅游局印发《天津市交通运输与旅游融合高质量发展实施方案(2026—2028年)》(下称《方案》)，提出到2028年培育形成40个以上交旅融合特色产品，年直接服务人次突破470万，年均增长10%以上。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689146.shtml",
+      "publishedAt": "2026-09-02T14:44:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689144.shtml",
+      "title": "宁夏银川：做实医保精准监督 让医疗惠民服务直达民心",
+      "category": "综合",
+      "summary": "中新网银川9月2日电 (记者 李佩珊)“新生儿在医院就能办好医保，不用来回跑腿，特别方便。”9月2日，在宁夏银川市国龙医院产科，一名新生儿的父亲顺利办结医保“落地办”业务。便捷高效的医保服务，让群众切实感受到银川医保惠民服务的提质升级。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689144.shtml",
+      "publishedAt": "2026-09-02T14:44:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-02/10689143.shtml",
+      "title": "“和光同生——国际首饰艺术展”在广西南宁开幕",
+      "category": "综合",
+      "summary": "中新网南宁9月2日电 (林浩)9月2日，“和光同生——国际首饰艺术展”在广西南宁开幕。该展览由国家艺术基金资助，北京服装学院主办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10689143.shtml",
+      "publishedAt": "2026-09-02T14:44:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689141.shtml",
+      "title": "聚焦全球皮革行业风向 2026中国国际皮革展在上海举行",
+      "category": "综合",
+      "summary": "中新网上海9月2日电 为期三天的2026中国国际皮革展(ACLE)1日在上海新国际博览中心拉开帷幕。该展会汇集皮革、鞋材等展商，为行业打造了一个贯穿全产业链的高品质展会，被喻为“世界皮革行业发展的晴雨表”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689141.shtml",
+      "publishedAt": "2026-09-02T14:44:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689140.shtml",
+      "title": "聚焦数智赋能 2026年服贸会文旅服务专题凸显产业创新",
+      "category": "综合",
+      "summary": "中新网北京9月2日电 (记者 徐婧) 9月9日至13日，2026年中国国际服务贸易交易会文旅服务专题将在北京首钢园亮相。作为服贸会重点专题之一，文旅服务专题紧扣“文旅融合 数智赋能”主题，涵盖展览展示、首发首秀、成果签约、国际交流、配套活动等板块，集中呈现首都文化产业创新成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689140.shtml",
+      "publishedAt": "2026-09-02T14:43:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689149.shtml",
+      "title": "中吉携手：睦邻友好 共享繁荣",
+      "category": "综合",
+      "summary": "互鉴 | 中吉携手：睦邻友好 共享繁荣",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689149.shtml",
+      "publishedAt": "2026-09-02T14:43:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689148.shtml",
+      "title": "通往吉隆口岸国门的道路基本实现全线贯通，记者现场直击",
+      "category": "综合",
+      "summary": "9月1日晚，中国安能对通往吉隆口岸方向的涉水路段进行了加固抢修，现场大雨不断，河道水位上升，流速增大，给道路抢修带来很大挑战，队员们按照“首机探路、涉水强突、掏洗换填、跟进加固”的战法，冒雨作业，一直没有停歇。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689148.shtml",
+      "publishedAt": "2026-09-02T14:41:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689145.shtml",
+      "title": "外交部副部长马朝旭会见美中贸易全国委员会董事会代表团",
+      "category": "综合",
+      "summary": "2026年9月2日，外交部副部长马朝旭会见美中贸易全国委员会董事会主席麦凯恩率领的访华团，双方就中美关系、经贸合作、人文交流等交换了意见。美中贸易全国委员会会长谭森等参加会见。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689145.shtml",
+      "publishedAt": "2026-09-02T14:40:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689139.shtml",
+      "title": "千年茶乡再添新茶缘 两岸茶人云南昌宁共建“同心茶园”",
+      "category": "综合",
+      "summary": "中新网保山9月2日电 (陆希成)“茶是两岸共同的文化记忆，也是连接彼此情感的媒介。接过树苗的瞬间，我明白种下的不仅是生机，更是未来加深合作的契机。”台湾原生山茶文化学会学术顾问陈国任2日如是说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689139.shtml",
+      "publishedAt": "2026-09-02T14:39:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689138.shtml",
+      "title": "全城迎世赛 上海地铁以流动窗口传递技能之美",
+      "category": "综合",
+      "summary": "中新网上海9月2日电 (记者 许婧)第48届世界技能大赛倒计时20天暨点亮技能之光主题活动2日在上海地铁人民广场站举行。活动现场正式启用世赛倒计时装置，同步首发地铁2号线世赛主题列车，依托城市公共交通窗口，全方位营造世赛浓厚氛围。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689138.shtml",
+      "publishedAt": "2026-09-02T14:37:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-02/10689137.shtml",
+      "title": "2026“人工智能+金融”创新应用大赛决赛在南宁举行",
+      "category": "综合",
+      "summary": "中新网南宁9月2日电(黄艳梅 梁雨诗)2026“人工智能+金融”创新应用大赛决赛2日在广西南宁举行。本次大赛主题为“AI赋能金融合作，AI助力安全治理”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-02/10689137.shtml",
+      "publishedAt": "2026-09-02T14:37:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689136.shtml",
+      "title": "辽宁辽阳“十五五”发力七大领域 推动全面振兴取得新突破",
+      "category": "综合",
+      "summary": "中新网沈阳9月2日电 (王涵) 辽宁省政府新闻办9月2日在沈阳召开“开局起步‘十五五’奋力推动新时代辽宁全面振兴取得新突破”系列主题新闻发布会辽阳专场，辽阳市政府在会上介绍该市“十五五”时期经济社会发展相关情况，明确经济发展、创新驱动等5大类20项主要指标，部署11个领域重点任务，将聚焦七个方面重点突破。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689136.shtml",
+      "publishedAt": "2026-09-02T14:37:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-02/10689132.shtml",
+      "title": "4位教育学者获得2026年度一丹奖",
+      "category": "综合",
+      "summary": "中新网香港9月2日电 慈善基金会一丹奖基金会2日在香港举行新闻发布会，公布2026年度一丹奖得奖名单，4位教育学者获奖。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-02/10689132.shtml",
+      "publishedAt": "2026-09-02T14:36:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689135.shtml",
+      "title": "平陆运河“三大枢纽”船闸运行方案获得批复",
+      "category": "综合",
+      "summary": "记者从广西壮族自治区交通运输厅了解到，9月1日，广西壮族自治区交通运输厅正式批复平陆运河马道、企石、青年“三大枢纽”船闸运行方案。该方案的批复，筑牢了平陆运河“三大枢纽”船闸依法合规运营、安全有序运行的制度根基，标志着平陆运河即将进入全线通航新阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689135.shtml",
+      "publishedAt": "2026-09-02T14:27:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689134.shtml",
       "title": "越山海｜当埃及金字塔遇上中国科技",
@@ -122,168 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689126.shtml",
-      "title": "聚焦生物医药合作 “韩你来蓉—2026成都韩国经贸投资交流会”举行",
-      "category": "综合",
-      "summary": "中新网成都9月2日电 (单鹏)由成都市人民政府外事办公室、成都市对外开放合作促进中心、韩国驻成都总领事馆、大韩贸易投资振兴公社成都代表处共同主办的“韩你来蓉—2026成都韩国经贸投资交流会”2日在成都举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689126.shtml",
-      "publishedAt": "2026-09-02T14:22:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689125.shtml",
-      "title": "五大议题45场报告 第八届中国边疆考古学术研讨会在呼伦贝尔举行",
-      "category": "综合",
-      "summary": "中新网内蒙古呼伦贝尔9月2日电 (记者 孙自法)第八届中国边疆考古学术研讨会9月2日在内蒙古自治区呼伦贝尔市举行。来自全国的考古学、历史学、民族学等专家学者代表相聚一堂，聚焦“考古学视野下的北部边疆”主题分享最新研究成果，展开深度交流与研讨。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689125.shtml",
-      "publishedAt": "2026-09-02T14:22:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689123.shtml",
-      "title": "开局起步“十五五”：海南儋洋一体化纵深推进 聚力扩开放",
-      "category": "综合",
-      "summary": "中新网海口9月2日电 (记者 王子谦)“十五五”是海南全面深化改革开放、实现高质量发展的关键五年。儋州市委副书记、市人民政府市长，洋浦经济开发区工委副书记、管委会主任陈阳2日表示，未来五年，儋州洋浦一体化改革将向纵深推进，聚力扩大高水平对外开放，打造海南自贸港制度型开放新高地。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689123.shtml",
-      "publishedAt": "2026-09-02T14:21:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689120.shtml",
-      "title": "福建全力以赴开展抢险救援",
-      "category": "综合",
-      "summary": "中新网福州9月2日电 (记者 龙敏)当前，福建省沿海和南部地区迎来新一轮持续性强降雨过程，局部累计雨量大，且降雨落区与前期双台风影响降雨落区重叠，致灾风险大。福建省应急管理厅强化应急救援力量统筹调度，全力以赴开展抢险救援。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689120.shtml",
-      "publishedAt": "2026-09-02T14:21:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689119.shtml",
-      "title": "台风“三顾”带火浙江玉环 滨海小城如何承接这波热度？",
-      "category": "综合",
-      "summary": "中新网台州9月2日电(周健 吕琼雅)8月底，台风“沙德尔”在浙江台州玉环市坎门街道登陆。这是今夏继台风“巴威”“白海豚”后，第三个登陆玉环的台风。短短50多天内，台风“三顾”玉环，让这座滨海小城在网络上意外“出圈”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689119.shtml",
-      "publishedAt": "2026-09-02T14:21:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10689118.shtml",
-      "title": "菲律宾比索汇率再创历史新低 盘中跌破62.5关口",
-      "category": "综合",
-      "summary": "中新社马尼拉9月2日电 (记者 周璟)受通胀担忧持续、中东局势再度紧张及美元走强等因素影响，菲律宾比索汇率2日盘中再创历史新低，一度跌破1美元兑62.5比索关口。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10689118.shtml",
-      "publishedAt": "2026-09-02T14:21:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689127.shtml",
-      "title": "摩托车队护卫 习近平乘车前往欢迎仪式现场",
-      "category": "综合",
-      "summary": "视频：摩托车队护卫 习近平乘车前往欢迎仪式现场来源：央视新闻客户端",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689127.shtml",
-      "publishedAt": "2026-09-02T14:20:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-02/10689105.shtml",
-      "title": "香港国际时尚汇展开幕 参展品牌数量创历届新高",
-      "category": "综合",
-      "summary": "图为民众参观展览。中新网记者 张祥毅 摄 图为模特进行时装表演。中新网记者 张祥毅 摄 图为民众选购时尚服饰。中新网记者 张祥毅 摄 图为一名女士参观展览。中新网记者 张祥毅 摄 图为外籍参展商设置的时尚展位。中新网记者 张祥毅 摄 图为观众参观展览。中新网记者 张祥毅 摄 图为开幕时装秀。中新网记者 张祥毅 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-02/10689105.shtml",
-      "publishedAt": "2026-09-02T14:12:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-02/10689114.shtml",
-      "title": "亚排联亚洲沙滩排球锦标赛 中国组合曹舒婷/董颉获胜",
-      "category": "综合",
-      "summary": "9月2日，陕西商洛，2026亚排联亚洲沙滩排球锦标赛暨洛杉矶奥运会资格赛展开女子F组小组赛。当日较量中，中国组合曹舒婷/董颉2比0战胜马来西亚组合Cadence/Rachael，拿下小组赛胜利。图为中国选手曹舒婷（左）在比赛中拦网。王勇 摄 9月2日，陕西商洛，2026亚排联亚洲沙滩排球锦标赛暨洛杉矶奥运会资格赛展开女子F组小组赛。当日较量中，中国组合曹舒婷",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-02/10689114.shtml",
-      "publishedAt": "2026-09-02T14:12:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad#2",
       "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
       "category": "国际",
@@ -318,240 +606,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689117.shtml",
-      "title": "西藏吉隆泥石流灾害核心区域泥石流堆积物最高厚度达16米",
-      "category": "综合",
-      "summary": "中新网西藏吉隆9月2日电 (记者 江飞波 赵朗)西藏自治区吉隆“8·26”泥石流灾害新闻发布会9月2日在吉隆镇举行，发布会介绍，截至9月2日12时，累计发现遇难人员21人，遗物847件，仍有541人失联。当日10时，到达吉隆口岸核心区域救援道路成功抢通，核心区域泥石流堆积物平均厚度4米，最高达16米，表面有大量巨石和淤泥。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689117.shtml",
-      "publishedAt": "2026-09-02T14:11:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689087.shtml",
-      "title": "四川省南充市消防救援支队党委书记、政治委员孔令接受审查调查",
-      "category": "综合",
-      "summary": "中新网成都9月2日电 (记者 张浪)四川省南充市监委2日消息：四川省南充市消防救援支队党委书记、政治委员孔令涉嫌严重违纪违法，目前正接受四川省消防救援总队纪检监察组纪律审查，经四川省监委指定南充市监委管辖，南充市监委正对其进行监察调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689087.shtml",
-      "publishedAt": "2026-09-02T14:05:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202982.shtml",
-      "title": "2026年国际现代五项联盟障碍跑世锦赛北京开赛",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-02/1202982.shtml",
-      "publishedAt": "2026-09-02T14:05:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689113.shtml",
-      "title": "“煤城”七台河手碟奏响“世界音”",
-      "category": "综合",
-      "summary": "中新社黑龙江七台河9月2日电 题：“煤城”七台河手碟奏响“世界音”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689113.shtml",
-      "publishedAt": "2026-09-02T14:04:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10689109.shtml",
-      "title": "于勒·马迪塞当选爱沙尼亚新任总统",
-      "category": "综合",
-      "summary": "中新社北京9月2日电 塔林消息：当地时间9月2日，爱沙尼亚议会举行总统选举特别会议，作为唯一总统候选人的于勒·马迪塞(#220;lle Madise)成功当选。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10689109.shtml",
-      "publishedAt": "2026-09-02T14:02:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689112.shtml",
-      "title": "全国首个省级“十五五”社会信用体系建设专项规划出台",
-      "category": "综合",
-      "summary": "中新网海口9月2日电 (张茜翼 王俞力)近期，海南省出台了《海南省“十五五”社会信用体系建设规划》(下称《规划》)，受到社会各界广泛关注。2日在海口举行的“开局起步‘十五五’”系列主题新闻发布会上，海南省营商环境建设厅厅长龙丁敏说，这是全国首个省级“十五五”社会信用体系建设专项规划。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689112.shtml",
-      "publishedAt": "2026-09-02T14:02:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-02/10689097.shtml",
-      "title": "援赤几中国医疗队“光明行” 服务当地民众超千人",
-      "category": "综合",
-      "summary": "中新网约翰内斯堡9月2日电 第34批援赤几中国医疗队与赤道几内亚第一夫人康斯坦西娅基金会，联合主办眼科公益项目“光明行”(“爱与光明之旅”)活动近日结束。活动为赤道几内亚贫困眼疾患者提供免费手术与诊疗服务，其中，共免费施治白内障手术170例。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-02/10689097.shtml",
-      "publishedAt": "2026-09-02T14:02:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689102.shtml",
-      "title": "跨越喀喇昆仑的守望：巴基斯坦守墓人续写亚太情谊",
-      "category": "综合",
-      "summary": "中新社济南9月2日电 题：跨越喀喇昆仑的守望：巴基斯坦守墓人续写亚太情谊",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689102.shtml",
-      "publishedAt": "2026-09-02T14:01:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689111.shtml",
-      "title": "福建宁德遇暴雨灾情 各方聚力抢险复产",
-      "category": "综合",
-      "summary": "中新社福建宁德9月2日电 (吕巧琴 叶茂 彭敬银)9月2日下午，福建省宁德福鼎市白琳镇湖头自然村，洪水退去，留下厚厚的淤泥。村民杨应养在家中指着屋内残留的水痕说，“第一次见到这么大的洪水”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689111.shtml",
-      "publishedAt": "2026-09-02T14:01:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689108.shtml",
-      "title": "国际反病毒大会天津启幕 聚焦AI网络威胁",
-      "category": "综合",
-      "summary": "中新社天津9月2日电 (江莹 周亚强)多国网络安全专家2日在天津表示，人工智能生成的网络威胁已从潜在风险演变为现实挑战，防御体系须由被动检测转向主动治理。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689108.shtml",
-      "publishedAt": "2026-09-02T14:00:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689110.shtml",
-      "title": "西藏吉隆泥石流灾害已致21人遇难541人失联",
-      "category": "综合",
-      "summary": "中新社西藏吉隆9月2日电 (记者 江飞波 赵朗)西藏自治区吉隆县“8·26”泥石流灾害新闻发布会9月2日在吉隆镇举行，发布会介绍，截至9月2日12时，累计发现遇难人员21人，遗物847件，仍有541人失联。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689110.shtml",
-      "publishedAt": "2026-09-02T14:00:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689107.shtml",
-      "title": "促推藜麦产业高质量发展 专家建言共筑全链合作格局",
-      "category": "综合",
-      "summary": "中新网北京9月2日电 (记者 张素)记者2日从中国作物学会藜麦专业委员会获悉，中国藜麦种植面积和总产量稳居世界第三，2025年种植面积逾54万亩，产业发展从规模扩张阶段迈入品质升级、精深增值的高质量发展新阶段。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689107.shtml",
-      "publishedAt": "2026-09-02T13:58:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689106.shtml",
-      "title": "吉林科研团队新技术让转基因检测更灵敏更简便",
-      "category": "综合",
-      "summary": "中新网长春9月2日电 (记者 郭佳)检测转基因成分，不一定非要先将目标基因“复制放大”。吉林科研团队近日研发出一种无需靶基因预扩增的高灵敏转基因检测技术，让转基因检测更灵敏、更简便、更满足现场检测需求。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689106.shtml",
-      "publishedAt": "2026-09-02T13:56:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad#3",
       "title": "重獲自由未有期 回顧黃之鋒的公共生涯",
       "category": "国际",
@@ -565,60 +619,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689101.shtml",
-      "title": "8月广州二手住宅市场网签量同比微增",
-      "category": "综合",
-      "summary": "中新社广州9月2日电 (记者 许青青)广州市房地产中介协会9月2日发布二手住宅市场交易月报，8月广州市二手住宅网签套数和面积分别为8624套、85.8万平方米，环比分别下降0.39%和0.06%，同比分别增长0.17%和1.32%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689101.shtml",
-      "publishedAt": "2026-09-02T13:55:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-02/10689103.shtml",
-      "title": "呈现战火中市井浮生 《伊拉克，在死神脚下揾钱》获关注",
-      "category": "综合",
-      "summary": "中新网北京9月2日电 (记者 高凯)随着电影《欢迎来龙餐馆》的热映，同样呈现战火中市井浮生的纪实文本作品《伊拉克，在死神脚下揾钱》再度受到广泛关注。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-02/10689103.shtml",
-      "publishedAt": "2026-09-02T13:55:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-02/10689104.shtml",
-      "title": "“视听奇境”升级亮相通州商圈 前沿超高清技术走近市民",
-      "category": "综合",
-      "summary": "中新网北京9月2日电 (记者 高凯)记者从北京市广电局获悉，“北京超高清视听·行！视听奇境”公共服务主题活动将再度登陆首开通州万象汇，本次活动完成内容与体验形式双重升级，将于9月4日至8日正式面向公众开放。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689104.shtml",
-      "publishedAt": "2026-09-02T13:54:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -793,6 +793,96 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142727",
+      "title": "资金短缺迫使粮食署削减约旦河西岸粮食援助",
+      "category": "国际",
+      "summary": "世界粮食计划署周二宣布，由于资金严重短缺，该机构将把约旦河西岸能够获得粮食援助的人数削减一半。此次削减正值该地区粮食需求自2023年以来翻了一番之际。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142727",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142726",
+      "title": "联合国：刚果（金）埃博拉疫情蔓延速度创纪录，必须紧急加大应对力度",
+      "category": "国际",
+      "summary": "联合国负责人道主义事务的副秘书长兼紧急救济协调员弗莱彻周二表示，刚果民主共和国（刚果（金））埃博拉疫情是有记录以来蔓延速度最快的疫情，正冲击一个本已深陷严重人道主义危机的国家。除非紧急加大应对力度，否则将有更多生命丧失，威胁也将加剧。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142726",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142725",
+      "title": "阿富汗数十年冲突余波未止：多数受害者仍未获得正义与救济",
+      "category": "国际",
+      "summary": "联合国阿富汗援助团周二发布一份新报告显示，阿富汗长达数十年的武装冲突受害者继续承受严重的身体、心理、社会和经济后果，且往往无法获得司法救济、充分援助或对所受伤害的承认。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142725",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142724",
+      "title": "艾滋病规划署、南部非洲发展共同体与中国携手推动南部非洲本地制药业发展",
+      "category": "国际",
+      "summary": "联合国艾滋病规划署、南部非洲发展共同体和全球卫生创新研究所联合南非政府、中国政府、中国制药企业以及区域和全球合作伙伴，启动一项新合作，旨在加强整个南部非洲的药品生产能力。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142724",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142723",
+      "title": "古特雷斯：多极化是实现全球治理和国际关系正义的条件",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周二在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会上表示，世界正日益呈现多极化态势，多极化是全球治理和国际关系中实现正义的条件，也是对有效多边主义以及联合国最有力的支持。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142723",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1617,96 +1707,6 @@
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142692",
       "publishedAt": "2026-08-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142691",
-      "title": "粮农组织呼吁利用科学技术弥合数字鸿沟、城乡差距和性别差距",
-      "category": "国际",
-      "summary": "粮农组织总干事屈冬玉周二在第11届亚太经合组织粮食安全部长级会议上表示，亚太地区必须将科学、技术和人工智能置于农业食品系统转型工作的核心位置，同时确保创新有助于弥合而非扩大数字鸿沟、农村鸿沟和性别鸿沟。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142691",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142690",
-      "title": "联合国：加沙停火依然脆弱，必须推进解除武装、恢复治理和重建",
-      "category": "国际",
-      "summary": "联合国中东和平进程代理特别协调员阿拉克巴罗夫周三向安理会通报中东局势时表示，尽管关于执行安理会第2803号决议和《结束加沙冲突综合计划》的谈判仍在继续，但加沙停火依然脆弱，以色列对加沙的袭击仍在持续，约旦河西岸局势也在迅速恶化。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142690",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142688",
-      "title": "联合国：缅甸罗兴亚人及其他群体持续遭受严重人权侵犯",
-      "category": "国际",
-      "summary": "在缅甸罗兴亚人大规模逃离该国寻求庇护9周年之际，联合国秘书长古特雷斯呼吁全球重新关注罗兴亚人的困境并采取行动。与此同时，联合国人权事务高级专员办公室发布的最新报告指出，缅甸人权状况，特别是少数民族群体的人权状况，已跌至新低。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142688",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142689",
-      "title": "古特雷斯谴责海地黑帮袭击事件",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周二通过发言人发表声明，谴责最近发生在海地太子港郊区肯斯科夫市镇的黑帮袭击事件。据报道，8月23日夜间发生的袭击造成至少47人死亡，其中包括22名据称在寻求庇护的教堂院内遭处决的人员。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142689",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142687",
-      "title": "古特雷斯谴责以色列当局未经授权进入近东救济工程处设施",
-      "category": "国际",
-      "summary": "联合国秘书长发言人杜加里克周二发表声明说，古特雷斯最强烈谴责以色列当局包括安全部队当天非法进入并滞留在被占领的东耶路撒冷的联合国近东救济工程处卡兰迪亚培训中心，并在场所内进行未经授权的施工。当时，近东救济工程处工作人员正在该中心内。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142687",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
       "tags": [
         "国际",
         "公共政策",
