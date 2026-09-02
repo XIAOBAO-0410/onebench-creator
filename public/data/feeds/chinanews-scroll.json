@@ -5,6 +5,20 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689160.shtml",
+      "title": "习近平圆满结束对埃及的国事访问",
+      "meta": "中国新闻网 · 2026/9/2",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689160.shtml",
+      "publishedAt": "2026-09-02T18:19:13.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689159.shtml",
+      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+      "meta": "中国新闻网 · 2026/9/2",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689159.shtml",
+      "publishedAt": "2026-09-02T18:18:23.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689158.shtml",
       "title": "四渡赤水用兵如神 实现红军从被动到主动的战略转变",
       "meta": "中国新闻网 · 2026/9/2",
@@ -199,22 +213,8 @@
       "meta": "中国新闻网 · 2026/9/2",
       "url": "https://www.chinanews.com.cn/sh/2026/09-02/10689129.shtml",
       "publishedAt": "2026-09-02T14:24:20.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689128.shtml",
-      "title": "AI场景数据安全引关注 天津探索数据安全治理与隐私保护新路径",
-      "meta": "中国新闻网 · 2026/9/2",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689128.shtml",
-      "publishedAt": "2026-09-02T14:24:06.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689131.shtml",
-      "title": "习近平主席为践行全球治理倡议凝心聚力",
-      "meta": "中国新闻网 · 2026/9/2",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689131.shtml",
-      "publishedAt": "2026-09-02T14:22:52.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T16:30:22.840Z",
+  "updatedAt": "2026-09-02T18:31:57.834Z",
   "provider": "OneBench 公共资讯快照"
 }

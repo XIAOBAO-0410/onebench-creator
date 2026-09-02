@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T16:30:22.840Z",
-  "expiresAt": "2026-09-02T22:30:22.840Z",
+  "generatedAt": "2026-09-02T18:31:57.834Z",
+  "expiresAt": "2026-09-03T00:31:57.834Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689160.shtml",
+      "title": "习近平圆满结束对埃及的国事访问",
+      "category": "综合",
+      "summary": "新华社开罗9月2日电(记者辛俭强 阚静文)当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689160.shtml",
+      "publishedAt": "2026-09-02T18:19:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689159.shtml",
+      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
+      "category": "综合",
+      "summary": "新华社开罗9月2日电(记者邓玉山#8195;韩梁)当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689159.shtml",
+      "publishedAt": "2026-09-02T18:18:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689158.shtml",
       "title": "四渡赤水用兵如神 实现红军从被动到主动的战略转变",
@@ -536,42 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-02/10689128.shtml",
-      "title": "AI场景数据安全引关注 天津探索数据安全治理与隐私保护新路径",
-      "category": "综合",
-      "summary": "中新网天津9月2日电 (江莹)2日下午，第四届网络空间安全(天津)论坛——AI应用场景下的移动数据安全与隐私保护主题论坛在天津滨海新区举办。论坛聚焦AI技术普及带来的移动数据安全新风险、新挑战，汇聚政企研多方力量，共探数据安全治理与个人隐私保护新路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689128.shtml",
-      "publishedAt": "2026-09-02T14:24:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-02/10689131.shtml",
-      "title": "习近平主席为践行全球治理倡议凝心聚力",
-      "category": "综合",
-      "summary": "视频：习近平主席为践行全球治理倡议凝心聚力来源：新华社",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10689131.shtml",
-      "publishedAt": "2026-09-02T14:22:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad#2",
       "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
       "category": "国际",
@@ -619,6 +619,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142730",
+      "title": "人工智能网络对亚太地区数字基础设施提出新要求",
+      "category": "国际",
+      "summary": "人工智能正在重塑亚太地区数字格局，并融入网络、基础设施和日常应用，但速度、可靠性和计算能力方面长期存在的差距，可能导致一些国家“掉队”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142730",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142729",
+      "title": "气候变暖加剧森林火灾威胁，传统凉爽、降雨充沛地区也需做好准备",
+      "category": "国际",
+      "summary": "世界卫生组织欧洲区域办事处周三表示，随着气候变暖，森林火灾威胁正向历史上气候较凉爽、降水较充沛的地区蔓延。2026年前8个月，欧盟已有超过60万公顷土地被烧毁，远超约28万公顷的20年平均水平。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142729",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142728",
+      "title": "为人类而战：避免气候灾难意味着必须立即采取行动",
+      "category": "国际",
+      "summary": "根据周三发布的一份联合国报告，创纪录的热浪、致命的洪灾和极端天气反映出地球正在持续变暖，即将突破安全温度阈值；但若现在加大力度采取气候行动，仍可避免气候灾难。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142728",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1652,60 +1706,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142695",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142694",
-      "title": "儿基会就巴基斯坦医院火灾导致14名新生儿死亡表示悲痛",
-      "category": "国际",
-      "summary": "联合国儿童基金会驻巴基斯坦代表艾恩赛德周三发表声明，对当天伊斯兰堡巴基斯坦医学科学研究所医院发生火灾、造成至少14名新生儿不幸遇难深感悲痛。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142694",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142693",
-      "title": "非洲的新宏伟目标：更多卫生工作者，更强大的卫生体系",
-      "category": "国际",
-      "summary": "面对到2035年预计将出现超过600万名卫生专业人员短缺的局面，非洲各国正加紧努力以加强其卫生力量，周三在埃塞俄比亚亚的斯亚贝巴举行的卫生部长会议上，各国宣布了一项为期十年的新计划。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142693",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142692",
-      "title": "古特雷斯对尼泊尔和中国严重洪灾造成的人员伤亡和破坏深感悲痛",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯对周三早些时候尼泊尔和中国发生的严重洪灾深感悲痛。这些灾难夺走了许多人的生命，造成多人失踪，并导致大范围破坏。他向遇难者家属表示哀悼，并祝愿伤者早日康复，向所有受灾民众表达声援。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142692",
       "publishedAt": "2026-08-26T12:00:00.000Z",
       "tags": [
         "国际",
