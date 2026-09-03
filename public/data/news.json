@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T20:27:45.171Z",
-  "expiresAt": "2026-09-04T02:27:45.171Z",
+  "generatedAt": "2026-09-03T22:26:59.602Z",
+  "expiresAt": "2026-09-04T04:26:59.602Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -585,6 +585,60 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142738",
+      "title": "苏丹：外部支持网络助长冲突并加剧平民伤亡",
+      "category": "国际",
+      "summary": "联合国苏丹问题独立国际实况调查团周四在一份新报告中指出，外国招募和外部支持网络正在助长苏丹战争，增强交战各方军事能力，并给平民造成毁灭性后果。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142738",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142737",
+      "title": "尼泊尔洪灾后至少2.2万名儿童亟需安全饮用水和卫生支持",
+      "category": "国际",
+      "summary": "联合国儿童基金会周四表示，在尼泊尔山洪暴发一周多后，至少有2.2万名儿童亟需安全饮用水、卫生设施及个人卫生支持。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142737",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142736",
+      "title": "联合国裁军事务高级代表：叙利亚化学武器销毁工作取得重大进展",
+      "category": "国际",
+      "summary": "联合国副秘书长兼裁军事务高级代表中满泉周四向安理会表示，叙利亚政府与禁止化学武器组织技术秘书处近两年来共同努力，在解决前政府化学武器计划遗留问题、申报任何剩余化学武器并在核查下予以销毁方面取得切实成果。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142736",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1646,42 +1700,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142702",
-      "title": "尼泊尔洪灾影响巨大 遇难人数持续攀升",
-      "category": "国际",
-      "summary": "随着尼泊尔当局确认已在受灾地区打捞出538具遗体，这场致命洪灾的影响被描述为“巨大”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142702",
-      "publishedAt": "2026-08-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142701",
-      "title": "【联合国会客厅】放过孩子 好好吃饭",
-      "category": "国际",
-      "summary": "战争会夺走什么？对一个孩子来说，可能是学校、家庭和玩耍的时光，也可能是最简单的一顿饭。《欢迎来龙餐馆》导演文牧野做客最新一期《联合国会客厅》，从电影中的一间餐馆、一个孩子和一顿饭出发，谈论战争与儿童，也重新追问一个最朴素的问题：和平对于一个孩子来说，究竟意味着什么？",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142701",
-      "publishedAt": "2026-08-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad#3",
       "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
       "category": "国际",
@@ -1695,24 +1713,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142700",
-      "title": "乌干达宣布本迪布焦型埃博拉疫情结束",
-      "category": "国际",
-      "summary": "非洲疾病控制与预防中心和世界卫生组织周四宣布，乌干达由本迪布焦型埃博拉病毒引发的疫情已结束。自该国最后一名患者、一例输入性病例于2026年7月16日出院以来，已连续42天未出现新增确诊病例。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142700",
-      "publishedAt": "2026-08-27T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
