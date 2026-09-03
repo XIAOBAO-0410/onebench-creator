@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T10:29:43.677Z",
-  "expiresAt": "2026-09-03T16:29:43.677Z",
+  "generatedAt": "2026-09-03T12:35:22.692Z",
+  "expiresAt": "2026-09-03T18:35:22.692Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689709.shtml",
-      "title": "黑龙江出台中医药强基行动方案 织密基层中医药惠民服务网",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203083.shtml",
+      "title": "中国政府第三批紧急援助物资运抵尼泊尔",
       "category": "综合",
-      "summary": "中新网哈尔滨9月3日电 (史轶夫 王佳甜)9月3日，黑龙江省人民政府新闻办公室举办《黑龙江省医疗卫生强基工程中医药行动实施方案》政策解读新闻发布会，多措并举推动基层中医药高质量发展。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689709.shtml",
-      "publishedAt": "2026-09-03T10:23:35.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203083.shtml",
+      "publishedAt": "2026-09-03T12:30:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689711.shtml",
-      "title": "依托通道优势壮大外贸业态 重庆巴南多举措加力推动对外开放",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-03/10689805.shtml",
+      "title": "加纳足协官宣：葡萄牙籍名帅奎罗斯二度出任加纳国家队主帅",
       "category": "综合",
-      "summary": "中新网重庆9月3日电 (记者 钟旖)作为重庆市的南向开放门户、西部陆海新通道跨境公路班车始发地，“十五五”期间，巴南区将多措并举，依托通道优势持续壮大外贸业态，加力推动高水平对外开放，为重庆内陆开放建设提供坚实支撑。",
+      "summary": "中新社北京9月3日电 阿克拉消息，当地时间9月3日，加纳足球协会发布公告，宣布与葡萄牙籍名帅奎罗斯达成协议，奎罗斯将在新任期继续执掌有着“黑星”美誉的加纳国家队。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689711.shtml",
-      "publishedAt": "2026-09-03T10:20:03.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689805.shtml",
+      "publishedAt": "2026-09-03T12:27:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689705.shtml",
-      "title": "鲁疆情深润高原 山东地矿援疆勘查厚植民族情",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689828.shtml",
+      "title": "山西：深耕数字乡村建设 用科技赋能乡村共富",
       "category": "综合",
-      "summary": "中新网济南9月3日电 题：鲁疆情深润高原 山东地矿援疆勘查厚植民族情",
+      "summary": "中新网太原9月3日电 题：山西：深耕数字乡村建设 用科技赋能乡村共富",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689705.shtml",
-      "publishedAt": "2026-09-03T10:11:41.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689828.shtml",
+      "publishedAt": "2026-09-03T12:26:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689706.shtml",
-      "title": "海口一正在装修的餐厅发生火灾 致6死3伤",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689829.shtml",
+      "title": "“远海丝路”轮试航：全球首艘数字交付+甲醇双燃料超大型矿砂船",
       "category": "综合",
-      "summary": "中新网9月3日电 据“海口消防”微信公众号消息，海南省海口市消防救援局9月3日发布火情通报称，9月3日14时45分海口市消防救援局指挥中心接到报警，位于海口市秀英大道东侧的正在装修的椰香源餐厅发生火灾。市消防救援局第一时间调集力量赶赴现场处置，15时10分明火扑灭。截止目前已完成三轮搜救，火灾造成6人死亡，3人受伤(伤者目前生命体征平稳)。火灾原因正在调查中",
+      "summary": "中新网扬州9月3日电 (陈菊琴 徐宝龙)9月3日，全球首艘搭载船舶数字化交付系统的32.5万吨甲醇双燃料超大型矿砂船(VLOC)“远海丝路”轮，在扬州海事部门全程精准保障下安全离泊码头，进入锚地，正式开启海上试航之旅。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689706.shtml",
-      "publishedAt": "2026-09-03T10:04:16.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689829.shtml",
+      "publishedAt": "2026-09-03T12:26:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689710.shtml",
-      "title": "让IP进入千行百业，常州做对了什么？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689830.shtml",
+      "title": "海南产经新观察：定安打造百亿级热带食品加工产业集群",
       "category": "综合",
-      "summary": "中新网常州9月3日电(谢艺观 唐娟)8月29日晚，苏超联赛常州队主场对阵无锡队。常州奥体中心体育场外围，市集提前数小时开始。",
+      "summary": "中新网海口9月3日电 (记者 王晓斌)“建设百亿级热带食品加工产业集群”，成为海南传统农业大县定安县“十五五”发展的新坐标。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689710.shtml",
-      "publishedAt": "2026-09-03T10:02:24.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689830.shtml",
+      "publishedAt": "2026-09-03T12:26:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689695.shtml",
-      "title": "中国商务部：敦促法方立即停止实施“反超快时尚”法",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689820.shtml",
+      "title": "张掖甘味优品南下大湾区 亮相SIAL国际食品展觅商机",
       "category": "综合",
-      "summary": "中新社北京9月3日电 (记者 尹倩芸)中国商务部新闻发言人黄玲3日在例行新闻发布会上称，中方敦促法方立即停止“反超快时尚”法的实施，该法假借制定所谓“环保”和“可持续”标准之名，采取双重标准的做法，涉嫌违反世贸组织非歧视原则。",
+      "summary": "中新网广州9月3日电 (记者 方伟彬 王坚)2026 SIAL西雅国际食品和饮料展览会(下称“SIAL国际食品展”)3日在广州开幕。甘肃省张掖市以“有机张掖·甄选优品”为主题组团参展，并同步举办专场推介会，推动“甘味”品牌深耕粤港澳大湾区市场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689695.shtml",
-      "publishedAt": "2026-09-03T10:02:04.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689820.shtml",
+      "publishedAt": "2026-09-03T12:25:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689694.shtml",
-      "title": "中国首款罕见病类特殊医学用途氨基酸组件配方食品获批注册",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-03/10689818.shtml",
+      "title": "“遇见最美香港”摄影大赛颁奖 光影见证香江生态之美",
       "category": "综合",
-      "summary": "中新社北京9月3日电 (记者 刘亮)中国国家市场监管总局3日公布，一款适用于1岁以上苯丙酮尿症患者的特殊医学用途氨基酸组件配方食品近日获批注册，成为国内首款适用于罕见病患者的营养素组件类特殊医学用途配方食品(以下简称特医食品)。该特医食品将进一步丰富中国苯丙酮尿症患者的食品选择，改善患者生活品质。",
+      "summary": "中新网香港9月3日电 香港特区政府环境保护署与香港大公文汇传媒集团联合主办的“遇见最美香港”摄影大赛颁奖典礼暨获奖作品展2日在香港太空馆举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689694.shtml",
-      "publishedAt": "2026-09-03T10:01:28.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-03/10689818.shtml",
+      "publishedAt": "2026-09-03T12:24:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,284 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689689.shtml",
-      "title": "中国商务部：来华避暑 “China Cool”在海外走红",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689815.shtml",
+      "title": "贵州：以法治暖阳 护佑少年向阳",
       "category": "综合",
-      "summary": "中新社北京9月3日电 (记者 尹倩芸)今年暑期，中国入境消费掀起新一轮热潮。中国商务部新闻发言人黄玲3日介绍相关情况时提到，欧洲等地持续高温带动来华避暑游客大幅增长，“China Cool”在海外社交平台走红。",
+      "summary": "中新网贵阳9月3日电 (记者 张伟)贵州省高级人民法院3日举行新闻发布会，通报贵州全省法院涉未成年司法救助工作。记者会上获悉，2023年至2026年8月31日，贵州全省法院共受理司法救助案件2278件，结案2180件，决定救助1978件，救助3255人，救助金额7991.2万元。其中，救助未成年人455人，救助金额1670.1万元。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689689.shtml",
-      "publishedAt": "2026-09-03T10:00:30.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689815.shtml",
+      "publishedAt": "2026-09-03T12:24:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-03/10689804.shtml",
+      "title": "统战搭建“连心桥” 江西安福葡萄产业助民增收",
+      "category": "综合",
+      "summary": "中新网吉安9月3日电 (付丽玲 谢鸣)初秋午后，走进江西省吉安市安福县横龙镇阳光农场葡萄种植基地，只见藤蔓间挂满一串串阳光玫瑰葡萄，果香扑鼻。“这些小小的葡萄，已经成为乡亲们增收致富的甜蜜果。”农场负责人刘安飞说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-03/10689804.shtml",
+      "publishedAt": "2026-09-03T12:23:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689801.shtml",
+      "title": "闽东北文旅推介会亮相银川 八闽风情入塞上",
+      "category": "综合",
+      "summary": "中新网银川9月3日电 (记者 李佩珊)9月3日，“清新闽东北 闽宁山海情”——2026年闽东北协同发展区文旅推介交流活动在宁夏银川举办。活动以闽宁协作30年为契机，通过沉浸式展演、惠民福利、产业对接等多元形式，让八闽山海风情走进塞上江南。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689801.shtml",
+      "publishedAt": "2026-09-03T12:23:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689811.shtml",
+      "title": "“北京社会组织雄安行”暨首届“雄安有善”主题活动在雄安新区举办",
+      "category": "综合",
+      "summary": "中新网雄安9月3日电 (韩冰 谌诗雨)3日，在第十一个“中华慈善日”来临之际，“北京社会组织雄安行”暨首届“雄安有善”主题活动在雄安新区举办，来自北京的多家社会组织、雄安本地爱心企业及公益人士等参加活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689811.shtml",
+      "publishedAt": "2026-09-03T12:21:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689810.shtml",
+      "title": "重庆巴南力争2030年规上工业总产值超1400亿元",
+      "category": "综合",
+      "summary": "中新网重庆9月3日电 (记者 钟旖)重庆市巴南区委书记陶世祥3日在当地召开的新闻发布会上透露，面向“十五五”，巴南将从空间布局、产业体系、营商环境三个维度发力，力争到2030年规上工业总产值超1400亿元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689810.shtml",
+      "publishedAt": "2026-09-03T12:21:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689826.shtml",
+      "title": "习语｜“中华民族伟大复兴势不可挡！”",
+      "category": "综合",
+      "summary": "视频：习语｜“中华民族伟大复兴势不可挡！”来源：人民日报客户端",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689826.shtml",
+      "publishedAt": "2026-09-03T12:21:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689823.shtml",
+      "title": "联播+｜路相通 心相连",
+      "category": "综合",
+      "summary": "视频：联播+｜路相通 心相连来源：央视网",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689823.shtml",
+      "publishedAt": "2026-09-03T12:19:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689789.shtml",
+      "title": "大连警方打掉一专门针对针灸按摩行业跨省流窜新型犯罪团伙",
+      "category": "综合",
+      "summary": "中新网大连9月3日电 (记者 杨毅)大连警方3日披露，当地警方近期打掉一个专门针对针灸按摩行业的新型犯罪团伙，3名涉案嫌疑人全部落网。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689789.shtml",
+      "publishedAt": "2026-09-03T12:19:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689790.shtml",
+      "title": "中国地震局解读地震预警：如何实现“稳准快”？有哪些技术局限？",
+      "category": "综合",
+      "summary": "中新网北京9月3日电 (记者 孙自法)中国国家地震烈度速报与预警工程2024年7月全面建成后，作为全球规模最大的地震预警网络，在华北、东南沿海、南北地震带、新疆天山中段、西藏拉萨5个重点区域实现秒级地震预警能力，在全国范围内具备分钟级地震动参数与烈度速报能力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689790.shtml",
+      "publishedAt": "2026-09-03T12:18:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689819.shtml",
+      "title": "西藏吉隆口岸核心区域临时供电线路已抢通",
+      "category": "综合",
+      "summary": "记者今天从国家电网了解到，经过电力工人昼夜奋战，9月3日晚，西藏日喀则市吉隆口岸核心区域的临时供电线路已全部抢通，全力保障核心区域抢险救援用电需求。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689819.shtml",
+      "publishedAt": "2026-09-03T12:17:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203081.shtml",
+      "title": "2026中国国际时装周（秋季）启幕 刘昊然亮相开幕秀场",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203081.shtml",
+      "publishedAt": "2026-09-03T12:16:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203082.shtml",
+      "title": "2026中国国际时装周（秋季）启幕",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203082.shtml",
+      "publishedAt": "2026-09-03T12:15:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689795.shtml",
+      "title": "身份证十五分钟送达，“空中邮路”背后靠什么托底？",
+      "category": "综合",
+      "summary": "中新网合肥9月3日电(记者 左雨晴) 在合肥市政务服务中心楼前的一块空地上，一架六旋翼无人机正在起飞。它载着身份证、公文等，准备飞往15公里外的合肥火车站邮件处理中心。这段路程，地面开车需要一个多小时，而无人机只用了15分钟，节约了近10倍的时间。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689795.shtml",
+      "publishedAt": "2026-09-03T12:14:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-03/10689812.shtml",
+      "title": "（长征胜利90周年）海外华裔青少年在长征路上读懂中国",
+      "category": "综合",
+      "summary": "中新社北京9月3日电 (记者 刘洋 韩辉)2026年是中国工农红军长征胜利90周年。由中国侨联主办，福建、江西、湖南、四川、陕西、甘肃等12个省级侨联承办的2026“亲情中华·中国寻根之旅”夏令营长征主题活动近日圆满落幕。来自22个国家的700余名海外华裔青少年循着90年前的长征足迹，开启了一场“寻根之旅”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-03/10689812.shtml",
+      "publishedAt": "2026-09-03T12:13:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689809.shtml",
+      "title": "重庆巴南聚力建设科教强区 力争2030年研发投入强度达3.75%",
+      "category": "综合",
+      "summary": "中新网重庆9月3日电 (记者 钟旖)重庆市政府新闻办3日举行新闻发布会，重庆市巴南区副区长杨亚平在回答中新网记者提问时说，“十五五”时期，当地将做好三方面工作，推动区域科技创新提质增效。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689809.shtml",
+      "publishedAt": "2026-09-03T12:10:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-03/10689802.shtml",
+      "title": "广西北部湾港迎平陆运河通航时代 河海相连联通东盟",
+      "category": "综合",
+      "summary": "中新网广西钦州9月3日电 (翟李强)作为西部陆海新通道国际门户港，广西北部湾港将迎来平陆运河全线通航的重大历史机遇，正持续补齐江海联运软硬件短板，拓展跨境物流合作，全力塑造江海铁多式联运的全新发展格局。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-03/10689802.shtml",
+      "publishedAt": "2026-09-03T12:10:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -183,7 +453,7 @@
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T09:56:04.000Z",
+      "publishedAt": "2026-09-03T12:09:57.000Z",
       "tags": [
         "国际",
         "商业",
@@ -193,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689700.shtml",
-      "title": "三部门调拨中央救灾物资支持福建做好救灾救助工作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689807.shtml",
+      "title": "习言道｜在大埃及博物馆，习近平谈到“文明力量”",
       "category": "综合",
-      "summary": "9月3日，国家防灾减灾救灾委员会办公室、应急管理部针对近期福建暴雨洪涝灾害影响，根据灾区群众避险转移和安置救助需要，会同国家粮食和物资储备局调拨折叠床、夏凉被、家庭应急包等5000件中央救灾物资，支持灾区做好救灾救助工作。",
+      "summary": "中新网9月3日电 题：在大埃及博物馆，习近平谈到“文明力量”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689700.shtml",
-      "publishedAt": "2026-09-03T09:44:23.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689807.shtml",
+      "publishedAt": "2026-09-03T11:59:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -211,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689692.shtml",
-      "title": "“千里同好”，习近平历史性访问推动中埃关系再深化",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689803.shtml",
+      "title": "1500余家企业将参展第十八届湖南茶博会 设湘台茶业交流专区",
       "category": "综合",
-      "summary": "中新社北京9月3日电 (记者 郭超凯 曾玥)“交得其道，千里同好。”时隔十年再访埃及，中国国家主席习近平在署名文章中用一句古语概括中埃关系。",
+      "summary": "中新网长沙9月3日电(向一鹏 戚宁)2026第十八届湖南茶业博览会(下称“茶博会”)组委会3日宣布，本届茶博会将于9月11日至14日在长沙举行，将吸引1500余家茶业及产业链关联企业参展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689692.shtml",
-      "publishedAt": "2026-09-03T09:37:40.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689803.shtml",
+      "publishedAt": "2026-09-03T11:58:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -229,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689688.shtml",
-      "title": "中国政府第三批紧急援助物资运抵尼泊尔",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689808.shtml",
+      "title": "四川绵阳市北川县发生4.8级地震 震源深度10千米",
       "category": "综合",
-      "summary": "中新网加德满都9月3日电(记者 崔楠)当地时间9月3日13时45分许，中国空军运-20大型运输机搭载中国政府向尼泊尔提供的第三批紧急援助物资飞抵尼泊尔加德满都特里布万国际机场。",
+      "summary": "中国地震台网正式测定：09月03日19时39分在四川绵阳市北川县(北纬31.91度，东经104.43度)发生4.8级地震，震源深度10千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689688.shtml",
-      "publishedAt": "2026-09-03T09:31:54.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689808.shtml",
+      "publishedAt": "2026-09-03T11:57:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -247,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-03/10689687.shtml",
-      "title": "河南许昌市“走民企 看发展 提信心”网络主题系列宣传活动举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689806.shtml",
+      "title": "四川绵阳市北川县发生4.8级地震 震源深度10千米",
       "category": "综合",
-      "summary": "8月28日，由许昌市委统战部、市委网信办、市新联会共同开展的“走民企 看发展 提信心”网络主题系列宣传活动第四季顺利举行。来自环球网、河南日报、大象新闻等中央、省、市媒体的记者及部分网络名人代表组成采风团，走进许昌市城乡一体化示范区电力装备领域民营企业，实地探访产业发展生态，感受民营经济提质提速的强劲动能。",
+      "summary": "中新网9月3日电 据中国地震台网官方微博消息，中国地震台网正式测定：09月03日19时39分在四川绵阳市北川县(北纬31.91度，东经104.43度)发生4.8级地震，震源深度10千米。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-03/10689687.shtml",
-      "publishedAt": "2026-09-03T09:26:40.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689806.shtml",
+      "publishedAt": "2026-09-03T11:56:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -265,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-03/10689686.shtml",
-      "title": "河南开封市兰考县：四维发力优化营商环境护航企业发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689800.shtml",
+      "title": "2026中国国际福祉博览会在北京开幕",
       "category": "综合",
-      "summary": "河南开封市兰考县坚持以改革破瓶颈、以服务优生态、以赋能促发展，通过重构服务体系、创新服务模式、升级赋能平台、健全长效机制，系统性破解企业发展堵点难点，持续激活市场主体内生动力，为县域经济高质量发展蓄势赋能。",
+      "summary": "中新网北京9月3日电 (李京泽 刘纪)由中国残疾人联合会主办的2026中国国际福祉博览会暨中国国际康复博览会3日在北京国家会议中心开幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-03/10689686.shtml",
-      "publishedAt": "2026-09-03T09:26:10.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689800.shtml",
+      "publishedAt": "2026-09-03T11:55:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -283,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-03/10689678.shtml",
-      "title": "2026中国羽毛球大师赛：韩国女单名将安洗莹淘汰中国小将韩千禧晋级1/4决赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-03/10689793.shtml",
+      "title": "新疆铁门关市：红椒铺戈壁 “丰”景如画",
       "category": "综合",
-      "summary": "9月3日，在深圳举行的2026中国羽毛球大师赛进入第三个比赛日。在一场女单1/8决赛中，韩国选手安洗莹以2:0淘汰中国选手韩千禧。图为安洗莹获胜后庆祝。中新社记者 陈骥旻 摄 9月3日，在深圳举行的2026中国羽毛球大师赛进入第三个比赛日。在一场女单1/8决赛中，韩国选手安洗莹以2:0淘汰中国选手韩千禧。图为安洗莹在比赛中。中新社记者 陈骥旻 摄 9月3日，",
+      "summary": "航拍戈壁晾晒场，红椒铺展如焰。(无人机拍摄) 白克斌 摄 数万亩辣椒戈壁集中晾晒，场面壮观。(无人机拍摄) 白克斌 摄 工人抢抓晴好天气，有序开展晾晒等工作。(无人机拍摄) 白克斌 摄 当地晒场作业预计9月底结束，干红椒将分批销往全国。(无人机拍摄) 白克斌 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689678.shtml",
-      "publishedAt": "2026-09-03T09:24:22.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689793.shtml",
+      "publishedAt": "2026-09-03T11:55:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -301,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689682.shtml",
-      "title": "敦煌鸣沙山下农文旅融合 激活乡村“多元增收链”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-03/10689784.shtml",
+      "title": "美国青年孔子故里感知儒家文化",
       "category": "综合",
-      "summary": "中新网兰州9月3日电 (朱丽媛 李瑞瑞)初秋时节，甘肃敦煌天高云淡，清风送爽。鸣沙山下的乡村绿洲，李广桃迎来丰收季。得益于戈壁滩充足的日照与显著的昼夜温差，连片桃林郁郁葱葱，饱满圆润的果实缀满枝头，果皮绿中透红、色泽鲜亮。果农们穿梭林间，忙着采摘、分拣；电商网点内，打包、贴单、发货井然有序，线上线下销售两旺，戈壁乡村洋溢着丰收的喜悦。",
+      "summary": "9月3日，山东曲阜，中美青年主题交流系列活动在山东曲阜持续举行。来华参加“青年伙伴国际交流计划·2026中美青年亚太同心之旅”的哈佛大学、芝加哥大学等10所美国高校的100余名青年师生参访孔子故里，感知儒家文化。图为美国青年师生参访孔庙，触摸古树。中新社记者 李明芮 摄 9月3日，山东曲阜，中美青年主题交流系列活动在山东曲阜持续举行。来华参加“青年伙伴国际交",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689682.shtml",
-      "publishedAt": "2026-09-03T09:22:12.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-03/10689784.shtml",
+      "publishedAt": "2026-09-03T11:54:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -319,272 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689679.shtml",
-      "title": "（长征胜利90周年）湖北红安：“红军粮”“红军布”变身富民产业",
-      "category": "综合",
-      "summary": "中新网湖北红安9月3日电 题：湖北红安：“红军粮”“红军布”变身富民产业",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689679.shtml",
-      "publishedAt": "2026-09-03T09:21:46.000Z",
+      "id": "sspai-https://sspai.com/post/114154",
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+      "category": "科技",
+      "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114154",
+      "publishedAt": "2026-09-03T10:18:06.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689676.shtml",
-      "title": "从吃好到吃健康 金龙鱼的“大国食事”",
-      "category": "综合",
-      "summary": "粮油是国计民生的根基产业。长期以来，粮油加工多以初加工为主，大量农产品副产物被视作废料，资源价值得不到充分挖掘。如何摆脱粗放加工模式，实现资源高效利用，提升农产品附加值，是粮油行业面临的共同课题，也是推动我国从农业大国迈向农业强国的关键所在。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689676.shtml",
-      "publishedAt": "2026-09-03T09:12:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689677.shtml",
-      "title": "相差81岁“老朋友”的跨时空友谊",
-      "category": "综合",
-      "summary": "视频：相差81岁“老朋友”的跨时空友谊来源：中国日报网",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689677.shtml",
-      "publishedAt": "2026-09-03T09:11:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689675.shtml",
-      "title": "秀我中国丨“赛考斯”：我的心有一部分留在了中国",
-      "category": "综合",
-      "summary": "视频：秀我中国丨“赛考斯”：我的心有一部分留在了中国来源：新华网",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689675.shtml",
-      "publishedAt": "2026-09-03T09:09:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689674.shtml",
-      "title": "视频丨日本战争之“毒”不容掩盖 总台记者曝光日军毒气战罪证",
-      "category": "综合",
-      "summary": "今天是中国人民抗日战争暨世界反法西斯战争胜利81周年纪念日。1945年9月2日，日本政府正式签署投降书。战争期间，日本在多地生产毒气、制造毒气弹、培训从事毒气战的人员，并在中国多地实施毒气战。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689674.shtml",
-      "publishedAt": "2026-09-03T09:07:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689673.shtml",
-      "title": "外国专家赞叹广州地铁：比东京伦敦巴黎更棒",
-      "category": "综合",
-      "summary": "中新网9月3日电 (记者 刘文文 王庆然)“这是我一生中最棒的地铁体验”，正在广州参访的孟加拉国南北大学南亚政策与治理研究所教授谢赫#12539;陶菲克#12539;莫亚泽穆勒#12539;哈克尝鲜广州地铁18号线，这是国内第一条时速160千米的全地下市域快线。他告诉中新社记者，自己体验过东京、伦敦、巴黎、纽约等大城市的地铁，广州地铁无疑是最棒的，速度、洁净",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689673.shtml",
-      "publishedAt": "2026-09-03T09:03:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-03/10689671.shtml",
-      "title": "民建潮安总支开展奖学助学活动 25名学子获帮扶",
-      "category": "综合",
-      "summary": "8月31日，由民建潮安总支资助举办的“兴枫护航逐梦·勤学励志兴邦”枫溪镇2026年奖学助学活动在瓷都中学举行。中共潮安区委统战部、枫溪镇人民政府、民建潮安总支等相关负责同志及民建会员、师生代表参加活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-03/10689671.shtml",
-      "publishedAt": "2026-09-03T09:02:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-03/10689667.shtml",
-      "title": "海风吹拂处，重闻“电波”回响——探访香港西贡抗战遗址",
-      "category": "综合",
-      "summary": "中新社香港9月3日电 题：海风吹拂处，重闻“电波”回响——探访香港西贡抗战遗址",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-03/10689667.shtml",
-      "publishedAt": "2026-09-03T09:01:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689660.shtml",
-      "title": "2026世界动力电池大会四川宜宾开幕 发布8项创新技术",
-      "category": "综合",
-      "summary": "中新社四川宜宾9月3日电 (程兆)2026世界动力电池大会3日在四川宜宾开幕。开幕式上，8项2026动力电池创新技术集中发布，电池行业绿色供应链建设行动、国道318四川沿线零碳运输走廊建设项目同时启动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689660.shtml",
-      "publishedAt": "2026-09-03T09:00:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689669.shtml",
-      "title": "外交部正告日本右翼势力：坚持和平发展才是正道",
-      "category": "综合",
-      "summary": "新华社北京9月3日电(记者马卓言、曹嘉玥)针对日本防卫省2027财年预算概算要求总额再创历史新高，外交部发言人郭嘉昆9月3日在例行记者会上答问时表示，长期以来，日本右翼势力妄图为侵略历史翻案，挣脱战后国际安排与国际义务。“我们正告日本右翼势力，日本恪守国际义务、彻底清算军国主义遗毒、坚持和平发展才是正道。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689669.shtml",
-      "publishedAt": "2026-09-03T08:59:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-03/10689665.shtml",
-      "title": "“沙德尔”减弱为热带低压 国家海洋预报台发布风暴潮警报解除通报",
-      "category": "综合",
-      "summary": "中新网9月3日电 据中国海洋预报网站消息，国家海洋预报台根据《海洋灾害应急预案》发布风暴潮警报解除通报。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-03/10689665.shtml",
-      "publishedAt": "2026-09-03T08:59:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-03/10689659.shtml",
-      "title": "中国专家成功借量子纠缠提取粒子信息",
-      "category": "综合",
-      "summary": "中新社上海9月3日电 (记者 陈静)复旦大学3日披露，该校现代物理研究所学者罗涛团队与合作者成功借量子纠缠提取粒子信息。这项研究成果于北京时间2026年9月2日晚间在《自然》(Nature)发表。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689659.shtml",
-      "publishedAt": "2026-09-03T08:58:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-03/10689666.shtml",
-      "title": "墨西哥“大V”：国际社会对华印象正在发生巨大积极变化",
-      "category": "综合",
-      "summary": "中新网9月3日电 (记者 程景伟 范思忆)“外国人对中国的印象正在发生巨大变化。”亚太媒体高端论坛珠海分论坛3日下午在港珠澳大桥蓝海豚岛举行，全网粉丝量近千万的“大V”、墨西哥MPV传媒公司总监迭戈·鲁萨林接受中新社记者采访时称，近来，随着更多人能够自由出行，以及媒体内容特别是社交媒体的开放性和可获取性不断增强，这种变化尤为明显，那些主要基于错误信息的旧有担",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689666.shtml",
-      "publishedAt": "2026-09-03T08:57:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-03/10689664.shtml",
-      "title": "中国初中、高中篮球联赛新赛季启动 丁彦雨航任成长导师",
-      "category": "综合",
-      "summary": "中新网北京9月3日电 9月2日，2026-2027赛季中国初中、高中篮球联赛新赛季启动仪式在北京举行。仪式上公布，中国男篮前国手丁彦雨航正式出任联赛成长导师，未来将深度参与联赛新赛季推广活动，走进各地中学，为青少年球员传递经验与精神力量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-03/10689664.shtml",
-      "publishedAt": "2026-09-03T08:57:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-03/10689658.shtml",
-      "title": "海外华侨与抗日战争暨世界反法西斯战争纪念特展在沈阳开展",
-      "category": "综合",
-      "summary": "中新网沈阳9月3日电 (记者 韩宏)沈阳“九·一八”历史博物馆联合中国华侨历史博物馆共同打造的《万里同心——海外华侨与抗日战争暨世界反法西斯战争纪念特展》，3日在沈阳“九·一八”历史博物馆和平厅正式对公众开放。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-03/10689658.shtml",
-      "publishedAt": "2026-09-03T08:57:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -1196,24 +1214,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/114071",
       "publishedAt": "2026-09-01T07:18:43.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114062",
-      "title": "开学季｜值得关注的官翻渠道汇总（2026）",
-      "category": "科技",
-      "summary": "不管你是大学新生想要购置数码产品，还是即将踏入职场的毕业生租房想要添置小家电，在处于身份和环境转换的新阶段里，都可以试着把钱用在刀刃上、选择性价比更高的产品和销售渠道。 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/114062",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
       "tags": [
         "科技",
         "效率",
