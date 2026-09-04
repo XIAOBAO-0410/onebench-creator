@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114175",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "meta": "少数派 · 2026/9/4",
+      "url": "https://sspai.com/post/114175",
+      "publishedAt": "2026-09-04T09:32:48.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114110",
       "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
       "meta": "少数派 · 2026/9/4",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/2",
       "url": "https://sspai.com/post/114084",
       "publishedAt": "2026-09-02T09:40:56.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/80562",
-      "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
-      "meta": "少数派 · 2026/9/2",
-      "url": "https://sspai.com/post/80562",
-      "publishedAt": "2026-09-02T07:22:27.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T10:29:05.301Z",
+  "updatedAt": "2026-09-04T12:34:55.317Z",
   "provider": "OneBench 公共资讯快照"
 }

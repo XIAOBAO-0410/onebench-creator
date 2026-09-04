@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#0",
+      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後透露什麼",
+      "meta": "BBC 中文 · 2026/9/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T11:04:50.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad#3",
+      "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
+      "meta": "BBC 中文 · 2026/9/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T10:56:52.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy4z8w39j3no/trad#3",
+      "title": "前線報導：BBC深入尼泊爾隧道和被洪水吞沒的小鎮",
+      "meta": "BBC 中文 · 2026/9/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cy4z8w39j3no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T10:25:57.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad#2",
       "title": "加拿大新鈔首印查爾斯國王肖像，為英國以外首例",
       "meta": "BBC 中文 · 2026/9/4",
@@ -19,7 +40,7 @@
       "publishedAt": "2026-09-04T07:41:46.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad#2",
       "title": "行走在紐約：我發現監控攝像頭數量遠超想像",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad?at_medium=RSS&at_campaign=rss",
@@ -31,13 +52,6 @@
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T05:57:06.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/trad#2",
-      "title": "「我面試完就被捲走了積蓄」——Z世代求職者成為詐騙目標",
-      "meta": "BBC 中文 · 2026/9/4",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T05:25:38.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad#0",
@@ -159,25 +173,11 @@
       "publishedAt": "2026-09-01T04:44:45.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgy4vd7ny4o/trad#3",
-      "title": "前線報導：尼泊爾洪災逾900人罹難 民眾絕望尋找失蹤親人",
-      "meta": "BBC 中文 · 2026/8/31",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgy4vd7ny4o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T10:56:56.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#1",
       "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
       "meta": "BBC 中文 · 2026/8/30",
       "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T12:37:59.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad#3",
-      "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
-      "meta": "BBC 中文 · 2026/8/28",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T02:06:41.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T10:29:05.301Z",
+  "updatedAt": "2026-09-04T12:34:55.317Z",
   "provider": "OneBench 公共资讯快照"
 }
