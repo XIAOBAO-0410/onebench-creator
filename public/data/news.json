@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T14:28:30.120Z",
-  "expiresAt": "2026-09-04T20:28:30.120Z",
+  "generatedAt": "2026-09-04T16:28:56.546Z",
+  "expiresAt": "2026-09-04T22:28:56.546Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,473 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml",
+      "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
+      "category": "综合",
+      "summary": "乌克兰总统泽连斯基4日在社交媒体发文称，位于乌首都基辅市中心的乌国家安全局总部当天遭俄军无人机袭击。乌克兰媒体同日援引消息人士的话报道称，出于安全担忧，计划访问俄罗斯和乌克兰的美国总统特使威特科夫正在考虑代替访问的其他方案。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml",
+      "publishedAt": "2026-09-04T15:49:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml",
+      "title": "记者手记：吉隆口岸的迷彩守护",
+      "category": "综合",
+      "summary": "新华社西藏吉隆9月3日电 记者手记：吉隆口岸的迷彩守护",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml",
+      "publishedAt": "2026-09-04T15:20:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-04/10690739.shtml",
+      "title": "专家：白露养生重在顺应天时 核心在于“润”“敛”",
+      "category": "综合",
+      "summary": "中新网广州9月4日电 (记者 蔡敏婕)今年9月7日将迎来白露节气，这是秋季的第三个节气，暑气至此渐消，昼夜温差明显拉大。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690739.shtml",
+      "publishedAt": "2026-09-04T15:01:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
+      "title": "2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕",
+      "category": "综合",
+      "summary": "中新网成都9月4日电 (王利文)2026年“一带一路”脑健康与脑器交互科技国际会议4日在成都召开。会议由四川省科学技术厅等单位指导，电子科技大学主办，中国—古巴神经技术与脑器交互“一带一路”联合实验室等承办，来自12个国家和地区的近千名专家、学者和企业家参会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
+      "publishedAt": "2026-09-04T14:58:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690737.shtml",
+      "title": "祥鹏航空乌鲁木齐⇌和田⇌阿里航线顺利首航 畅通疆藏联动空中廊道",
+      "category": "综合",
+      "summary": "中新网拉萨9月4日电(白玛玉珍 周柄帆 艾芯羽)9月3日13时05分，祥鹏航空8L9994航班平稳降落在和田昆冈机场，机场以民航最高礼仪“过水门”仪式迎接航班抵达，标志着乌鲁木齐#8652;和田#8652;阿里航线顺利完成首航。至此，新疆乌鲁木齐、和田与西藏阿里三地间的空中通道正式贯通，为沿线民众出行及区域经贸文旅交流提供了更便捷的航空保障。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690737.shtml",
+      "publishedAt": "2026-09-04T14:58:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml",
+      "title": "广东数字化赋能就业服务 打通求职服务“最后一公里”",
+      "category": "综合",
+      "summary": "中新网广州9月4日电 (记者 王坚)“百万英才汇南粤”是广东启动实施的高规格招才引智行动计划，“粤就业”作为“百万英才汇南粤”行动省级平台，以数字化手段，为高校毕业生和各类人才搭建起高效便捷的线上对接渠道。目前，“粤就业”累计发布“百万英才汇南粤”招聘活动超2000场次，线上平台参加招聘企业累计超4.6万家，归集岗位超247万个。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml",
+      "publishedAt": "2026-09-04T14:58:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690735.shtml",
+      "title": "绿色合作持续转型 外商投资企业“对话山西”",
+      "category": "综合",
+      "summary": "中新网太原9月4日电 (记者 李庭耀)4日下午，作为2026年太原能源低碳发展论坛五场国际会议之一，“投资中国 对话山西”外商投资企业圆桌论坛在山西太原举办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690735.shtml",
+      "publishedAt": "2026-09-04T14:58:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690731.shtml",
+      "title": "直击福建莆田抢险：救援清淤不松懈 安置保障暖民心",
+      "category": "综合",
+      "summary": "中新社福建莆田9月4日电 题：直击福建莆田抢险：救援清淤不松懈 安置保障暖民心",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690731.shtml",
+      "publishedAt": "2026-09-04T14:57:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-04/10690729.shtml",
+      "title": "中新健康｜腰围莫名变粗、腹胀不消？当心是卵巢癌早期信号",
+      "category": "综合",
+      "summary": "中新网北京9月4日电(记者 赵方园)近期，不少人开始留意卵巢癌的相关话题。不同于筛查手段已经很成熟的宫颈癌、乳腺癌，卵巢癌位置隐匿，很容易被人们忽略。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690729.shtml",
+      "publishedAt": "2026-09-04T14:56:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-04/10690732.shtml",
+      "title": "“张雪机车”德比斯法国站夺杆位 队友排第二",
+      "category": "综合",
+      "summary": "新华社马尼库尔9月4日电(记者周楚昀)世界超级摩托车锦标赛法国站4日在讷韦尔-马尼库尔赛道举行，中国摩托车制造商“张雪机车”车手瓦伦丁·德比斯在WorldSSP组别排位赛中获得杆位，队友卡里卡苏洛排名第二。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-04/10690732.shtml",
+      "publishedAt": "2026-09-04T14:53:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690728.shtml",
+      "title": "多款“硬核”人形机器人亮相第二十一届中博会具身智能展",
+      "category": "综合",
+      "summary": "中新网广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会正在广州举行，在具身智能展区，近70家企业携核心产品参展，覆盖核心零部件、人形机器人整机、AI算法和行业应用等产业链关键环节，呈现行业技术创新与应用落地成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690728.shtml",
+      "publishedAt": "2026-09-04T14:51:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690727.shtml",
+      "title": "5年建500家零碳工厂！中国工厂正在加速变绿",
+      "category": "综合",
+      "summary": "今年7月，国家级零碳工厂建设正式启动。“十五五”期间，我国要培育建设500家零碳工厂。从北京亦庄的风电装备工厂，到上海金山的电缆厂，零碳工厂正逐步从概念变成现实。零碳工厂到底长啥样？它会给生产生活带来怎样的变化呢？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690727.shtml",
+      "publishedAt": "2026-09-04T14:40:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690726.shtml",
+      "title": "“千年药乡”甘肃开“仓”迎客",
+      "category": "综合",
+      "summary": "中新网甘肃定西9月4日电 (戴文昌 田鹏鹤)4日，第七届中国(甘肃)中医药产业博览会在甘肃省定西市陇西县开幕。素有“千年药乡”“天然药仓”之称的甘肃，正式开“仓”迎客，上千名海内外客商循着药香而来。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690726.shtml",
+      "publishedAt": "2026-09-04T14:37:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690725.shtml",
+      "title": "中国首个科学玩具团体标准发布",
+      "category": "综合",
+      "summary": "中新网北京9月4日电 (记者 孙自法)如何界定科学玩具、科学玩具有哪些类别、有什么基本要求和功能要求……作为中国首个科学玩具团体标准，中国科普作家协会9月4日发布的《科学玩具分类和功能要求》给出了明确答案。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690725.shtml",
+      "publishedAt": "2026-09-04T14:33:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#0",
+      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後的角力",
+      "category": "国际",
+      "summary": "8月初，韓國舉行的光州雙年展因主辦單位改動「台灣館」名稱陷入爭議。事件曝光後，台灣參展藝術家提出抗議，當地許多藝術家、民眾也進行聲援。主辦單位最終同意恢復使用「台灣館」，但引起中方不滿。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T14:33:16.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690723.shtml",
+      "title": "广西崇左市宁明县多措并举推进灾后农业复产工作",
+      "category": "综合",
+      "summary": "中新网崇左9月4日电(吕桂文)受台风“紫檀”影响，广西崇左市宁明县近期遭遇严重洪涝灾害，农业生产损失惨重。洪水退去后，该县及早谋划，迅速行动，多措并举推动灾后复产复种工作，以弥补台风造成的经济损失。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690723.shtml",
+      "publishedAt": "2026-09-04T14:32:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690722.shtml",
+      "title": "文博IP从展厅走向街头 上海旅游节经典活动季启幕",
+      "category": "综合",
+      "summary": "中新网上海9月4日电 (杨硕 李佳佳)第37届上海旅游节大巡游以“上海之约·美好相逢”为主题，近期将在外滩金牛广场启幕。本届大巡游在方队节目编排上首次实现与同期重磅文博展览的IP联动，让文博IP从“展厅”走向“街头”。这是记者4日从第37届上海旅游节经典活动季重点主题活动新闻通气会上获得的信息。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690722.shtml",
+      "publishedAt": "2026-09-04T14:32:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690721.shtml",
+      "title": "辽宁省汇聚慈善力量让红山文化“活起来”",
+      "category": "综合",
+      "summary": "中新网沈阳9月4日电 (记者 李晛)9月5日是中国第十一个“中华慈善日”。2026年“中华慈善日”主题宣传暨红山文化特色主题“古国牛河梁”即开型福利彩票全国上市发行活动9月4日在沈阳举办。辽宁省政府副省长楚天运出席活动并致辞。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690721.shtml",
+      "publishedAt": "2026-09-04T14:31:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-04/10690720.shtml",
+      "title": "实景园林绘烟火群像 《兰香如故》官宣定档",
+      "category": "综合",
+      "summary": "中新网北京9月4日电 (记者 高凯)由桐华、箫楼编剧，黄颖湘、陈丹执导的古装社会家庭大剧《兰香如故》4日官宣定档，将于9月11日起在CCTV-8播出。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-04/10690720.shtml",
+      "publishedAt": "2026-09-04T14:31:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690719.shtml",
+      "title": "福建莆田洪灾安置点灯火暖",
+      "category": "综合",
+      "summary": "中新网莆田9月4日电 (叶秋云)4日，中新网一行驱车从莆田仙游前往市城厢区，沿途多处可见滑坡、塌方，多辆汽车因涉水抛锚。在华亭镇，积水仍未退去，消防救援人员正紧急转移民众。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690719.shtml",
+      "publishedAt": "2026-09-04T14:28:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690716.shtml",
+      "title": "第七届辽洽会深耕东北亚经贸合作 蒙古国担任主宾国",
+      "category": "综合",
+      "summary": "中新网沈阳9月4日电 (记者 韩宏)记者4日从辽宁省政府新闻办召开的发布会上获悉，第七届中国辽宁国际投资贸易洽谈会(以下简称“辽洽会”)持续深耕东北亚经贸合作圈，邀请蒙古国作为本届辽洽会主宾国。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690716.shtml",
+      "publishedAt": "2026-09-04T14:28:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690714.shtml",
+      "title": "首届全国科普创作者大会开幕 中国科普作家协会解读四大关键词",
+      "category": "综合",
+      "summary": "中新网浙江湖州9月4日电 (记者 孙自法)作为2026年全国科普月的一项重要活动，由中国科普作家协会主办的首届全国科普创作者大会9月4日在浙江省湖州市德清县开幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690714.shtml",
+      "publishedAt": "2026-09-04T14:27:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690691.shtml",
+      "title": "第二十一届中博会在广州继续开展 吸引参观者",
+      "category": "综合",
+      "summary": "9月4日，埃及展区的工作人员向参观者推荐地毯。第二十一届中国国际中小企业博览会（简称“中博会”）于9月3日至6日在广州市广交会展馆开展。本届中博会国际展区及港澳台展区展位总数718个，共有来自43个国家（地区）及国际组织的510家优秀企业参展。中新社记者 陈楚红 摄 9月4日，希腊展区的工作人员为参观者调制饮品。第二十一届中国国际中小企业博览会（简称“中博会",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690691.shtml",
+      "publishedAt": "2026-09-04T14:25:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690684.shtml",
+      "title": "天津：民众打卡旅博会解锁多元文旅新体验",
+      "category": "综合",
+      "summary": "9月4日，天津，民众参观掐丝工艺品。当日，2026中国文化旅游产业博览会迎来公众开放日，吸引许多市民和游客逛展打卡，沉浸式解锁多元文旅新体验。中新社记者 佟郁 摄 9月4日，天津，民众沉浸式体验VR摩托骑行。当日，2026中国文化旅游产业博览会迎来公众开放日，吸引许多市民和游客逛展打卡，沉浸式解锁多元文旅新体验。中新社记者 佟郁 摄 9月4日，天津，民众在科",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690684.shtml",
+      "publishedAt": "2026-09-04T14:25:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690715.shtml",
+      "title": "宁夏各地机场升级服务 以文旅融合打造有温度的城市门户",
+      "category": "综合",
+      "summary": "中新网银川9月4日电 (记者 李佩珊)记者4日从宁夏机场公司获悉，银川、中卫、固原三地机场今后将不再局限于航空运输中转功能，立足“城市会客厅”定位，将本土风物、地域文化融入航站楼服务细节，让往来旅客在出行途中感受塞上大地的温情。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690715.shtml",
+      "publishedAt": "2026-09-04T14:25:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690712.shtml",
+      "title": "海南精细化规范城镇开发边界管理 提升国土空间治理水平",
+      "category": "综合",
+      "summary": "中新网海口9月4日电 (尹建军 陈甲勇)记者4日从海南省自然资源和规划厅获悉，《海南省城镇开发边界管理实施细则(试行)》近日在全国率先出台，通过细化管控标准、优化调整规则、创新激励机制，进一步健全城镇开发边界精细化管理体系，有效破解规划落地难题、提升国土空间治理水平。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690712.shtml",
+      "publishedAt": "2026-09-04T14:25:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690711.shtml",
       "title": "多方在广州签约共建烧伤跨境医疗服务枢纽",
@@ -122,456 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690700.shtml",
-      "title": "联合国教科文组织海委会主席：中国已成“海洋十年”重要引领者",
-      "category": "综合",
-      "summary": "中新社山东青岛9月4日电 (张孝鹏)在4日开幕的联合国“海洋十年”2026青岛国际海洋素养大会上，联合国教科文组织政府间海洋学委员会(UNESCO-IOC，简称“联合国教科文组织海委会”)主席道田豊(Yutaka Michida)视频致辞时说，中国已成为“海洋科学促进可持续发展十年(2021-2030)”(简称“海洋十年”)的重要引领者。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690700.shtml",
-      "publishedAt": "2026-09-04T14:18:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690707.shtml",
-      "title": "海外客商云集浙江绍兴宠博会 智能产品“吸睛”",
-      "category": "综合",
-      "summary": "中新社浙江绍兴9月4日电(蓝伊旎)2026绍兴国际宠物用品博览会9月4日至6日在浙江绍兴举办，汇聚100余家宠物行业展商，展品覆盖宠物食品、日用用品、医疗健康、智能设备等类目。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690707.shtml",
-      "publishedAt": "2026-09-04T14:17:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690706.shtml",
-      "title": "山西晋源非遗月饼产销两旺 老味道融入新创意走俏市场",
-      "category": "综合",
-      "summary": "中新网太原9月4日电 题：山西晋源非遗月饼产销两旺 老味道融入新创意走俏市场",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690706.shtml",
-      "publishedAt": "2026-09-04T14:12:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690687.shtml",
-      "title": "国家一级保护动物黑鹳亚成体在天津蓟州获救",
-      "category": "综合",
-      "summary": "中新网天津9月4日电 (孙翼飞)4日，记者从天津市蓟州区获悉，该区林业局湿地野保站于当日在礼明庄镇周各庄村成功救护一只国家一级重点保护动物黑鹳亚成体。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690687.shtml",
-      "publishedAt": "2026-09-04T14:11:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-04/10690702.shtml",
-      "title": "“香港周”活动首次落地成都 展示香港多元文化力量",
-      "category": "综合",
-      "summary": "中新社成都9月4日电 (记者 岳依桐)“香港周2026@成都”活动(下称“香港周”)4日晚在成都拉开帷幕。活动将呈献16个节目逾60场精彩演出、展览及电影放映，涵盖舞蹈、音乐、戏剧、非物质文化遗产、玩具文化及室内设计等范畴。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690702.shtml",
-      "publishedAt": "2026-09-04T14:11:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690704.shtml",
-      "title": "开局之年看中国·日新江淮｜从“云”到“算”，宿州抢跑算力新赛道",
-      "category": "综合",
-      "summary": "国际在线报道(记者 胡晓薇)：机房里，一排排服务器整齐排列，指示灯持续闪烁。在宿州市算力产业园，一座数据中心看似平静，实则却承载着来自不同地区的计算需求。9月3日，记者随“开局之年看中国·日新江淮”网络主题宣传活动走进安徽宿州，探访这座城市算力产业的发展脉络。如今，从云计算到智能算力，从数据存储到人工智能模型训练，曾经服务于“上云”的基础设施，正在成为支撑新",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690704.shtml",
-      "publishedAt": "2026-09-04T14:10:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/kong/2026/09-04/10690701.shtml",
-      "title": "中国经济面面观丨“暑期档”热度延续，文旅行业从“流量拉动”走向“留量沉淀”",
-      "category": "综合",
-      "summary": "今年暑期，文旅消费热力十足，游客出游热情高涨。7至8月暑运期间，全国铁路累计发送旅客9.54亿人次，全国民航累计运送旅客1.51亿人次。客流如潮，流动的不仅是人，更是消费和活力，是当前我国服务消费蓬勃发展的生动注脚。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/kong/2026/09-04/10690701.shtml",
-      "publishedAt": "2026-09-04T14:08:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690696.shtml",
-      "title": "西藏自治区紧急援助尼泊尔贝雷桥等物资完成交接",
-      "category": "综合",
-      "summary": "中新社西藏日喀则9月4日电 (记者 江飞波)西藏自治区向尼泊尔紧急援助的贝雷桥等物资9月4日在日喀则市里孜口岸顺利完成交接。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690696.shtml",
-      "publishedAt": "2026-09-04T14:07:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690698.shtml",
-      "title": "把脚下的泥泞重新走成路（记者手记）",
-      "category": "综合",
-      "summary": "救援人员组成突击队，徒步翻越密林荆棘，硬生生蹚出一条生命探测线——这“一米”的探索，不是一个人孤身涉险，而是一群人用无畏和执着寻找希望的坐标。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690698.shtml",
-      "publishedAt": "2026-09-04T14:05:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-04/10690697.shtml",
-      "title": "app专题外链：青春华章·向新而行",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-04/10690697.shtml",
-      "publishedAt": "2026-09-04T14:05:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-04/10690673.shtml",
-      "title": "港交所前8个月IPO集资额同比增153%",
-      "category": "综合",
-      "summary": "中新社香港9月4日电 香港交易及结算所有限公司(简称“港交所”)4日公布，2026年前8个月港股市场首次公开招股(IPO)集资金额为3424亿元(港元，下同)，较去年同期的1351亿元增长153%；总集资金额为6513亿元，同比增长76%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690673.shtml",
-      "publishedAt": "2026-09-04T14:01:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690686.shtml",
-      "title": "广东防御台风“沙德尔” 组织水库预泄腾库2.8亿立方米",
-      "category": "综合",
-      "summary": "中新网广州9月4日电 (记者 王坚)广东省水利厅4日晚通报称，今年第18号台风“沙德尔”带来的强降雨给广东造成了严重影响，3日18时韩江发生2026年第1号洪水。为防御“沙德尔”，该厅下发45宗纳雨能力小于150毫米的水库清单，组织预泄腾库2.8亿立方米，提前做好拦洪运用准备。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690686.shtml",
-      "publishedAt": "2026-09-04T14:01:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690671.shtml",
-      "title": "北京出台20项举措促家政服务业发展",
-      "category": "综合",
-      "summary": "中新社北京9月4日电 (记者 吕少威)北京市商务局等六部门4日发布《进一步提升居家照护服务质量 推进家政服务业健康发展工作实施方案》(下称：实施方案)，提出20项具体举措以提升家政服务产业化、标准化、组织化、职业化水平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690671.shtml",
-      "publishedAt": "2026-09-04T14:01:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-04/10690679.shtml",
-      "title": "2026中国大海道（国际）摩托越野拉力赛新疆开赛",
-      "category": "综合",
-      "summary": "中新社新疆哈密9月4日电 (苟继鹏)2026中国大海道(国际)摩托越野拉力赛4日在新疆哈密市开赛，吸引来自法国、捷克、蒙古国、奥地利、中国等国的上百位赛车手参赛。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-04/10690679.shtml",
-      "publishedAt": "2026-09-04T14:00:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690685.shtml",
-      "title": "2026装备制造业发展大会将于12月在苏州举行",
-      "category": "综合",
-      "summary": "中新网北京9月4日电 记者4日从中国机械工业联合会获悉，2026装备制造业发展大会(EMF2026)将于12月4日-6日在苏州举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690685.shtml",
-      "publishedAt": "2026-09-04T14:00:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690682.shtml",
-      "title": "中国绿色能源转型为亚太产业合作提供新契机",
-      "category": "综合",
-      "summary": "中新社广东中山9月4日电 题：中国绿色能源转型为亚太产业合作提供新契机",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690682.shtml",
-      "publishedAt": "2026-09-04T13:59:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690690.shtml",
-      "title": "海南东部海域一渔船遇险 8人全部获救",
-      "category": "综合",
-      "summary": "中新网海口9月4日电 (记者 王子谦)记者4日晚从海南清澜海上搜救分中心获悉，4日14时28分，渔船“粤汕城渔运01390”在海南东部海域发生船舶进水险情，经过救援，船上8名船员安全脱险。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690690.shtml",
-      "publishedAt": "2026-09-04T13:59:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-04/10690692.shtml",
-      "title": "被下令逮捕的菲律宾副总统莎拉·杜特尔特，背后是两大家族存亡之战",
-      "category": "综合",
-      "summary": "9月4日，菲律宾地方法院针对副总统莎拉·杜特尔特下达逮捕令。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690692.shtml",
-      "publishedAt": "2026-09-04T13:58:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690634.shtml",
-      "title": "湖南支持老旧房屋自主更新 明确原拆原建等三种更新模式",
-      "category": "综合",
-      "summary": "中新网长沙9月4日电 (向一鹏)9月4日，湖南省住房和城乡建设厅、湖南省自然资源厅、湖南省财政厅联合印发《关于支持老旧住房自主更新的通知》(下称《通知》)，支持湖南城市(含县城)建成区国有土地上符合条件的老旧住房自主更新，消除住房安全隐患，提升住房品质。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690634.shtml",
-      "publishedAt": "2026-09-04T13:57:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-04/10690678.shtml",
-      "title": "韩国总统府：向霍尔木兹海峡派兵处于“研究审议”阶段",
-      "category": "综合",
-      "summary": "中新社首尔9月4日电 (记者 金旭)据韩联社当地时间4日报道，应美国要求，韩国政府正在考虑向霍尔木兹海峡派兵。对此，韩国总统府青瓦台表示，韩方目前仍在按照程序研究审议相关议案，尚未作出任何决定。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690678.shtml",
-      "publishedAt": "2026-09-04T13:57:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690677.shtml",
-      "title": "第32次APEC中小企业部长会议在广州举行",
-      "category": "综合",
-      "summary": "中新社广州9月4日电 (记者 刘亮 许青青)第32次亚太经合组织(APEC)中小企业部长会议4日在广东省广州市举办。会议形成并发布《第32次亚太经合组织(APEC)中小企业部长会议主席声明》，为亚太各经济体深化中小企业合作作出指引。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690677.shtml",
-      "publishedAt": "2026-09-04T13:55:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690650.shtml",
-      "title": "云南自主研发磁控无级调压技术实现“零越限”突破",
-      "category": "综合",
-      "summary": "中新网昆明9月4日电 (聂永杰 刘慧萍)云南电网公司9月4日消息，近日，位于云南楚雄、由该公司自主研发的两台磁控无级调压配电变压器在三个月的试用期内实现电压“零越限”，标志着该技术在解决分布式光伏接入等引发的电压质量问题上取得实质性突破。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690650.shtml",
-      "publishedAt": "2026-09-04T13:55:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690683.shtml",
-      "title": "开局之年看中国丨翻开名著读量子科技的中式浪漫",
-      "category": "综合",
-      "summary": "九章——掐指一算越过几千年时光",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690683.shtml",
-      "publishedAt": "2026-09-04T13:54:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690681.shtml",
-      "title": "第九届重庆市公民科学素质大赛收官",
-      "category": "综合",
-      "summary": "中新网重庆9月4日电 (记者 钟旖)第九届重庆市公民科学素质大赛总决赛4日在当地举行，标志着大赛正式收官。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690681.shtml",
-      "publishedAt": "2026-09-04T13:54:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690676.shtml",
-      "title": "台湾半导体业界析两岸合作：“绕开大陆产业链不切实际”",
-      "category": "综合",
-      "summary": "中新社台北9月4日电 (记者 朱贺)9月2日至4日在台北举行的“SEMICON Taiwan”半导体展上，多家台湾半导体企业人士接受中新社采访时表示，从早期“落子”大陆到共迎AI浪潮，两岸产业合作空间只增不减。在半导体领域，要绕开大陆产业链是不切实际的。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690676.shtml",
-      "publishedAt": "2026-09-04T13:53:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142739",
       "title": "【子午播报】2026年9月4日",
       "category": "国际",
@@ -586,23 +603,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#0",
-      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後透露什麼",
-      "category": "国际",
-      "summary": "8月初，韓國舉行的光州雙年展因主辦單位改動「台灣館」名稱陷入爭議。事件曝光後，台灣參展藝術家提出抗議，當地許多藝術家、民眾也進行聲援。主辦單位最終同意恢復使用「台灣館」，但引起中方不滿。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T11:04:50.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
