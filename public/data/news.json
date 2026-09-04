@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T08:30:41.290Z",
-  "expiresAt": "2026-09-04T14:30:41.290Z",
+  "generatedAt": "2026-09-04T10:29:05.301Z",
+  "expiresAt": "2026-09-04T16:29:05.301Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/09-04/10690394.shtml",
-      "title": "理响中国·图个明白｜40亿千瓦！中国的能源“家底”有多厚",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690490.shtml",
+      "title": "我国启动国际地月立方星座大科学计划",
       "category": "综合",
-      "summary": "截至2026年5月底，我国发电装机容量破40亿千瓦，规模位居全球首位。这样的能源“家底”让我国的能源饭碗端得又牢又稳，让绿色低碳转型更有底气。",
+      "summary": "新华社合肥9月4日电(记者陈诺、吴慧珺)记者4日从2026年深空探测(天都)国际会议上了解到，我国正式启动国际地月立方星座大科学计划，拟联合多个国家在地月空间部署卫星群，立体组网开展空间环境监测、伽马射线暴探测、月球资源勘探等工作，初步计划2030年左右完成全部卫星发射部署，填补全球地月空间系统性观测空白。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ll/2026/09-04/10690394.shtml",
-      "publishedAt": "2026-09-04T08:24:57.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690490.shtml",
+      "publishedAt": "2026-09-04T10:24:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-04/10690388.shtml",
-      "title": "迎游客留“创客”新疆喀什古城以旅游绘就民族交融新图景",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690479.shtml",
+      "title": "江苏扬州启动“人才大礼包”发放工作：一份礼包，一城厚爱",
       "category": "综合",
-      "summary": "迎游客留“创客”新疆喀什古城以旅游绘就民族交融新图景",
+      "summary": "中新网扬州9月4日电 (徐珊珊 刘维肖)一份礼包，承载一座城市的厚爱；一次选择，开启一场双向奔赴的旅程。4日，扬州市人力资源和社会保障局通报，扬州已正式启动2026年新入职大学生“人才大礼包”发放工作，以满满诚意迎接全国青年才俊。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-04/10690388.shtml",
-      "publishedAt": "2026-09-04T08:21:44.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690479.shtml",
+      "publishedAt": "2026-09-04T10:24:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690386.shtml",
-      "title": "时政新闻眼｜时隔10年再访埃及，习近平强调这些事",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690487.shtml",
+      "title": "青春华章｜ 逛科技展会 93.9%受访青年曾被“惊艳”",
       "category": "综合",
-      "summary": "当地时间9月2日晚，在结束埃及访问行程后，习近平主席亚非之行圆满收官。",
+      "summary": "看人形机器人跳舞、与AI面对面、体验最新的科技产品……如今，各种主题的科技展会吸引了不少年轻人的目光，去科技展会“打卡”成为年轻人追赶科技潮流的重要方式。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名青年参与的调查显示，78.5%的受访青年参观过科技类展会。去科技展会“打卡”，66.8%的受访青年是因为对AI、机器人、",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690386.shtml",
-      "publishedAt": "2026-09-04T08:20:00.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690487.shtml",
+      "publishedAt": "2026-09-04T10:22:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-04/10690376.shtml",
-      "title": "菲律宾地方法院下令逮捕副总统莎拉·杜特尔特",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690480.shtml",
+      "title": "开局之年看中国|绿电东送、船舶上天，乌江“水上超级电梯”开启“十五五”新航程",
       "category": "综合",
-      "summary": "中新网9月4日电 据路透社报道，当地时间4日，菲律宾司法部以及副总统莎拉·杜特尔特的律师证实，当地法院已对莎拉·杜特尔特下达逮捕令。",
+      "summary": "【环球网报道 记者石丁 朱马烈 许庆瑶 肖豫雯 梁希理】船在江中行，人在云中游。近日，记者跟随“视觉新国企·遗迹有奇迹”主题宣传活动走进贵州乌江构皮滩水电站，亲历一场“逆流而上”的垂直之旅，并推出短视频、vlog、微纪录片等融媒产品。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690376.shtml",
-      "publishedAt": "2026-09-04T08:19:30.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690480.shtml",
+      "publishedAt": "2026-09-04T10:20:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-04/10690378.shtml",
-      "title": "中国连续十七年成为东盟第一大贸易伙伴—— 今年东博会亮点有哪些",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690473.shtml",
+      "title": "主动控量、深耕全国，汾酒寻找增长新平衡",
       "category": "综合",
-      "summary": "第23届中国—东盟博览会、中国东盟商务与投资峰会将于近期在广西南宁举行。国新办近日举行新闻发布会，介绍中国同东盟经贸合作以及展会筹备有关情况。商务部副部长鄢东介绍，中国连续17年保持东盟第一大贸易伙伴的地位，今年1—7月，中国与东盟贸易总额达到7444.1亿美元，同比增长24.7%，占同期中国外贸总额比重上升至21.8%。",
+      "summary": "文/袁媛",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-04/10690378.shtml",
-      "publishedAt": "2026-09-04T08:16:56.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690473.shtml",
+      "publishedAt": "2026-09-04T10:19:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-04/10690375.shtml",
-      "title": "低价代充服务暗藏玄机 警惕电诈洗钱新套路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690485.shtml",
+      "title": "充分发挥资源优势 服务乡村全面振兴",
       "category": "综合",
-      "summary": "刷社交软件的时候，您或许见到过个人发布的代缴广告，声称可以打折帮您代缴话费、电费等，然而事实上这背后有可能隐藏着洗钱的黑灰产业链。近日，北京顺义警方就打掉了一个通过代缴电费方式洗白电诈赃款的犯罪团伙，跨省抓获嫌疑人11名。",
+      "summary": "民族要复兴，乡村必振兴。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-04/10690375.shtml",
-      "publishedAt": "2026-09-04T08:16:56.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690485.shtml",
+      "publishedAt": "2026-09-04T10:17:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-04/10690377.shtml",
-      "title": "宁夏利通：百家宴烹出“幸福味” 邻居节绘就“同心圆”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690464.shtml",
+      "title": "山东荣成：开海“第一网”满载而归",
       "category": "综合",
-      "summary": "利通区：百家宴烹出“幸福味” 邻居节绘就“同心圆”",
+      "summary": "9月3日，山东省荣成市各大渔港一派繁忙景象，开海后首批满载渔获的渔船陆续归港。渔民们在分拣、整理、装运各类渔获。眼下鲅鱼、带鱼等新鲜海货正大量上市，走俏市场。（无人机照片）李信君 摄 9月3日，山东省荣成市各大渔港一派繁忙景象，开海后首批满载渔获的渔船陆续归港。渔民们在分拣、整理、装运各类渔获。眼下鲅鱼、带鱼等新鲜海货正大量上市，走俏市场。李信君 摄 9月3",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-04/10690377.shtml",
-      "publishedAt": "2026-09-04T08:15:30.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690464.shtml",
+      "publishedAt": "2026-09-04T10:09:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-04/10690370.shtml",
-      "title": "教育部：将继续坚守师德师风第一标准",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690454.shtml",
+      "title": "16省区市民众文艺精品亮相宁夏美术馆",
       "category": "综合",
-      "summary": "中新网9月4日电 教育部于9月4日召开新闻发布会。会上，教育部教师工作司司长王磊表示，将继续坚守师德师风第一标准，坚决对师德失范行为“零容忍”。这既是教师职业操守的底线，也是对每一个学生、每一个家庭最郑重的承诺。",
+      "summary": "9月4日，宁夏银川，市民在宁夏美术馆内参观展览。8月28日-9月5日，“人民画卷·时代华章”第七届群众美术书法摄影作品省际巡回展（宁夏站）在宁夏美术馆举行。展览汇集全国16省区市138件民众文艺精品，涵盖多类艺术门类，展现各地文化风貌，设有主题影像墙，实现南北东西文化互鉴。中新社记者 于晶 摄 9月4日，宁夏银川，市民在宁夏美术馆内参观展览。8月28日-9月",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690370.shtml",
-      "publishedAt": "2026-09-04T08:14:02.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690454.shtml",
+      "publishedAt": "2026-09-04T10:08:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690359.shtml",
-      "title": "浙江省舟山市岱山县气象台发布大风黄色预警信号",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690476.shtml",
+      "title": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》",
       "category": "综合",
-      "summary": "中新网9月4日电 浙江省舟山市岱山县气象台2026年09月04日15时50分更新发布大风黄色预警信号：受冷空气和台风“科罗旺”外围环流共同影响，预计舟山市岱山县所有乡镇及附近海域今天东北到北风8-9级，夜里起9级，明天北到东北风9-10级，明天下午减弱到9级，后天偏北风8-9级，后天半夜减弱到8级。请注意防范大风对海上船舶、在建工程、高空作业、户外活动等产生",
+      "summary": "中新网9月4日电 据“网信中国”微信公众号消息，近日，中央网信办、国家发展改革委、工业和信息化部、生态环境部、住房城乡建设部、农业农村部、商务部七部门联合印发《促进数字化绿色化协同转型发展实施方案(2026-2030年)》(以下简称《实施方案》)，明确了“十五五”时期推进数字化绿色化协同转型发展(以下简称双化协同)的思路目标、重点任务和政策举措。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690359.shtml",
-      "publishedAt": "2026-09-04T08:13:16.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690476.shtml",
+      "publishedAt": "2026-09-04T10:04:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690351.shtml",
-      "title": "国家安全生产应急救援队伍构建立体化预警体系 全力保障救援行动安全",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690472.shtml",
+      "title": "海信IFA2026发布AI伴侣套系，加速从智能设备到智能伴侣升级",
       "category": "综合",
-      "summary": "中新网9月4日电 据应急管理部网站消息，西藏日喀则市吉隆县泥石流灾害发生后，应急管理部调派国家安全生产应急救援队伍跨区域增援，全力支持地方做好救援工作。9月4日，国家安全生产应急救援勘测队、国家隧道应急救援中国交建重庆队、国家隧道应急救援中铁二局西藏队等3支国家安全生产应急救援队伍39人分为两组，按照前方指挥部统一部署，继续在灾区布控监测点位，构建“地面雷达",
+      "summary": "当地时间9月3日，2026年柏林国际电子消费展览会(IFA)开幕前夕，海信在柏林官宣成为2028欧洲杯全球官方合作伙伴的同时，正式发布AI伴侣套系。这也是海信提出AI战略升级后，在产品端的重磅落地成果，实现了从“被动响应的智能设备”向“主动服务的智能家庭伴侣”的跨越。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690351.shtml",
-      "publishedAt": "2026-09-04T08:12:44.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690472.shtml",
+      "publishedAt": "2026-09-04T10:02:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690345.shtml",
-      "title": "国务院安委会办公室发布防范遏制工贸行业有限空间作业事故的风险提示",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690471.shtml",
+      "title": "第八届中国制药工业博览会在苏州开幕",
       "category": "综合",
-      "summary": "中新网9月4日电 据应急管理部网站消息，近日，国务院安委会办公室发布防范遏制工贸行业有限空间作业事故风险提示，通报今年以来工贸行业6起有限空间作业较大事故，提示各地区和相关企业深刻汲取事故教训，压实属地管理、部门监管和企业安全生产主体责任，切实抓好工贸行业有限空间作业风险防控，坚决防范遏制各类事故发生。",
+      "summary": "中新网苏州9月4日电(常慕城)第八届中国制药工业博览会4日上午于苏州国际博览中心启幕。数百家国内外知名生物医药企业参展，共探生物医药技术迭代、产业协作及项目落地新机遇。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690345.shtml",
-      "publishedAt": "2026-09-04T08:12:36.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690471.shtml",
+      "publishedAt": "2026-09-04T09:58:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,338 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-04/10690381.shtml",
-      "title": "良法善治·回响｜立德树人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690449.shtml",
+      "title": "青海尖扎：云山雾绕映照黄河岸畔碧水丹山",
       "category": "综合",
-      "summary": "“要从小树立远大志向，爱知识、爱劳动、爱自然，德智体美劳全面发展，努力成长为栋梁之材”“防止和纠正‘分数至上’等偏差，促进学生身心健康、全面发展”……习近平总书记始终关心关爱莘莘学子，多次叮咛学生们做到德智体美劳全面发展。",
+      "summary": "一场秋雨过后，青海省黄南藏族自治州尖扎县境内的黄河河面被薄雾笼罩、河水若隐若现，与远山勾勒出一幅碧水丹山的美丽画卷。（无人机照片） 王涛 摄 一场秋雨过后，青海省黄南藏族自治州尖扎县境内的黄河河面被薄雾笼罩、河水若隐若现，与远山勾勒出一幅碧水丹山的美丽画卷。（无人机照片） 王涛 摄 一场秋雨过后，青海省黄南藏族自治州尖扎县境内的黄河河面被薄雾笼罩、河水若隐若",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690381.shtml",
-      "publishedAt": "2026-09-04T08:12:34.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690449.shtml",
+      "publishedAt": "2026-09-04T09:50:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690470.shtml",
+      "title": "杂技剧《天山雪》在沪预演：剧场变身民族团结生动课堂",
+      "category": "综合",
+      "summary": "中新网上海9月4日电(范宇斌)日前，上海入选第七届全国少数民族文艺会演的杂技剧《天山雪》在上音歌剧院完成预演。上海市先进模范代表、“两新”就业群体、“开学第一课”青少年学生、人大代表、政协委员、基层民族工作者等1200余名群众齐聚剧场，共同观演。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690470.shtml",
+      "publishedAt": "2026-09-04T09:49:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690468.shtml",
+      "title": "第六届中国节水论坛在银川举行",
+      "category": "综合",
+      "summary": "中新网银川9月4日电 (罗鲁峤)由农工党中央主办的第六届中国节水论坛4日在银川举行。全国政协副主席、农工党中央常务副主席杨震，宁夏回族自治区党委书记、人大常委会主任李邑飞出席开幕式并致辞。全国政协副秘书长、农工党中央副主席王路主持开幕式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690468.shtml",
+      "publishedAt": "2026-09-04T09:47:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690461.shtml",
+      "title": "中方将参加东盟防长扩大会人道主义扫雷专家组实兵演习",
+      "category": "综合",
+      "summary": "中新社北京9月4日电 (记者 李纯)中国国防部新闻发言人蒋斌4日就近期涉军问题发布消息。他表示，9月7日至12日，中国人民解放军陆军将派出兵力赴俄罗斯，参加东盟防长扩大会人道主义扫雷专家组实兵演习。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690461.shtml",
+      "publishedAt": "2026-09-04T09:39:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690467.shtml",
+      "title": "受权发布丨电力安全事故应急处置和调查处理条例",
+      "category": "综合",
+      "summary": "新华社北京9月4日电",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690467.shtml",
+      "publishedAt": "2026-09-04T09:39:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690384.shtml",
+      "title": "河北赵县迎来雪花梨收获季 梨果产品远销海外",
+      "category": "综合",
+      "summary": "9月4日，航拍河北省石家庄市赵县部分梨园，成片梨树郁郁葱葱，当地雪花梨进入收获季。该县梨果种植面积约25万亩，梨果产品远销30多个国家和地区。（无人机照片）中新社记者 翟羽佳 摄 9月4日，航拍河北省石家庄市赵县南庄古梨园，梨树郁郁葱葱，当地雪花梨进入收获季。赵县古梨园为中国重要农业文化遗产，该县梨果种植面积约25万亩，梨果产品远销30多个国家和地区。（无人",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690384.shtml",
+      "publishedAt": "2026-09-04T09:38:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690462.shtml",
+      "title": "北京启动幼儿园大班儿童远视储备筛查 守护“视力存款”",
+      "category": "综合",
+      "summary": "中新网北京9月4日电 (记者 陈杭)记者4日从北京市教委获悉，北京全面启动幼儿园大班儿童远视储备筛查，覆盖全市2285所幼儿园，惠及约13.4万余名大班儿童，于今年5月正式启动，9月1日起集中开展，10月31日全部结束，力争构建起“筛查--建档--预警--分级管理--随访指导”全链条视力健康管理闭环，探索学龄前近视防控可复制推广的首都实践模式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690462.shtml",
+      "publishedAt": "2026-09-04T09:37:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-04/10690382.shtml",
+      "title": "2026环上海·新城自行车赛在嘉定新城开赛",
+      "category": "综合",
+      "summary": "图为9月4日，选手在嘉定新城赛段比赛中。中新社记者 殷立勤 摄 图为9月4日，选手在嘉定新城赛段比赛中。中新社记者 殷立勤 摄 图为9月4日，在嘉定新城赛段比赛中，选手从起点出发。中新社记者 殷立勤 摄 图为9月4日，选手在嘉定新城赛段比赛中。中新社记者 殷立勤 摄 图为9月4日，在嘉定新城赛段，赛前工作人员对选手的自行车进行调整。中新社记者 殷立勤 摄 图",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-04/10690382.shtml",
+      "publishedAt": "2026-09-04T09:37:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690465.shtml",
+      "title": "受权发布丨中华人民共和国国务院令 第845号",
+      "category": "综合",
+      "summary": "新华社北京9月4日电",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690465.shtml",
+      "publishedAt": "2026-09-04T09:35:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690432.shtml",
+      "title": "中国国防部：愿与上合组织成员国军队拓展深化防务安全合作",
+      "category": "综合",
+      "summary": "中新社北京9月4日电 (记者 李纯)中国国防部新闻发言人蒋斌4日就近期涉军问题发布消息。他表示，中国军队愿与上合组织成员国军队共同努力，持续拓展深化防务安全合作，为服务构建人类命运共同体贡献力量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690432.shtml",
+      "publishedAt": "2026-09-04T09:35:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690460.shtml",
+      "title": "门店掺假牟取暴利 上海浦东警方捣毁一销售假冒品牌电子烟窝点",
+      "category": "综合",
+      "summary": "中新网上海9月4日电(记者 李姝徵)当前，电子烟作为传统烟草的替代品持续走热，庞大的市场需求催生出了制假售假的犯罪链条。记者4日从上海浦东警方获悉，近日，浦东警方循线追踪成功抓获程某某、黄某等4名犯罪嫌疑人，当场查获7000余盒假冒知名品牌电子烟，涉案金额高达122万余元。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690460.shtml",
+      "publishedAt": "2026-09-04T09:33:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690459.shtml",
+      "title": "广东逾百个镇街遇强降雨 全省最大降雨量达240.5毫米",
+      "category": "综合",
+      "summary": "中新网广州9月4日电 (记者 王坚)广东受台风“沙德尔”及其残余环流影响，3日白天到4日早晨，全省有121个镇街遭遇暴雨、大暴雨，全省最大降雨量达240.5毫米。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690459.shtml",
+      "publishedAt": "2026-09-04T09:33:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690455.shtml",
+      "title": "广东将防风Ⅳ级应急响应调整为防汛Ⅳ级应急响应",
+      "category": "综合",
+      "summary": "中新网广州9月4日电 (记者 王坚)广东省4日6时将防风Ⅳ级应急响应调整为防汛Ⅳ级应急响应。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690455.shtml",
+      "publishedAt": "2026-09-04T09:32:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690463.shtml",
+      "title": "李强签署国务院令 公布修订后的《电力安全事故应急处置和调查处理条例》",
+      "category": "综合",
+      "summary": "新华社北京9月4日电 国务院总理李强日前签署国务院令，公布修订后的《电力安全事故应急处置和调查处理条例》(以下简称《条例》)，自2027年1月1日起施行。《条例》共38条，修订的主要内容如下。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690463.shtml",
+      "publishedAt": "2026-09-04T09:31:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-04/10690458.shtml",
+      "title": "专访中国女排名将赵蕊蕊：“允许一切发生”",
+      "category": "综合",
+      "summary": "中新网鄂尔多斯9月4日电 题：专访中国女排名将赵蕊蕊：“允许一切发生”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-04/10690458.shtml",
+      "publishedAt": "2026-09-04T09:30:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-04/10690456.shtml",
+      "title": "【青春华章·长征路上山河新】藏在家书里的长征故事",
+      "category": "综合",
+      "summary": "视频：【青春华章·长征路上山河新】藏在家书里的长征故事来源：中国青年网",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690456.shtml",
+      "publishedAt": "2026-09-04T09:28:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690457.shtml",
+      "title": "习近平致中央广播电视总台《小喇叭》节目开播70周年的贺信",
+      "category": "综合",
+      "summary": "新华社北京9月4日电",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690457.shtml",
+      "publishedAt": "2026-09-04T09:27:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-04/10690443.shtml",
+      "title": "菲律宾8月通胀率降至6.1% 连续四个月回落",
+      "category": "综合",
+      "summary": "中新社马尼拉9月4日电 (记者 周璟)菲律宾统计局4日公布数据显示，8月该国通胀率回落至6.1%，低于7月的6.2%，连续第四个月放缓。今年前8个月平均通胀率为5.2%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690443.shtml",
+      "publishedAt": "2026-09-04T09:21:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-04/10690451.shtml",
+      "title": "我们的“十五五”｜未来五年，医疗保障网更密更暖更牢",
+      "category": "综合",
+      "summary": "一份关系13亿多参保人的医疗保障蓝图，正式绘就。国家医保局公布《全民医疗保障“十五五”规划》，明确未来五年目标。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-04/10690451.shtml",
+      "publishedAt": "2026-09-04T09:21:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -283,312 +607,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690363.shtml",
-      "title": "时令水果变身百万爆款，伊利优酸乳在拼多多引燃饮品市场",
-      "category": "综合",
-      "summary": "8月27日晚，优酸乳在拼多多独家首发两款平台定制新品，优酸乳百香果菠萝味、优酸乳哈密瓜味火热开售。当晚，优酸乳邀请时代少年团走进拼多多直播间抢新试喝，花式游戏互动、亲笔签名等海量奖品派发吸引超百万网友围观拼购，在平台资源扶持下，开播便热销超百万元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690363.shtml",
-      "publishedAt": "2026-09-04T08:08:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690365.shtml",
-      "title": "教育部：我国将实行“教师发展国家行动”",
-      "category": "综合",
-      "summary": "今天，教育部在京召开新闻发布会，介绍我国教师队伍建设有关情况和第42个教师节庆祝活动。教育部相关负责人介绍，我国将实行“教师发展国家行动”，并从精神引领、培养质量、公平发展、关心关爱四个方面持续发力。我国将试点建设国家卓越教师学院，打造卓越教师培养改革的试验田，将实施“人工智能+教师发展”行动，建强用好国家智慧教育平台教师中心，启动教师人工智能素养全覆盖培训",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690365.shtml",
-      "publishedAt": "2026-09-04T08:07:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690373.shtml",
-      "title": "习近平主席的“比什凯克时间”：主动引领历史航向的大国担当",
-      "category": "综合",
-      "summary": "8月30日至9月1日，习近平主席来到比什凯克，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690373.shtml",
-      "publishedAt": "2026-09-04T08:07:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690362.shtml",
-      "title": "全国个体工商户服务月走进成都，抖音生活服务为服饰商家讲解经营新方法",
-      "category": "综合",
-      "summary": "9月2日，在全国个体工商户服务月期间，在全国个体工商户发展网指导下，成都市市场监督管理局与抖音生活服务在成都联合举办2026成都服饰产业带赋能活动专场培训，为服饰零售行业个体工商户和中小微商家提供数字化经营指导。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690362.shtml",
-      "publishedAt": "2026-09-04T08:06:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-04/10690355.shtml",
-      "title": "香江观澜：港口刷新装卸纪录，香港航运“金字招牌”更亮",
-      "category": "综合",
-      "summary": "中新社香港9月4日电 题：港口刷新装卸纪录，香港航运“金字招牌”更亮",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690355.shtml",
-      "publishedAt": "2026-09-04T08:00:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690358.shtml",
-      "title": "教育部：将规范涉师争议投诉处理程序",
-      "category": "综合",
-      "summary": "在教育部9月4日举行的新闻发布会上，教育部教师工作司有关负责人表示，将规范涉师争议投诉处理程序，畅通教师法律咨询和援助渠道；对涉师不实举报，及时为老师澄清正名；对捏造事实、恶意诽谤教师的行为，坚决“零容忍”，将联合相关部门依法严肃处理，追究相关人员责任。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690358.shtml",
-      "publishedAt": "2026-09-04T07:57:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690356.shtml",
-      "title": "今起至7日 内蒙古等地花粉浓度持续偏高",
-      "category": "综合",
-      "summary": "入秋后，我国北方多地进入秋季花粉高发期。中国气象局等部门联合发布的花粉浓度预报服务提示显示，今天起(4日)至7日，西北、华北、内蒙古等地花粉浓度持续偏高。气象专家介绍，秋季致敏主力为杂草花粉，叠加晴朗干燥微风的天气条件，极易诱发、加重过敏症状。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690356.shtml",
-      "publishedAt": "2026-09-04T07:55:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-04/10690347.shtml",
-      "title": "河南省新的社会阶层人士纪念红军长征胜利90周年主题教育暨助力罗山革命老区发展服务考察在信阳举行",
-      "category": "综合",
-      "summary": "为扎实推进新的社会阶层人士“凝聚新力量·筑梦新时代”主题教育要求，切实增强新的社会阶层人士思想政治引领，9月2日至3日，河南省新的社会阶层人士纪念红军长征胜利90周年主题教育暨助力罗山革命老区发展服务考察在信阳罗山县举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-04/10690347.shtml",
-      "publishedAt": "2026-09-04T07:53:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690349.shtml",
-      "title": "青藏铁路三年外运钾肥超1400万吨",
-      "category": "综合",
-      "summary": "中新网西宁9月4日电(祁增蓓 周悦翔 冯燕燕)记者4日从中国铁路青藏集团有限公司(以下简称“青藏集团公司”)获悉，青藏铁路近三年累计发运钾肥超1400万吨，全力保障全国秋粮稳产丰收与秋冬农资储备。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690349.shtml",
-      "publishedAt": "2026-09-04T07:52:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-04/10690352.shtml",
-      "title": "“秀” 在当下 香港绣花鞋手艺人的指尖匠心",
-      "category": "综合",
-      "summary": "中新社香港9月4日电 题：“秀”在当下 香港绣花鞋手艺人的指尖匠心",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690352.shtml",
-      "publishedAt": "2026-09-04T07:52:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690346.shtml",
-      "title": "山东济宁发布“十五五”规划纲要 明确万亿城市“路线图”",
-      "category": "综合",
-      "summary": "中新网济宁9月4日电 (陈宛婷)山东济宁将力争2035年进入GDP万亿元俱乐部。按照已印发的《济宁市国民经济和社会发展第十五个五年规划纲要》(以下简称“《纲要》”)，济宁明确了建设新型工业化强市、北方内河航运中心、世界文化旅游名城“三大定位”，力争2030年GDP突破8000亿元(人民币，下同)、2035年突破万亿元大关。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690346.shtml",
-      "publishedAt": "2026-09-04T07:51:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690354.shtml",
-      "title": "2026中国国际消费电子博览会在山东青岛启幕",
-      "category": "综合",
-      "summary": "中新网青岛9月4日电 (胡耀杰 王禹)2026中国国际消费电子博览会(简称“电博会”)4日在青岛国际会展中心(红岛馆)开幕，此次展会吸引来自12个国家和地区的近300家知名品牌企业参展，展览面积达6万平方米。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690354.shtml",
-      "publishedAt": "2026-09-04T07:51:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-04/10690343.shtml",
-      "title": "在国际福祉博览会，看脑机接口技术赋能助残新实践",
-      "category": "综合",
-      "summary": "中新网北京9月4日电 (刘纪 李京泽)2026中国国际福祉博览会暨中国国际康复博览会正在北京国家会议中心举办。本届博览会首次设立脑机接口专区，集中展示相关前沿技术在残疾人辅助器具领域的创新应用，成为本届展会一大看点。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690343.shtml",
-      "publishedAt": "2026-09-04T07:49:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690341.shtml",
-      "title": "首次！北斗基准站服务数据向社会共享开放",
-      "category": "综合",
-      "summary": "中新网北京9月4日电 9月4日，由自然资源部会同国家数据局联合主办的全国卫星导航定位基准站网服务数据授权运营工作推进会在北京召开。有关行业部门、中央企业、地方主管部门、位置服务商、相关单位及媒体代表参会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690341.shtml",
-      "publishedAt": "2026-09-04T07:48:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-04/10690340.shtml",
-      "title": "伽倻琴、马头琴、芦笙同台响起 海派民乐演绎中华民族多元一体",
-      "category": "综合",
-      "summary": "中新网上海9月4日电 题：伽倻琴、马头琴、芦笙同台响起 海派民乐演绎中华民族多元一体",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-04/10690340.shtml",
-      "publishedAt": "2026-09-04T07:47:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690353.shtml",
-      "title": "每个补助10万元！2026年将建600个全国劳模工匠创新工作室",
-      "category": "综合",
-      "summary": "近日，全国总工会印发通知，确定2026年支持建设600个全国劳模工匠创新工作室，全国总工会给予每个创新工作室10万元补助资金，旨在进一步激发职工创新创造活力，更好发挥劳模工匠示范引领作用。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690353.shtml",
-      "publishedAt": "2026-09-04T07:44:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-04/10690348.shtml",
-      "title": "法治在线丨艳遇变陷阱 警方曝光“特殊交友”诈骗“剧本”",
-      "category": "综合",
-      "summary": "夜深人静，手机屏幕突然弹出一则暧昧广告，是艳遇从天而降，还是陷阱悄然张开？浙江宁波的王先生就遇到了这样一则广告，本以为邂逅了一场浪漫，却没想到，自己正一步步走进一个精心设计的骗局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/fz/2026/09-04/10690348.shtml",
-      "publishedAt": "2026-09-04T07:42:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad#0",
       "title": "福克蘭群島爭議升溫：阿根廷宣佈制裁附近油企，特朗普暗示未必協助英國",
       "category": "国际",
@@ -602,24 +620,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-04/10690339.shtml",
-      "title": "中老（挝）“和平列车－2026”人道主义医学救援联合演习将在老挝举行",
-      "category": "综合",
-      "summary": "中新网9月4日电 据国防部网站消息，9月4日下午，国防部新闻发言人蒋斌大校就近期涉军问题发布消息。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-04/10690339.shtml",
-      "publishedAt": "2026-09-04T07:35:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
