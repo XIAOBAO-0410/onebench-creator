@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/113990",
+      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+      "meta": "少数派 · 2026/9/4",
+      "url": "https://sspai.com/post/113990",
+      "publishedAt": "2026-09-04T03:25:29.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114164",
       "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
       "meta": "少数派 · 2026/9/4",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/1",
       "url": "https://sspai.com/post/114078",
       "publishedAt": "2026-09-01T09:00:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114071",
-      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "meta": "少数派 · 2026/9/1",
-      "url": "https://sspai.com/post/114071",
-      "publishedAt": "2026-09-01T07:18:43.000Z"
     }
   ],
-  "updatedAt": "2026-09-04T02:28:03.549Z",
+  "updatedAt": "2026-09-04T04:29:03.214Z",
   "provider": "OneBench 公共资讯快照"
 }
