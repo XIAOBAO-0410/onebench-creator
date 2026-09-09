@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T12:59:25.958Z",
-  "expiresAt": "2026-09-09T18:59:25.958Z",
+  "generatedAt": "2026-09-09T17:51:02.625Z",
+  "expiresAt": "2026-09-09T23:51:02.625Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-09/10693528.shtml",
-      "title": "港澳教育界：“天宫课堂·港澳专场”为港澳青少年树立追梦榜样",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "title": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
       "category": "综合",
-      "summary": "中新社香港9月9日电 (记者 邱兆翔 郑嘉伟)“天宫课堂·港澳专场”港澳青少年爱国主义教育活动9日上午举行。正在中国空间站执行载人航天任务的神舟二十三号乘组3名航天员为港澳学生讲解和示范科学实验，并进行“天地对话”。多位港澳教育界人士及师生表示，此次“天宫课堂”是一次宝贵的航天科普教育机会，为港澳青少年树立了追梦榜样。",
+      "summary": "中新社首尔9月9日电 (记者 金旭)韩国外交部当地时间9日表示，韩国政府决定不参加日本12日在新潟县佐渡市举行的佐渡金山强征劳工受害者悼念仪式。这将是韩国连续第三年缺席该活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-09/10693528.shtml",
-      "publishedAt": "2026-09-09T12:49:58.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "publishedAt": "2026-09-09T17:27:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693527.shtml",
-      "title": "2026美洲地区公务人员研修班在沪举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
+      "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
       "category": "综合",
-      "summary": "中新社上海9月9日电 (记者 郑莹莹 许婧)由上海市政府外事办公室和上海交通大学合作举办的2026美洲地区公务人员研修班于9月7日至9月11日在上海展开。9月9日，来自美国、墨西哥、古巴、阿根廷、巴西、乌拉圭、秘鲁的多位研修班成员走进上海市气象局。",
+      "summary": "中新社北京9月9日电 (记者 尹倩芸)就美国发布中国人工智能企业对美蒸馏活动相关网络安全公告，中国商务部新闻发言人9日表示，美方相关公告，是其在人工智能领域推行科技霸权、搞算力垄断，打压竞争的又一明证。中方对此坚决反对。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693527.shtml",
-      "publishedAt": "2026-09-09T12:49:36.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
+      "publishedAt": "2026-09-09T17:26:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693503.shtml",
-      "title": "投洽会观察：RCEP叠加自贸区 中国东盟经贸合作添新动能",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml",
+      "title": "丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要",
       "category": "综合",
-      "summary": "中新社厦门9月9日电 (吴冠标)正在厦门举行的第二十六届中国国际投资贸易洽谈会上，《区域全面经济伙伴关系协定》(RCEP)与中国—东盟自贸区3.0版的“制度叠加”成为热门议题之一。与会人士认为，亚太区域合作不再只靠关税减让摊薄成本，而是靠原产地累积、数字经济与绿色经济规则、供应链互联互通共同重塑产业链分工。",
+      "summary": "新华社北京9月9日电 2026年全球服务贸易峰会9日在北京举行，中共中央政治局常委、国务院副总理丁薛祥出席并作主旨讲话。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693503.shtml",
-      "publishedAt": "2026-09-09T12:49:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml",
+      "publishedAt": "2026-09-09T16:11:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693544.shtml",
-      "title": "开放合作，培育更多“中国服务”品牌 ——写在2026年中国国际服务贸易交易会开幕之际",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml",
+      "title": "报告：北京、上海、香港位列世界旅游城市综合排名前十",
       "category": "综合",
-      "summary": "习近平总书记强调：“突出需求牵引、改革攻坚、科技赋能、开放合作，深入实施服务业扩能提质行动”“培育更多‘中国服务’品牌，努力开创服务业高质量发展新局面”。",
+      "summary": "中新社北京9月9日电 (记者 徐婧)2026年中国国际服务贸易交易会9日在北京开幕，2026世界旅游合作与发展大会当天举行。会上发布的《世界旅游城市发展报告(2025-2026)》显示，北京、上海、香港位列世界旅游城市综合排名前十。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693544.shtml",
-      "publishedAt": "2026-09-09T12:48:20.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml",
+      "publishedAt": "2026-09-09T15:59:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693543.shtml",
-      "title": "中国快递按下转型升级“换挡键”（产经视野·做强做优做大实体经济）",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml",
+      "title": "2026年服贸会开幕 新科技点亮趣味生活",
       "category": "综合",
-      "summary": "“十五五”开局之年，中国快递表现如何？8月底，主要快递上市公司相继发布“半年报”，成绩单里可“窥斑见豹”——",
+      "summary": "中新社北京9月9日电 题：2026年服贸会开幕 新科技点亮趣味生活",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693543.shtml",
-      "publishedAt": "2026-09-09T12:45:46.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml",
+      "publishedAt": "2026-09-09T15:43:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693542.shtml",
-      "title": "【讲习所中国与世界】推进中吉乌铁路建设，习近平特别强调“高质量”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml",
+      "title": "下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
       "category": "综合",
-      "summary": "2013年，共建“丝绸之路经济带”倡议自中亚起笔。十多年来，这一倡议从“大写意”到“工笔画”，拉开了一幅波澜壮阔的时代画卷。",
+      "summary": "在浏览短视频的时候，你是否也看到过医疗保健类的内容。其中不乏高质量的健康科普，但也有一些是打着医疗保健科普的旗号实施诈骗。一旦受害者与短视频的发布者取得联系，有就可能被一些所谓的“健康顾问”一步步引导高价购买他们推荐的“特效药”。短视频里的“健康顾问”到底是什么人？他们售卖的“特效药”又是什么？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693542.shtml",
-      "publishedAt": "2026-09-09T12:43:16.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml",
+      "publishedAt": "2026-09-09T15:27:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693536.shtml",
-      "title": "塞尔维亚总统解散议会 宣布提前举行议会选举日程",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693651.shtml",
+      "title": "普京向金正恩致贺电",
       "category": "综合",
-      "summary": "中新社北京9月9日电 贝尔格莱德消息：当地时间9月9日，塞尔维亚总统武契奇签署总统令解散议会，并宣布将于今年10月25日提前举行议会选举。",
+      "summary": "中新网9月9日电 综合塔斯社、朝中社9日报道，在朝鲜国庆78周年之际，俄罗斯总统普京向朝鲜最高领导人金正恩致贺电。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693536.shtml",
-      "publishedAt": "2026-09-09T12:43:08.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693651.shtml",
+      "publishedAt": "2026-09-09T15:23:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693541.shtml",
-      "title": "天天学习｜一扇窗，看见开放的中国",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693650.shtml",
+      "title": "15元买两斤蛤蜊吃出3颗珍珠！专家：正常现象 不耽误食用",
       "category": "综合",
-      "summary": "天天学习自2012年服贸会前身“京交会”首次举办，十余年间，该展会已成长为全球服务贸易领域规模最大的综合性展会，与广交会、进博会并称为中国对外开放的三大展会。",
+      "summary": "近日，青岛一男子花15元买了两斤蛤蜊，吃着吃着突然咬到硬物，吐出来一看，竟是3颗珍珠。无独有偶，当地崂山区的王先生此前食用蛤蜊时，也曾吃出一颗高粱米大小的乳白色珍珠。相关话题引发热议。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693541.shtml",
-      "publishedAt": "2026-09-09T12:40:54.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693650.shtml",
+      "publishedAt": "2026-09-09T15:23:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693499.shtml",
-      "title": "越南宣光省卫生代表团到南溪山医院参访交流",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml",
+      "title": "美军宣布：摧毁10艘伊朗油轮",
       "category": "综合",
-      "summary": "中新网桂林9月9日电(李金戈)9月9日，越南宣光省卫生厅厅长阮成兴率代表团一行到广西壮族自治区南溪山医院参访交流。",
+      "summary": "中新网9月9日电 综合报道，美军中央司令部9日在社交媒体上发文称，伊朗伊斯兰革命卫队有关打击两艘在中东地区执行任务的美国海军舰艇的说法不实，并没有美国海军军舰遭袭。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693499.shtml",
-      "publishedAt": "2026-09-09T12:40:32.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml",
+      "publishedAt": "2026-09-09T15:22:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693523.shtml",
-      "title": "2026北京服务消费系列活动在服贸会期间启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693646.shtml",
+      "title": "英国航班管理系统故障致1900多次航班被取消",
       "category": "综合",
-      "summary": "中新网北京9月9日电 (记者 吕少威)为进一步释放首都服务消费潜力、丰富消费场景、优化市场供给，更好契合市民高品质生活需求，9月9日，以“京彩宜夏 乐享服务”为主题的2026北京服务消费系列活动，在服贸会2026年电子商务大会主论坛正式启动。本次活动由北京市商务局主办，将持续至11月，七大板块600余项活动全面丰富北京服务消费新体验。",
+      "summary": "据英国方面9日消息，英国航班管理系统8日发生的故障已导致超1900次航班被取消。英国全国空中交通管理公司已确认该故障并非网络攻击所致。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693523.shtml",
-      "publishedAt": "2026-09-09T12:40:14.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693646.shtml",
+      "publishedAt": "2026-09-09T15:16:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-09/10693522.shtml",
-      "title": "“三江源起·玉见北京”京玉文化交流周在京启动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693645.shtml",
+      "title": "考古首次揭示中国南方丹尼索瓦人生存图景：长期稳定高度务实",
       "category": "综合",
-      "summary": "中新网北京9月9日电 (记者 高凯)9日，“三江源起·玉见北京”京玉文化交流周在北京首钢园正式启幕。",
+      "summary": "中新网北京9月9日电 (记者 孙自法)中国科学院青藏高原研究所陈发虎院士领衔的古生态与人类适应团队联合中外合作者，最近通过对云南鹤庆蝙蝠洞遗址开展多学科综合研究，首次系统揭示中国南方丹尼索瓦人(丹人)的体质形态、技术行为与生存策略，重建出这一神秘人群在青藏高原东南缘的生存全景图，包括石器技术保持长期稳定、生存适应高度务实等。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693522.shtml",
-      "publishedAt": "2026-09-09T12:36:39.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693645.shtml",
+      "publishedAt": "2026-09-09T15:05:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693530.shtml",
-      "title": "宁夏青贮玉米迎集中收割",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693644.shtml",
+      "title": "中国西南发现首例丹尼索瓦人化石 全球首次确认丹人桡骨",
       "category": "综合",
-      "summary": "9月9日，工作人员在位于石嘴山市平罗县境内的宁夏农垦集团前进农场内收割青贮玉米。眼下，宁夏各地抢抓有利农时，青贮玉米全面进入集中收割期。(无人机照片)中新社记者 于晶 摄 9月9日，工作人员在位于石嘴山市平罗县境内的宁夏农垦集团前进农场内收割青贮玉米。眼下，宁夏各地抢抓有利农时，青贮玉米全面进入集中收割期。(无人机照片)中新社记者 于晶 摄 9月9日，工作人",
+      "summary": "中新网北京9月9日电 (记者 孙自法)中国西南地区10多万年前生活过丹尼索瓦人(丹人)的化石证据，最近终于被中国科学家团队以古蛋白质组学创新策略“万里挑一”鉴定出来，实现中国西南发现首例丹尼索瓦人骨骼、全球首次确认丹尼索瓦人桡骨化石的两项第一。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693530.shtml",
-      "publishedAt": "2026-09-09T12:36:17.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693644.shtml",
+      "publishedAt": "2026-09-09T15:04:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693529.shtml",
-      "title": "中国美术家协会“青年伙伴计划——绘画100”作品展在杭州启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
+      "title": "24岁吃播博主离世：流量的尽头不是爆款，是身体的极限",
       "category": "综合",
-      "summary": "9月9日，观众在作品《独行》前驻足欣赏。中新社记者 孙琳茹 摄 9月9日，观众在作品《银线穿越戈壁—西电东送》拍照打卡。中新社记者 孙琳茹 摄 9月9日，观众在作品《草木蔓发，春山可望》前驻足欣赏。中新社记者 孙琳茹 摄 9月9日，观众在欣赏作品《云壑金灯》。中新社记者 孙琳茹 摄 9月9日，观众在作品前合影留念。中新社记者 孙琳茹 摄 9月9日，观众在作品",
+      "summary": "中新网北京9月9日电(记者 王诗尧)24岁，百万粉丝，低钾住院，不幸离世——当这些关键词汇集在“干饭莹莹”身上时，我们看到的不仅是一位年轻生命的猝然凋零，更是一个畸形行业积弊已久的又一次血腥爆发。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693529.shtml",
-      "publishedAt": "2026-09-09T12:35:31.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
+      "publishedAt": "2026-09-09T14:32:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693524.shtml",
-      "title": "甘肃庆阳深耕能源新赛道：工厂尾气变“稀宝” 储能材料生产忙",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203756.shtml",
+      "title": "内蒙古呼和浩特：沙良物流园助力中欧班列跑出“加速度”",
       "category": "综合",
-      "summary": "9月9日，航拍位于甘肃省庆阳市西峰工业园区庆阳瑞华能源有限公司LNG工厂尾气提氦综合利用项目。(无人机照片)中新社记者 李亚龙 摄 9月9日，在位于甘肃省庆阳市西峰工业园区庆阳瑞华能源有限公司内，LNG工厂尾气提氦综合利用项目正在运行。中新社记者 李亚龙 摄 9月9日，在位于甘肃省庆阳市西峰工业园区庆阳瑞华能源有限公司内，设备正在生产液化天然气。中新社记者 ",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693524.shtml",
-      "publishedAt": "2026-09-09T12:34:09.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203756.shtml",
+      "publishedAt": "2026-09-09T14:31:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693491.shtml",
-      "title": "2026外滩大会：AI“生产力”从实验室走向大市场",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203752.shtml",
+      "title": "印尼国际矿业展开幕 中国装备吸引参观者",
       "category": "综合",
-      "summary": "中新网上海9月9日电 (高志苗 康玉湛)以“共创AI新经济”为主题的2026 Inclusion·外滩大会9日到12日在上海黄浦世博园区举行，超过300家参展企业汇聚于1.5万平方米的主题科技展区。在这里，AI新经济已经不再停留在概念里，而是开始真实发生在商业、产业和人们的日常生活中。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693491.shtml",
-      "publishedAt": "2026-09-09T12:33:45.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203752.shtml",
+      "publishedAt": "2026-09-09T14:25:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693504.shtml",
-      "title": "民进党当局“赴大陆须行前登录”相关要求招致舆论批评",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693640.shtml",
+      "title": "免费飞机餐是否取消？多家航司回应",
       "category": "综合",
-      "summary": "中新社北京9月9日电 台湾“观光署”日前发函，要求旅行社组织赴大陆交流、旅行时，须逐团协助旅客完成行前登录，违者最高可处5万元新台币罚款。舆论强烈批评此举，指近年“禁团令”下民间赴大陆热度不降反升，民进党当局低估社会正在发生的变化。",
+      "summary": "中新网北京9月9日电 据媒体报道，近日，多家航空公司布局付费定制飞机餐。有报道称，付费餐食价格不等，有亲民价格也有较高价格的餐食。报道提到，东方航空、四川航空、祥鹏航空等国内多家航司都布局了付费餐食赛道。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693504.shtml",
-      "publishedAt": "2026-09-09T12:33:25.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693640.shtml",
+      "publishedAt": "2026-09-09T14:17:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693521.shtml",
-      "title": "杭州为网约车司机设2000个司机停车如厕泊位",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693605.shtml",
+      "title": "全国首款干细胞药品落地宁夏 西北患者就近用上国产创新药",
       "category": "综合",
-      "summary": "中新网杭州9月9日电(鲍梦妮)9月9日，杭州市政府新闻办召开发布会，介绍该市近期推出的网约车司机安心如厕“五个一”举措。",
+      "summary": "中新网银川9月9日电 (记者 于晶)9月9日，我国首款、目前唯一获批上市的干细胞药品艾米迈托赛注射液正式落地银川苏银产业园。这一国产生物医药创新成果落地西北，意味着宁夏及周边地区患者，在家门口就能够获得前沿的干细胞药物治疗新选择。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693521.shtml",
-      "publishedAt": "2026-09-09T12:32:47.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693605.shtml",
+      "publishedAt": "2026-09-09T14:09:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-09/10693531.shtml",
-      "title": "“青年伙伴计划—绘画100”作品展在杭州启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693602.shtml",
+      "title": "云南鲁甸卯家湾：搬出大山安居乐业 共绘民族团结画卷",
       "category": "综合",
-      "summary": "中新网杭州9月9日电(孙琳茹)9月9日，中国美术家协会“青年伙伴计划——绘画100”作品展在浙江杭州正式开幕。展览集中呈现项目历时一年多的培育成果，116位青年美术家携140余件中国画、油画作品亮相。",
+      "summary": "图为9月9日，搬迁民众在卯家湾安置区旁的服装生产线忙碌。 中新社记者 刘冉阳 摄 图为9月9日，搬迁民众在卯家湾安置区里打牌娱乐。 中新社记者 刘冉阳 摄 图为9月9日，卯家湾安置区里的新能源充电桩。 中新社记者 刘冉阳 摄 图为9月9日，搬迁民众在卯家湾安置区的活动室里排练节目。 中新社记者 刘冉阳 摄 图为9月9日，搬迁民众在鲁甸县的香葱生产基地忙碌。 ",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693531.shtml",
-      "publishedAt": "2026-09-09T12:32:23.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693602.shtml",
+      "publishedAt": "2026-09-09T14:08:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693532.shtml",
-      "title": "全球公共安全合作论坛（连云港）2026年大会开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693633.shtml",
+      "title": "中新“海上合作-2026”联合演习结束",
       "category": "综合",
-      "summary": "中新社江苏连云港9月9日电 (刘梦青)全球公共安全合作论坛(连云港)2026年大会9日在江苏省连云港市开幕。大会以“团结推动公共安全治理 为动荡世界注入稳定力量”为年度主题，邀请139个国家、地区和国际组织的2100余人参会。",
+      "summary": "中新社北京9月9日电 据中国海军社交平台账号“人民海军”9日消息，中国和新加坡“海上合作-2026”联合演习当天落下帷幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693532.shtml",
-      "publishedAt": "2026-09-09T12:32:01.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693633.shtml",
+      "publishedAt": "2026-09-09T14:08:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693519.shtml",
-      "title": "“京彩匠心 榴韵华章”民族手工业融合创新嘉年华开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693632.shtml",
+      "title": "美伊战事难解，账单越滚越大",
       "category": "综合",
-      "summary": "9月9日，“京彩匠心 榴韵华章”民族手工业融合创新嘉年华在北京首钢园三高炉开幕。图为贵州秀娘在嘉年华现场刺绣。中新社记者 陈芳婷 摄 9月9日，“京彩匠心 榴韵华章”民族手工业融合创新嘉年华在北京首钢园三高炉开幕。图为湖北裁女周文化发展有限公司创始人周琼推介土家族织锦技艺“西兰卡普”，该技艺于2006年列入国家级非物质文化遗产名录。 中新社记者 陈芳婷 摄 ",
+      "summary": "时隔一个半月，国际油价再度破百。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693519.shtml",
-      "publishedAt": "2026-09-09T12:29:15.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693632.shtml",
+      "publishedAt": "2026-09-09T14:06:55.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693520.shtml",
-      "title": "2026年全国住房城乡建设系统“质量月”启动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693596.shtml",
+      "title": "中国（福建）—芬兰经贸合作交流会在厦门举办",
       "category": "综合",
-      "summary": "中新网南宁9月9日电(记者 黄艳梅)中国住房和城乡建设部8日在广西南宁市举办2026年全国住房城乡建设系统“质量月”启动暨现场观摩活动。本次活动以“建造宜居好房子 满足人民新期待”为主题，展示“好房子”在城中村改造安置住房项目的探索实践，宣传工程质量创新成果和质量问题治理成效，加快推动“好房子”实践落地。",
+      "summary": "图为中芬企业代表现场对接交流。中新社记者 吕明 摄 图为中芬企业代表现场对接交流。中新社记者 吕明 摄 图为福建可门港“120万吨黑颗粒-可持续航空燃料”一体化能源项目现场签约。中新社记者 吕明 摄 图为芬林芬宝首席执行官诺毅(Ismo Nousiainen)进行企业路演。中新社记者 吕明 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693520.shtml",
-      "publishedAt": "2026-09-09T12:28:11.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693596.shtml",
+      "publishedAt": "2026-09-09T14:06:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693515.shtml",
-      "title": "（活力中国调研行）河南新乡：国产打捆机助力秸秆综合利用",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693574.shtml",
+      "title": "走进青海班玛红军沟——红军长征唯一经过青海的地方",
       "category": "综合",
-      "summary": "9月9日，河南省新乡市获嘉县一家农机企业生产车间内，两名工作人员推着工具车从企业生产的方捆打捆机前走过。中新社记者 范晓恒 摄 9月9日，河南省新乡市获嘉县一家农机企业生产的两台方捆打捆机装车后，准备发往客户手中。中新社记者 范晓恒 摄 9月9日，河南省新乡市获嘉县一家农机企业车间内，各类方捆、圆捆打捆机设备整齐停放。(无人机照片)中新社发 朱光鑫 摄 9月",
+      "summary": "9月9日，青海班玛，航拍班玛红军沟。2026年是中国工农红军长征胜利90周年。1936年7月，红二方面军、红四方面军及红军总部超3万人来到班玛县休整、筹粮和宣传党的民族宗教政策，在县境内停留20余天，最后取道甘南北上。(无人机照片)中新社记者 张忠苹 摄 9月9日，青海班玛，游客参观班玛红军沟的红军墓。2026年是中国工农红军长征胜利90周年。1936年7月",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693515.shtml",
-      "publishedAt": "2026-09-09T12:27:55.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693574.shtml",
+      "publishedAt": "2026-09-09T14:05:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693514.shtml",
-      "title": "青海玛可河林区初秋景色如画",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693566.shtml",
+      "title": "湖南资兴市现绝美晚霞",
       "category": "综合",
-      "summary": "9月9日，初秋时节，航拍位于青海省果洛藏族自治州班玛县境内的玛可河林区景色如画。玛可河林区总面积10.18万公顷，平均海拔3600米，是长江流域大渡河源头面积最大、海拔最高的天然原始林区，也是长江流域上游重要的水源涵养区。(无人机照片) 中新社记者 张忠苹 摄 9月9日，初秋时节，航拍位于青海省果洛藏族自治州班玛县境内的玛可河林区景色如画。玛可河林区总面积1",
+      "summary": "9月9日，湖南资兴市出现绝美晚霞景观。落日为天空镀上一层暖金色霞光，远山、江面与漫天晚霞相映成景，勾勒出一幅壮丽的湘南暮色画卷。(无人机照片)中新社记者 杨华峰 摄 9月9日，湖南资兴市出现绝美晚霞景观。落日为天空镀上一层暖金色霞光，远山、江面与漫天晚霞相映成景，勾勒出一幅壮丽的湘南暮色画卷。(无人机照片)中新社记者 杨华峰 摄 9月9日，湖南资兴市出现绝美",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693514.shtml",
-      "publishedAt": "2026-09-09T12:25:57.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693566.shtml",
+      "publishedAt": "2026-09-09T14:05:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693509.shtml",
-      "title": "（活力中国调研行）河南洛阳：雨中龙门石窟客如潮",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693629.shtml",
+      "title": "39家台企亮相服贸会 冀拓两岸服务合作新机",
       "category": "综合",
-      "summary": "图为游客在打卡拍照。赵梦阳 摄 图为游客在打卡拍照。赵梦阳 摄 图为龙门石窟卢舍那大佛前的游客。赵梦阳 摄 图为龙门石窟卢舍那大佛前的游客。赵梦阳 摄 图为外籍游客在卢舍那大佛前合影留念。赵梦阳 摄 图为卢舍那大佛。赵梦阳 摄",
+      "summary": "中新社北京9月9日电 (记者 刘大炜)“阿里山的姑娘美如水呀，阿里山的少年壮如山。”9日北京首钢园内，伴随着《高山青》的熟悉曲调，台湾形象展连续第六年亮相中国国际服务贸易交易会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693509.shtml",
-      "publishedAt": "2026-09-09T12:25:23.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693629.shtml",
+      "publishedAt": "2026-09-09T14:05:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-09/10693518.shtml",
-      "title": "中国东方演艺集团2026金秋演出季在京启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693631.shtml",
+      "title": "“董事长母子仅差7岁”，星宇股份致歉",
       "category": "综合",
-      "summary": "中新网北京9月9日电 (记者 应妮)中国东方演艺集团2026金秋演出季8日在京启幕，涵盖2026年新创剧目、经典剧目(节目)在内的近百场演出计划也在现场正式发布。",
+      "summary": "中新网北京9月9日电(记者 刘星晨)上市公司披露的数据又出错了。近日深陷“批量劝退毕业生”争议风波中的常州星宇车灯股份有限公司(简称：星宇股份)在今年公开发布的材料中出现了数据错误。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693518.shtml",
-      "publishedAt": "2026-09-09T12:25:15.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693631.shtml",
+      "publishedAt": "2026-09-09T14:05:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693526.shtml",
-      "title": "“梅姨”真人照首次曝光，系2010年登记照",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693560.shtml",
+      "title": "广西龙胜：西红柿丰收村民采摘忙",
       "category": "综合",
-      "summary": "澎湃新闻记者 彭苣",
+      "summary": "图为村民在分拣西红柿。潘志祥 摄 图为村民在分拣西红柿。潘志祥 摄 图为村民在分拣西红柿。潘志祥 摄 图为村民采摘的新鲜西红柿。潘志祥 摄 图为村民在搬运西红柿。潘志祥 摄 图为村民在分拣西红柿。潘志祥 摄 图为龙胜各族自治县平等镇小江村西红柿种植基地。(无人机照片)潘志祥 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693526.shtml",
-      "publishedAt": "2026-09-09T12:23:33.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693560.shtml",
+      "publishedAt": "2026-09-09T14:04:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-09/10693494.shtml",
-      "title": "晋苏开展文旅交流合作 山西文旅巡展拓展长三角市场",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-09/10693618.shtml",
+      "title": "李家超与出席“一带一路高峰论坛”国家政府高层官员会面",
       "category": "综合",
-      "summary": "中新网太原9月9日电 (刘小红)“五千年文明看山西”文化巡展南京站开幕式暨文旅推介活动8日在南京举办。活动搭建晋苏两地文旅交流平台，展示山西历史文化与文旅资源，拓宽引客入晋渠道，助力山西开拓长三角文旅市场，提升山西文旅在南京及周边区域的影响力。",
+      "summary": "中新社香港9月9日电 香港特区行政长官李家超9日与来香港出席第十一届“一带一路高峰论坛”的国家政府高层官员在香港礼宾府见面，欢迎他们率团访港，并就共同关心的议题交流意见。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-09/10693494.shtml",
-      "publishedAt": "2026-09-09T12:22:21.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-09/10693618.shtml",
+      "publishedAt": "2026-09-09T14:04:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693488.shtml",
-      "title": "聚焦科学家“以身许国酬华年 ” 《杜祥琬传》新书在北京发布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-09/10693603.shtml",
+      "title": "香港馆澳门馆亮相服贸会：在服务国家大局中实现港澳新发展",
       "category": "综合",
-      "summary": "中新网北京9月9日电 (记者 孙自法)中国科协“科学家精神和科学文化出版工程”重点图书——《以身许国酬华年：杜祥琬传》，9月9日下午在国家科技传播中心举行新书发布仪式，中国工程院院士、核物理工程技术专家和强激光与能源战略科学家杜祥琬现场见证并参加对谈交流。",
+      "summary": "中新社北京9月9日电 (记者 刘大炜)2026年中国国际服务贸易交易会(“服贸会”)9日在北京开幕，香港馆、澳门馆集中亮相省区市及港澳台展区，持续搭建港澳企业与内地企业的合作桥梁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693488.shtml",
-      "publishedAt": "2026-09-09T12:21:47.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-09/10693603.shtml",
+      "publishedAt": "2026-09-09T14:04:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693495.shtml",
-      "title": "全国新的社会阶层人士“科创中国”服务团山东服务考察烟台行活动举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693600.shtml",
+      "title": "亚太清洁能源培训学院在北京成立",
       "category": "综合",
-      "summary": "图为与会嘉宾参与“开放创新：助力绿色低碳高质量发展”对话会。刘昊 摄 图为与会嘉宾参加产业对接洽谈会。刘昊 摄 图为与会嘉宾考察烟台高技术与新材料企业。刘昊 摄",
+      "summary": "中新社北京9月9日电 (记者 王梦瑶)APEC(亚太经合组织)清洁能源创新实践专题研讨会9日在北京举办。中国国家能源集团在会上宣布正式成立“亚太清洁能源培训学院”，承诺未来10年将为APEC各经济体提供1000个清洁能源培训名额，打造人才培育、政策互通、技术共享于一体的常态化能力建设平台。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693495.shtml",
-      "publishedAt": "2026-09-09T12:21:09.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693600.shtml",
+      "publishedAt": "2026-09-09T14:03:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-09/10693453.shtml",
-      "title": "第二十六届投洽会：国外展馆吸引参观者",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693636.shtml",
+      "title": "小电驴市场经历分化 雅迪爱玛中报净利下跌",
       "category": "综合",
-      "summary": "9月9日，泰国馆吸引参观者。中新社记者 王东明 摄 9月9日，中巴金砖主题馆吸引参观者。中新社记者 王东明 摄 9月9日，沙特馆吸引参观者。中新社记者 王东明 摄 9月9日，芬兰馆吸引参观者。中新社记者 王东明 摄 9月9日，缅甸馆吸引参观者。中新社记者 王东明 摄 9月9日，乌干达馆吸引参观者。中新社记者 王东明 摄 9月9日，民众在国外展馆专区参观。中新",
+      "summary": "中新网9月9日电(左雨晴) 路上随处可见的“小电驴”，正经历一场剧烈分化。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-09/10693453.shtml",
-      "publishedAt": "2026-09-09T12:20:22.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693636.shtml",
+      "publishedAt": "2026-09-09T14:03:29.000Z",
       "tags": [
         "国内",
         "社会",
