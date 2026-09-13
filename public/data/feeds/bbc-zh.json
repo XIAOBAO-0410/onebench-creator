@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0m34g3v7zjo/trad#0",
+      "title": "女性比男性更擅長耐力跑嗎？",
+      "meta": "BBC 中文 · 2026/9/13",
+      "url": "https://www.bbc.com/zhongwen/articles/c0m34g3v7zjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T02:47:42.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4jyk29dq7o/trad#3",
       "title": "專訪鄧燕娥：與李卓人相伴四十年「互相撐著」",
       "meta": "BBC 中文 · 2026/9/11",
@@ -27,7 +34,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad#0",
-      "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
+      "title": "習近平七年來首次訪印：中印回暖背後的美國陰影與西藏問題",
       "meta": "BBC 中文 · 2026/9/11",
       "url": "https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T10:06:48.000Z"
@@ -54,7 +61,7 @@
       "publishedAt": "2026-09-11T05:31:27.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad#1",
       "title": "間諜、戰略與錯失的機會：911的教訓至今仍在消化",
       "meta": "BBC 中文 · 2026/9/11",
       "url": "https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +129,6 @@
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/cx2z9pgprrdo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-09T07:57:41.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad#1",
-      "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
-      "meta": "BBC 中文 · 2026/9/9",
-      "url": "https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T01:05:37.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-01T09:56:01.000Z"
     }
   ],
-  "updatedAt": "2026-09-12T22:20:43.126Z",
+  "updatedAt": "2026-09-13T04:52:58.265Z",
   "provider": "OneBench 公共资讯快照"
 }

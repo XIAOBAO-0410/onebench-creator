@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142780",
+      "title": "也门战事升级，流离失所危机每小时都在恶化",
+      "meta": "联合国新闻 · 2026/9/12",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142780",
+      "publishedAt": "2026-09-12T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142779",
       "title": "【世界进行时】2026年9月11日",
       "meta": "联合国新闻 · 2026/9/11",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/4",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142744",
       "publishedAt": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142743",
-      "title": "粮农组织：食品价格指数8月上涨",
-      "meta": "联合国新闻 · 2026/9/4",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142743",
-      "publishedAt": "2026-09-04T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-12T22:20:43.126Z",
+  "updatedAt": "2026-09-13T04:52:58.265Z",
   "provider": "OneBench 公共资讯快照"
 }

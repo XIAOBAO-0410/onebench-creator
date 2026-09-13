@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T22:20:43.126Z",
-  "expiresAt": "2026-09-13T04:20:43.126Z",
+  "generatedAt": "2026-09-13T04:52:58.265Z",
+  "expiresAt": "2026-09-13T10:52:58.265Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml",
-      "title": "菲律宾客船起火事故死亡人数升至76人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695580.shtml",
+      "title": "多国驻华使节走进江苏 共话城市发展互鉴",
       "category": "综合",
-      "summary": "中新社马尼拉9月12日电 (记者 周璟)菲律宾海岸警卫队12日表示，巴拉望省附近海域起火客船上又发现41具遗体，事故确认死亡人数升至76人，另有13人失联、43人获救。搜救及遗体打捞工作仍在进行。",
+      "summary": "中新网南京9月13日电 (记者 朱晓颖)9日至11日，参加由外交部组织的“走进人民城市：中国之治与全球互鉴”驻华使节沪苏行活动的近30位驻华使节及外交官在江苏苏州、南京实地参访。使节们走进高科技企业、产业园区，畅游古典园林，感受中国在城市发展领域的先进理念与成功经验。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml",
-      "publishedAt": "2026-09-12T17:05:20.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695580.shtml",
+      "publishedAt": "2026-09-13T04:46:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
-      "title": "当物流装上“AI引擎” 如何跑出新速度？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-13/10695576.shtml",
+      "title": "戏曲音乐作曲家汝金山去世 享年79岁",
       "category": "综合",
-      "summary": "网上下单、家门口收快递，早已融入普通人的日常生活。但亿万件包裹如何实现高效流转、精准投递？在服贸会上，记者发现，人工智能正在改变传统物流的运行逻辑。",
+      "summary": "中新网上海9月13日电 (记者 王笈)记者从上海沪剧院获悉，著名戏曲音乐作曲家、上海沪剧院一级作曲汝金山因病医治无效，于9月12日在上海瑞金医院离世，享年79岁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
-      "publishedAt": "2026-09-12T17:03:56.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695576.shtml",
+      "publishedAt": "2026-09-13T04:46:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-13/10695499.shtml",
-      "title": "丁俊晖止步2026斯诺克英格兰公开赛四强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-13/10695577.shtml",
+      "title": "中新健康 | 花粉过敏，别硬扛！",
       "category": "综合",
-      "summary": "2026斯诺克英格兰公开赛半决赛，丁俊晖2-6不敌阿里·卡特，无缘决赛。上半场，两人战至2-2平，休息过后，阿里·卡特连胜4局，晋级决赛。",
+      "summary": "中新网北京9月13日电 (钟余)国家卫生健康委、中国气象局日前联合发布最新花粉浓度预报，预计9月9日至14日，北京、天津、河北北部、陕西北部的部分地区花粉浓度处于高等级(4级)。目前，北京草本植物已陆续进入散粉期，预计9月迎来花粉释放高峰期。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695499.shtml",
-      "publishedAt": "2026-09-12T16:56:57.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-13/10695577.shtml",
+      "publishedAt": "2026-09-13T04:46:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695498.shtml",
-      "title": "新华图讯｜习近平会见印度总理莫迪",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695574.shtml",
+      "title": "2026中国风险投资论坛在南京举办",
       "category": "综合",
-      "summary": "当地时间9月12日，国家主席习近平在新德里会见印度总理莫迪。",
+      "summary": "中新网南京9月13日电(罗鲁峤)由民建中央主办的2026(第二十六届)中国风险投资论坛12日在江苏南京举办，论坛主题为“开新局·育新质·创未来”。民建中央主席郝明金，中共江苏省委副书记、江苏省人民政府省长刘小涛出席论坛并致辞。民建中央副主席洪慧民主持论坛上半场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695498.shtml",
-      "publishedAt": "2026-09-12T16:54:45.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695574.shtml",
+      "publishedAt": "2026-09-13T04:45:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695496.shtml",
-      "title": "习近平会见印度总理莫迪",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695573.shtml",
+      "title": "2026年福建省闽台青年电影人才培养“融合计划”发布",
       "category": "综合",
-      "summary": "中新社新德里9月12日电 （记者 郭金超 黄钰钦）当地时间9月12日下午，中国国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
+      "summary": "中新网平潭9月13日电 (记者 闫旭)第6届平潭IM两岸青年影展“青年电影之夜”12日晚在福建平潭综合实验区举行，2026年福建省闽台青年电影人才培养“融合计划”(简称“融合计划”)正式发布。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695496.shtml",
-      "publishedAt": "2026-09-12T15:54:33.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695573.shtml",
+      "publishedAt": "2026-09-13T04:45:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695494.shtml",
-      "title": "中国男篮大胜巴林队 提前晋级亚运会八强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-13/10695572.shtml",
+      "title": "攀岩世界杯贵阳站混合速度接力决赛精彩上演 中国队摘银",
       "category": "综合",
-      "summary": "中新社名古屋9月12日电 当地时间12日，在日本爱知县名古屋市进行的第二十届亚洲运动会男篮项目C组小组赛中，中国男篮以105:59大胜巴林队，收获小组赛两连胜，提前锁定八强席位。",
+      "summary": "中新网贵阳9月13日电 (记者 张伟)2026年世界攀联攀岩世界杯(中国贵阳)混合速度接力决赛12日晚在贵州·彩湖国际攀岩中心举行。来自中国、美国等16支速度攀岩组合展开激烈角逐，为海内外观众带来一场速度与激情的岩壁较量。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695494.shtml",
-      "publishedAt": "2026-09-12T15:23:54.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695572.shtml",
+      "publishedAt": "2026-09-13T04:45:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml",
-      "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-13/10695569.shtml",
+      "title": "国内外专家学者齐聚广州 共话羽毛球足球运动科学",
       "category": "综合",
-      "summary": "新华社莫斯科9月12日电(记者侯鸣)9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。",
+      "summary": "中新网广州9月13日电 (记者 张璐)当前，全球体育事业已迈入科技赋能的高质量发展新阶段，运动科学正从训练配套环节升级为核心驱动力。从运动生理学、生物力学的基础研究，到人工智能、可穿戴设备、大数据分析的场景化落地，前沿科技正在系统性重塑竞技训练、人才选拔、损伤防护、体能调控的全链条逻辑，推动体育项目从传统经验型向标准化、精准化、专业化发展模式转型。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml",
-      "publishedAt": "2026-09-12T14:52:34.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-13/10695569.shtml",
+      "publishedAt": "2026-09-13T04:44:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695490.shtml",
-      "title": "习近平会见印度总理莫迪",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695561.shtml",
+      "title": "【石榴花开 籽籽同心】澜沧江畔，“西藏第一所”的平安答卷",
       "category": "综合",
-      "summary": "新华社新德里9月12日电(记者郝薇薇#8195;刘锴)当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
+      "summary": "中新网昌都9月13日电(记者 任思雨)每当夜幕降临，位于澜沧江畔的茶马广场便是西藏昌都最热闹的地方。当地居民与游客围圈跳起锅庄舞，沿街商铺迎来送往八方旅人，尽显茶马古道重镇的独有风貌。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695490.shtml",
-      "publishedAt": "2026-09-12T14:49:09.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695561.shtml",
+      "publishedAt": "2026-09-13T04:43:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695488.shtml",
-      "title": "中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695568.shtml",
+      "title": "水利部针对海南启动洪水防御Ⅳ级应急响应",
       "category": "综合",
-      "summary": "中新网北京9月12日电(记者 高萌)当开学典礼遇上大雨，作为校长是选择念完准备好的发言稿，还是让同学们先避雨？",
+      "summary": "中新网9月13日电 据“中国水利”微信公众号消息，据预报，受南海热带低压影响，9月13日至15日，海南将有大到暴雨，其中海南南部将有大暴雨；南渡江、昌化江、万泉河将出现明显涨水过程，暴雨区内部分中小河流可能发生超警以上洪水。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695488.shtml",
-      "publishedAt": "2026-09-12T14:31:48.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695568.shtml",
+      "publishedAt": "2026-09-13T04:37:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
-      "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695566.shtml",
+      "title": "北京海峡两岸书画家联谊会第九届第一次会员大会在京召开",
       "category": "综合",
-      "summary": "中新社上海9月12日电 (范宇斌)距离9月22日启幕的第48届世界技能大赛(简称“世赛”)仅剩10天，各项筹备工作已进入收官冲刺阶段。",
+      "summary": "中新网北京9月13日电 (金志成)12日下午，北京海峡两岸书画家联谊会第九届第一次会员大会在北京召开。北京市台办主任霍光峰、副主任张磊等嘉宾出席，来自海峡两岸的百余名书画家齐聚一堂，选举产生了联谊会新一届理事、监事。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
-      "publishedAt": "2026-09-12T14:28:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695566.shtml",
+      "publishedAt": "2026-09-13T04:36:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-12/10695484.shtml",
-      "title": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-13/10695560.shtml",
+      "title": "2026年中国科研类航空航天模型普及大赛（七台河站）开幕",
       "category": "综合",
-      "summary": "中新社上海9月12日电 (范宇斌)由上海中华职业教育社主办的2026职业教育海上对话创享会12日至13日在上海举行。来自德国等国家驻华机构代表，以及长三角、粤港澳等地区教育界、科技界、产业界代表共500余人参会。",
+      "summary": "中新网七台河9月13日电 (赵宇航 梅中石)12日，2026年中国科研类航空航天模型普及大赛(七台河站)在七台河市保中学校开幕。来自全国的113支代表队、1238名选手齐聚七台河，展开一场集知识性、趣味性和竞技性于一体的航空航天科技竞赛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-12/10695484.shtml",
-      "publishedAt": "2026-09-12T14:28:20.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-13/10695560.shtml",
+      "publishedAt": "2026-09-13T04:36:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-12/10695485.shtml",
-      "title": "两岸资深电影人热议闽南语电影创作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-13/10695565.shtml",
+      "title": "潮汕特色小吃“普宁豆干”圈粉海内外宾客",
       "category": "综合",
-      "summary": "中新社福建平潭9月12日电 (记者 闫旭)“闽台有共同的信仰，也有深厚的情感联结。”台湾资深电影人叶如芬12日在平潭表示，从宗族、祖籍地、下南洋这些历史叙事，到如今的青年逐梦等，这些作为题材，用闽台共同熟悉的语言合拍闽南语电影，可以成为联结起两岸甚至东南亚的情感纽带。",
+      "summary": "中新社广东汕头9月13日电 题：潮汕特色小吃“普宁豆干”圈粉海内外宾客",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-12/10695485.shtml",
-      "publishedAt": "2026-09-12T14:25:58.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-13/10695565.shtml",
+      "publishedAt": "2026-09-13T04:35:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695481.shtml",
-      "title": "详讯：习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-13/10695567.shtml",
+      "title": "2026年粤港澳大湾区攀岩公开赛（深圳）举行",
       "category": "综合",
-      "summary": "中新社新德里9月12日电 (记者 郭金超 黄钰钦)当地时间9月12日下午，中国国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+      "summary": "中新网深圳9月13日电 (记者 张璐)2026年粤港澳大湾区攀岩公开赛(深圳)(简称“赛事”)正在深圳举行，吸引来自粤港澳大湾区的25支代表队、344名运动员参赛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695481.shtml",
-      "publishedAt": "2026-09-12T14:17:02.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-13/10695567.shtml",
+      "publishedAt": "2026-09-13T04:35:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695483.shtml",
-      "title": "中国内地单跨跨径最大的双层钢桁梁桥实现合龙",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695571.shtml",
+      "title": "联大通过“纠正地图”决议，意味着什么？",
       "category": "综合",
-      "summary": "中新社广州9月12日电 (记者 蔡敏婕)粤港澳大湾区核心枢纽工程——狮子洋通道跨西樵水道钢桁梁桥12日完成11个节段拼装，实现精准合龙。",
+      "summary": "联大通过决议，鼓励弃用墨卡托投影地图，采用等积投影地图——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695483.shtml",
-      "publishedAt": "2026-09-12T14:16:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695571.shtml",
+      "publishedAt": "2026-09-13T04:34:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695480.shtml",
-      "title": "习言道｜开启金砖合作第三个“金色十年”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695570.shtml",
+      "title": "户外运动为何持续吸引年轻人？热潮更需冷思考",
       "category": "综合",
-      "summary": "当地时间9月12日，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤第一阶段会议，发表题为《共担时代责任 勇做先锋力量》的重要讲话。习近平指出——",
+      "summary": "登高望远、近郊徒步、城市骑行、轻装露营，越来越多的年轻人爱上户外运动——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695480.shtml",
-      "publishedAt": "2026-09-12T14:09:49.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695570.shtml",
+      "publishedAt": "2026-09-13T04:33:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695479.shtml",
-      "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-13/10695559.shtml",
+      "title": "中外学者昆明共议本土音乐传承新理论与新实践",
       "category": "综合",
-      "summary": "新华社新德里9月12日电(记者孙承斌 杨依军)当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+      "summary": "中新网昆明9月13日电 (记者 韩帅南)中国·爱尔兰民族音乐学联合工作坊12日在昆明举行闭幕式。连日来，来自中国、爱尔兰、美国等国的民族音乐学学者齐聚云南艺术学院，围绕“本土音乐传承的新理论和新实践”主题开展深度学术对话。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695479.shtml",
-      "publishedAt": "2026-09-12T13:46:41.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695559.shtml",
+      "publishedAt": "2026-09-13T04:15:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695463.shtml",
-      "title": "第十四届环太湖国际公路自行车赛开赛 国内外超百位车手竞速南京",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695558.shtml",
+      "title": "2026 Inclusion·外滩大会闭幕 50余项技术、产品和应用首发首展",
       "category": "综合",
-      "summary": "图为车手冲过终点后庆祝。中新社记者 泱波 摄 图为参赛车手从起点集中出发。中新社记者 泱波 摄 图为参赛车手从起点集中出发。中新社记者 泱波 摄 图为参赛车手在比赛中。(无人机照片)中新社记者 泱波 摄 图为参赛车手在比赛中。中新社记者 泱波 摄 图为参赛车手在比赛中。中新社记者 泱波 摄 图为参赛车手在比赛中。(无人机照片)中新社记者 泱波 摄 图为参赛车",
+      "summary": "中新网上海9月13日电 (记者 姜煜)2026 Inclusion·外滩大会12日在上海闭幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695463.shtml",
-      "publishedAt": "2026-09-12T13:43:25.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695558.shtml",
+      "publishedAt": "2026-09-13T04:13:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695461.shtml",
-      "title": "紧邻首批疏解高校 探访雄安新区学府城项目",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695564.shtml",
+      "title": "再见敬一丹，再见敬大姐",
       "category": "综合",
-      "summary": "9月12日，航拍位于雄安新区起步区的学府城项目建设现场。(无人机照片)中新社记者 谌诗雨 摄 9月12日，航拍位于雄安新区起步区的学府城项目建设现场。(无人机照片)中新社记者 谌诗雨 摄 9月12日，位于雄安新区起步区的学府城项目样板间内，疏解到雄安的工作人员正在参观。中新社记者 韩冰 摄 9月12日，位于雄安新区起步区的学府城项目展厅内，疏解到雄安的工作人",
+      "summary": "9月13日，敬一丹的微信公众号发布了她的讣告。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695461.shtml",
-      "publishedAt": "2026-09-12T13:42:03.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695564.shtml",
+      "publishedAt": "2026-09-13T04:11:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695460.shtml",
-      "title": "四川成都：民众沉浸式体验天文艺术展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-13/10695557.shtml",
+      "title": "中俄垂钓大赛“以渔会友”促进文体交流",
       "category": "综合",
-      "summary": "图为观众正在参观拍摄。韩金雨 摄 图为观众正在观展。韩金雨 摄 图为艺术装置吸引观众拍摄。韩金雨 摄 图为展出的陨石标本。韩金雨 摄 图为光影艺术装置吸引观众体验拍摄。韩金雨 摄 图为观众互动体验光影艺术装置。韩金雨 摄 图为观众参观艺术装置。韩金雨 摄",
+      "summary": "中新网黑河9月13日电 (记者 王琳)12日，“乌纳吉白桦小镇杯”第二届中俄垂钓大赛暨“渔悦逊克·香飘两岸”寒地龙虾美食品鉴活动在黑河市逊克县举行，双方以渔会友，展现精湛技艺。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695460.shtml",
-      "publishedAt": "2026-09-12T13:40:45.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-13/10695557.shtml",
+      "publishedAt": "2026-09-13T03:56:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695459.shtml",
-      "title": "（长征胜利90周年）走进“红色小镇”——贵州习水土城古镇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-13/10695556.shtml",
+      "title": "第二届童声颂英雄图书馆奇妙夜在福州启幕",
       "category": "综合",
-      "summary": "9月12日，航拍土城古镇内的青杠坡战斗遗址。(无人机照片)中新社记者 瞿宏伦 摄 9月12日，土城古镇居民骑车经过四渡赤水·土城渡口雕塑。中新社记者 瞿宏伦 摄 9月12日，游客在土城古镇内拍摄。中新社记者 瞿宏伦 摄 9月12日，游客经过土城古镇内的土城朱德住居。中新社记者 瞿宏伦 摄 9月12日，土城古镇内的四渡赤水纪念馆。(无人机照片)中新社记者 瞿宏",
+      "summary": "中新网福州9月13日电 (叶秋云)“福来福往·阅美之夜”——第二届童声颂英雄图书馆奇妙夜12日晚在福州市少年儿童图书馆启幕。活动以童声讲述英雄故事、红色阅读和互动体验相结合，吸引众多少年儿童及家长参与。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695459.shtml",
-      "publishedAt": "2026-09-12T13:38:15.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695556.shtml",
+      "publishedAt": "2026-09-13T03:54:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695411.shtml",
-      "title": "“琮谱——良渚遗址发现九十周年特展”在浙江杭州启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/mz/2026/09-13/10695555.shtml",
+      "title": "西藏隆子：“云端诊室”24小时在线 援藏医者守护高原健康",
       "category": "综合",
-      "summary": "9月12日，观众正在拍摄大英博物馆藏玉琮。中新社记者 孙琳茹 摄 9月12日，观众正在欣赏大英博物馆藏的四件玉琮。中新社记者 孙琳茹 摄 9月12日，观众在龙山时代的玉琮与石琮前驻足细看。中新社记者 孙琳茹 摄 9月12日，观众正探讨龙山时代的玉琮与石琮。中新社记者 孙琳茹 摄 9月12日，观众在展厅内观赏玉琮。中新社记者 孙琳茹 摄 9月12日，观众在吴大",
+      "summary": "中新网拉萨9月13日电 (王颖 贡嘎来松)在西藏自治区山南市隆子县，有一个全年无休、24小时在线的特殊“诊室”。它没有固定诊室桌椅，却扎根微信云端；不分白昼黑夜，随时为民众答疑诊疗。近四年来，湖南省常德市援藏医生王平依托线上影像会诊微信群，搭建起一座跨越山海的“空中诊疗桥”，用专业坚守和无私奉献，守护着隆子县各族民众的身体健康，书写了新时代援藏医者的责任与担",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695411.shtml",
-      "publishedAt": "2026-09-12T13:36:09.000Z",
+      "url": "https://www.chinanews.com.cn/mz/2026/09-13/10695555.shtml",
+      "publishedAt": "2026-09-13T03:52:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695396.shtml",
-      "title": "全球顶尖越野摩托车手齐聚上海一争高下",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-13/10695552.shtml",
+      "title": "海外华商参与服贸会：拓新兴市场 促互联互通",
       "category": "综合",
-      "summary": "图为选手驾车腾空飞跃。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手驾车腾空飞跃。中新社记者 汤彦俊 摄 图为精彩的赛",
+      "summary": "中新社北京9月13日电 (记者 徐文欣)2026年中国国际服务贸易交易会(下称“服贸会”)正在北京举行。多位参会华商接受中新社采访表示，服贸会提供了不同于传统货物贸易的舞台，为华商带来合作机遇，也为全球服务贸易发展注入新动能。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695396.shtml",
-      "publishedAt": "2026-09-12T13:32:01.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-13/10695552.shtml",
+      "publishedAt": "2026-09-13T03:39:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/09-12/news1068703.shtml",
-      "title": "宁波大学校长34秒发言火了，比仪式更重要的是体谅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695551.shtml",
+      "title": "（经济观察）西部地区发力向新 地方服贸“各显神通”",
       "category": "综合",
-      "summary": "9月11日晚，宁波大学2026级新生开学典礼在断断续续的秋雨中进行。轮到校长、中国科学院院士蔡荣根发言时，雨势变大了，于是他没有照着稿子念，而是只说了三句话，整个过程仅用时34秒。这段特殊的校长致辞，让许多网友觉得很暖心：仪式虽重要，但师生们的健康要排在前面。(记者 高萌 制作 蒋豪文)",
+      "summary": "中新社北京9月13日电 (邸子瀛)2026年中国国际服务贸易交易会(下称服贸会)正在北京首钢园举行。在省区市及港澳台主题展区，各地区组团展示服务贸易特色优势，其中，西部地区企业着重以差异化优势发力出海新赛道。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/09-12/news1068703.shtml",
-      "publishedAt": "2026-09-12T13:31:08.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695551.shtml",
+      "publishedAt": "2026-09-13T03:39:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695368.shtml",
-      "title": "2026中国沿黄河九省（区）自行车巡回赛（洛阳-济源站）开赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695554.shtml",
+      "title": "印尼载有至少240人的客轮失联，已派出救援人员",
       "category": "综合",
-      "summary": "图为自行车巡回赛开赛现场。石智卫 摄 图为参赛选手在赛前鼓劲加油。石智卫 摄 图为自行车巡回赛开赛现场。石智卫 摄 图为参赛选手经过洛阳应天门。石智卫 摄 图为自行车巡回赛比赛现场。石智卫 摄 图为自行车巡回赛比赛现场。石智卫 摄 图为参赛选手经过洛阳应天门。石智卫 摄",
+      "summary": "中新网9月13日电 据美联社报道，印度尼西亚官员称，13日，一艘载有至少240人的客轮于爪哇海失联，救援人员随即展开搜救行动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695368.shtml",
-      "publishedAt": "2026-09-12T13:27:42.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695554.shtml",
+      "publishedAt": "2026-09-13T03:38:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695364.shtml",
-      "title": "2026年WDSF世界青年霹雳舞锦标赛在成都开赛",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695553.shtml",
+      "title": "全球首座翼龙博物馆在新疆哈密开馆",
       "category": "综合",
-      "summary": "图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新",
+      "summary": "中新网北京9月13日电 (记者 孙自法)记者9月13日从中国科学院古脊椎动物与古人类研究所(古脊椎所)获悉，全球首座翼龙博物馆——哈密翼龙博物馆当天在新疆哈密开馆，新疆哈密翼龙—雅丹国家地质公园也正式揭牌。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695364.shtml",
-      "publishedAt": "2026-09-12T13:26:14.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695553.shtml",
+      "publishedAt": "2026-09-13T03:36:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-12/10695441.shtml",
-      "title": "“琮谱”特展杭州启幕 展出124件（组）琮及琮式器",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-13/10695545.shtml",
+      "title": "2026年中国（广西）—东盟“AI+法律”应用创新大赛启动",
       "category": "综合",
-      "summary": "中新社杭州9月12日电 (曹丹 孙琳茹)“琮谱——良渚遗址发现九十周年特展”12日在浙江杭州良渚博物院启幕，汇集海内外39家文博单位的124件(组)琮及琮式器，展期至11月29日。如此大规模地完整呈现玉琮发展脉络的展览，在中国尚属首次。",
+      "summary": "中新网南宁9月13日电(韦佳秀)广西壮族自治区司法厅、梧州市人民政府11日联合召开新闻通气会，介绍2026年中国(广西)—东盟“AI+法律”应用创新大赛有关情况。本次大赛聚焦中国—东盟跨境法治服务痛点难点，推动人工智能技术与法律服务深度融合，目前赛事已全面启动，面向中国内地、港澳台地区及东盟各国开放报名通道。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-12/10695441.shtml",
-      "publishedAt": "2026-09-12T13:22:46.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-13/10695545.shtml",
+      "publishedAt": "2026-09-13T03:30:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695443.shtml",
-      "title": "嘉兴平湖办浙台棒垒球交流 选手大半是台青",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695536.shtml",
+      "title": "（长征胜利90周年）“共和国摇篮”展翅 瑞金“飞”出新天地",
       "category": "综合",
-      "summary": "中新社浙江嘉兴9月12日电 (黄彦君)“之前就来过平湖参赛，这次再来有全新感受。徐家埭村的乡村棒球场按照国际专业标准打造，配套设施完善，平整的草皮、规范的场地，跑动和竞技体验都特别好。”9月12日，在浙江省嘉兴市平湖市徐家埭村，台湾慢速垒球选手庄佳钧说。",
+      "summary": "中新社江西瑞金9月13日电 题：“共和国摇篮”展翅 瑞金“飞”出新天地",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695443.shtml",
-      "publishedAt": "2026-09-12T13:22:30.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695536.shtml",
+      "publishedAt": "2026-09-13T03:30:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695444.shtml",
-      "title": "“中国北极”漠河：提前13天开栓供暖 开启超长供暖季",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695541.shtml",
+      "title": "海南强降雨致岛内部分市县道路交通管制、学校停课",
       "category": "综合",
-      "summary": "中新社黑龙江漠河9月12日电 (记者 田德雨)黑龙江漠河气温日渐走低，当地供热部门于9月12日正式开栓供暖，比计划时间提前13天，保障当地市民和中外游客取暖需求。",
+      "summary": "中新网海口9月13日电 (记者 王子谦)受南海热带低压和冷空气的共同影响，海南多地遭遇强降雨，相关部门13日继续发布多项预警，岛内部分市县道路交通管制、学校宣布停课。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695444.shtml",
-      "publishedAt": "2026-09-12T13:22:28.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695541.shtml",
+      "publishedAt": "2026-09-13T03:28:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
-      "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695544.shtml",
+      "title": "中华鬣羚再现广西花坪国家级自然保护区",
       "category": "综合",
-      "summary": "中新社北京9月12日电 (记者 周兆军 陈杭)埃塞俄比亚咖啡、斯里兰卡红茶、叙利亚阿勒颇古皂……正在北京举行的2026年中国国际服务贸易交易会上，第十一届“炫彩世界”文化展示交流活动集中展示环球风物，将不同国家的风味、工艺与文化带到前来参观的各国观众身边。",
+      "summary": "中新网桂林9月13日电(李双林 廖国稳)近日，广西花坪国家级自然保护区监测人员在回收整理点触式红外线照相机采集的数据时，再次捕捉到国家二级保护动物中华鬣羚活动影像。这是该保护区时隔两年后，又一次记录到这一珍稀物种的身影。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
-      "publishedAt": "2026-09-12T13:22:14.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695544.shtml",
+      "publishedAt": "2026-09-13T03:27:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,20 +554,55 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695438.shtml",
-      "title": "宗教界及学界在沪共探我国佛教中国化新实践",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695550.shtml",
+      "title": "印尼一艘载有243人的客轮失联",
       "category": "综合",
-      "summary": "中新网上海9月12日电(范宇斌)“海上论道·觉群论坛”暨第三届“人间佛教的理论与实践”论坛12日在上海玉佛禅寺举行，探索佛教如何在奉法守规、礼仪戒律、日常行持、道德建设等方面同中华优秀传统文化相融合、与社会主义社会相适应。论坛现场发布新一辑《觉群佛学译丛》。",
+      "summary": "新华社雅加达9月13日电 据外媒13日报道，印度尼西亚一艘载有243人的客轮失联。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695438.shtml",
-      "publishedAt": "2026-09-12T13:20:22.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695550.shtml",
+      "publishedAt": "2026-09-13T03:27:03.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0m34g3v7zjo/trad#0",
+      "title": "女性比男性更擅長耐力跑嗎？",
+      "category": "国际",
+      "summary": "近月來，女性在多項備受矚目的耐力賽事中擊敗男性對手。她們是否天生更適合這類挑戰？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c0m34g3v7zjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T02:47:42.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142780",
+      "title": "也门战事升级，流离失所危机每小时都在恶化",
+      "category": "国际",
+      "summary": "国际移民组织周六警告称，也门的流离失所危机正以每小时为单位迅速恶化。据国际移民组织流离失所追踪矩阵团队及其合作伙伴统计，自7月份以来，已有至少7.6万人逃离家园。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142780",
+      "publishedAt": "2026-09-12T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -732,7 +767,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad#0",
-      "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
+      "title": "習近平七年來首次訪印：中印回暖背後的美國陰影與西藏問題",
       "category": "国际",
       "summary": "這次訪問的時機耐人尋味。金磚機制被視為美國主導的世界格局之外的另一種選擇，美國總統特朗普（Donald Trump）已多次對其發出威脅；與此同時，中印兩國在貿易、直航和邊界對話上悄然回溫。",
       "source": "BBC 中文",
@@ -853,7 +888,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad#1",
       "title": "間諜、戰略與錯失的機會：911的教訓至今仍在消化",
       "category": "国际",
       "summary": "25年後回望，這場襲擊已塑造了整整一代的外交、安全及情報政策。BBC安全事務記者如此寫道。",
@@ -1311,23 +1346,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad#1",
-      "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
-      "category": "国际",
-      "summary": "從2019年開始，《毛澤東選集》突然躍居清華大學圖書館年度借閱榜榜首，此後一直到2025年都穩居榜首。網絡上，不少年輕人稱毛澤東為「教員」，並追捧他的影視形象。為何這位已故領導人重新受到關注？",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T01:05:37.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad#3",
       "title": "董建華：從「船王」之子到香港首任行政長官",
       "category": "国际",
@@ -1654,24 +1672,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142744",
-      "publishedAt": "2026-09-04T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142743",
-      "title": "粮农组织：食品价格指数8月上涨",
-      "category": "国际",
-      "summary": "联合国粮食及农业组织周五发布最新数据显示，2026年8月，粮农组织食品价格指数较7月上涨1.9%，较上年同期上涨2.5%。高温及其他天气相关风险引发市场对供应前景的担忧。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142743",
       "publishedAt": "2026-09-04T12:00:00.000Z",
       "tags": [
         "国际",
