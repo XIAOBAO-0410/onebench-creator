@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T18:13:05.360Z",
-  "expiresAt": "2026-09-17T00:13:05.360Z",
+  "generatedAt": "2026-09-16T21:22:35.043Z",
+  "expiresAt": "2026-09-17T03:22:35.043Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -619,6 +619,114 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142801",
+      "title": "联合国：阿富汗“稳定”局面下多重风险正在累积",
+      "category": "国际",
+      "summary": "联合国秘书长阿富汗事务副特别代表乔吉特·加尼翁周三在安理会通报说，尽管阿富汗事实当局目前没有面临重大的武装或政治威胁，但多重风险正在累积，其中很大一部分源于其自身的政策。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142801",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142800",
+      "title": "世界齐聚纽约：联合国大会高级别周的焦点何在?",
+      "category": "国际",
+      "summary": "每年9月下旬，来自世界各地的总统、总理、部长和外交官齐聚联合国总部，纽约由此成为全球外交的中心。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142800",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142799",
+      "title": "联合国报告警告：参与捍卫人权者面临报复",
+      "category": "国际",
+      "summary": "根据秘书长周三发布的一份新报告，与联合国在人权领域开展合作的活动人士、律师及其他人士继续面临恐吓和报复，该报告呼吁加强保护并追究责任。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142799",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142798",
+      "title": "世卫组织：刚果（金）埃博拉疫情传播有所放缓 但仍在夺走生命",
+      "category": "国际",
+      "summary": "世界卫生组织总干事谭德塞周三表示，经过四个月的应对工作，刚果民主共和国（刚果（金））埃博拉疫情已基本控制在该国东北部，疫情传播在部分地区有所放缓，但仍在蔓延并继续夺走生命。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142798",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142797",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续",
+      "category": "国际",
+      "summary": "据报道，周三，加沙城一栋遭轰炸损毁的建筑坍塌，造成至少20人死亡，搜救行动仍在继续。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142797",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142796",
+      "title": "联大峰会在即：人工智能、气候变化和冲突成为古特雷斯议程的重点",
+      "category": "国际",
+      "summary": "在联合国大会高级别周前夕，秘书长古特雷斯表示，世界已进入“深度不确定性时代”，并敦促各国政府通过国际合作应对全球威胁。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142796",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1575,24 +1683,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142754",
-      "title": "【专题报道】难以忘记——911事件二十五周年 三位联合国工作人员讲述亲身经历",
-      "category": "国际",
-      "summary": "二十五年前，联合国纽约总部的三名工作人员在9月11日这一天开始了他们一个原本平常的星期二早晨，然而却经历了一场终生难忘的巨变。在距离世贸中心仅几英里之遥的联合国大厦内，他们所经历的那些惊心动魄的时刻让他们对恐怖袭击以及联合国关注的打击恐怖主义问题有了更加深刻的理解。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142754",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czezw30076zo/trad#2",
       "title": "為甚麼Gen Z的測試成績正在下跌？",
       "category": "国际",
@@ -1606,96 +1696,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142765",
-      "title": "2025年超过1.71亿名学生因气候灾害中断学业",
-      "category": "国际",
-      "summary": "联合国儿童基金会周三发布的一份最新分析报告显示，2025年全球有超过1.71亿名学龄儿童和青少年因气候灾害而中断学业，相当于每10名学生中就有1名。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142765",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142766",
-      "title": "遭受洪灾重创的尼泊尔呼吁气候正义",
-      "category": "国际",
-      "summary": "联合国驻尼泊尔最高官员周三表示，尼泊尔在近期致命洪灾后呼吁获得经济补偿，这凸显了帮助那些对气候变化贡献最小、却日益面临其最致命后果的国家的必要性。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142766",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142764",
-      "title": "阿富汗民众面临“令人窒息的沉默”，人权高专呼吁加大施压力度",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周三谴责阿富汗实施的一系列压迫性限制措施，特别是针对女童和妇女的措施，并呼吁重新加大力度，敦促该国事实上的当局履行国际法义务。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142764",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142763",
-      "title": "保护教育免受袭击是全世界的责任",
-      "category": "国际",
-      "summary": "9月9日是“保护教育免受袭击国际日”。联合国教科文组织值此对全球针对学校的袭击事件持续增加表示严重关切。2025年，全球共记录到1680起针对学校的袭击事件，较上年增长33%。全球约有2.58亿儿童和青少年因各类危机而中断学业，其中9300万人完全无法上学。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142763",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142762",
-      "title": "随着全球范围冲突加剧，古特雷斯敦促各国领导人投资于和平",
-      "category": "国际",
-      "summary": "周三，联合国秘书长古特雷斯呼吁世界各国领导人投资于和平，因为暴力、分裂和冲突正在加剧全球范围内的苦难。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142762",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
