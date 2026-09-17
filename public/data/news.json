@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T18:17:21.122Z",
-  "expiresAt": "2026-09-18T00:17:21.122Z",
+  "generatedAt": "2026-09-17T22:52:13.910Z",
+  "expiresAt": "2026-09-18T04:52:13.910Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,132 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10698624.shtml",
+      "title": "一句“妈妈，我要吃饭”，她等了5年……走近孤独症儿童和他们的家庭",
+      "category": "综合",
+      "summary": "前阵子，“怪人协会”在网上爆火。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698624.shtml",
+      "publishedAt": "2026-09-17T22:45:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10698623.shtml",
+      "title": "美国中央司令部称已引导104艘商船改变航线",
+      "category": "综合",
+      "summary": "中新网9月18日电 据外媒报道，当地时间9月17日，美国中央司令部在社交媒体上发布消息称，一架 F/A-18F“超级大黄蜂”战斗机从“乔治·H·W·布什”号航空母舰的飞行甲板上起飞；该舰目前在相关海域航行，继续支持执行美国针对伊朗的封锁行动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698623.shtml",
+      "publishedAt": "2026-09-17T22:37:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10698622.shtml",
+      "title": "严打之下，旅游强迫购物乱象为何屡禁不止",
+      "category": "综合",
+      "summary": "导游明言“不要两手空空”，甚至“以跪相求”……文旅部公布一批强制消费典型案例",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10698622.shtml",
+      "publishedAt": "2026-09-17T22:20:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10698621.shtml",
+      "title": "中方反对在安理会强推恢复对伊朗制裁",
+      "category": "综合",
+      "summary": "中国常驻联合国代表傅聪17日在安理会就伊朗制裁委员会专家小组授权延期决议草案投票后发言，表示中方反对在安理会强推恢复对伊朗制裁。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698621.shtml",
+      "publishedAt": "2026-09-17T21:53:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-18/10698620.shtml",
+      "title": "中国海军第48批护航编队访问孟加拉国",
+      "category": "综合",
+      "summary": "中国海军第48批护航编队17日抵达孟加拉国吉大港，开始为期5天的友好访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698620.shtml",
+      "publishedAt": "2026-09-17T21:52:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10698619.shtml",
+      "title": "俄罗斯第九届国家杜马选举开始投票",
+      "category": "综合",
+      "summary": "俄罗斯第九届国家杜马(议会下院)选举于当地时间9月18日8时在堪察加边疆区和楚科奇自治州率先开始投票。这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698619.shtml",
+      "publishedAt": "2026-09-17T21:50:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10698618.shtml",
+      "title": "美国向我国返还64件（套）文物艺术品和古生物化石",
+      "category": "综合",
+      "summary": "北京时间9月16日和18日，国家文物局在华盛顿、纽约分别接收美国国土安全调查局、纽约曼哈顿区检察官办公室向我国返还的2批次共计64件(套)文物艺术品和古生物化石，包括天龙山第17窟西壁北侧菩萨身躯，以及造像、陶俑和恐龙骨架化石、鱼类化石、恐龙蛋化石等。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698618.shtml",
+      "publishedAt": "2026-09-17T21:45:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-18/10698617.shtml",
       "title": "古基因组清晰揭示：青铜时代东天山主体人群是东亚和北亚组合",
@@ -446,128 +572,110 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-17/10698586.shtml",
-      "title": "2026年国家网络安全宣传周香港分论坛举行 聚焦网络安全前沿议题",
-      "category": "综合",
-      "summary": "中新网香港9月17日电 (张语洽 邱兆翔)2026年国家网络安全宣传周香港分论坛17日在香港举行。论坛由香港特区政府数字政策办公室(简称“数字办”)主办，汇聚逾400位来自粤港澳大湾区的业界专家和企业领袖，聚焦人工智能安全、新兴网络威胁及前沿防御技术等议题，探讨香港网络安全的发展方向。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-17/10698586.shtml",
-      "publishedAt": "2026-09-17T15:14:47.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142811",
+      "title": "性别平等领域正出现政治倒退 妇女权力受到系统性削弱",
+      "category": "国际",
+      "summary": "联合国妇女署和联合国经济和社会事务部周四发布的《2026年性别状况快照》报告显示，过去两年间，每三个性别平等机构机制中就有一个机构权力遭到侵蚀，约四分之一的机制运营预算遭到削减，近十分之一完全丧失预算控制权。报告警告，性别平等领域正出现跨领域、可量化且日益加剧的政治倒退。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142811",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-17/10698585.shtml",
-      "title": "从“把脉”到“大模型问诊”：外国嘉宾探访中医药的“新打开方式”",
-      "category": "综合",
-      "summary": "中新社南昌9月17日电 (记者 肖玉笛 吴鹏泉)“中医药正在通过将科技创新融入实践的方式不断发展。”土耳其驻华大使于纳尔17日在江西南昌参加2026上海合作组织传统医学论坛时说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-17/10698585.shtml",
-      "publishedAt": "2026-09-17T15:14:21.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142814",
+      "title": "2026年上半年国际旅游业保持稳定增长 中东冲突和成本上升抑制增长势头",
+      "category": "国际",
+      "summary": "2026年1月至6月，全球国际游客人数估计为6.9亿人次，比2025年同期增加约300万人次，增长0.4%。世界旅游组织最新发布的《世界旅游晴雨表》显示，尽管第一季度国际游客人数增长2%，但4月下降3%，第二季度又下降1%，中东冲突和旅行成本上升抑制了增长势头。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142814",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-17/10698584.shtml",
-      "title": "第四届中国航协（CATA）航空大会在北京开幕",
-      "category": "综合",
-      "summary": "中新网北京9月17日电 (记者 刘文文)第四届中国航协(CATA)航空大会17日在北京开幕。大会为期3天，以“人工智能与民航融合发展”为年度主题，首次将人工智能作为主线贯穿开幕式、行业论坛和专业展览三大单元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698584.shtml",
-      "publishedAt": "2026-09-17T15:13:13.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142813",
+      "title": "世卫组织呼吁加强传统医学研究以满足日益增长的卫生需求",
+      "category": "国际",
+      "summary": "世界卫生组织周四呼吁加强传统、补充和整合医学研究，以弥合全球卫生领域的证据缺口，更好满足日益增长的卫生需求。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142813",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-17/10698583.shtml",
-      "title": "浙江医展会观察：岐黄古韵遇新潮，年轻人爱上中医药",
-      "category": "综合",
-      "summary": "中新网杭州9月17日电(张煜欢)“第一次看到合香珠的制作过程，太有意思了”“中药月饼原来这么好吃，一点也不甜腻”“见过耳穴压豆，还没见过有AI功能的耳穴压豆”……",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698583.shtml",
-      "publishedAt": "2026-09-17T15:10:35.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142812",
+      "title": "伊朗：联合国实况调查团称美国在两次空袭中或犯下战争罪",
+      "category": "国际",
+      "summary": "伊朗问题独立国际实况调查团周四表示，伊朗平民正同时遭受两方面的侵犯人权行为：一方面是伊朗政府实施的严重侵犯人权行为和危害人类罪，另一方面是伊朗与美国、以色列之间致命冲突所造成的侵犯人权行为。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142812",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-17/10698602.shtml",
-      "title": "丁薛祥出席第23届中国－东盟博览会开幕式并会见与会外国政要",
-      "category": "综合",
-      "summary": "中新社北京9月17日电 第23届中国－东盟博览会暨中国－东盟商务与投资峰会17日在广西南宁开幕，中共中央政治局常委、国务院副总理丁薛祥出席并致辞。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-17/10698602.shtml",
-      "publishedAt": "2026-09-17T15:03:46.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142809",
+      "title": "联合国：叙利亚政治过渡和人道主义恢复仍面临多重挑战",
+      "category": "国际",
+      "summary": "联合国秘书长叙利亚问题副特使科尔多内和主管人道主义事务副秘书长兼紧急救济协调员弗莱彻周四向安理会通报叙利亚局势时表示，叙利亚在机构建设、政治过渡和经济一体化等方面取得进展，但仍面临严峻的经济形势、安全挑战、持续流离失所、地区局势升级和地雷等问题。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142809",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-17/10698582.shtml",
-      "title": "浙江省涉外营商环境评价报告在杭州发布",
-      "category": "综合",
-      "summary": "中新网杭州9月17日电(蓝伊旎)9月17日，《浙江省涉外营商环境评价报告2025/2026》(下称“报告”)发布解读活动在杭州举办。报告显示，受访的在浙外资企业对12项涉外营商环境评价指标的整体满意度达4.45分(5分制)，较上年度提升了0.22分。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698582.shtml",
-      "publishedAt": "2026-09-17T15:01:28.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142808",
+      "title": "联合国：加强宗教间和文化间对话 共同打击仇恨言论",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯、联合国大会主席拉赫曼以及联合国副秘书长兼“文明联盟”高级代表莫拉蒂诺斯周四在“促进宗教间和文化间对话与宽容，打击仇恨言论”全球会议上表示，需要加强宗教间和文化间对话，采取全社会共同参与的方式，应对仇恨言论及其根源和后果。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142808",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-17/10698581.shtml",
-      "title": "香港沪籍社团代表热议香港首份五年规划 青年就业计划赋能双城融合",
-      "category": "综合",
-      "summary": "中新网上海9月17日电(范宇斌)多位香港沪籍社团代表17日接受采访，围绕近日公布的《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》(以下简称“规划”)中推出的“沪港青年就业计划”等新举措分享见解。他们认为，相关部署为香港金融、科创产业升级及青年成长擘画清晰蓝图，为沪港全方位合作注入新动力。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-17/10698581.shtml",
-      "publishedAt": "2026-09-17T14:59:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1558,96 +1666,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142779",
-      "title": "【世界进行时】2026年9月11日",
-      "category": "国际",
-      "summary": "本期要点：联大主席敲槌宣布新一届会议开幕，努力重建全球信任；黎巴嫩南部局势升级，联合国秘书长要求以色列撤军；联合国也门特使：也门重陷大规模冲突风险已演变为现实；“9·11”事件25周年：联合国重申反恐与维护人权共同责任；人工智能数据中心对全球电力系统构成日益加剧的威胁；世卫组织警告：吸烟会损害生育能力。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142779",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142777",
-      "title": "首支青年难民奥运代表队将参加2026年青奥会",
-      "category": "国际",
-      "summary": "难民署周五发表声明，欢迎首支青年难民奥运代表队参加赛前集训，备战下个月在塞内加尔举行的2026年青年奥运会。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142777",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142776",
-      "title": "安理会：重振反恐斗争，应对不断演变的恐怖主义威胁",
-      "category": "国际",
-      "summary": "安理会周五举行关于恐怖主义行为对国际和平与安全构成威胁的通报会，主题为“‘9·11’事件25周年：重振安理会反恐斗争”。纳塔利娅·盖尔曼和联合国反恐办公室代理主管艾哈布·奥迈什在会上发言，强调国际合作、预防努力、能力建设以及尊重国际法和人权对于应对不断演变的恐怖主义威胁至关重要。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142776",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142775",
-      "title": "地球迎来有记录以来最热的8月",
-      "category": "国际",
-      "summary": "根据欧盟“哥白尼”气候服务局、美国国家海洋和大气管理局以及美国国家航空航天局的月度报告，地球刚刚经历了有记录以来最热的8月。北半球经历了有史以来最热的夏季，而南半球则经历了接近纪录的高温冬季。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142775",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142774",
-      "title": "安理会反恐执行局趋势报告：恐怖主义宣传日益成为行动基础设施",
-      "category": "国际",
-      "summary": "安理会反恐委员会执行局发布题为《超越信息传播：恐怖主义宣传作为行动基础设施》的最新趋势报告。报告分析了恐怖组织如何日益将宣传不仅作为沟通工具，还作为招募、激进化、融资、行动规划及治理活动不可或缺的组成部分。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142774",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74e03x93l7o/trad#2",
       "title": "為甚麼我們會記錯911事件？",
       "category": "国际",
@@ -1661,24 +1679,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142772",
-      "title": "乌克兰：针对切尔诺贝利的无人机袭击是“在拿数百万人的安全冒险”",
-      "category": "国际",
-      "summary": "联合国开发计划署署长德克罗周四通过视频连线从基辅向联合国纽约总部的记者表示，针对切尔诺贝利核电站防护结构的无人机袭击本可能危及数百万人的安全。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142772",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
