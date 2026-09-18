@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad#2",
+      "title": "對台軍售成「特習會」談判籌碼？北京警告或取消峰會施壓特朗普",
+      "meta": "BBC 中文 · 2026/9/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:18:47.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674k7gxpgplo/trad#2",
       "title": "人類真的可能被AI滅絕？我們可以如何阻止？",
       "meta": "BBC 中文 · 2026/9/18",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-09-11T05:31:27.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czezw30076zo/trad#2",
-      "title": "為甚麼Gen Z的測試成績正在下跌？",
-      "meta": "BBC 中文 · 2026/9/10",
-      "url": "https://www.bbc.com/zhongwen/articles/czezw30076zo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T08:58:11.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#4",
       "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
       "meta": "BBC 中文 · 2026/9/9",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-18T11:21:16.703Z",
+  "updatedAt": "2026-09-18T16:28:28.432Z",
   "provider": "OneBench 公共资讯快照"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:21:16.703Z",
-  "expiresAt": "2026-09-18T17:21:16.703Z",
+  "generatedAt": "2026-09-18T16:28:28.432Z",
+  "expiresAt": "2026-09-18T22:28:28.432Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699093.shtml",
-      "title": "2026亚太人工智能大会在长春举行 共探AI从研发向应用演进新趋势",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699318.shtml",
+      "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
       "category": "综合",
-      "summary": "中新社长春9月18日电 (记者 郭佳)2026亚太人工智能大会18日在长春举行。围绕物理AI、AI新基建、大模型自主可控等议题，中外专家探讨人工智能从“能对话”向“能执行”、从技术研发向产业应用加速演进的新趋势。",
+      "summary": "当地时间9月18日，安理会当月轮值主席、法国常驻联合国代表杰罗姆·博纳丰宣布，安理会当日已就下一任秘书长遴选完成第三轮意向性投票。意向性投票结果不对外公布，将通过候选人推举国通知各候选人。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699093.shtml",
-      "publishedAt": "2026-09-18T11:17:42.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699318.shtml",
+      "publishedAt": "2026-09-18T16:15:11.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699092.shtml",
-      "title": "智启新未来，打造智能世界的硅基黑土地",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-19/10699317.shtml",
+      "title": "国际原子能机构称俄罗斯一核电站冷却塔被无人机击中",
       "category": "综合",
-      "summary": "2026年9月17日，华为全联接大会2026在上海启幕。华为副董事长、轮值董事长汪涛在大会上发表了“智启新未来，打造智能世界的硅基黑土地”的主题演讲，与产业界共同探讨在智能浪潮中如何携手合作，打造强大的AI基础设施，筑牢坚实的算力底座，迎接智能世界带来的机遇与挑战。",
+      "summary": "国际原子能机构18日表示，已获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699092.shtml",
-      "publishedAt": "2026-09-18T11:11:42.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699317.shtml",
+      "publishedAt": "2026-09-18T16:11:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699123.shtml",
-      "title": "马来西亚前总理纳吉布将以居家监禁形式继续服刑",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699316.shtml",
+      "title": "第23届东博会合作项目集中签约",
       "category": "综合",
-      "summary": "当地时间9月18日，马来西亚特赦局宣布，允许马前总理纳吉布以居家监禁的方式服役完剩余刑期，至2028年8月。",
+      "summary": "中新社南宁9月18日电 (林浩 陈冠言)第23届中国—东盟博览会签约活动18日在广西南宁举办，共促成平陆运河经济带上8市达成签约项目41个，促成国际合作项目19个，覆盖7个东盟国家，并落地多个面向东盟的智能智造与数字场景项目。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699123.shtml",
-      "publishedAt": "2026-09-18T11:09:54.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699316.shtml",
+      "publishedAt": "2026-09-18T15:52:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699099.shtml",
-      "title": "山东济南金秋农产品展销活动启幕 邀民众共享丰收喜悦",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-18/10699311.shtml",
+      "title": "夜奔北京 台湾“武者”记录胡同“江湖”",
       "category": "综合",
-      "summary": "中新网济南9月18日电 (记者 孙婷婷)大山深处的核桃、板栗、猕猴桃，沙土地里的红薯、富硒花生，以及章丘大葱、莱芜生姜等金秋时节丰收的农产品悉数亮相济南奥林匹克体育中心，吸引众多市民驻足品鉴、争相选购。",
+      "summary": "图为9月12日，新书发布会现场。左三为作者黄鸿玺。主办方供图 一场新书发布会9月12日在北京三联书店举行。发布会的主角、新书作者黄鸿玺的人生颇富传奇色彩：生于中国台湾，长于加拿大。年少时，受李小龙主演的华人电影启发，黄鸿玺开始习武。大学毕业后，他回到台湾，加入云门舞集担任武术指导，随后利用云门“流浪者计划”资助，走访中国大陆北方多省市寻访隐于乡野的武术高手。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699099.shtml",
-      "publishedAt": "2026-09-18T11:07:56.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699311.shtml",
+      "publishedAt": "2026-09-18T14:52:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699098.shtml",
-      "title": "京津冀博士后与科研人才招收暨项目洽谈会举办 汇聚130余家重点单位",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-18/10699310.shtml",
+      "title": "非公力量“闯关东” 在黑土地“种”下新机遇",
       "category": "综合",
-      "summary": "中新网北京9月18日电 (记者 吕少威)由京津冀三地人社部门联合主办的“京津冀博士后与科研人才招收暨项目洽谈会”18日在中国矿业大学(北京)学院路校区举办。今年是北京市第四次举办此项活动，130余家优质单位提供博士后及科研岗位400余个。活动聚焦博士后等青年科技人才引进与产学研深度融合，为区域高质量发展搭建了高效的人才对接与科研合作平台。",
+      "summary": "鱼子酱与糯玉米的香气交织，红肠、大米等特色产品琳琅满目……哈尔滨国际会展中心华旗礼堂外，民建会员企业推介展台前人头攒动。穿梭其间的，不仅有深耕本土的实干家，更有来自全国各地的专精特新企业掌门人与投资代表。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699098.shtml",
-      "publishedAt": "2026-09-18T11:06:40.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699310.shtml",
+      "publishedAt": "2026-09-18T14:49:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-18/10699089.shtml",
-      "title": "中国团队研发医疗影像模型 可一次性识别146种腹部病症",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-18/10699308.shtml",
+      "title": "九沟八梁远去，八瓣莲花盛开：甘肃武都藏乡儿女的下山之路",
       "category": "综合",
-      "summary": "中新社杭州9月18日电 (张煜欢)阿里巴巴达摩院与浙江大学医学院附属第一医院等机构研发出通用医疗影像AI模型DAMO RADAR。该模型面向腹部增强CT诊断，可一次性识别146种腹部病症，其准确性首次达到影像科专家级水平，现已正式开源。",
+      "summary": "中新网兰州9月18日电 (高文)九月的甘肃陇南，秋雨初歇。武都区坪垭藏族乡的安置区如同一朵八瓣莲花铺展在白龙江畔。2016年，甘肃省“十三五”时期整乡易地扶贫搬迁项目在此启动，2018年10月，1236户5731名藏乡儿女从海拔1100米至3200米的“九沟八梁”上搬到了这里。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-18/10699089.shtml",
-      "publishedAt": "2026-09-18T11:03:32.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699308.shtml",
+      "publishedAt": "2026-09-18T14:47:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699088.shtml",
-      "title": "A股沪指周五站上3900点 半导体板块走强",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699315.shtml",
+      "title": "艺人陈建州突发心梗住院，自曝每天只睡三四个小时！医生提醒",
       "category": "综合",
-      "summary": "中新社北京9月18日电 (记者 陈康亮)中国A股18日(周五)放量上涨，主要股指悉数走高。其中，上证指数涨近1%，成功站上3900点。",
+      "summary": "原标题：从鬼门关捡回一命！艺人陈建州突发心梗住院，自曝每天只睡三四个小时，医生提醒：身体的累，真的不能硬扛",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699088.shtml",
-      "publishedAt": "2026-09-18T11:01:22.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699315.shtml",
+      "publishedAt": "2026-09-18T14:45:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699116.shtml",
-      "title": "气象部门解读华西秋雨为何持续两月",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699306.shtml",
+      "title": "东帝汶咖啡首秀东博会",
       "category": "综合",
-      "summary": "气象部门解读华西秋雨为何持续两月(2026·09·18)",
+      "summary": "中新社南宁9月18日电 (韦佳秀)第23届中国—东盟博览会(东博会)上，东帝汶首次以东盟正式成员国、共同主办方身份亮相。在东帝汶展区，该国参展商带来咖啡豆、檀木等特色产品，吸引大批观众驻足品尝、购买。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699116.shtml",
-      "publishedAt": "2026-09-18T10:58:25.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699306.shtml",
+      "publishedAt": "2026-09-18T14:29:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-18/10699087.shtml",
-      "title": "特写：“向国旗敬礼”，近千名香港青少年开启爱国主义教育之旅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699303.shtml",
+      "title": "第23届东博会合作项目集中签约 首次搭建机制性供需对接平台",
       "category": "综合",
-      "summary": "中新社香港9月18日电 题：“向国旗敬礼”，近千名香港青少年开启爱国主义教育之旅",
+      "summary": "中新网南宁9月18日电(林浩 陈冠言)9月18日，第23届中国—东盟博览会签约活动在南宁举办，共促成平陆运河经济带上的8市达成签约项目41个。活动还促成国际合作项目19个，覆盖7个东盟国家，并落地多个面向东盟的智能智造与数字场景项目。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-18/10699087.shtml",
-      "publishedAt": "2026-09-18T10:57:15.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699303.shtml",
+      "publishedAt": "2026-09-18T14:25:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699086.shtml",
-      "title": "中国住建部：构建房地产发展新模式 重点推进三项制度",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699305.shtml",
+      "title": "证监会拟对17起案件线索的“吹哨人”给予奖励",
       "category": "综合",
-      "summary": "中新社北京9月18日电 (庞无忌 陶思阅)中国住房和城乡建设部房地产市场监管司司长张雪涛18日在北京表示，为适应房地产的新形势、新变化和新要求，将加快构建房地产发展新模式，其中，项目公司制、主办银行制和现房销售制三项制度为重点。",
+      "summary": "中新网北京9月18日电 (记者 陈康亮)据中国证监会18日消息，近日，证监会拟根据证券法等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699086.shtml",
-      "publishedAt": "2026-09-18T10:55:25.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699305.shtml",
+      "publishedAt": "2026-09-18T14:25:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699076.shtml",
-      "title": "“百城千校万企促就业”行动产教融合推进会在广州举行",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml",
+      "title": "中国今年前8月新设外企超4.2万家",
       "category": "综合",
-      "summary": "中新网广州9月18日电 (记者 孙秋霞)全国工商联17日在广州科技职业技术大学举办“百城千校万企促就业”行动产教融合推进会暨“百万英才汇南粤”重点民营企业秋季招聘活动，全国工商联人才中心、9家民营企业与12所高校签订产教融合合作协议。",
+      "summary": "中新社北京9月18日电 (记者 尹倩芸)中国商务部18日公布的数据显示，今年1至8月，全国新设立外商投资企业42582家，同比增长0.3%；实际使用外资金额4799.5亿元(人民币，下同)，同比下降5.3%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699076.shtml",
-      "publishedAt": "2026-09-18T10:52:53.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml",
+      "publishedAt": "2026-09-18T14:25:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699114.shtml",
-      "title": "大乌龙！外媒曝亚运会韩国队比赛误播朝鲜国歌",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-18/10699263.shtml",
+      "title": "津门赛场聚同心 传统体育展新姿——写在天津市第十届少数民族传统体育运动会开幕之际",
       "category": "综合",
-      "summary": "中新网9月18日电 综合日本共同社、韩国《东亚日报》报道，在18日举行的韩国队出场的爱知·名古屋亚运会男子曲棍球比赛时，出现了误将朝鲜国歌作为韩国国歌播放的问题。赛事相关人员透露了此事。",
+      "summary": "中新网天津9月18日电 (记者 孙玲玲)九月的津城，运河波光潋滟。天津市西青区各大场馆内外，横幅高悬、彩旗招展，工作人员正紧张有序地进行最后调试。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699114.shtml",
-      "publishedAt": "2026-09-18T10:44:30.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699263.shtml",
+      "publishedAt": "2026-09-18T14:19:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699074.shtml",
-      "title": "重庆力争到2030年重大危险源安全风险在线监测率达100%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-18/10699267.shtml",
+      "title": "在滇台企代表走进国企交流 互学互鉴共寻合作新空间",
       "category": "综合",
-      "summary": "中新网重庆9月18日电 (梁钦卿)重庆市应急管理局副局长邹瑜18日在重庆市政府新闻办举行的发布会上表示，力争到2030年，重庆重大危险源安全风险在线监测率达到100%，城市气象灾害监测率达到95%以上。",
+      "summary": "中新网昆明9月18日电 (罗婕)17日至18日，“服务云台·携手共进”——台企职工进国企交流活动在云南昆明举行，30余名在滇台企员工代表走进本地标杆国企，近距离观摩企业生产一线，学习先进发展经验，深入挖掘云台两地产业互补优势与合作新空间。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699074.shtml",
-      "publishedAt": "2026-09-18T10:38:04.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-18/10699267.shtml",
+      "publishedAt": "2026-09-18T14:19:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699113.shtml",
-      "title": "公安部网安局公布5起网暴运动员典型案例",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699277.shtml",
+      "title": "普通高中校长年会举行 校长共话AI时代高中教育发展前景",
       "category": "综合",
-      "summary": "中新网9月18日电 据公安部网安局微信公众号消息，公安网安部门持续推进“净网—2026”专项行动，依法打击网暴运动员等违法犯罪活动。今日，公布5起网暴运动员典型案例：",
+      "summary": "中新网北京9月18日电 (记者 刘亮)普通高中校长年会(2026)日前在北京开幕。来自全国各地的教育领域专家学者，普通高中学校书记、校长、骨干教师等共计1700余名代表现场参会，探索AI时代高中教育高质量发展路径。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699113.shtml",
-      "publishedAt": "2026-09-18T10:35:38.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699277.shtml",
+      "publishedAt": "2026-09-18T14:18:48.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-18/10699097.shtml",
-      "title": "新疆举办秋季招聘大会",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699298.shtml",
+      "title": "中国驻法兰克福总领馆2026年国庆招待会暨《千里潇湘》民乐音乐会举行",
       "category": "综合",
-      "summary": "图为求职者排队进入会场。金奇 摄 图为招聘大会现场。金奇 摄 图为求职者咨询岗位相关情况。金奇 摄 图为求职者挑选心仪岗位。金奇 摄",
+      "summary": "中新网法兰克福9月18日电(记者 马秀秀)中国驻法兰克福总领馆17日晚在法兰克福霍赫市立音乐学院举行庆祝中华人民共和国成立77周年侨学界专场招待会暨《千里潇湘》民乐音乐会。领区侨胞、华人专家学者、留学生、中资机构代表及德国各界友好人士等250余人到场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10699097.shtml",
-      "publishedAt": "2026-09-18T10:27:03.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699298.shtml",
+      "publishedAt": "2026-09-18T14:17:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699073.shtml",
-      "title": "中船七〇四所智能拖曳作业系统获全球首张型式认可证书",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699278.shtml",
+      "title": "“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班开班",
       "category": "综合",
-      "summary": "中新网上海9月18日电 (杨海燕 李秋莹 何宝新)近日，中国船舶第七〇四研究所自主研发的拖轮智能拖曳作业系统获得中国船级社(CCS)颁发的全球首张型式认可证书，这是继全球唯一获三大船级社权威认证的我国首个船舶自主航行与远程控制系统，该所获得的又一具有里程碑意义的船舶智能系统认可证书，标志着我国在拖轮智能拖曳作业和安全管控领域取得了新的技术突破，为相关成果进一",
+      "summary": "中新网北京9月18日电 9月17日，“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班在北京正式开班。此次研修班聚焦数字经济、绿色发展、智慧城市建设、科技创新和高质量共建“一带一路”等前沿议题，搭建欧亚青年学术交流、互学互鉴、务实合作平台。来自俄罗斯、格鲁吉亚、哈萨克斯坦等11个欧亚国家的41名青年专家学者参与研修。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699073.shtml",
-      "publishedAt": "2026-09-18T10:27:03.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699278.shtml",
+      "publishedAt": "2026-09-18T14:17:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699072.shtml",
-      "title": "发展生态种养 江西柴桑“稻鸭共生”闯出致富新路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699301.shtml",
+      "title": "中国驻泰国大使馆举行国庆招待会",
       "category": "综合",
-      "summary": "中新网江西九江9月18日电(卢梦梦 骆道明)金秋时节，江西省九江市柴桑区岷山乡青岗村生态稻田种植基地内，水稻长势喜人，一群群鸭子穿梭其间，觅食嬉戏，成为田间一道独特的风景。",
+      "summary": "中新网曼谷9月18日电(李映民 王茜)中国驻泰国大使馆17日晚举行庆祝中华人民共和国成立77周年招待会。使馆临时代办吴志武、泰国总理阿努廷、副总理兼财政部长艾尼迪、副总理兼外交部长西哈萨、国会副主席兼上议院议长蒙坤，以及泰国正大集团资深董事长谢国民、泰国中华总商会主席林楚钦等泰政、军、商、学、侨等各界友人，各国驻泰使节、中资机构及留学生代表等出席。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699072.shtml",
-      "publishedAt": "2026-09-18T10:26:01.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699301.shtml",
+      "publishedAt": "2026-09-18T14:15:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-18/10699096.shtml",
-      "title": "第九届中国机器人峰会：具身智能应用生态引人关注",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-18/10699279.shtml",
+      "title": "赵乐际、王沪宁分别会见埃及参议长法里德",
       "category": "综合",
-      "summary": "9月18日，参观者体验中医按摩机器人。中新社记者 王刚 摄 9月18日，为四足/人形机器人提供算力支撑的控制器展出。中新社记者 王刚 摄 9月18日，展出的高空幕墙清洗机器人引人驻足。中新社记者 王刚 摄 9月18日，杭州机器人学校的情感陪伴机器人“胖达”引人关注。中新社记者 王刚 摄",
+      "summary": "中新社北京9月18日电 全国人大常委会委员长赵乐际、全国政协主席王沪宁18日在北京分别会见埃及参议长法里德。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10699096.shtml",
-      "publishedAt": "2026-09-18T10:25:43.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10699279.shtml",
+      "publishedAt": "2026-09-18T14:15:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-18/10699081.shtml",
-      "title": "中欧班列（郑州）备战“双节”假期发运",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699256.shtml",
+      "title": "中国突破地下大空间高精度定位导航与控制关键技术",
       "category": "综合",
-      "summary": "图为满载货物的集装箱装车待发。中新社记者 刘鹏 摄 图为集装箱正面起重机在园区内穿梭。中新社记者 刘鹏 摄 图为集装箱正面起重机正在作业。中新社记者 刘鹏 摄 图为工作人员为满载集装箱调整重心。中新社记者 刘鹏 摄 图为集装箱正面起重机正在作业。中新社记者 刘鹏 摄",
+      "summary": "中新网北京9月18日电 (记者 孙自法)记者9月18日从中国电科获悉，由中国电科网络通信研究院综合时空网络与装备技术全国重点实验室(又称“中国时空”)牵头研制的中国地下大空间高精度定位导航与控制技术，近日顺利通过科学技术部验收，标志着中国在超宽带定位方向取得重大原创成果。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10699081.shtml",
-      "publishedAt": "2026-09-18T10:24:17.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699256.shtml",
+      "publishedAt": "2026-09-18T14:14:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-18/10699075.shtml",
-      "title": "南阳古镇：湖上浮古镇 运河阅千年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699202.shtml",
+      "title": "吉林省档案馆公布60份日军强征“慰安妇”档案",
       "category": "综合",
-      "summary": "图为南阳古镇的运河风光。陈宛婷 摄 图为南阳古镇的运河风光。陈宛婷 摄 图为南阳古镇的运河风光。陈宛婷 摄 图为游客在南阳古镇的康乾别苑观赏戏曲演出。陈宛婷 摄 图为南阳古镇康乾别苑戏台，戏曲演员登台献艺。陈宛婷 摄 图为南阳古镇胡记钱庄，讲解员介绍古代“防假密押”制度。陈宛婷 摄 图为南阳古镇胡记钱庄的室内陈设。陈宛婷 摄",
+      "summary": "中新社长春9月18日电 (记者 郭佳)吉林省档案馆18日公布60份新发掘的日军强征“慰安妇”档案。该馆史料编研处处长吕春月接受采访时说，这批档案是日本关东军败退时销毁史料留下的焚余档案，涉及慰安所设立审批、人员征募、日常运营、受害境遇等内容，以日军原始档案证实了日军系统性、制度化实施性暴力犯罪的史实。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-18/10699075.shtml",
-      "publishedAt": "2026-09-18T10:22:21.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699202.shtml",
+      "publishedAt": "2026-09-18T14:13:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-18/10699062.shtml",
-      "title": "海外华社铭记国殇 呼吁共护和平未来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699245.shtml",
+      "title": "“真相：日本侵略中国东北铁证展”在沈阳开展",
       "category": "综合",
-      "summary": "中新社北京9月18日电 (记者 刘洋)95年前的今天，九一八事变爆发。近日，海外华社举办悼念活动和座谈会等，缅怀死难同胞，传递和平之声。",
+      "summary": "中新社沈阳9月18日电 (记者 韩宏)“真相：日本侵略中国东北铁证展”18日在沈阳“九·一八”历史博物馆开展。展览以“铁证破谬、真相立言”为核心主旨，依托档案、影像、实物等一手史料，系统还原日本侵略中国东北的完整历史进程。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-18/10699062.shtml",
-      "publishedAt": "2026-09-18T10:16:21.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699245.shtml",
+      "publishedAt": "2026-09-18T14:13:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/09-18/10699094.shtml",
-      "title": "东西问丨王献华谈左宗棠治疆智慧：边疆是塑造“中国”之为“中国”的有机组成部分",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699252.shtml",
+      "title": "解码生成式人工智能 “科创燃梦”首场公益科普直播课开播",
       "category": "综合",
-      "summary": "中新社北京9月18日电 题：王献华谈左宗棠治疆智慧：边疆是塑造“中国”之为“中国”的有机组成部分",
+      "summary": "中新网北京9月18日电 (记者 孙自法)“科创燃梦——青少年科技素养实训计划”首场公益科普直播课近日开播，旨在助力广大青少年解码生成式人工智能(AI)。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-18/10699094.shtml",
-      "publishedAt": "2026-09-18T10:13:08.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699252.shtml",
+      "publishedAt": "2026-09-18T14:13:41.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699108.shtml",
-      "title": "市场监管部门与平台企业签署协议，共同支持个体工商户发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699254.shtml",
+      "title": "天津：将推动智能助残器具纳入补贴目录",
       "category": "综合",
-      "summary": "中新网9月18日电 据“市说新语”微信公众号消息，9月17日，在市场监管总局指导下，内蒙古、江苏、浙江、山东、广东、重庆、四川等7个省(区、市)市场监管局、“全国个体工商户发展网”与1688、抖音生活服务、快手、美团、淘宝闪购、淘天、小红书、支付宝等8家平台企业共同签署《促进个体工商户发展合作框架协议》。",
+      "summary": "中新网天津9月18日电 (薛淳月)天津市残联理事长李建存17日在发布会上介绍，“十五五”时期，天津将建立科技助残产品评估机制，对成熟可靠、适配民生需求的智能助残器具，按流程纳入天津市残疾人辅助器具补贴目录，通过政策兜底降低残疾人使用成本。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699108.shtml",
-      "publishedAt": "2026-09-18T10:10:20.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699254.shtml",
+      "publishedAt": "2026-09-18T14:13:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699107.shtml",
-      "title": "巴基斯坦西北部爆炸事故已致16人死亡",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699280.shtml",
+      "title": "光韵流转夜上海：古树“说话” 游人“步步生花”",
       "category": "综合",
-      "summary": "当地时间18日，巴基斯坦西北部开伯尔-普什图省一座清真寺附近发生爆炸。当地警方称，袭击已导致16人死亡。",
+      "summary": "中新网上海9月18日电(记者 陈静)以“光韵上海，影动世界”为主题的第三届上海国际光影节18日举行。夜幕降临，在黄浦主会场延中绿地，可与120岁古树进行“对话”的《棫朴之咏(朴翁)》以及漫步其间“步步生花”的《光影花路》格外引人注目。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699107.shtml",
-      "publishedAt": "2026-09-18T10:01:02.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699280.shtml",
+      "publishedAt": "2026-09-18T14:09:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,20 +464,163 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699106.shtml",
-      "title": "菲律宾校园枪击案死亡人数更正为3人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/09-18/10699300.shtml",
+      "title": "奋楫扬帆，续写狮子山下新传奇",
       "category": "综合",
-      "summary": "当地时间18日，菲律宾社会福利与发展部发文称，根据17时的最新报告，将当天发生在南哥打巴托省的校园枪击案的死亡人数更正为3人，另有8人受伤。",
+      "summary": "原标题：奋楫扬帆 续写狮子山下新传奇(望海楼)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699106.shtml",
-      "publishedAt": "2026-09-18T10:00:01.000Z",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-18/10699300.shtml",
+      "publishedAt": "2026-09-18T14:09:33.000Z",
       "tags": [
         "国内",
         "社会",
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699299.shtml",
+      "title": "外媒点赞中国制造业高质量发展",
+      "category": "综合",
+      "summary": "全球媒体聚焦 | 外媒点赞中国制造业高质量发展",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699299.shtml",
+      "publishedAt": "2026-09-18T14:07:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699247.shtml",
+      "title": "东博会：“香港认证”赋能内地食品企业出海东盟",
+      "category": "综合",
+      "summary": "中新社南宁9月18日电 (俞靖)“出海东盟新机遇：香港助力内地食品企业拓市场”专题研讨会18日在广西南宁举行，以“香港通道 连接全球”为主题的香港馆同步在第23届中国—东盟博览会上开放。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10699247.shtml",
+      "publishedAt": "2026-09-18T14:06:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
+      "title": "北京制定专项行动方案发展词元经济",
+      "category": "综合",
+      "summary": "中新社北京9月18日电 (记者 吕少威)根据18日发布的《北京市加快词元经济发展的行动方案(2026—2028年)》(下称方案)，北京将率先培育智能经济新形态，以词元(Token)为抓手，发展词元经济新增量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml",
+      "publishedAt": "2026-09-18T14:06:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699251.shtml",
+      "title": "福建莆田罗屿迎来第70艘次40万吨级大型船舶",
+      "category": "综合",
+      "summary": "中新网莆田9月18日电 (林孟 陈航翔)18日，在莆田出入境边防检查站监护下，中国香港籍40万吨级铁矿船“矿石宁波”轮正停泊罗屿作业区9号泊位卸货。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699251.shtml",
+      "publishedAt": "2026-09-18T14:06:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-18/10699292.shtml",
+      "title": "西安一唐墓发现罕见唐诗实物遗存 刻有“火树银花”“星桥锁开”等字样",
+      "category": "综合",
+      "summary": "中新社西安9月18日电 (记者 李一璠 阿琳娜)记者18日从陕西省考古研究院获悉，在西安市长安区大居安村发掘的李承嘉墓中出土一件陶马踏板，器底刻有12字，专家推测是节选摹写的唐代诗人苏味道的《正月十五夜》，属罕见的唐代诗歌刻字实物遗存。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699292.shtml",
+      "publishedAt": "2026-09-18T14:05:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142720",
+      "title": "【专题报道】让使用清洁能源与土地修复同行",
+      "category": "国际",
+      "summary": "应对气候变化所需的基础设施，如果不仅能够提供清洁能源，还能帮助修复其所占用的土地，这岂不是两全其美？这是否可以成为能源转型的新路径？",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142720",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142816",
+      "title": "【子午播报】2026年9月18日",
+      "category": "国际",
+      "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，古特雷斯召开任内最后一次联大记者会；65年前的今天，联合国第二任秘书长坠机身亡；子午聚焦：赫尔松上空的威胁。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142816",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad#2",
+      "title": "對台軍售成「特習會」談判籌碼？北京警告或取消峰會施壓特朗普",
+      "category": "国际",
+      "summary": "中美兩國元首本月稍後預定在華府舉行的「特習會」，是全球矚目的外交焦點，中方仍未公布行程。據報北京警告若華府會前批准新一輪百億美元對台軍售，或將取消峰會。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:18:47.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -500,42 +643,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699067.shtml",
-      "title": "2026北京绿色发展论坛举办 城市副中心绿色项目集中签约",
-      "category": "综合",
-      "summary": "中新网北京9月18日电 (记者 陈杭)17日至18日，以“绿色赋能 低碳共生”为主题的2026北京绿色发展论坛在北京城市副中心举办。论坛立足“十五五”规划开局关键节点，服务国家“双碳”战略部署，聚焦培育绿色新质生产力，分享现代化可持续发展经验，共探绿色低碳转型实践路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699067.shtml",
-      "publishedAt": "2026-09-18T09:57:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-18/10699061.shtml",
-      "title": "（爱知·名古屋亚运会）中国女排3:0战胜哈萨克斯坦队 小组第一晋级八强",
-      "category": "综合",
-      "summary": "中新社日本名古屋9月18日电 (记者 金旭)当地时间18日，爱知·名古屋亚运会女排项目进行第二轮小组赛，中国女排直落三局轻取哈萨克斯坦队，以小组第一晋级八强，三局比分分别为25:18、25:6、25:14。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-18/10699061.shtml",
-      "publishedAt": "2026-09-18T09:56:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674k7gxpgplo/trad#2",
       "title": "人類真的可能被AI滅絕？我們可以如何阻止？",
       "category": "国际",
@@ -549,60 +656,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-18/10699104.shtml",
-      "title": "外媒聚焦：东盟博览会搭建重要平台，助力地区稳定与共同繁荣",
-      "category": "综合",
-      "summary": "中新网9月18日电 9月17日至21日，第23届中国—东盟博览会(以下简称“东博会”)在广西南宁举行，本届东博会以“共享3.0机遇，共创美好生活”为主题，国际媒体高度关注。多家外媒认为，东博会已成为中国与东盟深化经贸合作、共享发展机遇的重要平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-18/10699104.shtml",
-      "publishedAt": "2026-09-18T09:55:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-18/10699077.shtml",
-      "title": "2026江苏省侨界中餐厨艺大赛总决赛在无锡举行",
-      "category": "综合",
-      "summary": "中新网无锡9月18日电 (徐珊珊 孙权)“亲情中华·魅力江苏”2026江苏省侨界中餐厨艺大赛总决赛暨颁奖活动，17日在无锡举行。活动由江苏省侨联、江苏省餐饮行业协会主办，无锡市侨联、新吴区侨联、新吴区旺庄街道办事处、无锡商业职业技术学院承办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-18/10699077.shtml",
-      "publishedAt": "2026-09-18T09:52:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-18/10699083.shtml",
-      "title": "（乡村行·看振兴）千年湖笔文脉焕新 浙江小镇“一笔绘就”共富新篇",
-      "category": "综合",
-      "summary": "中新网湖州9月18日电(黄彦君 陆晓芬)连日来，在浙江省湖州市南浔区善琏镇，京东·文房四宝产业园订单量持续走高。发货云仓内，装载湖笔等各类文房产品的包裹顺着智能分拣线有序流转。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699083.shtml",
-      "publishedAt": "2026-09-18T09:52:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -777,6 +830,24 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142815",
+      "title": "安理会因“自动恢复”机制争议未能延长伊朗制裁专家小组任期",
+      "category": "国际",
+      "summary": "安理会周四未能通过延长负责监督对伊朗制裁执行情况的专家小组任期的决议草案。成员国在相关制裁是否仍然有效的问题上存在分歧，草案因中国和俄罗斯投否决票而未获通过。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142815",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1527,42 +1598,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142784",
-      "title": "人权高专呼吁采取紧急行动应对前所未有的人工智能风险",
-      "category": "国际",
-      "summary": "联合国人权事务高级专员蒂尔克周一呼吁各国及全球“前沿”人工智能企业采取紧急行动，确保有实质意义的人工智能治理能够跟上其加速发展的步伐，并应对其对人权构成的前所未有的风险。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142784",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142782",
-      "title": "【专题报道 | 前方视野】填补“地球缺失的条约”：推动建立全球首个灾害保护国际条约",
-      "category": "国际",
-      "summary": "随着气候变化加剧、自然灾害频发，红十字与红新月国际联合会日前发起“地球缺失的条约”（Earth's Missing Treaty）全球倡议，呼吁各国致力于制定首个专门保护灾害中受影响民众的国际条约，为灾害发生前、发生时和发生后提供更有力的国际合作框架。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142782",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#4",
       "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
       "category": "国际",
@@ -1648,24 +1683,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142781",
-      "title": "古特雷斯出席金砖国家峰会，呼吁塑造包容性的全球增长",
-      "category": "国际",
-      "summary": "秘书长古特雷斯周日出席了于印度新德里举行的第18届金砖国家峰会，并发表讲话指出，&nbsp;必须致力于韧性、创新、合作和可持续发展，这对塑造包容性的全球增长至关重要。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142781",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cg7knkpjr39o/trad#5",
       "title": "習近平七年再訪印度：金磚峰會握手背後，中印關係破冰？",
       "category": "国际",
@@ -1708,23 +1725,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c74e03x93l7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T05:31:27.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czezw30076zo/trad#2",
-      "title": "為甚麼Gen Z的測試成績正在下跌？",
-      "category": "国际",
-      "summary": "在全球最大的15歲青少年國際測試中，閱讀、數學和科學成績都正在下跌。這一下跌趨勢大約始於2012年，而且似乎正在加速，尤其是閱讀能力。本影片探討導致這一下跌的各種可能原因。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/czezw30076zo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T08:58:11.000Z",
       "tags": [
         "国际",
         "商业",
