@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad#0",
+      "title": "美國科技巨頭呼籲放緩AI發展速度——中國怎麼看？",
+      "meta": "BBC 中文 · 2026/9/18",
+      "url": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T01:08:10.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad#0",
+      "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
+      "meta": "BBC 中文 · 2026/9/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T00:19:45.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad#0",
       "title": "領英高層分享6個人脈竅門，幫你更快找到工作",
       "meta": "BBC 中文 · 2026/9/17",
@@ -19,7 +33,7 @@
       "publishedAt": "2026-09-17T06:54:49.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#1",
       "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
       "meta": "BBC 中文 · 2026/9/17",
       "url": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
@@ -31,13 +45,6 @@
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-16T14:57:03.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad#1",
-      "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
-      "meta": "BBC 中文 · 2026/9/16",
-      "url": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T14:28:10.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#1",
@@ -52,13 +59,6 @@
       "meta": "BBC 中文 · 2026/9/16",
       "url": "https://www.bbc.com/zhongwen/articles/cwq63vj4q7q2o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-16T10:35:04.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm750xv56v57o/trad#0",
-      "title": "除了末日警告，人工智能發展還在面臨著另一個威脅",
-      "meta": "BBC 中文 · 2026/9/16",
-      "url": "https://www.bbc.com/zhongwen/articles/cm750xv56v57o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T09:30:51.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T22:52:13.910Z",
+  "updatedAt": "2026-09-18T04:48:45.854Z",
   "provider": "OneBench 公共资讯快照"
 }
