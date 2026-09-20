@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T18:50:32.452Z",
-  "expiresAt": "2026-09-21T00:50:32.452Z",
+  "generatedAt": "2026-09-20T22:29:03.320Z",
+  "expiresAt": "2026-09-21T04:29:03.320Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-21/10700500.shtml",
+      "title": "停车场、快递柜扫码后要先看广告，弹窗广告该怎么治？",
+      "category": "综合",
+      "summary": "缴费扫码、地图导航甚至不小心“摇一摇”，都可能弹出广告页——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10700500.shtml",
+      "publishedAt": "2026-09-20T22:23:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-21/10700499.shtml",
       "title": "警惕！“高仿”版证券交易App以假乱真 股民被骗200万",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cul/2026/09-20/10700420.shtml",
       "publishedAt": "2026-09-20T14:18:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-20/10700449.shtml",
-      "title": "第23届中国—东盟博览会旅游展区 民众逛展忙",
-      "category": "综合",
-      "summary": "图为9月20日，在第23届中国—东盟博览会旅游展区北海展馆，民众选购珍珠首饰。杨宗盛 摄 图为9月20日，在第23届中国—东盟博览会旅游展区，钦州展馆吸引众多参观者。杨宗盛 摄 图为9月20日，在第23届中国—东盟博览会旅游展区，钦州展馆展示的中国四大名陶之一钦州坭兴陶。杨宗盛 摄 图为9月20日，在第23届中国—东盟博览会旅游展区，观众观看龙胜民族乐器弹唱",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10700449.shtml",
-      "publishedAt": "2026-09-20T14:18:29.000Z",
       "tags": [
         "国内",
         "社会",
