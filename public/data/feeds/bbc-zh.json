@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad#1",
+      "title": "印度德里毛孩競逐「最肥狗狗」頭銜",
+      "meta": "BBC 中文 · 2026/9/30",
+      "url": "https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T10:20:50.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#0",
+      "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
+      "meta": "BBC 中文 · 2026/9/30",
+      "url": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T08:23:06.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#0",
       "title": "貓眼如何啟發機器人的照相機技術發展",
       "meta": "BBC 中文 · 2026/9/30",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-09-30T02:20:26.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad#1",
       "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
@@ -61,7 +75,7 @@
       "publishedAt": "2026-09-29T04:30:30.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#3",
       "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
       "meta": "BBC 中文 · 2026/9/29",
       "url": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +94,6 @@
       "meta": "BBC 中文 · 2026/9/29",
       "url": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-29T00:07:32.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad#1",
-      "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
-      "meta": "BBC 中文 · 2026/9/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T00:07:17.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#1",
@@ -143,13 +150,6 @@
       "meta": "BBC 中文 · 2026/9/24",
       "url": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T10:20:23.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad#3",
-      "title": "中國希望伊朗戰爭結束，但不是以特朗普想要的方式",
-      "meta": "BBC 中文 · 2026/9/23",
-      "url": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T22:52:14.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T05:37:26.409Z",
+  "updatedAt": "2026-09-30T12:40:25.588Z",
   "provider": "OneBench 公共资讯快照"
 }

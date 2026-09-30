@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/115166",
+      "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
+      "meta": "少数派 · 2026/9/30",
+      "url": "https://sspai.com/post/115166",
+      "publishedAt": "2026-09-30T07:00:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114945",
       "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
       "meta": "少数派 · 2026/9/30",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/28",
       "url": "https://sspai.com/post/114972",
       "publishedAt": "2026-09-28T07:00:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114967",
-      "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
-      "meta": "少数派 · 2026/9/28",
-      "url": "https://sspai.com/post/114967",
-      "publishedAt": "2026-09-28T03:00:30.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T05:37:26.409Z",
+  "updatedAt": "2026-09-30T12:40:25.588Z",
   "provider": "OneBench 公共资讯快照"
 }
