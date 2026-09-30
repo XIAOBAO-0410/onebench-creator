@@ -5,6 +5,20 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114945",
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+      "meta": "少数派 · 2026/9/30",
+      "url": "https://sspai.com/post/114945",
+      "publishedAt": "2026-09-30T03:02:18.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/115197",
+      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+      "meta": "少数派 · 2026/9/29",
+      "url": "https://sspai.com/post/115197",
+      "publishedAt": "2026-09-29T23:39:21.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/115153",
       "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
       "meta": "少数派 · 2026/9/29",
@@ -59,22 +73,8 @@
       "meta": "少数派 · 2026/9/28",
       "url": "https://sspai.com/post/114967",
       "publishedAt": "2026-09-28T03:00:30.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/115079",
-      "title": "派早报：OpenAI 称与苹果合作效果不佳",
-      "meta": "少数派 · 2026/9/27",
-      "url": "https://sspai.com/post/115079",
-      "publishedAt": "2026-09-27T23:03:45.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/115056",
-      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
-      "meta": "少数派 · 2026/9/27",
-      "url": "https://sspai.com/post/115056",
-      "publishedAt": "2026-09-27T09:50:09.000Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:19:11.992Z",
+  "updatedAt": "2026-09-30T05:37:26.409Z",
   "provider": "OneBench 公共资讯快照"
 }
