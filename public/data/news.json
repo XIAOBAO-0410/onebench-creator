@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T06:01:14.575Z",
-  "expiresAt": "2026-10-01T12:01:14.575Z",
+  "generatedAt": "2026-10-01T13:25:14.058Z",
+  "expiresAt": "2026-10-01T19:25:14.058Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706677.shtml",
-      "title": "何超琼称遭骚扰恐吓，获批永久禁制令",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/10-01/10706942.shtml",
+      "title": "东西问｜两个古文明如何真正理解彼此？",
       "category": "综合",
-      "summary": "香港高等法院原讼法庭暂委法官周昭雯，于9月30日颁布裁决理由，就何超琼起诉陈芃余骚扰、恐吓民事诉讼一案，对陈芃余批出永久禁制令。",
+      "summary": "中新网北京10月1日电 题：两个古文明如何真正理解彼此？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706677.shtml",
-      "publishedAt": "2026-10-01T05:51:44.000Z",
+      "url": "https://www.chinanews.com.cn/dxw/2026/10-01/10706942.shtml",
+      "publishedAt": "2026-10-01T13:10:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706667.shtml",
-      "title": "国庆长假首日 成都出城道路车流增大",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
+      "title": "日本突发5.1级地震",
       "category": "综合",
-      "summary": "10月1日，国庆长假首日，四川成都剑南大道出城方向车辆明显增多，交通出现拥堵。中新社记者 张浪 摄 10月1日，国庆长假首日，四川成都剑南大道出城方向车辆明显增多，交通出现拥堵。中新社记者 张浪 摄",
+      "summary": "中新网10月1日电 综合报道，据日本气象厅消息，日本千叶县东北部10月1日发生5.1级地震。此次地震不会引发海啸。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706667.shtml",
-      "publishedAt": "2026-10-01T05:43:24.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
+      "publishedAt": "2026-10-01T13:08:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706660.shtml",
-      "title": "西藏拉萨布达拉宫广场举行升国旗仪式",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706934.shtml",
+      "title": "纪念京奉铁路正阳门东车站建成120周年展览在北京开展",
       "category": "综合",
-      "summary": "10月1日上午，西藏自治区庆祝中华人民共和国成立77周年“升国旗、唱国歌”仪式在拉萨市布达拉宫广场举行。中新社记者 贡嘎来松 摄 10月1日上午，西藏自治区庆祝中华人民共和国成立77周年“升国旗、唱国歌”仪式在拉萨市布达拉宫广场举行。图为国旗护卫队步入布达拉宫广场。中新社记者 贡嘎来松 摄 10月1日上午，西藏自治区庆祝中华人民共和国成立77周年“升国旗、唱",
+      "summary": "图为讲解员向游客介绍车站早期历史。中新社记者 贾天勇 摄 图为游客参观不同历史时期发售的车票。中新社记者 贾天勇 摄 图为游客参观车站建成初期办公场景复原展示。中新社记者 贾天勇 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706660.shtml",
-      "publishedAt": "2026-10-01T05:41:20.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706934.shtml",
+      "publishedAt": "2026-10-01T13:06:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706648.shtml",
-      "title": "江西南昌举行国庆升旗仪式",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
+      "title": "北京警方护航国庆假期旅游市场安全有序",
       "category": "综合",
-      "summary": "10月1日，江西南昌八一广场举行升旗仪式，庆祝中华人民共和国成立77周年。中新社记者 刘力鑫 摄 10月1日，江西南昌八一广场举行升旗仪式，庆祝中华人民共和国成立77周年。中新社记者 刘力鑫 摄 10月1日，江西南昌八一广场举行升旗仪式，庆祝中华人民共和国成立77周年。中新社记者 刘力鑫 摄 10月1日，江西南昌八一广场举行升旗仪式，庆祝中华人民共和国成立7",
+      "summary": "中新网北京10月1日电 今年中秋、国庆假期相连，群众出游、探亲需求集中释放，北京成为全国热门旅游目的地之一，加之全市各大公园景区推出百余项丰富多彩的文娱活动，热门景点人流车流集中态势明显。为切实做好国庆假期期间旅游安保工作，北京警方提前谋划、系统组织，统筹各警种与属地分局因地制宜制定方案预案，严密落实各项安保举措，全力确保广大在京游客度过欢乐、安全、舒心的假",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706648.shtml",
-      "publishedAt": "2026-10-01T05:39:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
+      "publishedAt": "2026-10-01T13:05:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706645.shtml",
-      "title": "奏响“流动的江南”乐章 江苏无锡映月里水岸音乐艺术季启幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706931.shtml",
+      "title": "国旗扮靓钱塘 杭州喜迎国庆",
       "category": "综合",
-      "summary": "9月30日傍晚，江苏无锡，音乐人在小提琴造型的船上演唱歌曲。中新社记者 泱波 摄 9月30日傍晚，江苏无锡，音乐人在小提琴造型的船上演唱歌曲。中新社记者 泱波 摄 9月30日傍晚，江苏无锡，游客乘坐小船游览映月里。中新社记者 泱波 摄 9月30日傍晚，江苏无锡，在灯光的照射下，映月里如梦似幻。中新社记者 泱波 摄 9月30日傍晚，江苏无锡，音乐人在小提琴造型",
+      "summary": "10月1日，钱塘江堤上的国旗组成靓丽景观线。中新社记者 王刚 摄 10月1日，市民在钱江新城和国旗合影。中新社记者 王刚 摄 10月1日，市民在钱江新城的国庆装置前拍照。国庆节当天，浙江杭州钱塘江边、城市地标旁五星红旗迎风飘展，一派“中国红”的景象吸引市民驻足打卡留念，呈现出喜庆的节日氛围。中新社记者 王刚 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706645.shtml",
-      "publishedAt": "2026-10-01T05:37:57.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706931.shtml",
+      "publishedAt": "2026-10-01T13:05:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706644.shtml",
-      "title": "“庆国庆·颂祖国”主题快闪活动亮相京沪高铁列车",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706940.shtml",
+      "title": "这支巴西球队为何三年国庆赴约贵州“村超”？",
       "category": "综合",
-      "summary": "图为旅客和乘务员在铁路上海虹桥站站台上合影。中新社记者 殷立勤 摄 图为旅客用手机拍摄乘务员表演。中新社记者 殷立勤 摄 图为孩子参与知识问答环节。中新社记者 殷立勤 摄 图为旅客和乘务员在铁路上海虹桥站站台上合影。中新社记者 殷立勤 摄 图为乘务员在车厢内独唱《我和我的祖国》。中新社记者 殷立勤 摄 摄 图为乘务员在旅客的明信片上盖章。中新社记者 殷立勤 ",
+      "summary": "中新网贵州榕江10月1日电 题：这支巴西球队为何三年国庆赴约贵州“村超”？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706644.shtml",
-      "publishedAt": "2026-10-01T05:34:51.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706940.shtml",
+      "publishedAt": "2026-10-01T13:04:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706642.shtml",
-      "title": "美防长宣布组建“自主作战司令部”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
+      "title": "2026哈尔滨跆拳道竞技冠军挑战赛开赛",
       "category": "综合",
-      "summary": "中新社华盛顿10月1日电(记者 陈孟统)美国国防部长赫格塞思9月30日宣布组建“自主作战司令部”，以提升美军规模化自主及机器人作战能力。",
+      "summary": "中新网哈尔滨10月1日电(记者 王妮娜)10月1日，哈尔滨冰雪大世界迎来一场创新的跆拳道竞技冠军挑战赛——2026哈尔滨跆拳道竞技冠军挑战赛。赛事共汇集12支代表队、100余名运动员参赛，以特色交流赛制为亮点，成为国庆假期冰城“体育+文旅”的一道独特风景。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706642.shtml",
-      "publishedAt": "2026-10-01T05:33:57.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706939.shtml",
+      "publishedAt": "2026-10-01T13:03:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-01/10706673.shtml",
-      "title": "澳门特区政府举行国庆升旗仪式 护旗队首次以中式步操亮相",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706937.shtml",
+      "title": "今年前三季度吴哥古迹接待国际游客逾51万人次",
       "category": "综合",
-      "summary": "中新社澳门10月1日电 (记者 郑嘉伟)澳门特区政府1日在金莲花广场举行升旗仪式，庆祝中华人民共和国成立77周年。护旗队和仪仗队首次以中式步操亮相。",
+      "summary": "中新社金边10月1日电 (记者 杨强)柬埔寨吴哥古迹保护和管理机构10月1日发布的报告显示，今年前三季度，吴哥古迹接待外国游客51.05万人次，与2025年同期相比下降27.61%；门票收入2423.78万美元，同比下降25.9%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-01/10706673.shtml",
-      "publishedAt": "2026-10-01T05:33:45.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706937.shtml",
+      "publishedAt": "2026-10-01T13:03:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706640.shtml",
-      "title": "美国宣布正式结束国际联盟部队在伊拉克军事任务",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706936.shtml",
+      "title": "中企承建柬埔寨1551号公路项目竣工通车",
       "category": "综合",
-      "summary": "中新社华盛顿9月30日电(记者 陈孟统)美国五角大楼发言人肖恩·帕内尔9月30日发表声明称，由美国主导的打击极端组织“伊斯兰国”国际联盟部队当天正式结束在伊拉克的任务。",
+      "summary": "【东盟专线】中企承建柬埔寨1551号公路项目竣工通车",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706640.shtml",
-      "publishedAt": "2026-10-01T05:33:09.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706936.shtml",
+      "publishedAt": "2026-10-01T13:02:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706639.shtml",
-      "title": "迪拜航空因驾驶舱冲突事件暂停往返以色列航班",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
+      "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
       "category": "综合",
-      "summary": "中新社北京10月1日电 综合消息：阿联酋迪拜航空公司当地时间9月30日发表声明，称在当日该公司一航班发生驾驶舱冲突事件后，决定暂停往返以色列的航班，等待有关方面对事件展开调查。",
+      "summary": "中新社杭州10月1日电 (郭其钰)10月1日，虽然进入假期时间，但在浙江杭州钛芯智冷科技有限公司实验室里，台青李卓谕依旧带领团队在进行多组芯片散热模组的稳定性测试。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706639.shtml",
-      "publishedAt": "2026-10-01T05:32:33.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
+      "publishedAt": "2026-10-01T13:01:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-01/10706675.shtml",
-      "title": "中国驻美大使谢锋：中美合作是双行道，永远在进行时",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
+      "title": "第三届全国青少年棒球联赛总决赛启幕",
       "category": "综合",
-      "summary": "中新社华盛顿10月1日电 (记者 陈孟统)中国驻美大使谢锋9月30日在华盛顿表示，中美双方要加快把新定位的愿景转化为行动，朝着合作为主、竞争有度、分歧可控、和平可期的方向努力，跨越“修昔底德陷阱”，走出中美正确相处之道。",
+      "summary": "中新网10月1日电 第三届全国青少年棒球联赛总决赛于10月1日在绍兴棒垒球体育文化中心启幕。经过此前20余站分站赛以及分区赛的层层考验，16支队伍突出重围，参与总决赛角逐。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706675.shtml",
-      "publishedAt": "2026-10-01T05:30:57.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
+      "publishedAt": "2026-10-01T12:59:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706672.shtml",
-      "title": "（走进中国乡村）一块浪板“撬动”新活力 浙江苍南小渔村“逐浪”新生",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
+      "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
       "category": "综合",
-      "summary": "中新社浙江温州10月1日电 题：一块浪板“撬动”新活力 浙江苍南小渔村“逐浪”新生",
+      "summary": "中新网南宁10月1日电(黄艳梅 陈沿佑)10月1日，广西南宁市民族广场举行升国旗仪式，大批民众从四面八方赶来，共同见证五星红旗冉冉升起，表达对祖国的诚挚祝福。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706672.shtml",
-      "publishedAt": "2026-10-01T05:29:55.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
+      "publishedAt": "2026-10-01T12:58:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/10-01/10706663.shtml",
-      "title": "雕塑家梁明诚百余代表作亮相芜湖 一展中西交融的艺术生涯",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
+      "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
       "category": "综合",
-      "summary": "中新网芜湖10月1日电 “明心诚意——梁明诚雕塑艺术展”日前在芜湖·中国雕塑学会艺术馆开幕，展出艺术家各时期代表作品106件，呈现其跨越半个多世纪的艺术生涯。",
+      "summary": "中新网成都10月1日电 (记者 刘忠俊)看一段玉兔起舞，听一回神话故事，再和“苏东坡”聊聊江上清风……10月1日，在四川乐山大佛景区东坡楼，上演了一场跨越时空的文化相遇。九尾狐、玉兔、羽人从汉代画像中“走”了出来，和游客合影互动；演员扮成的“苏东坡”当起向导，带着大家走进古时南安的烟火人间与神话世界。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/10-01/10706663.shtml",
-      "publishedAt": "2026-10-01T05:29:31.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
+      "publishedAt": "2026-10-01T12:56:29.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706664.shtml",
-      "title": "湖南成立大张家界国际旅游区产业发展联盟 助力建设世界知名旅游目的地",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
+      "title": "国庆假期首日 海南自贸港重点项目施工忙",
       "category": "综合",
-      "summary": "中新网湘西10月1日电 (唐小晴 贺鹏)9月30日晚，湖南大张家界国际旅游区产业发展联盟在湘西州芙蓉镇景区成立。",
+      "summary": "中新网海口10月1日电 (记者 王子谦)1日，2026年国庆假期首日，海南自贸港多个重点项目建设现场机械轰鸣、塔吊运转，建设者坚守一线抢抓施工黄金期，冲刺节点目标。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706664.shtml",
-      "publishedAt": "2026-10-01T05:28:33.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
+      "publishedAt": "2026-10-01T12:55:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706662.shtml",
-      "title": "（乡村行·看振兴）紫菜养殖装上智能“晴雨表” 浙江洞头数据赋能民生增收",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
+      "title": "链全球国际农业合作博览会将于12月在印尼举办",
       "category": "综合",
-      "summary": "中新网温州10月1日电(周健 何琰 郑树)浙江温州洞头区霓屿街道素有“中国紫菜之乡”的美誉。眼下，霓屿海域的万亩紫菜已完成采苗下苗，正进入分网养护关键生长期。为精准护航紫菜养殖、降低种养风险，当地联动自然资源部温州海洋中心，在核心养殖区布设观测浮标，实现海域水温全天候监测，为海岛富民产业装上精准海温“晴雨表”。",
+      "summary": "中新网雅加达10月1日电 链全球国际农业合作博览会暨中国国际农业合作博览会新闻发布会1日在印度尼西亚首都雅加达举行，宣布博览会将于12月10-12日在印尼唐格朗国际会展中心举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706662.shtml",
-      "publishedAt": "2026-10-01T05:27:53.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
+      "publishedAt": "2026-10-01T12:55:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706665.shtml",
-      "title": "轨迹露出马脚 一艘“渔船”牵出千万元走私案",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
+      "title": "WTT中国大满贯2026在北京开赛",
       "category": "综合",
-      "summary": "中新网杭州10月1日电 (钱晨菲 江林海)10月1日，浙江海警局发布消息称，日前浙江宁波海警局联合宁波市公安局、宁波边检站、宁波市海洋与渔业执法队在象山渔山海域成功查获一艘走私船舶，当场抓获犯罪嫌疑人4名，查获牛板筋等冻品150余吨，涉案金额1000余万元。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706665.shtml",
-      "publishedAt": "2026-10-01T05:27:15.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
+      "publishedAt": "2026-10-01T12:54:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706661.shtml",
-      "title": "北疆国门钢铁驼队不息 百年边陲小站筑就欧亚通衢",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
+      "title": "中国选手储守宏夺得亚运会男子速度攀岩冠军",
       "category": "综合",
-      "summary": "中新网满洲里10月1日电 题：北疆国门钢铁驼队不息 百年边陲小站筑就欧亚通衢",
+      "summary": "中国选手储守宏。中新社记者 富田 摄 中新网10月1日电 (记者 金旭)爱知·名古屋亚运会当地时间1日举行攀岩男子速度赛决赛，中国选手储守宏以4.71 秒的成绩夺得金牌。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706661.shtml",
-      "publishedAt": "2026-10-01T05:26:41.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
+      "publishedAt": "2026-10-01T12:50:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706659.shtml",
-      "title": "实现海上发电就地制氢 中国团队首提交流电直接电解海水制氢新策略",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
+      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
       "category": "综合",
-      "summary": "中新网北京10月1日电 (记者 孙自法)记者10月1日从中国科学院理化技术研究所(理化所)获悉，该所低温科学与技术全国重点实验室最近首次提出以交流电替代传统直流电驱动直接电解海水制氢策略，实现海上发电就地制氢，从根源上破解了海水电解制氢的沉淀瓶颈难题。",
+      "summary": "中新网安徽休宁10月1日电(江婉琪)“以前米酒论斤卖，现在卖的不只是一杯酒，更是一种生活方式。”安徽省级非物质文化遗产代表性项目五城米酒酿制技艺黄山市级代表性传承人李爱华说。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706659.shtml",
-      "publishedAt": "2026-10-01T05:17:58.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
+      "publishedAt": "2026-10-01T12:47:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706657.shtml",
-      "title": "（乡村行·看振兴）广东东源大洋洲淡水蓝龙虾出塘 铺就产业致富新路",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
+      "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
       "category": "综合",
-      "summary": "中新网河源10月1日电 (张璐 田红秀)近日，广东省东源县仙塘镇仙塘村养殖示范基地(简称“基地”)2026年首批大洋洲淡水蓝龙虾(红螯螯虾)正式出塘上市。依托东江优质活水生态资源，该基地培育的蓝龙虾凭借饱满品相、紧实鲜甜的优质肉质抢占市场，标志着东源县依托与高等院校科技合作打造的特色水产种养产业实现规模化落地，为当地“百千万工程”与乡村产业振兴注入全新动能。",
+      "summary": "中新网义乌10月1日电(董易鑫)义乌是浙江人口最多的县级市，铁路义乌站是该省客流量最大的县级火车站。10月1日，铁路义乌站官方公布一则数据，今年国庆假期该站预计日均发送旅客5.13万人次。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706657.shtml",
-      "publishedAt": "2026-10-01T05:17:36.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
+      "publishedAt": "2026-10-01T12:47:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-01/10706658.shtml",
-      "title": "巾帼优品齐聚珠海 东西部协作打通产销双向通道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706921.shtml",
+      "title": "浙江杭州：假期兴起“人机互动热”",
       "category": "综合",
-      "summary": "中新网珠海10月1日电 (记者 张璐)“我在现场看到了来自遵义和黑河的巾帼优品和特色产品，这是东西协作、南北联通，真正是姐妹携手同心，消费有温度，巾帼有力量，湾区有发展。”香港岛妇女联会主席金玲表示，希望借鉴湾区线下销售平台和线上电商优势，实现湾区姐妹互联互通、双向奔赴。",
+      "summary": "中新网杭州10月1日电(鲍梦妮)“我们与机器人的距离更近了。尽管人们通常认为未来科技很遥远，但实际上它们已经融入了日常生活，我甚至能和机器人一起踢足球。”10月1日，在浙江杭州文三数字生活街区举办的全国首届人机互动运动会，让俄罗斯女生乌拉体会到了“与机器人PK”的乐趣。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/10-01/10706658.shtml",
-      "publishedAt": "2026-10-01T05:16:54.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706921.shtml",
+      "publishedAt": "2026-10-01T12:43:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706655.shtml",
-      "title": "“玲龙一号”装料在即 海南核电详解全球首堆安全逻辑",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706920.shtml",
+      "title": "全国首个人机协同智慧岗亭亮相杭州街头",
       "category": "综合",
-      "summary": "中新网海南昌江10月1日电 (记者 王晓斌)海南昌江核电基地内，备受关注的“玲龙一号”全球首堆目前正处于热态性能试验阶段，向年内装料、并网发电目标冲刺。",
+      "summary": "中新网杭州10月1日电 (钱晨菲)10月1日，在杭州环城西路体育场路路口，全国首个人机协同智慧岗亭正式投入使用，该岗亭集机器人充电补给、警力休憩与勤务保障于一体，并以此推动路口管理效能提升。杭州交警率先探索人机协同勤务新样本，以科技守护平安出行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706655.shtml",
-      "publishedAt": "2026-10-01T05:16:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706920.shtml",
+      "publishedAt": "2026-10-01T12:42:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706654.shtml",
-      "title": "“庆国庆·颂祖国”主题快闪活动亮相京沪高铁列车",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706919.shtml",
+      "title": "“光语”点亮苏河湾：百年石库门变身梦幻舞台",
       "category": "综合",
-      "summary": "中新网上海10月1日电 (记者 殷立勤)9月30日晚，由中国铁路上海局集团有限公司上海客运段担当的G30次列车从铁路上海虹桥站缓缓驶出。9号车厢内横幅、窗花相映成趣，节日氛围扑面而来。一场“庆国庆·颂祖国”主题快闪活动在飞驰的高铁列车上拉开序幕。",
+      "summary": "中新网上海10月1日电 (记者 陈静)1日，夜幕降临，上海苏河湾慎余里百年石库门建筑墙面上，国际光影艺术大赛展映灯光亮起。光影遇上建筑，这里成为苏州河畔最梦幻的城市舞台。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706654.shtml",
-      "publishedAt": "2026-10-01T05:15:26.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706919.shtml",
+      "publishedAt": "2026-10-01T12:40:58.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706653.shtml",
-      "title": "秦岭山野间“她力量”接续守护大熊猫",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706926.shtml",
+      "title": "天津邮轮母港迎“三船同靠” 单日出入境客流创年内新高",
       "category": "综合",
-      "summary": "中新网陕西佛坪10月1日电 题：秦岭山野间“她力量”接续守护大熊猫",
+      "summary": "中新社天津10月1日电 (记者 周亚强)天津国际邮轮母港10月1日迎来“三船同靠”。记者从天津东疆边检站获悉，该港当日出入境旅客超1万人次，创年内新高，较去年同期增长逾两倍。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706653.shtml",
-      "publishedAt": "2026-10-01T05:14:04.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706926.shtml",
+      "publishedAt": "2026-10-01T12:40:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706652.shtml",
-      "title": "深化市场监管制度创新 海南厚植经营主体发展土壤",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706924.shtml",
+      "title": "陕西西安：游客选购明信片 寄递旅途记忆",
       "category": "综合",
-      "summary": "中新网海口10月1日电 (记者 张茜翼)营商环境好不好，经营主体感受最直接。从准入到监管再到执法，海南正以全链条制度创新，持续优化营商环境，为各类经营主体在琼发展厚植土壤。",
+      "summary": "图为主题邮局内的明信片。中新社记者 党田野 摄 图为游客挑选明信片。中新社记者 党田野 摄 图为游客挑选明信片。中新社记者 党田野 摄 图为游客挑选明信片。中新社记者 党田野 摄 图为小游客在家长的帮助下邮寄明信片。中新社记者 党田野 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706652.shtml",
-      "publishedAt": "2026-10-01T05:12:54.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706924.shtml",
+      "publishedAt": "2026-10-01T12:39:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706650.shtml",
-      "title": "广州从化救援队员高速路救出起火车辆被困人员",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706917.shtml",
+      "title": "国庆假期首日 国铁广州局创单日旅客发送历史新高",
       "category": "综合",
-      "summary": "中新网广州10月1日电 (记者 张璐)记者10月1日从广州市从化区飞翔应急救援协会获悉，近日，该协会7名队员在结束潜水技能培训后，驱车返回从化。返程行至京珠高速往韶关方向钟落潭路段时，一辆白色小轿车发生事故，车头起火，副驾驶人员受伤被困。危急时刻，队员们临危不乱、主动担当、科学施救，火速开启一场与火情竞速、与时间赛跑的紧急救援。",
+      "summary": "10月1日，旅客在广州南站乘车出行。当日，国铁广州局迎来国庆假期客流最高峰，预计发送旅客383.7万人次，较2025年同期增加33万人次，增幅9.4%，创单日旅客发送历史新高。中新社记者 陈骥旻 摄 10月1日，旅客在广州南站“国庆”主题宣传装置前留影。当日，国铁广州局迎来国庆假期客流最高峰，预计发送旅客383.7万人次，较2025年同期增加33万人次，增幅",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706650.shtml",
-      "publishedAt": "2026-10-01T05:12:28.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706917.shtml",
+      "publishedAt": "2026-10-01T12:39:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/10-01/10706649.shtml",
-      "title": "“蓉欧非”跨地中海多式联运线路首发",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706916.shtml",
+      "title": "云南昆明：国庆假期机器人登台“秀”技",
       "category": "综合",
-      "summary": "中新网成都10月1日电 (记者 张浪)成都国际班列“蓉欧非”跨地中海多式联运线路9月30日从成都国际铁路港首发。一趟搭载液晶电视的班列顺利启运，标志着成都国际班列成功打通经土耳其衔接地中海、直达北非的全新跨境物流通道，亚蓉欧国际通道正式延伸至地中海沿岸及北非新兴市场。",
+      "summary": "图为机器狗舞狮表演。中新社记者 刘冉阳 摄 图为机器人秀舞技。中新社记者 刘冉阳 摄 图为机器人秀舞技。中新社记者 刘冉阳 摄 图为演员与机器人登台共舞。中新社记者 刘冉阳 摄 图为机器人武术表演。中新社记者 刘冉阳 摄 图为精彩演出吸引小朋友目光。中新社记者 刘冉阳 摄 图为小朋友与机器人互动。中新社记者 刘冉阳 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/10-01/10706649.shtml",
-      "publishedAt": "2026-10-01T05:10:22.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706916.shtml",
+      "publishedAt": "2026-10-01T12:38:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706647.shtml",
-      "title": "秋令养生膳食上新 国庆假期长三角高铁餐饮服务升级",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706914.shtml",
+      "title": "国庆假期迎来出行高峰 西安铁警护航平安出行",
       "category": "综合",
-      "summary": "中新网上海10月1日电 (记者 殷立勤)10月1日，长三角铁路迎来国庆假期出行客流高峰。当日，记者从中国铁路上海局集团有限公司获悉，其下属华铁旅服公司同步推出“一碗好饭”系列餐食新品，丰富旅客旅途餐桌。",
+      "summary": "图为西铁交警在落客平台疏导车流。张鑫 摄 图为西铁交警在疏导车流。张鑫 摄 图为西铁交警在落客平台疏导车流。张鑫 摄 图为西铁交警在疏导车流。张鑫 摄 图为民警在安检口帮助旅客。张鑫 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706647.shtml",
-      "publishedAt": "2026-10-01T05:08:56.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706914.shtml",
+      "publishedAt": "2026-10-01T12:37:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706646.shtml",
-      "title": "金秋十月星月相伴 猎户座流星雨浪漫来袭",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706913.shtml",
+      "title": "AI超级机械巨兽“巨虎东东”现身沈阳",
       "category": "综合",
-      "summary": "中新网南京10月1日电 (记者 徐珊珊)据中国科学院紫金山天文台9月30日消息，金秋十月，天宇将迎来多场精彩天象。猎户座流星雨将在下旬登场，火星、木星等行星也接连与月亮相伴，为秋夜星空增添浪漫气息。",
+      "summary": "10月1日，AI超级机械巨兽“巨虎东东”现身沈阳虎啸街。图为巨虎东东与市民互动。中新社记者 于海洋 摄 10月1日，AI超级机械巨兽“巨虎东东”现身沈阳虎啸街。图为巨虎东东与市民互动。中新社记者 于海洋 摄 10月1日，AI超级机械巨兽“巨虎东东”现身沈阳虎啸街。图为巨虎东东与市民互动。中新社记者 于海洋 摄 10月1日，AI超级机械巨兽“巨虎东东”现身沈阳",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706646.shtml",
-      "publishedAt": "2026-10-01T05:07:48.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706913.shtml",
+      "publishedAt": "2026-10-01T12:36:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706643.shtml",
-      "title": "让游客“打分”变“点赞” 三亚织密旅游消费“放心网”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706905.shtml",
+      "title": "贵州汇川：沉浸式怀旧街区引游人",
       "category": "综合",
-      "summary": "中新网海口10月1日电 (记者 张茜翼)一杆海鲜秤，称出市场诚意；一通离岛维权电话，连着城市口碑。如何让游客从“打分”变“点赞”？三亚正织密覆盖“吃住行游购娱”的旅游消费“放心网”。",
+      "summary": "10月1日，游客在汇川大院沉浸式怀旧街区“丁子巷”体验手摇式拖拉机。中新社记者 瞿宏伦 摄 10月1日，游客在汇川大院沉浸式怀旧街区体验石头剪刀布游戏。中新社记者 瞿宏伦 摄 10月1日，游客在汇川大院沉浸式怀旧街区“丁子巷”参观老款电视。中新社记者 瞿宏伦 摄 10月1日，游客在汇川大院沉浸式怀旧街区——农耕文化展示区拍照。中新社记者 瞿宏伦 摄 10月1",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706643.shtml",
-      "publishedAt": "2026-10-01T05:05:30.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706905.shtml",
+      "publishedAt": "2026-10-01T12:35:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206719.shtml",
-      "title": "山东泰安：游客齐聚泰山之巅庆国庆",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706904.shtml",
+      "title": "国庆假期首日 长三角铁路迎来客流高峰",
       "category": "综合",
-      "summary": "10月1日，山东泰安，“五岳之首”泰山岱顶举行“中华泰山 国泰民安”升国旗仪式，庆祝中华人民共和国成立77周年。各地游客齐聚山巅，迎着磅礴日出见证五星红旗升起。(无人机照片)中新社发 陈阳 摄 10月1日，山东泰安，“五岳之首”泰山岱顶举行“中华泰山 国泰民安”升国旗仪式，庆祝中华人民共和国成立77周年。各地游客齐聚山巅，迎着磅礴日出见证五星红旗升起。(无人",
+      "summary": "10月1日，旅客们在铁路南京站出行。中新社记者 泱波 摄 10月1日，旅客们在铁路南京站出行。中新社记者 泱波 摄 10月1日，旅客们在铁路南京站出行。中新社记者 泱波 摄",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206719.shtml",
-      "publishedAt": "2026-10-01T05:04:54.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706904.shtml",
+      "publishedAt": "2026-10-01T12:35:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -572,7 +572,75 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad#0",
+      "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
+      "category": "国际",
+      "summary": "香港記者協會關注事件，指鄧浩榮是首名在涉嫌違反《維護國家安全條例》（俗稱「23條」）生效後，於公眾領域中因該例煽動罪被捕的新聞工作者。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T08:48:59.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad#0",
+      "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
+      "category": "国际",
+      "summary": "北京正在打擊那些能夠模擬人際關係的AI聊天機器人。專家質疑這是否是正確的做法。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T08:12:13.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad#0",
+      "title": "日本收緊外國人居留條件，申請費用上調二十倍",
+      "category": "国际",
+      "summary": "這次加費是高市政府收緊移民政策的一環，目的是管理快速增長的外國人口。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T07:38:15.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad#2",
+      "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
+      "category": "国际",
+      "summary": "一架從阿聯酋杜拜飛往以色列的「杜拜航空」（Flydubai）客機上，發生企圖空中劫機事件。其中一名機師刺傷另一名機副機後，機上乘客在機人員協助下闖進駕駛艙並合力制伏施襲者。以色列即將舉行大選，當局尚未透露涉案副機師的施襲動機。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T06:20:54.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad#1",
       "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
       "category": "国际",
       "summary": "FirstDate推出之際，這個人口老化的國家正面臨歷來最低的生育率。",
@@ -589,7 +657,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad#1",
       "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
       "category": "国际",
       "summary": "批評、輕蔑、防衛、冷處理——這四種行為顯示你的關係可能正走向分手。但感情還是能挽救的，伴侶治療師提出了一些具體建議。",
@@ -817,7 +885,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#3",
       "title": "特朗普排除美中合作開發人工智能",
       "category": "国际",
       "summary": "美國總統繼續拒絕為人工智慧設立監管措施的呼籲，認為這將扼殺人工智慧的發展。",
@@ -852,7 +920,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#1",
       "title": "中國人工智慧工具「教導」研究人員製造生物武器",
       "category": "国际",
       "summary": "有研究機構發現月之暗面的Kimi模型可以繞過開發者的安全限制，提供製造生化武器的資訊。",
@@ -1065,7 +1133,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#4",
       "title": "亦敵亦友：澳洲如何在超級大國競爭中找平衡？",
       "category": "国际",
       "summary": "澳洲越來越擔心中國的軍事實力——但北京也是其最大的貿易夥伴。",
@@ -1131,23 +1199,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad#1",
-      "title": "人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦",
-      "category": "国际",
-      "summary": "許多知名基督徒在 TikTok、播客、出版物等各種平台上開始討論人工智能是否會成為世界毀滅的催化劑。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T00:07:32.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1700,23 +1751,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad#3",
-      "title": "特朗普為何親赴機場，超規格接待習近平？",
-      "category": "国际",
-      "summary": "這是習近平時隔11年再次國事訪問美國。更是相隔64年，再有美國總統親自迎接他國元首到訪。有學者向BBC中文分析特朗普的舉動，既是在與中方「做生意打交道」；也是在向美國民眾展示自己的能力。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T10:20:23.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad#5",
       "title": "「你有五年規劃，我有移民計劃」：香港年輕人為何焦慮？",
       "category": "国际",
@@ -1819,23 +1853,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad#2",
-      "title": "戴安娜弟弟出書談王室 查爾斯曾稱她「很快會被遺忘」",
-      "category": "国际",
-      "summary": "戴安娜王妃逝世近30年之際，她的弟弟史賓賽伯爵出版新書，重提姐姐去世後的王室事件。他聲稱，時任王儲查爾斯曾認為戴安娜很快會被世人遺忘，但這項說法遭到王室否認。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T10:03:53.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:ae840f12-bb0f-4ac9-86a1-9bf228426abb",
       "title": "联合国大会大流行病问题会议召开前夕，会员国推进关于病原体获取和惠益分享的谈判",
       "category": "健康",
@@ -1866,23 +1883,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#4",
-      "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
-      "category": "国际",
-      "summary": "9月9日，就近期在中國引起轟動的「星宇股份解約107位應屆生」事件，上交所向星宇股份下發監管工作函，港交所延緩其上市審核，此前，公司董事長周曉萍已公開道歉。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T00:17:18.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
