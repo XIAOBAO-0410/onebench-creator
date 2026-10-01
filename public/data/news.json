@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:25:14.058Z",
-  "expiresAt": "2026-10-01T19:25:14.058Z",
+  "generatedAt": "2026-10-01T19:34:26.687Z",
+  "expiresAt": "2026-10-02T01:34:26.687Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,204 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+      "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+      "category": "综合",
+      "summary": "美国太空探索技术公司的“龙”飞船10月1日搭载4名宇航员升空，开启前往国际空间站的载人飞行任务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+      "publishedAt": "2026-10-01T16:05:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-02/10706979.shtml",
+      "title": "（爱知·名古屋亚运会）综合消息：中国射击队16金收官 网球女单中国队提前包揽金银牌",
+      "category": "综合",
+      "summary": "中新社日本名古屋10月1日电 当地时间1日，爱知·名古屋亚运会共决出29枚金牌。中国体育健儿在网球、攀岩、场地自行车、射击等赛场收获亮眼战绩。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-02/10706979.shtml",
+      "publishedAt": "2026-10-01T16:00:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706978.shtml",
+      "title": "WTT中国大满贯赛首日：八位中国选手过关",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛1日在北京石景山首钢园区正式打响。在首日进行的男、女单打资格赛第一轮中，共有八位中国选手过关。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706978.shtml",
+      "publishedAt": "2026-10-01T15:47:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706977.shtml",
+      "title": "中网综合：郑钦文、朱琳、孙心然、高馨妤晋级女单次轮",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 (刘梦青)2026中国网球公开赛1日在国家网球中心继续进行。中国选手郑钦文、朱琳、孙心然和高馨妤携手晋级女单次轮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706977.shtml",
+      "publishedAt": "2026-10-01T15:44:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/10-01/10706963.shtml",
+      "title": "香港“国庆赛马日”人气旺 游客盼香江发展如万马奔腾",
+      "category": "综合",
+      "summary": "中新社香港10月1日电 (记者 刘玥晴)为庆祝中华人民共和国成立77周年，香港赛马会(简称“马会”)10月1日在香港沙田马场举办“国庆赛马日”活动，共吸引近3万人次观众到场，包括游客逾9300人次。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/10-01/10706963.shtml",
+      "publishedAt": "2026-10-01T14:36:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-01/10706962.shtml",
+      "title": "我使馆回应村田晃大持刀侵闯案开庭：敦促日方拿出应有态度 严惩凶犯",
+      "category": "综合",
+      "summary": "10月1日，东京地方法院对非法持刀侵闯中国驻日本大使馆的原自卫队官员村田晃大进行首次公开庭审。中国驻日本大使馆发言人就此回答记者提问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706962.shtml",
+      "publishedAt": "2026-10-01T14:27:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
+      "title": "侗族多耶节启幕 广西侗乡上演民俗文化盛宴",
+      "category": "综合",
+      "summary": "中新社广西柳州10月1日电 (记者 黄艳梅)第二十三届(柳州·三江)侗族多耶节10月1日晚在广西柳州市三江侗族自治县启幕，当地民众及海内外游客欢聚一堂，共同领略多姿多彩的侗族文化盛宴。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
+      "publishedAt": "2026-10-01T13:54:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
+      "title": "冷空气袭扰长三角 雨水降温伴随国庆假期",
+      "category": "综合",
+      "summary": "中新社杭州10月1日电 (记者 王逸飞)10月1日是国庆假期首日。受冷空气影响，长三角地区普遍出现降温降水天气。其中，浙江杭州迎六年来最早入秋；上海市区徐家汇站最低气温在下半年以来首次降至20℃以下。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
+      "publishedAt": "2026-10-01T13:52:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706956.shtml",
+      "title": "贵州“村超”第三届国际足球赛启幕",
+      "category": "综合",
+      "summary": "中新社贵州榕江10月1日电 (记者 袁超)第三届“村超”国际足球赛10月1日在贵州榕江启幕，来自南美洲、欧洲、亚洲、非洲等地区国家的551名球员齐聚中国“村超”发源地榕江县，共赴一场草根足球盛会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706956.shtml",
+      "publishedAt": "2026-10-01T13:51:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706955.shtml",
+      "title": "王楚钦/孙颖莎等三对国乒组合退出WTT中国大满贯赛",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 世界乒乓球职业大联盟(WTT)10月1日宣布，中国组合王楚钦/孙颖莎、林诗栋/蒯曼和林诗栋/黄友政退出2026年WTT中国大满贯赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706955.shtml",
+      "publishedAt": "2026-10-01T13:51:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706954.shtml",
+      "title": "伊朗乒乓球“黑马”少年法拉吉：心无旁骛迎接每个对手",
+      "category": "综合",
+      "summary": "中新社北京10月1日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛10月1日在北京打响。男单资格赛第一轮，伊朗16岁小将本雅明·法拉吉以3:2爆冷击败罗马尼亚名将爱德华·约内斯库。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706954.shtml",
+      "publishedAt": "2026-10-01T13:51:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/10-01/10706942.shtml",
       "title": "东西问｜两个古文明如何真正理解彼此？",
@@ -374,200 +572,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706921.shtml",
-      "title": "浙江杭州：假期兴起“人机互动热”",
-      "category": "综合",
-      "summary": "中新网杭州10月1日电(鲍梦妮)“我们与机器人的距离更近了。尽管人们通常认为未来科技很遥远，但实际上它们已经融入了日常生活，我甚至能和机器人一起踢足球。”10月1日，在浙江杭州文三数字生活街区举办的全国首届人机互动运动会，让俄罗斯女生乌拉体会到了“与机器人PK”的乐趣。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706921.shtml",
-      "publishedAt": "2026-10-01T12:43:56.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142922",
+      "title": "国际劳工组织：尼泊尔洪灾影响就业和生计",
+      "category": "国际",
+      "summary": "国际劳工组织周四发布初步评估报告指出，尼泊尔8月发生的洪灾严重扰乱就业和生计，其影响可能超出直接受灾地区。基础设施受损、贸易中断以及非正规就业比例较高，给劳动者和企业带来风险。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142922",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706920.shtml",
-      "title": "全国首个人机协同智慧岗亭亮相杭州街头",
-      "category": "综合",
-      "summary": "中新网杭州10月1日电 (钱晨菲)10月1日，在杭州环城西路体育场路路口，全国首个人机协同智慧岗亭正式投入使用，该岗亭集机器人充电补给、警力休憩与勤务保障于一体，并以此推动路口管理效能提升。杭州交警率先探索人机协同勤务新样本，以科技守护平安出行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706920.shtml",
-      "publishedAt": "2026-10-01T12:42:58.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142919",
+      "title": "【世界交汇点】对话黄京波——人生的两点之间没有直线",
+      "category": "国际",
+      "summary": "人生一定要沿着一条清晰的路线前进吗？学过的专业、走过的弯路，最后会把一个人带向哪里？本期《世界交汇点》，我们邀请了联合国大学驻澳门研究所所长黄京波博士。从音乐相伴的童年，到法语、经济、艺术管理和教育等不同领域的学习；从第一份实习，到在纽约九年全工全读，再到二十五年的联合国职业生涯——她的人生并没有所谓的“标准路径”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142919",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706919.shtml",
-      "title": "“光语”点亮苏河湾：百年石库门变身梦幻舞台",
-      "category": "综合",
-      "summary": "中新网上海10月1日电 (记者 陈静)1日，夜幕降临，上海苏河湾慎余里百年石库门建筑墙面上，国际光影艺术大赛展映灯光亮起。光影遇上建筑，这里成为苏州河畔最梦幻的城市舞台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706919.shtml",
-      "publishedAt": "2026-10-01T12:40:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706926.shtml",
-      "title": "天津邮轮母港迎“三船同靠” 单日出入境客流创年内新高",
-      "category": "综合",
-      "summary": "中新社天津10月1日电 (记者 周亚强)天津国际邮轮母港10月1日迎来“三船同靠”。记者从天津东疆边检站获悉，该港当日出入境旅客超1万人次，创年内新高，较去年同期增长逾两倍。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706926.shtml",
-      "publishedAt": "2026-10-01T12:40:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706924.shtml",
-      "title": "陕西西安：游客选购明信片 寄递旅途记忆",
-      "category": "综合",
-      "summary": "图为主题邮局内的明信片。中新社记者 党田野 摄 图为游客挑选明信片。中新社记者 党田野 摄 图为游客挑选明信片。中新社记者 党田野 摄 图为游客挑选明信片。中新社记者 党田野 摄 图为小游客在家长的帮助下邮寄明信片。中新社记者 党田野 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706924.shtml",
-      "publishedAt": "2026-10-01T12:39:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706917.shtml",
-      "title": "国庆假期首日 国铁广州局创单日旅客发送历史新高",
-      "category": "综合",
-      "summary": "10月1日，旅客在广州南站乘车出行。当日，国铁广州局迎来国庆假期客流最高峰，预计发送旅客383.7万人次，较2025年同期增加33万人次，增幅9.4%，创单日旅客发送历史新高。中新社记者 陈骥旻 摄 10月1日，旅客在广州南站“国庆”主题宣传装置前留影。当日，国铁广州局迎来国庆假期客流最高峰，预计发送旅客383.7万人次，较2025年同期增加33万人次，增幅",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706917.shtml",
-      "publishedAt": "2026-10-01T12:39:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706916.shtml",
-      "title": "云南昆明：国庆假期机器人登台“秀”技",
-      "category": "综合",
-      "summary": "图为机器狗舞狮表演。中新社记者 刘冉阳 摄 图为机器人秀舞技。中新社记者 刘冉阳 摄 图为机器人秀舞技。中新社记者 刘冉阳 摄 图为演员与机器人登台共舞。中新社记者 刘冉阳 摄 图为机器人武术表演。中新社记者 刘冉阳 摄 图为精彩演出吸引小朋友目光。中新社记者 刘冉阳 摄 图为小朋友与机器人互动。中新社记者 刘冉阳 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706916.shtml",
-      "publishedAt": "2026-10-01T12:38:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706914.shtml",
-      "title": "国庆假期迎来出行高峰 西安铁警护航平安出行",
-      "category": "综合",
-      "summary": "图为西铁交警在落客平台疏导车流。张鑫 摄 图为西铁交警在疏导车流。张鑫 摄 图为西铁交警在落客平台疏导车流。张鑫 摄 图为西铁交警在疏导车流。张鑫 摄 图为民警在安检口帮助旅客。张鑫 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706914.shtml",
-      "publishedAt": "2026-10-01T12:37:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706913.shtml",
-      "title": "AI超级机械巨兽“巨虎东东”现身沈阳",
-      "category": "综合",
-      "summary": "10月1日，AI超级机械巨兽“巨虎东东”现身沈阳虎啸街。图为巨虎东东与市民互动。中新社记者 于海洋 摄 10月1日，AI超级机械巨兽“巨虎东东”现身沈阳虎啸街。图为巨虎东东与市民互动。中新社记者 于海洋 摄 10月1日，AI超级机械巨兽“巨虎东东”现身沈阳虎啸街。图为巨虎东东与市民互动。中新社记者 于海洋 摄 10月1日，AI超级机械巨兽“巨虎东东”现身沈阳",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706913.shtml",
-      "publishedAt": "2026-10-01T12:36:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706905.shtml",
-      "title": "贵州汇川：沉浸式怀旧街区引游人",
-      "category": "综合",
-      "summary": "10月1日，游客在汇川大院沉浸式怀旧街区“丁子巷”体验手摇式拖拉机。中新社记者 瞿宏伦 摄 10月1日，游客在汇川大院沉浸式怀旧街区体验石头剪刀布游戏。中新社记者 瞿宏伦 摄 10月1日，游客在汇川大院沉浸式怀旧街区“丁子巷”参观老款电视。中新社记者 瞿宏伦 摄 10月1日，游客在汇川大院沉浸式怀旧街区——农耕文化展示区拍照。中新社记者 瞿宏伦 摄 10月1",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706905.shtml",
-      "publishedAt": "2026-10-01T12:35:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/10-01/10706904.shtml",
-      "title": "国庆假期首日 长三角铁路迎来客流高峰",
-      "category": "综合",
-      "summary": "10月1日，旅客们在铁路南京站出行。中新社记者 泱波 摄 10月1日，旅客们在铁路南京站出行。中新社记者 泱波 摄 10月1日，旅客们在铁路南京站出行。中新社记者 泱波 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/10-01/10706904.shtml",
-      "publishedAt": "2026-10-01T12:35:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1551,42 +1587,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142889",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142888",
-      "title": "菲律宾外长拉扎罗：南海争端应通过外交和法律途径解决",
-      "category": "国际",
-      "summary": "菲律宾外交部长拉扎罗周六在联合国大会第八十一届会议一般性辩论上发表讲话说，国际法必须作为解决海洋争端的指引，菲律宾坚定认为，争端必须通过外交和法律途径解决，而非诉诸暴力和武力。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142888",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142887",
-      "title": "柬埔寨副首相布拉索昆：重建泰柬信任 通过和平与国际法解决争端",
-      "category": "国际",
-      "summary": "柬埔寨副首相布拉索昆周六在联合国大会第八十一届会议一般性辩论上发表讲话说，柬埔寨将继续寻求与泰国建立基于和平、合作和相互尊重的关系，全面、有效落实双方已达成的协议，重建信任，解决边界争端。他说，应尽快恢复联合边界委员会的勘测和划界工作，根据国际法以及两国现有条约和协议确立清晰且相互承认的边界。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142887",
       "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
         "国际",
