@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T19:34:26.687Z",
-  "expiresAt": "2026-10-02T01:34:26.687Z",
+  "generatedAt": "2026-10-01T23:54:59.789Z",
+  "expiresAt": "2026-10-02T05:54:59.789Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,186 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
+      "title": "泰国全国灾害保险体系正式实施",
+      "category": "综合",
+      "summary": "中新社曼谷10月1日电 (王茜 李映民)泰国总理府公共关系部1日发布消息称，泰国全国灾害保险体系当天正式实施，覆盖洪灾、风灾和地震，约3000万户住宅纳入保障。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
+      "publishedAt": "2026-10-01T23:30:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-02/10706990.shtml",
+      "title": "10月2日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-02/10706990.shtml",
+      "publishedAt": "2026-10-01T23:16:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+      "title": "21.3亿、268%！数说流动中国的假日新活力",
+      "category": "综合",
+      "summary": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+      "publishedAt": "2026-10-01T22:58:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+      "title": "中方代表28国呼吁国际社会遏止单边强制措施",
+      "category": "综合",
+      "summary": "中新社联合国10月1日电 当地时间10月1日，中国常驻联合国代表傅聪代表28个观点相近国家在联大第三委员会就单边强制措施作共同发言，呼吁国际社会坚决遏止这一非法行径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+      "publishedAt": "2026-10-01T22:53:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+      "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
+      "category": "综合",
+      "summary": "当地时间10月1日，此前一天发生的迪拜航空安全事件的更多细节得以披露，在使其更具戏剧性的同时显得疑点重重。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+      "publishedAt": "2026-10-01T22:50:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+      "title": "特朗普：中期选举后可能加大力度打击伊朗",
+      "category": "综合",
+      "summary": "据美国方面10月1日消息，美国总统特朗普表示，美国或将在中期选举后加大对伊朗的打击力度。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+      "publishedAt": "2026-10-01T22:46:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
+      "title": "美国30年期贷款利率升至7.28% 创近3年来最高值",
+      "category": "综合",
+      "summary": "中新社华盛顿10月1日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间10月1日公布数据显示，美国30年期固定抵押贷款平均利率升至7.28%，是自2023年11月22日以来的最高值。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
+      "publishedAt": "2026-10-01T22:45:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
+      "title": "首届亚信媒体论坛在巴库举行 聚焦加强媒体合作",
+      "category": "综合",
+      "summary": "中新社阿斯塔纳10月1日电 巴库消息：首届亚洲相互协作与信任措施会议(亚信)媒体论坛1日在阿塞拜疆首都巴库举行。与会代表围绕媒体在增进互信、促进跨文化交流中的作用展开讨论，呼吁加强媒体合作，共同应对虚假信息传播等挑战。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
+      "publishedAt": "2026-10-01T22:42:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-02/10706984.shtml",
+      "title": "特写：国庆烟花耀维港 家国同庆共此时",
+      "category": "综合",
+      "summary": "中新社香港10月1日电 题：国庆烟花耀维港 家国同庆共此时",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706984.shtml",
+      "publishedAt": "2026-10-01T22:41:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "title": "品类更多、品牌更强！国货出海有新变化",
+      "category": "综合",
+      "summary": "国庆假期，别人忙着出游，这里忙着“出货”！灯具、服装、鞋子等一批批国货完成查验、装进集装箱，从深圳盐田港出发，奔向美国、墨西哥、荷兰等全球市场。眼下正值出口旺季，盐田港开启“国庆假期不停运”模式，为国货出海按下“加速键”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "publishedAt": "2026-10-01T22:38:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
       "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
@@ -392,182 +572,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
-      "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
-      "category": "综合",
-      "summary": "中新社杭州10月1日电 (郭其钰)10月1日，虽然进入假期时间，但在浙江杭州钛芯智冷科技有限公司实验室里，台青李卓谕依旧带领团队在进行多组芯片散热模组的稳定性测试。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
-      "publishedAt": "2026-10-01T13:01:38.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142924",
+      "title": "国际货币基金组织：各国应对能源冲击的政策组合正在变化",
+      "category": "国际",
+      "summary": "国际货币基金组织周四发表博客文章说，随着中东战争引发的能源冲击持续，各国政府采取了不同应对措施。随着冲击持续和公共财政压力加剧，各国正从通过财政措施缓冲冲击，转向更多允许价格上涨向国内传导和管理需求的措施。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142924",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
-      "title": "第三届全国青少年棒球联赛总决赛启幕",
-      "category": "综合",
-      "summary": "中新网10月1日电 第三届全国青少年棒球联赛总决赛于10月1日在绍兴棒垒球体育文化中心启幕。经过此前20余站分站赛以及分区赛的层层考验，16支队伍突出重围，参与总决赛角逐。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
-      "publishedAt": "2026-10-01T12:59:17.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142923",
+      "title": "联合国贸发会议：拉美外资流入增加 但新建生产项目减少",
+      "category": "国际",
+      "summary": "2025年，拉丁美洲和加勒比地区吸引的外国直接投资增加，但用于新建工厂、物流设施等生产性项目的投资却有所减少。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142923",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
-      "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
-      "category": "综合",
-      "summary": "中新网南宁10月1日电(黄艳梅 陈沿佑)10月1日，广西南宁市民族广场举行升国旗仪式，大批民众从四面八方赶来，共同见证五星红旗冉冉升起，表达对祖国的诚挚祝福。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
-      "publishedAt": "2026-10-01T12:58:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
-      "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
-      "category": "综合",
-      "summary": "中新网成都10月1日电 (记者 刘忠俊)看一段玉兔起舞，听一回神话故事，再和“苏东坡”聊聊江上清风……10月1日，在四川乐山大佛景区东坡楼，上演了一场跨越时空的文化相遇。九尾狐、玉兔、羽人从汉代画像中“走”了出来，和游客合影互动；演员扮成的“苏东坡”当起向导，带着大家走进古时南安的烟火人间与神话世界。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
-      "publishedAt": "2026-10-01T12:56:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
-      "title": "国庆假期首日 海南自贸港重点项目施工忙",
-      "category": "综合",
-      "summary": "中新网海口10月1日电 (记者 王子谦)1日，2026年国庆假期首日，海南自贸港多个重点项目建设现场机械轰鸣、塔吊运转，建设者坚守一线抢抓施工黄金期，冲刺节点目标。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
-      "publishedAt": "2026-10-01T12:55:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
-      "title": "链全球国际农业合作博览会将于12月在印尼举办",
-      "category": "综合",
-      "summary": "中新网雅加达10月1日电 链全球国际农业合作博览会暨中国国际农业合作博览会新闻发布会1日在印度尼西亚首都雅加达举行，宣布博览会将于12月10-12日在印尼唐格朗国际会展中心举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
-      "publishedAt": "2026-10-01T12:55:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
-      "title": "WTT中国大满贯2026在北京开赛",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
-      "publishedAt": "2026-10-01T12:54:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
-      "title": "中国选手储守宏夺得亚运会男子速度攀岩冠军",
-      "category": "综合",
-      "summary": "中国选手储守宏。中新社记者 富田 摄 中新网10月1日电 (记者 金旭)爱知·名古屋亚运会当地时间1日举行攀岩男子速度赛决赛，中国选手储守宏以4.71 秒的成绩夺得金牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
-      "publishedAt": "2026-10-01T12:50:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
-      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
-      "category": "综合",
-      "summary": "中新网安徽休宁10月1日电(江婉琪)“以前米酒论斤卖，现在卖的不只是一杯酒，更是一种生活方式。”安徽省级非物质文化遗产代表性项目五城米酒酿制技艺黄山市级代表性传承人李爱华说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
-      "publishedAt": "2026-10-01T12:47:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
-      "category": "综合",
-      "summary": "中新网义乌10月1日电(董易鑫)义乌是浙江人口最多的县级市，铁路义乌站是该省客流量最大的县级火车站。10月1日，铁路义乌站官方公布一则数据，今年国庆假期该站预计日均发送旅客5.13万人次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "publishedAt": "2026-10-01T12:47:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1551,42 +1587,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142891",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142890",
-      "title": "俄罗斯外长拉夫罗夫：维护联合国中心地位 建立更加多极化的世界秩序",
-      "category": "国际",
-      "summary": "俄罗斯外长拉夫罗夫周六在联合国大会第八十一届会议一般性辩论上发表讲话说，全球政治格局正在发生剧变，一个更加公平、多极化的世界秩序正在形成，全球南方和东方国家正作为主权发展中心崭露头角。他说，俄罗斯外交政策以这一理念为基础，主张维护《联合国宪章》和国际法，推动建立多极化世界秩序。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142890",
-      "publishedAt": "2026-09-26T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142889",
-      "title": "古巴外长罗德里格斯：美国对古巴动用军事力量的威胁依然存在",
-      "category": "国际",
-      "summary": "古巴外长罗德里格斯周六在联合国大会第八十一届会议一般性辩论上发表讲话说，美国对古巴动用军事力量的威胁依然存在。他强调，美国政府对古巴的多维度侵略自2026年1月以来不断升级，包括实施能源封锁、阻止其他国家向古巴出口燃料、限制产品和服务出口，并对各国企业和政府施加压力。他说，美国对古巴的政策违反国际法，古巴不是威胁，“封锁，才是真正的威胁”。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142889",
       "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
         "国际",

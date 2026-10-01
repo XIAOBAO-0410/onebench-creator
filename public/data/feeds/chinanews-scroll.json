@@ -5,6 +5,76 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
+      "title": "泰国全国灾害保险体系正式实施",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
+      "publishedAt": "2026-10-01T23:30:39.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-02/10706990.shtml",
+      "title": "10月2日新闻早报",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-02/10706990.shtml",
+      "publishedAt": "2026-10-01T23:16:08.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+      "title": "21.3亿、268%！数说流动中国的假日新活力",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+      "publishedAt": "2026-10-01T22:58:17.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+      "title": "中方代表28国呼吁国际社会遏止单边强制措施",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml",
+      "publishedAt": "2026-10-01T22:53:10.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+      "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
+      "publishedAt": "2026-10-01T22:50:48.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+      "title": "特朗普：中期选举后可能加大力度打击伊朗",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+      "publishedAt": "2026-10-01T22:46:46.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
+      "title": "美国30年期贷款利率升至7.28% 创近3年来最高值",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
+      "publishedAt": "2026-10-01T22:45:26.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
+      "title": "首届亚信媒体论坛在巴库举行 聚焦加强媒体合作",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706981.shtml",
+      "publishedAt": "2026-10-01T22:42:44.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-02/10706984.shtml",
+      "title": "特写：国庆烟花耀维港 家国同庆共此时",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706984.shtml",
+      "publishedAt": "2026-10-01T22:41:42.000Z"
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "title": "品类更多、品牌更强！国货出海有新变化",
+      "meta": "中国新闻网 · 2026/10/1",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+      "publishedAt": "2026-10-01T22:38:42.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
       "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
       "meta": "中国新闻网 · 2026/10/1",
@@ -143,78 +213,8 @@
       "meta": "中国新闻网 · 2026/10/1",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706936.shtml",
       "publishedAt": "2026-10-01T13:02:40.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
-      "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
-      "publishedAt": "2026-10-01T13:01:38.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
-      "title": "第三届全国青少年棒球联赛总决赛启幕",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
-      "publishedAt": "2026-10-01T12:59:17.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
-      "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
-      "publishedAt": "2026-10-01T12:58:01.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
-      "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
-      "publishedAt": "2026-10-01T12:56:29.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
-      "title": "国庆假期首日 海南自贸港重点项目施工忙",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
-      "publishedAt": "2026-10-01T12:55:43.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
-      "title": "链全球国际农业合作博览会将于12月在印尼举办",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-01/10706927.shtml",
-      "publishedAt": "2026-10-01T12:55:07.000Z"
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
-      "title": "WTT中国大满贯2026在北京开赛",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-01/1206732.shtml",
-      "publishedAt": "2026-10-01T12:54:03.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
-      "title": "中国选手储守宏夺得亚运会男子速度攀岩冠军",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-01/10706930.shtml",
-      "publishedAt": "2026-10-01T12:50:46.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
-      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
-      "publishedAt": "2026-10-01T12:47:34.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
-      "meta": "中国新闻网 · 2026/10/1",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
-      "publishedAt": "2026-10-01T12:47:10.000Z"
     }
   ],
-  "updatedAt": "2026-10-01T19:34:26.687Z",
+  "updatedAt": "2026-10-01T23:54:59.789Z",
   "provider": "OneBench 公共资讯快照"
 }
