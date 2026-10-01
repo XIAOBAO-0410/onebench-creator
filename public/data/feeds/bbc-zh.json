@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad#0",
+      "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
+      "meta": "BBC 中文 · 2026/10/1",
+      "url": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T04:43:34.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad#0",
+      "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
+      "meta": "BBC 中文 · 2026/10/1",
+      "url": "https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T02:35:05.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad#0",
+      "title": "鈉離子電池：「美國製造」能超越中國嗎？",
+      "meta": "BBC 中文 · 2026/10/1",
+      "url": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T01:58:40.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad#0",
       "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
       "meta": "BBC 中文 · 2026/9/30",
@@ -26,14 +47,14 @@
       "publishedAt": "2026-09-30T08:23:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#1",
       "title": "貓眼如何啟發機器人的照相機技術發展",
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T04:54:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#1",
       "title": "特朗普排除美中合作開發人工智能",
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss",
@@ -47,14 +68,7 @@
       "publishedAt": "2026-09-30T02:20:26.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad#1",
-      "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
-      "meta": "BBC 中文 · 2026/9/30",
-      "url": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T00:18:57.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad#1",
       "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
       "meta": "BBC 中文 · 2026/9/30",
       "url": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
@@ -75,25 +89,11 @@
       "publishedAt": "2026-09-29T05:46:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad#1",
-      "title": "美國檢方重啟調查康奈爾大學輪姦案指控",
-      "meta": "BBC 中文 · 2026/9/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T04:30:30.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#3",
       "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
       "meta": "BBC 中文 · 2026/9/29",
       "url": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-29T03:48:29.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad#1",
-      "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
-      "meta": "BBC 中文 · 2026/9/29",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T00:07:38.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-14T00:19:09.000Z"
     }
   ],
-  "updatedAt": "2026-09-30T23:53:59.621Z",
+  "updatedAt": "2026-10-01T06:01:14.575Z",
   "provider": "OneBench 公共资讯快照"
 }
