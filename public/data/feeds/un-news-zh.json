@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142959",
+      "title": "联合国贸发会议：不断攀升的债务成本正在阻碍发展",
+      "meta": "联合国新闻 · 2026/10/7",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142959",
+      "publishedAt": "2026-10-07T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142958",
       "title": "古特雷斯：多边主义面临四大挑战",
       "meta": "联合国新闻 · 2026/10/7",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/2",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1142930",
       "publishedAt": "2026-10-02T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142929",
-      "title": "联合国中央应急基金拨款1.6亿美元 缓解12个人道主义危机",
-      "meta": "联合国新闻 · 2026/10/2",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1142929",
-      "publishedAt": "2026-10-02T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-07T23:08:03.005Z",
+  "updatedAt": "2026-10-08T06:10:50.672Z",
   "provider": "OneBench 公共资讯快照"
 }
