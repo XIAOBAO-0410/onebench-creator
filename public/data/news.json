@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T17:00:39.127Z",
-  "expiresAt": "2026-10-09T23:00:39.127Z",
+  "generatedAt": "2026-10-09T22:41:42.864Z",
+  "expiresAt": "2026-10-10T04:41:42.864Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,41 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-10/10709963.shtml",
+      "title": "巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害",
+      "category": "综合",
+      "summary": "据中国地震台网正式测定，巴拿马当地时间10月9日发生7.6级地震，震源深度10千米。中国驻巴拿马使馆当天发布提示，提醒中国在巴公民防范地震灾害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-10/10709963.shtml",
+      "publishedAt": "2026-10-09T22:35:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad#0",
+      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+      "category": "国际",
+      "summary": "烏克蘭總統表示，容許俄羅斯出售石油產品，只會延長這場本應結束的戰爭。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T20:33:46.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/10-09/10709962.shtml",
       "title": "这个很多人晚上都在做的事，正在加速牙齿老化！还可能会变丑！",
@@ -554,24 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-09/10709938.shtml",
-      "title": "国际观察｜冲绳命案凸显日本倚美恶果",
-      "category": "综合",
-      "summary": "新华社东京10月9日电(记者梁晨#8195;李子越#8195;陈泽安)日本冲绳县议会9日就驻日美军士兵涉嫌抢劫杀人案通过抗议决议和意见书，向美方提出抗议，并向日本政府提出交涉，要求采取有效措施防止类似案件发生，以及从根本上修订日美地位协定。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709938.shtml",
-      "publishedAt": "2026-10-09T14:01:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142970",
       "title": "世卫组织呼吁从机构化照护转向社区精神卫生照护",
       "category": "国际",
@@ -661,7 +678,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad#1",
       "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
       "category": "国际",
       "summary": "一部新電影將扎克伯格的描繪成一個反派角色。但這家科技公司的收益及產品似乎不受負面形象的影響。",
@@ -1494,7 +1511,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad#4",
       "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
       "category": "国际",
       "summary": "原先不被看好的沈伯洋，自宣布參選後大力改變形象，近期聲勢高漲，給本享有執政優勢的蔣萬安帶來了挑戰。",
@@ -1502,23 +1519,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-06T00:11:21.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad#4",
-      "title": "台北同志酒吧遭搜查 警員歧視言論惹爭議",
-      "category": "国际",
-      "summary": "有關注同志權益團體號召集結抗議，逾百人出席表達不滿警方不當執法。警方證實有警員言行不當已懲處；台北巿長蔣萬安致歉。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T12:43:06.000Z",
       "tags": [
         "国际",
         "商业",
