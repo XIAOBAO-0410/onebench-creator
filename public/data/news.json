@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T21:14:56.402Z",
-  "expiresAt": "2026-10-17T03:14:56.402Z",
+  "generatedAt": "2026-10-17T00:31:17.904Z",
+  "expiresAt": "2026-10-17T06:31:17.904Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
+      "title": "日媒：高市早苗向靖国神社献祭品",
+      "category": "综合",
+      "summary": "中新网10月17日电 据日本共同社报道，日本首相高市早苗17日以“内阁总理大臣”名义，向靖国神社供奉名为“真榊”的祭品。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
+      "publishedAt": "2026-10-17T00:19:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/10-17/10716051.shtml",
+      "title": "10月17日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/10-17/10716051.shtml",
+      "publishedAt": "2026-10-16T23:22:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
+      "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
+      "category": "综合",
+      "summary": "新华社哈拉雷10月16日电(记者叶挺)卢萨卡消息：赞比亚政府16日在首都卢萨卡紧急启动口服霍乱疫苗接种工作，以应对近期该国多地暴发的霍乱疫情。据赞比亚卫生部最新通报，本轮疫情已造成25人死亡，确诊病例达966例。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
+      "publishedAt": "2026-10-16T22:07:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
+      "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
+      "category": "综合",
+      "summary": "当地时间10月16日，苏丹快速支援部队发表声明称，苏丹西部南达尔富尔州首府尼亚拉市当天遭遇无人机袭击，造成至少30名平民死亡，另有数十人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
+      "publishedAt": "2026-10-16T22:04:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
       "title": "沙特主导联军称拦截3枚导弹和4架无人机",
@@ -490,78 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716043.shtml",
       "publishedAt": "2026-10-16T16:29:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716042.shtml",
-      "title": "七旬大爷大明湖畔演奏萨克斯火爆全网，网友从全国各地赶来捧场，称其“法拉利老了，依旧是法拉利”",
-      "category": "综合",
-      "summary": "“爷爷，再来一遍！”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716042.shtml",
-      "publishedAt": "2026-10-16T16:27:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-17/10716012.shtml",
-      "title": "五年15条新线建成投产 国铁广州局加快推进路网建设",
-      "category": "综合",
-      "summary": "中新网广州10月16日电 (郭军 方杰 罗肆安)金秋时节，国铁广州局铁路建设工地捷报频传，9月25日广南联络线2标首段无砟道床板开始浇筑，9月30日深江铁路洪奇沥水道公铁大桥合龙，10月1日合湛铁路广东段卖皂河特大桥完成首个连续梁浇筑。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716012.shtml",
-      "publishedAt": "2026-10-16T16:08:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-16/10716030.shtml",
-      "title": "从过路客到留量客 社科专家为西双版纳勐海茶文旅康融合“开方”",
-      "category": "综合",
-      "summary": "中新网云南西双版纳10月16日电 (肖弼钰)“茶好喝，才吸引游客，我们从不愁客源。”南糯山村丫口新寨，哈尼族民宿老板散三的院子里，采茶制茶、茶山徒步、非遗体验等项目一应俱全。说起生意，这位从茶山起步的汉子语气笃定。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-16/10716030.shtml",
-      "publishedAt": "2026-10-16T14:56:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
-      "title": "价格改革推动普惠养老服务提质扩面",
-      "category": "综合",
-      "summary": "养老迎来新变化，关系大家钱包。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
-      "publishedAt": "2026-10-16T14:31:57.000Z",
       "tags": [
         "国内",
         "社会",
@@ -1594,6 +1594,40 @@
       "hot": false
     },
     {
+      "id": "who-zh-urn:uuid:efbc0ffa-163c-47a9-89fb-dc1530426285",
+      "title": "世卫组织欢迎联合国通过《大流行病预防、防范和应对政治宣言》",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）欢迎联合国大会（联大）今天通过《大流行病预防、防范和应对政治宣言》。该宣言大力重申，为保护子孙后代免受大流行病毁灭性影响，必须展现出全球团结精神和坚定承诺。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/12-10-2026-who-welcomes-adoption-of-united-nations-political-declaration-on-pandemic-prevention-preparedness-and-response",
+      "publishedAt": "2026-10-12T20:19:24.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:8d02afd7-fd06-4b09-9634-8515e6db5043",
+      "title": "粮食安全阶段综合分类伙伴关系就苏丹粮食不安全和营养不良问题发出警报",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）是粮食安全阶段综合分类伙伴关系的成员。该伙伴关系今天发出了关于苏丹粮食不安全和营养不良状况的警报。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert",
+      "publishedAt": "2026-10-12T16:01:00.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1142989",
       "title": "联大投票通过大流行病宣言，美国等三国反对",
       "category": "国际",
@@ -2099,40 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations",
       "publishedAt": "2026-08-24T16:39:32.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:a0ffe9af-2cfc-49b6-8d84-6c5828860870",
-      "title": "世卫组织和非洲疾控中心欢迎向刚果民主共和国分配埃博拉疫苗",
-      "category": "健康",
-      "summary": "上周，刚果民主共和国政府向国际疫苗供应协调小组申请从全球埃博拉病毒病疫苗储备中调拨埃尔维博（Ervebo）疫苗。提出这一请求的目的是在当前的本迪布焦病毒病疫情中进行使用。埃尔维博疫苗已获得许可并被推荐用于埃博拉病毒病（以前称为扎伊尔型埃博拉病毒）疫情。本周一，国际疫苗供应协调小组通知刚果政府，将立即发放首批7万剂疫苗。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/20-08-2026-who-and-africa-cdc-welcome-the-allocation-of-ebola-vaccines-to-the-democratic-republic-of-the-congo",
-      "publishedAt": "2026-08-20T09:31:59.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:4ace2946-296b-4966-8907-187e3d996c9c",
-      "title": "非洲疾控中心和世卫组织呼吁采取社区主导的紧急行动，遏制刚果民主共和国的埃博拉疫情",
-      "category": "健康",
-      "summary": "非洲疾病预防控制中心（非洲疾控中心）和世界卫生组织（世卫组织）呼吁在刚果民主共和国紧急扩大社区主导的埃博拉应对行动，加强早期发现、接触者随访及护理可及性，支持一线卫生工作者并加快向受影响社区输送资源。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/06-08-2026-africa-cdc-and-who-call-for-urgent--community-led-action-to-contain-ebola-in-the-drc",
-      "publishedAt": "2026-08-06T16:50:24.000Z",
       "tags": [
         "健康",
         "育儿",
