@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143070",
+      "title": "联合国官员谴责刚果民主共和国护士遇袭事件",
+      "meta": "联合国新闻 · 2026/10/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143070",
+      "publishedAt": "2026-10-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143069",
       "title": "古特雷斯在埃及警告美伊冲突升级风险",
       "meta": "联合国新闻 · 2026/10/26",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143036",
       "publishedAt": "2026-10-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143035",
-      "title": "阿富汗饥饿危机：“距离饥荒仅一步之遥”",
-      "meta": "联合国新闻 · 2026/10/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143035",
-      "publishedAt": "2026-10-20T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-26T21:02:27.274Z",
+  "updatedAt": "2026-10-27T01:29:56.623Z",
   "provider": "OneBench 公共资讯快照"
 }
