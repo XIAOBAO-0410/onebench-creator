@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T16:17:48.825Z",
-  "expiresAt": "2026-11-03T22:17:48.825Z",
+  "generatedAt": "2026-11-03T23:26:45.924Z",
+  "expiresAt": "2026-11-04T05:26:45.924Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,312 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-04/10725710.shtml",
+      "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？",
+      "category": "综合",
+      "summary": "如今，不论是出门就餐还是购物，不少人都习惯打开地图软件或者本地生活服务软件去搜一搜，看看哪一家性价比高，哪一家符合自己的口味，再看看店家的评分如何。毕竟，大家都想选到能让自己安心消费的商家。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725710.shtml",
+      "publishedAt": "2026-11-03T23:22:57.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725708.shtml",
+      "title": "欧洲多架客机及一艘邮轮遭炸弹威胁",
+      "category": "综合",
+      "summary": "中新网11月4日电 据路透社报道，11月3日，欧洲至少有七架航班和一艘邮轮收到炸弹威胁，导致多座机场运行受到干扰，但最终均未发现爆炸装置。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725708.shtml",
+      "publishedAt": "2026-11-03T23:07:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725702.shtml",
+      "title": "印尼警方：3人因涉嫌窃听总统被列为犯罪嫌疑人",
+      "category": "综合",
+      "summary": "中新社雅加达11月3日电 (记者 李志全)印度尼西亚警方3日晚表示，已将3名涉嫌非法窃听总统普拉博沃等人的人员列为犯罪嫌疑人。目前，3名嫌疑人已被警方羁押。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725702.shtml",
+      "publishedAt": "2026-11-03T23:06:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-04/10725704.shtml",
+      "title": "CBA常规赛：辽宁队险胜广州队 赢下第一阶段收官战",
+      "category": "综合",
+      "summary": "中新社沈阳11月4日电 (记者 韩宏)2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第8轮，辽宁队3日晚主场迎战广州队，最终以100比93战胜对手，以三连胜结束常规赛第一阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725704.shtml",
+      "publishedAt": "2026-11-03T23:05:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725705.shtml",
+      "title": "泰国将进口电动汽车消费税税率上调至35%",
+      "category": "综合",
+      "summary": "中新社曼谷11月3日电 (王茜 李映民)泰国副总理兼财政部长艾尼迪3日表示，当天召开的内阁会议批准调整进口纯电动汽车(BEV)和增程式电动汽车(REEV)的消费税税率，统一上调至35%，新税率将于2027年1月1日起实施。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725705.shtml",
+      "publishedAt": "2026-11-03T23:04:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725706.shtml",
+      "title": "柬埔寨将在全国200所公立中小学校试行全日制教学",
+      "category": "综合",
+      "summary": "中新社金边11月3日电 (张堰林 杨强)柬埔寨首相洪玛奈当地时间11月3日表示，柬埔寨计划在200所具备条件的公立中小学校试行全日制教学，将每日教学时间从4小时延长至6小时，并分阶段向全国推广，以全面提升该国基础教育质量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725706.shtml",
+      "publishedAt": "2026-11-03T23:04:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-04/10725703.shtml",
+      "title": "北京队主场大胜宁波队 豪取CBA常规赛八连胜",
+      "category": "综合",
+      "summary": "中新社北京11月4日电 （记者 国璇）11月3日晚在北京首钢冰球馆举行的2026-2027赛季中国男子篮球职业联赛（CBA）常规赛第8轮较量中，北京首钢队（简称“北京队”）主场以120:88大胜宁波町渥队（简称“宁波队”），豪取八连胜，以全胜战绩稳居积分榜头名。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725703.shtml",
+      "publishedAt": "2026-11-03T23:03:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725700.shtml",
+      "title": "菲律宾央行：货币政策仍处紧缩周期 通胀预计数月后见顶",
+      "category": "综合",
+      "summary": "中新社马尼拉11月4日电 (记者 周璟)菲律宾央行行长雷莫洛纳3日表示，鉴于通胀仍处高位，菲律宾央行目前处于货币紧缩周期，预计通胀将在未来数月达到峰值。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725700.shtml",
+      "publishedAt": "2026-11-03T23:02:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-04/10725699.shtml",
+      "title": "旅俄侨界举行纪念孙中山先生诞辰160周年座谈会",
+      "category": "综合",
+      "summary": "中新社莫斯科11月3日电 (记者 田冰)由俄罗斯中国和平统一促进会、俄罗斯华侨华人联合总会主办的纪念孙中山先生诞辰160周年座谈会3日在莫斯科举行。中国驻俄罗斯大使馆临时代办张伟、旅俄主要侨团负责人、留学生和侨胞代表等出席活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-04/10725699.shtml",
+      "publishedAt": "2026-11-03T23:01:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725698.shtml",
+      "title": "德总理默茨重申德国将继续支持乌克兰",
+      "category": "综合",
+      "summary": "中新社柏林11月3日电 (记者 马秀秀)德国总理默茨3日在柏林会见乌克兰总统泽连斯基。在双方随后举行的联合新闻发布会上，默茨重申德国将继续支持乌克兰。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725698.shtml",
+      "publishedAt": "2026-11-03T23:01:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725697.shtml",
+      "title": "叶玉如获得联合国教科文组织国际生命科学研究奖",
+      "category": "综合",
+      "summary": "中新社巴黎11月3日电 (记者 李洋)总部位于法国巴黎的联合国教科文组织当地时间3日公布2026年度联合国教科文组织-赤道几内亚国际生命科学研究奖获奖名单，共3人获奖，其中包括香港科技大学校长叶玉如。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725697.shtml",
+      "publishedAt": "2026-11-03T23:00:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-04/10725707.shtml",
+      "title": "11月4日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725707.shtml",
+      "publishedAt": "2026-11-03T22:56:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-04/10725701.shtml",
+      "title": "10月份中国仓储指数为49.8%",
+      "category": "综合",
+      "summary": "中国物流与采购联合会今天发布10月份中国仓储指数。指数低位稍有回升，但仍连续三个月运行在收缩区间，需求基础仍需巩固。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725701.shtml",
+      "publishedAt": "2026-11-03T22:54:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-04/10725696.shtml",
+      "title": "中国微短剧何以全球“圈粉”",
+      "category": "综合",
+      "summary": "近年来，凭借独特内容优势与成熟产业体系，中国微短剧迅速走红全球，成为数字时代中华文化出海的鲜活载体与传播力量。法国、美国、加拿大等多国影视从业者的创作实践与行业观察表明，中国微短剧立足人类共通情感、深耕本土化创作，为中外文明交流互鉴、全球文化产业创新发展注入了新动能。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725696.shtml",
+      "publishedAt": "2026-11-03T22:51:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725695.shtml",
+      "title": "伊朗要求美明确回应7项条件 特朗普再次喊话不排除对伊动武",
+      "category": "综合",
+      "summary": "当地时间3日，伊朗方面表示，目前有关伊美谈判尚未达成新进展。此外，伊朗各方就局势密集发声，传递伊方强硬立场：“伊朗绝不会投降”“美方必须完整、明确回应伊朗提出的7项条件并付诸实施，霍尔木兹海峡才会开放”“伊朗已做好战斗准备，并处在最高级别防御状态”……",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725695.shtml",
+      "publishedAt": "2026-11-03T22:36:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
+      "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+      "category": "综合",
+      "summary": "乌克兰总统泽连斯基11月3日在柏林与德国总理默茨举行的联合新闻发布会上表示，美国、欧洲、北约和乌克兰各方团队将于4日在布鲁塞尔举行会晤，讨论乌克兰重建方案和安全保障问题。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
+      "publishedAt": "2026-11-03T16:28:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
+      "title": "从价格到服务再到隐私保护 这份陪诊首项国标为你划重点",
+      "category": "综合",
+      "summary": "11月1日，由国家市场监督管理总局、国家标准化管理委员会批准发布的《社会化陪同就医服务基本要求》国家标准正式实施。这是我国陪诊服务领域的首项国家标准。这些年陪诊服务越来越热，究竟什么是陪诊？哪些人群最需要这项服务？行业发展现状怎样，还有哪些亟待破解的现实难题？11月1日起实施的这项新国标，又将从哪些方面给行业立规矩？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
+      "publishedAt": "2026-11-03T16:27:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml",
       "title": "2026年中亚经济合作天山论坛在哈萨克斯坦举行",
@@ -266,312 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-03/10725679.shtml",
-      "title": "以东方吉祥美学迎亚太盛会 珐琅铜雕《丝路吉羊》首发",
-      "category": "综合",
-      "summary": "中新网深圳11月3日电 (记者 索有为)大美敦煌·匠启新章——常沙娜珐琅铜雕《丝路吉羊》全国首发式3日在深圳美术馆举行。时值2026 APEC中国年、亚太盛会进入倒计时，本次首发落地粤港澳大湾区核心城市深圳，毗邻千年羊城广州，让敦煌丝路瑞兽文脉与岭南吉祥羊文化美美与共。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725679.shtml",
-      "publishedAt": "2026-11-03T15:48:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725678.shtml",
-      "title": "昆明长水国际机场T2航站楼主体混凝土结构实现全面封顶",
-      "category": "综合",
-      "summary": "中新网昆明11月3日电(记者 李嘉娴)记者3日从昆明国际航空枢纽工程建设指挥部获悉，10月31日，昆明长水国际机场改扩建工程T2航站楼(北段)项目国际出发层悬挑车道板完成封顶浇筑，T2航站楼主体混凝土结构实现全面封顶。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725678.shtml",
-      "publishedAt": "2026-11-03T15:47:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-03/10725677.shtml",
-      "title": "河北邯郸广平“带汁肉”：百年老味传承乡土记忆",
-      "category": "综合",
-      "summary": "中新网邯郸11月3日电 题：河北邯郸广平“带汁肉”：百年老味传承乡土记忆",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725677.shtml",
-      "publishedAt": "2026-11-03T15:45:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725676.shtml",
-      "title": "泰国（第四届）HSK留学中国与就业展在曼谷举办",
-      "category": "综合",
-      "summary": "中新网曼谷11月3日电 (王茜 李映民)泰国(第四届)HSK留学中国与就业展3日在曼谷易三仓大学素万那普校区举办。24家中泰知名高校与25家在泰中资企业同场设展，使泰国学生在了解赴华留学信息的同时，可以直接接触企业用人需求。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725676.shtml",
-      "publishedAt": "2026-11-03T15:44:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725675.shtml",
-      "title": "麦后复种油葵测产喜获佳绩 引黄灌区一地双收拓宽增收路",
-      "category": "综合",
-      "summary": "中新网银川11月3日电 (记者 于晶)11月3日，记者走进宁夏银川市永宁县杨和镇王太村春麦后复种油葵示范区，一场实打实测的产量验收，给这片低洼地块交出亮眼答卷。示范品种“NK858”在播期延后一周、地力偏弱的不利条件下，折合标准亩产191.82公斤，为引黄灌区“一季变两季”的种植模式再添实证。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725675.shtml",
-      "publishedAt": "2026-11-03T15:43:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725673.shtml",
-      "title": "一栋楼链全球 广州南沙打造跨境贸易“一站式”出海枢纽",
-      "category": "综合",
-      "summary": "中新网广州11月3日电 (记者 王坚)在广州南沙明珠湾灵山岛尖，一栋名为“数聚大厦”的写字楼正以“一栋楼链全球”的方式，成为粤港澳大湾区跨境贸易的重要一环。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725673.shtml",
-      "publishedAt": "2026-11-03T15:43:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-03/10725672.shtml",
-      "title": "上海七部门联合发文提升公众消防安全素质",
-      "category": "综合",
-      "summary": "中新网上海11月3日电(记者 李姝徵)会用灭火器、能处置初起火情、懂得疏散自救……上海七部门3日联合发布《上海市全民消防安全素质提升行动实施方案(2026—2030年)》(以下简称：方案)，推出四大专项行动、15项具体措施，推动消防安全教育从普及知识向掌握实操技能延伸。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725672.shtml",
-      "publishedAt": "2026-11-03T15:42:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-03/10725671.shtml",
-      "title": "展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展",
-      "category": "综合",
-      "summary": "中新网长沙11月3日电(龚倩)第二十七届中部农博会开幕在即，连日来，长沙国际会展中心内筹备工作正有序推进。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725671.shtml",
-      "publishedAt": "2026-11-03T15:41:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725669.shtml",
-      "title": "纺织业“牵手”广交会探寻科技赋能新路径",
-      "category": "综合",
-      "summary": "中新网广州11月3日电 (记者 王坚)第140届广交会正在举行。其间，由中国纺织品进出口商会等单位主办的广交会“走进行业”交流会——科技赋能织就产业新图景活动，吸引一众专家学者、企业家代表齐聚一堂，共探以科技赋能锻造供应链韧性、重塑纺织行业国际竞争力的新路径。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725669.shtml",
-      "publishedAt": "2026-11-03T15:40:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-03/10725668.shtml",
-      "title": "韩国调查总统和高官护照信息泄露事件",
-      "category": "综合",
-      "summary": "中新社首尔11月3日电 (记者 金旭)针对韩国总统李在明和其他政府高官等人护照信息外泄至互联网事件，韩国警察厅当地时间3日表示，已正式立案调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725668.shtml",
-      "publishedAt": "2026-11-03T15:40:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725667.shtml",
-      "title": "山西吕梁“十五五”规划：旧产能提质 新链条起势",
-      "category": "综合",
-      "summary": "中新网太原11月3日电 (记者 范丽芳)11月3日，山西省吕梁市委宣传部、吕梁市政府新闻办举行“开局起步‘十五五’”系列主题首场新闻发布会，解读《吕梁市国民经济和社会发展“十五五”规划纲要》。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725667.shtml",
-      "publishedAt": "2026-11-03T15:38:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725666.shtml",
-      "title": "宁夏特色农产品亮相全国粮油和大豆产业博览会 产销对接收获颇丰",
-      "category": "综合",
-      "summary": "中新网银川11月3日电 (记者 李佩珊)记者3日从宁夏农业农村厅获悉，2026年全国粮油和大豆产业博览会在河南郑州举办期间，宁夏组织多家涉农企业携粮油、枸杞、贺兰山东麓葡萄酒等特色产品集中参展，线下展销搭配线上直播推介，产销对接成效亮眼。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725666.shtml",
-      "publishedAt": "2026-11-03T15:35:53.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725665.shtml",
-      "title": "海南侨乡万宁兴隆咖啡 “买全球、卖全球”",
-      "category": "综合",
-      "summary": "中新网海南万宁11月3日电(记者 符宇群)从南美哥伦比亚采摘装箱，漂洋过海抵达海南万宁兴隆，在现代化工厂完成烘焙深加工，再以“海南制造”身份远销澳大利亚——这是正大(海南)兴隆咖啡产业开发有限公司总经理叶剑眼中，咖啡豆依托自贸港实现加工增值的完整旅程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725665.shtml",
-      "publishedAt": "2026-11-03T15:35:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-03/10725664.shtml",
-      "title": "数字科技激活苗乡文化 湖南城步拓展文旅融合新场景",
-      "category": "综合",
-      "summary": "中新网邵阳11月3日电 (刘剑平 吕伟铭 陈郁)“您好，请喝一碗迎客油茶！”每当暮色渐浓，湖南城步苗族自治县巫水河两岸灯光次第亮起，身着苗族盛装的宋梦瑶端着热气腾腾的油茶，笑着迎接登船游客。待游船驶出码头，全国首个水上苗乡数字幻游《巫水河边月正圆》拉开帷幕，一幅流动的苗乡夜景徐徐展开。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725664.shtml",
-      "publishedAt": "2026-11-03T15:33:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-03/10725661.shtml",
-      "title": "浙江海事金融探索迎新突破 落地首笔自贸区船舶授信业务",
-      "category": "综合",
-      "summary": "中国(浙江)自由贸易试验区内的宁波舟山港梅山集装箱码头。连林怡供图 中新网杭州11月3日电(王逸飞 付一方 连林怡)记者3日从浙江海事部门获悉，近日，由宁波海事局打造的海事金融资源配置中心成功落地首笔自贸区登记船舶授信业务，为中国(浙江)自由贸易试验区注册企业旗下新建远洋渔业冷藏船办理7000余万元的抵押融资，标志着船舶融资服务场景实现新延伸，进一步丰富船舶",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725661.shtml",
-      "publishedAt": "2026-11-03T15:31:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-03/10725660.shtml",
-      "title": "香港机管局与土耳其航空签署谅解备忘录",
-      "category": "综合",
-      "summary": "中新网香港11月3日电 香港机场管理局(简称“机管局”)与土耳其航空3日在香港签署《香港机场管理局与土耳其航空关于加强航空联系及航空发展合作的谅解备忘录》(下称“谅解备忘录”)，旨在加强航空联系、提升营运水平、推动可持续发展及拓展人才培训等多个领域深化合作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725660.shtml",
-      "publishedAt": "2026-11-03T15:29:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-03/10725659.shtml",
-      "title": "一江湘水“连”塞纳 内陆长沙拓展中欧开放新空间",
-      "category": "综合",
-      "summary": "中新网长沙11月3日电 题：一江湘水“连”塞纳 内陆长沙拓展中欧开放新空间",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725659.shtml",
-      "publishedAt": "2026-11-03T15:28:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/118263",
       "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
       "category": "科技",
@@ -586,6 +586,42 @@
         "工具",
         "职场",
         "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143120",
+      "title": "气温上升，滑雪场及冬季旅游业面临经营压力",
+      "category": "国际",
+      "summary": "世界气象组织与国际滑雪和单板滑雪联合会周二联合发布报告指出，随着全球气温上升、降雪条件日益不稳定，滑雪场及冬季旅游业面临越来越大的经营压力。研究显示，如果全球平均气温较工业化前水平升高2℃，在不进行人工造雪的情况下，欧洲28个国家约53%的受调查滑雪场将面临极高的积雪不足风险，部分滑雪场可能因此难以维持经营。&nbsp;",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143120",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143121",
+      "title": "国际电联：全球20亿人仍未上网",
+      "category": "国际",
+      "summary": "国际电信联盟周二发布的《2026年事实与数据》报告显示，2026年全球互联网使用人数估计达63亿，占世界人口的76%。尽管上网人数持续增加，但全球仍有20亿人未能上网。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143121",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1664,24 +1700,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143090",
-      "title": "安理会聚焦新兴技术与海上安全，专家警告海运业已成为网络攻击高风险目标",
-      "category": "国际",
-      "summary": "人工智能、自动化系统、卫星遥感和网络技术正在深刻改变海上安全格局，在带来机遇的同时也产生新的风险和治理挑战。为此，安理会周四就&nbsp;“新兴技术与海上安全”议题举行了高级别公开辩论。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143090",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:4b6a5619-f805-46cc-b666-2a466330fd88",
       "title": "公布世卫组织总干事候选人",
       "category": "健康",
@@ -1695,24 +1713,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143086",
-      "title": "联合国毒罪办：阿富汗鸦片生产反弹，产量增至上年五倍",
-      "category": "国际",
-      "summary": "联合国毒品和犯罪问题办公室周四发布的最新调查报告显示，2026年，阿富汗罂粟种植面积同比增长330%，鸦片产量同比增长400%，达到上一年的五倍。这是该国2022年实施毒品禁令以来，罂粟种植和鸦片生产首次出现显著回升。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143086",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
