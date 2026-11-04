@@ -5,6 +5,41 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#0",
+      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T13:14:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad#3",
+      "title": "「我在橫店當王妃」：中國興起短劇體驗遊",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T13:04:02.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#0",
+      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T10:52:01.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad#0",
+      "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T10:11:20.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad#0",
+      "title": "英王演說稱奴隸貿易是英國歷史「可恥的一章」",
+      "meta": "BBC 中文 · 2026/11/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T07:06:49.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5rmyrm0n8k8o/trad#1",
       "title": "2026年美國中期選舉結果實時更新",
       "meta": "BBC 中文 · 2026/11/4",
@@ -12,32 +47,18 @@
       "publishedAt": "2026-11-04T05:47:56.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#0",
-      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-      "meta": "BBC 中文 · 2026/11/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T05:37:39.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad#1",
       "title": "美國中期選舉民調：選民最關心經濟與民主現況",
       "meta": "BBC 中文 · 2026/11/4",
       "url": "https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T04:33:55.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad#2",
       "title": "《蘋果日報》前社長張劍虹提早獲釋，向官媒稱「好懊悔」",
       "meta": "BBC 中文 · 2026/11/4",
       "url": "https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T03:05:22.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#0",
-      "title": "有望成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-      "meta": "BBC 中文 · 2026/11/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:32:57.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad#2",
@@ -48,7 +69,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad#0",
-      "title": "APEC峰會前，美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
+      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
       "meta": "BBC 中文 · 2026/11/4",
       "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T00:23:34.000Z"
@@ -89,7 +110,7 @@
       "publishedAt": "2026-11-03T02:49:29.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad#5",
       "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
       "meta": "BBC 中文 · 2026/11/3",
       "url": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
@@ -117,13 +138,6 @@
       "publishedAt": "2026-11-02T12:27:49.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqy7l48vnv8ro/trad#1",
-      "title": "美國中期選舉：民調顯示民主黨將取得勝利，但預測還準確嗎？",
-      "meta": "BBC 中文 · 2026/11/2",
-      "url": "https://www.bbc.com/zhongwen/articles/cqy7l48vnv8ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T10:31:30.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad#2",
       "title": "台灣選舉：四成陸配參選遭剔除，「法理死結」如何困住參政之路？",
       "meta": "BBC 中文 · 2026/11/2",
@@ -136,13 +150,6 @@
       "meta": "BBC 中文 · 2026/11/2",
       "url": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-02T00:17:42.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad#3",
-      "title": "蔣萬安、沈伯洋台北市長選舉辯論會交鋒",
-      "meta": "BBC 中文 · 2026/10/31",
-      "url": "https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T13:20:00.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad#5",
@@ -164,13 +171,6 @@
       "meta": "BBC 中文 · 2026/10/30",
       "url": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T00:23:04.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad#5",
-      "title": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
-      "meta": "BBC 中文 · 2026/10/28",
-      "url": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T05:27:37.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-09-22T14:36:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-04T06:31:44.134Z",
+  "updatedAt": "2026-11-04T16:22:00.692Z",
   "provider": "OneBench 公共资讯快照"
 }
