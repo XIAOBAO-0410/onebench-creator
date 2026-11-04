@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T16:22:00.692Z",
-  "expiresAt": "2026-11-04T22:22:00.692Z",
+  "generatedAt": "2026-11-04T23:43:08.201Z",
+  "expiresAt": "2026-11-05T05:43:08.201Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,400 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209820.shtml",
+      "title": "WTA250香港公开赛：威廉姆斯/徐一璠晋级女双八强",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209820.shtml",
+      "publishedAt": "2026-11-04T23:31:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/11-05/10726356.shtml",
+      "title": "大学生“副业潮”：尝试赚钱，更是认识自己",
+      "category": "综合",
+      "summary": "殷锦绣",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726356.shtml",
+      "publishedAt": "2026-11-04T23:31:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-05/10726354.shtml",
+      "title": "秋招面试AI攻防大战，究竟谁是赢家",
+      "category": "综合",
+      "summary": "黄彬彬",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726354.shtml",
+      "publishedAt": "2026-11-04T23:28:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-05/10726353.shtml",
+      "title": "补办身份证得先刷身份证？别让便民服务被细节卡住",
+      "category": "综合",
+      "summary": "刘少华",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726353.shtml",
+      "publishedAt": "2026-11-04T23:26:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-05/10726352.shtml",
+      "title": "信医生还是信AI？这是一个问题",
+      "category": "综合",
+      "summary": "丰收",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726352.shtml",
+      "publishedAt": "2026-11-04T23:25:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-05/10726351.shtml",
+      "title": "环卫工戴电子工牌引热议，网友在担忧什么？",
+      "category": "综合",
+      "summary": "车横",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726351.shtml",
+      "publishedAt": "2026-11-04T23:24:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-05/10726350.shtml",
+      "title": "小心AI“谄媚”！ 60.4%受访者建议重要决定多在现实中征询不同人意见",
+      "category": "综合",
+      "summary": "中青报·中青网记者 王品芝",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726350.shtml",
+      "publishedAt": "2026-11-04T23:22:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726349.shtml",
+      "title": "美国突发直升机坠毁事故 致1死2伤",
+      "category": "综合",
+      "summary": "中新网11月5日电 据美联社报道，当地官员称，一架直升机当地时间11月4日在美国迈阿密附近的比斯坎湾坠毁，造成1名男子死亡，另外2人伤势严重。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726349.shtml",
+      "publishedAt": "2026-11-04T23:19:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-05/10726348.shtml",
+      "title": "10月中国大宗商品价格指数同比上涨21.0%",
+      "category": "综合",
+      "summary": "据中国物流与采购联合会消息，10月份中国大宗商品价格指数为137.0点，同比上涨21.0%。从指数运行情况看，中国大宗商品价格指数同比保持较大涨幅，表明大宗商品市场总体运行平稳，整体好于去年同期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726348.shtml",
+      "publishedAt": "2026-11-04T23:19:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-05/10726347.shtml",
+      "title": "军队文职人员公开招考，今起报名！这些事项要注意",
+      "category": "综合",
+      "summary": "2027 军队文职公开招考启动",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726347.shtml",
+      "publishedAt": "2026-11-04T23:16:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-05/10726346.shtml",
+      "title": "王毅分别会见来华出席澜湄合作第十一次外长会的越南、柬埔寨客人",
+      "category": "综合",
+      "summary": "新华社北京11月4日电(记者邵艺博)中共中央政治局委员、外交部长王毅4日在北京分别会见来华出席澜湄合作第十一次外长会的越南外交部长黎怀忠、柬埔寨副首相兼外交大臣布拉索昆。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726346.shtml",
+      "publishedAt": "2026-11-04T23:03:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726337.shtml",
+      "title": "泰国总理提出“重塑泰国”构想 强调增强经济自主能力",
+      "category": "综合",
+      "summary": "中新社曼谷11月4日电 (王茜 李映民)泰国总理阿努廷4日在曼谷举行的2026年泰国标准经济论坛上发表主旨演讲，提出“重塑泰国”构想，强调泰国应立足现有产业和发展基础，通过调整经济结构、提升产业竞争力，增强应对全球经济、技术和地缘政治变化的能力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726337.shtml",
+      "publishedAt": "2026-11-04T23:00:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726336.shtml",
+      "title": "今年前9个月泰国大米对东盟出口增长109%",
+      "category": "综合",
+      "summary": "中新社曼谷11月4日电 (王茜 李映民)泰国商务部外贸厅厅长阿拉达4日表示，2026年前9个月，泰国向东盟市场出口大米约125万吨，同比增长109%。东盟市场占泰国大米出口总量的比重由去年同期的9.7%升至25.2%，成为泰国大米出口的重要市场。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726336.shtml",
+      "publishedAt": "2026-11-04T22:59:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-05/10726344.shtml",
+      "title": "11月5日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726344.shtml",
+      "publishedAt": "2026-11-04T22:58:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726343.shtml",
+      "title": "以军宣布：打死哈马斯军事情报行动负责人",
+      "category": "综合",
+      "summary": "中新网11月5日电 综合《以色列时报》《耶路撒冷邮报》报道，以色列国防军和以色列国家安全总局(辛贝特)4日发表声明称，11月1日，以军和辛贝特对加沙城发动打击，打死巴勒斯坦伊斯兰抵抗运动(哈马斯)军事情报部门行动负责人贾迈勒·阿布·赛义德。阿布·赛义德曾扣押以色列人员。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726343.shtml",
+      "publishedAt": "2026-11-04T22:54:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-05/10726342.shtml",
+      "title": "各项筹备工作就绪 一组数据带你提前了解进博会亮点",
+      "category": "综合",
+      "summary": "第九届中国国际进口博览会将于5日在上海开幕。目前，布展工作已经全部完成，各项筹备工作就绪。一组新鲜数据带你提前了解今年进博会的亮点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726342.shtml",
+      "publishedAt": "2026-11-04T22:51:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726335.shtml",
+      "title": "南非举行地方政府选举",
+      "category": "综合",
+      "summary": "中新社约翰内斯堡11月4日电 (记者 孙翔)南非4日举行地方政府选举。南非独立选举委员会当天下午表示，截至当地时间17时，全国已有约1200万名选民完成投票。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726335.shtml",
+      "publishedAt": "2026-11-04T22:50:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726340.shtml",
+      "title": "特朗普称不后悔对伊动武 伊称美选举结果难改敌意 双方分歧仍难弥合",
+      "category": "综合",
+      "summary": "当地时间4日，伊朗最高领袖穆杰塔巴就伊美关系发表声明称，美国中期选举结果不会改变美方对伊朗的敌意，对“霸权敌人”稍有屈服倾向就会令其更加肆无忌惮；若美国侵略重演，伊朗反应将更广泛、战争规模更大。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726340.shtml",
+      "publishedAt": "2026-11-04T22:45:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-05/10726339.shtml",
+      "title": "10月中国电商物流指数持续回暖向好 旺季履约保障有力",
+      "category": "综合",
+      "summary": "中国物流与采购联合会今天发布10月份中国电商物流指数。10月份中国电商物流指数环比小幅回升，电商物流供给端提质增效，旺季履约保障有力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726339.shtml",
+      "publishedAt": "2026-11-04T22:43:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-05/10726338.shtml",
+      "title": "无端贬损、排挤孤立、越界骚扰……破解对抗“职场软暴力”维权难题",
+      "category": "综合",
+      "summary": "无端贬损、排挤孤立、越界骚扰……遭遇看不见的伤害易引纠纷",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726338.shtml",
+      "publishedAt": "2026-11-04T22:43:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad#0",
+      "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
+      "category": "国际",
+      "summary": "民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T21:02:11.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad#0",
+      "title": "共和黨在美國中期選舉中慘敗的五大原因",
+      "category": "国际",
+      "summary": "從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T20:20:47.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-05/10726334.shtml",
       "title": "中东欧四国总统峰会在斯洛伐克举行",
@@ -212,367 +606,24 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-04/10726328.shtml",
-      "title": "侨商侨企投资广州：当好超级联系人 链接全球大市场",
-      "category": "综合",
-      "summary": "中新网广州11月4日电 (记者 蔡敏婕 孙秋霞)“广州的快速发展离不开侨商和港澳力量的协同参与。侨商与港澳群体可充分依托港澳优质资源，与内地联手，在合作中实现共赢。”广州市荣誉市民、广州海外联谊会名誉会长、霍英东集团行政总裁霍震寰4日在广州表示，广州、香港、深圳三地联动，在科技创新领域拥有得天独厚的条件，发展前景值得期待。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726328.shtml",
-      "publishedAt": "2026-11-04T14:56:07.000Z",
+      "id": "who-zh-urn:uuid:bab0bcf5-9b5d-46be-a8b1-db0fea34b121",
+      "title": "全球有四分之一的青少年报告在过去一周里没有身体活动",
+      "category": "健康",
+      "summary": "根据世界卫生组织（世卫组织）今天发布的最新全球估计数据，这相当于约有2.4亿11-17岁青少年没有在过去一周的任何一天里完成至少60分钟的中等至剧烈程度的身体活动。平均而言，青少年报告每周只有2.7天进行了身体活动，只有14%的青少年报告每周七天都有身体活动。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/04-11-2026-one-in-four-adolescents-worldwide-reported-no-active-days-in-the-previous-week",
+      "publishedAt": "2026-11-04T14:55:22.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726320.shtml",
-      "title": "澜沧江－湄公河合作第十一次外长会在北京举行",
-      "category": "综合",
-      "summary": "中新社北京11月4日电 (记者 黄钰钦)澜沧江－湄公河合作第十一次外长会4日在北京举行。中共中央政治局委员、外交部长王毅和泰国副总理兼外长西哈萨共同主持会议，柬埔寨副首相兼外交大臣布拉索昆，老挝副总理兼外长通沙万，越南外长黎怀忠，缅甸国家计划、投资与对外经济部部长昂觉霍出席。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726320.shtml",
-      "publishedAt": "2026-11-04T14:55:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-04/10726319.shtml",
-      "title": "星展银行报告：人民币在多个亚洲市场已有较高使用率",
-      "category": "综合",
-      "summary": "中新社上海11月4日电 (记者 姜煜)星展银行4日发布的《格局重塑：新秩序下的全球资金》报告称，人民币在多个亚洲市场已有较高使用率。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726319.shtml",
-      "publishedAt": "2026-11-04T14:54:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-04/10726318.shtml",
-      "title": "中国与东盟南宁共探AI赋能防震减灾区域合作",
-      "category": "综合",
-      "summary": "【东盟专线】中国与东盟南宁共探AI赋能防震减灾区域合作",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10726318.shtml",
-      "publishedAt": "2026-11-04T14:54:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-04/10726327.shtml",
-      "title": "刷脸打卡就能日结工资？警惕这种新型兼职骗局",
-      "category": "综合",
-      "summary": "不用技能、坐一会儿刷个脸就能日结工资，这样的兼职工作是不是很吸引人？当在镜头前配合“眨眨眼、点点头”完成刷脸核验的瞬间，你的身份信息可能已经被当作商品，流入了电信诈骗和网络赌博等犯罪团伙手中。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726327.shtml",
-      "publishedAt": "2026-11-04T14:48:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-04/10726326.shtml",
-      "title": "“上头”烟弹竟是兽用麻醉剂 警惕“变味”的果味电子烟",
-      "category": "综合",
-      "summary": "根据《电子烟管理办法》，水果味道的调味电子烟早已被明令禁售。可眼下，这些带着香甜风味的产品，仍在电商和社交平台不断改换名目隐秘流通，甚至成了不少年轻人追捧的“时尚单品”。更让人担心的是，这些来路不明的烟弹里，还可能被掺进违禁物质，严重影响身心健康。那一口甜味里，究竟藏着什么？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726326.shtml",
-      "publishedAt": "2026-11-04T14:42:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-04/10726317.shtml",
-      "title": "驻韩美军两名士兵涉嫌走私毒品被捕",
-      "category": "综合",
-      "summary": "韩国海关部门4日通报，驻韩美军两名士兵因涉嫌利用美国军方邮政系统走私毒品被捕，已被移交韩国检方。调查显示，驻韩美军基地内存在毒品交易和分销迹象。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726317.shtml",
-      "publishedAt": "2026-11-04T14:31:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726314.shtml",
-      "title": "从大国水电到“植物活化石”：台湾自媒体人感受四川攀枝花的生态与工业力量",
-      "category": "综合",
-      "summary": "中新网攀枝花11月4日电 (韩金雨)一座以花命名的城市，既藏着中国20世纪建成投产的最大水电站，也守护着近40万株与恐龙同时代的“植物活化石”。11月4日，2026台湾自媒体人天府游记·攀西行活动走进四川省攀枝花市，近20名两岸自媒体人和媒体记者先后探访二滩水电站、攀枝花苏铁国家级自然保护区，感受这座城市的工业力量与生态之美。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726314.shtml",
-      "publishedAt": "2026-11-04T14:28:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209817.shtml",
-      "title": "游客参观新疆吐鲁番坎儿井",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209817.shtml",
-      "publishedAt": "2026-11-04T14:28:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726313.shtml",
-      "title": "宁夏统筹10亿元财力托举人才强区 真金白银引才育才",
-      "category": "综合",
-      "summary": "中新网银川11月4日电 (记者 于晶)11月4日，记者从宁夏回族自治区财政厅获悉，2026年宁夏统筹各类人才资金总规模达10亿元，以稳定财政投入为人才强区战略筑牢资金底盘，持续吸引集聚各类人才服务宁夏高质量发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726313.shtml",
-      "publishedAt": "2026-11-04T14:27:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
-      "title": "中国电视剧制作产业协会传播工作委员会正式揭牌",
-      "category": "综合",
-      "summary": "中新网北京11月4日电 (记者 高凯)11月4日，由国家广播电视总局、北京市人民政府主办的2026中国广播电视精品创作大会在北京会议中心开幕。当天下午举行的电视剧(网络剧)论坛上，中国电视剧制作产业协会传播工作委员会(简称“中制协传播委”)正式揭牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
-      "publishedAt": "2026-11-04T14:26:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml",
-      "title": "全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区",
-      "category": "综合",
-      "summary": "中新网成都11月4日电 (记者 王鹏)记者4日从成都高新区获悉，全球创意经济与创意生态可持续发展合作中心(成都)(以下简称成都中心)当日正式落地成都高新区中国—欧洲中心。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml",
-      "publishedAt": "2026-11-04T14:24:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726309.shtml",
-      "title": "2026京港澳青年科学家大会在北京召开",
-      "category": "综合",
-      "summary": "中新网北京11月4日电 (尹李梅)11月4日，2026京港澳青年科学家大会在北京举行。大会作为第29届京港洽谈会专题活动之一，以“两新融合 向新而行”为主题，汇聚京港澳多方科创主体，搭建科创合作、青年人才赋能与成果转化平台。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726309.shtml",
-      "publishedAt": "2026-11-04T14:23:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209814.shtml",
-      "title": "“兰亭·雅集”暨汉字之美·中韩书法交流展在韩开幕",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209814.shtml",
-      "publishedAt": "2026-11-04T14:23:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-04/10726308.shtml",
-      "title": "重庆办人工智能OPC创业资源对接赋能活动 助力打造创业生态",
-      "category": "综合",
-      "summary": "中新网重庆11月4日电 (记者 钟旖)重庆市4日举办人工智能OPC创业资源对接赋能活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726308.shtml",
-      "publishedAt": "2026-11-04T14:22:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726307.shtml",
-      "title": "“十五五”时期 重庆将加快就业等“AI+”综合场景上线",
-      "category": "综合",
-      "summary": "中新网重庆11月4日电 (记者 钟旖)重庆市4日召开2026年度全市人力社保网络安全与信息化工作会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726307.shtml",
-      "publishedAt": "2026-11-04T14:21:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-04/10726306.shtml",
-      "title": "姚明、李小鹏、邓亚萍现身香港 与小学生体验橄榄球公益课",
-      "category": "综合",
-      "summary": "中新网香港11月4日电 (记者 张语洽)劳伦斯世界体育学院成员姚明、李小鹏和邓亚萍4日在香港出席“青年身心同行计划”项目活动，与香港小学生一同体验非撞式橄榄球课程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726306.shtml",
-      "publishedAt": "2026-11-04T14:20:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726305.shtml",
-      "title": "2027年度“北京普惠健康保”开放参保 新增前沿药品17种",
-      "category": "综合",
-      "summary": "中新网北京11月4日电 2027年度“北京普惠健康保”4日正式开放参保。产品是由北京市医疗保障局、中共北京市委金融委员会办公室共同指导，国家金融监督管理总局北京监管局严格监督的普惠型商业补充医疗保险产品，坚决贯彻落实《全民医疗保障“十五五”规划》关于大力推动商业医疗保险发展、健全多层次医疗保障体系的要求，六年来始终坚持普惠定位，紧密衔接基本医疗保险，减轻市民",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726305.shtml",
-      "publishedAt": "2026-11-04T14:19:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726311.shtml",
-      "title": "脑机接口先驱尼科莱利斯天津大学开讲：技术价值在于让患者真正受益",
-      "category": "综合",
-      "summary": "中新网天津11月4日电 (记者 周亚强)“一项技术的价值，从来不取决于设备的精密复杂程度，而在于它能否真正帮助患者重获行动能力，改善生活质量。”全球脑机接口领域研究先驱、法国科学院外籍院士、巴西科学院院士米格尔·尼科莱利斯3日在天津表示。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726311.shtml",
-      "publishedAt": "2026-11-04T14:18:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-04/10726303.shtml",
-      "title": "服务创新发展 京港业界人士冀加强知识产权协作",
-      "category": "综合",
-      "summary": "中新网北京11月4日电 (记者 陈建新)第二十九届北京·香港经济合作研讨洽谈会(简称“京港洽谈会”)京港知识产权专题活动4日在北京举行。京港两地多位业界人士呼吁，加强知识产权协作，更好服务创新发展与企业国际化布局。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726303.shtml",
-      "publishedAt": "2026-11-04T14:17:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#1",
       "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
       "category": "国际",
       "summary": "在密歇根州，民主黨候選人阿卜杜勒·賽義德如今將成為美國首位穆斯林聯邦參議員。",
@@ -624,7 +675,25 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#0",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143127",
+      "title": "世卫组织：采取气候相关健康措施每年有望挽救160万人生命",
+      "category": "国际",
+      "summary": "世界卫生组织周三发布的一份报告显示，在全球推广高温健康预警、安全饮水和清洁家庭能源等六项措施，每年有望避免160万人死亡，并带来数万亿美元的经济和财政收益，同时帮助减少碳排放。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143127",
+      "publishedAt": "2026-11-04T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#1",
       "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
       "category": "国际",
       "summary": "兩場一年前還被認為將勢均力敵的美國參議院選舉，最終都成為民主黨輕鬆取勝的選戰。",
@@ -1018,23 +1087,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cmkgk61rgzj4o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-03T05:50:05.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad#1",
-      "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
-      "category": "国际",
-      "summary": "「加密貨幣公司在本個周期亦非常活躍，Ripple與Coinbase合共捐出6300萬美元，資助推動加密貨幣行業利益的超級政治行動委員會。」",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T04:59:47.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1716,24 +1768,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143096",
-      "title": "难民署：四个受战争影响国家至少900万人急需过冬援助",
-      "category": "国际",
-      "summary": "联合国难民署周四表示，随着北半球冬季临近，乌克兰、叙利亚、黎巴嫩和阿富汗四个受战争影响的国家预计至少有900万人急需额外援助，以应对即将到来的严寒。与此同时，援助资金短缺和能源价格上涨正使当地民众的处境更加艰难。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143096",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:4b6a5619-f805-46cc-b666-2a466330fd88",
       "title": "公布世卫组织总干事候选人",
       "category": "健康",
@@ -1747,23 +1781,6 @@
         "育儿",
         "家庭",
         "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad#1",
-      "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
-      "category": "国际",
-      "summary": "美國選民將於11月3日投票，這場選舉的結果可能對總統特朗普餘下任期產生重大影響。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T00:47:37.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -2116,23 +2133,6 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/18-09-2026-member-states-advance-negotiations-on-pathogen-access-and-benefit-sharing-ahead-of-un-general-assembly-meeting-on-pandemics",
       "publishedAt": "2026-09-18T15:12:41.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
-      "id": "who-zh-urn:uuid:fecb0912-4a7d-4b35-a9f8-c173d83fc51c",
-      "title": "世卫组织与英联邦秘书处续签伙伴关系协议，共同加强卫生系统并推进全民健康覆盖",
-      "category": "健康",
-      "summary": "世界卫生组织（世卫组织）与英联邦秘书处今日同意将双方谅解备忘录续签四年，重申双方致力于改善英联邦56个成员国人民健康与福祉的共同承诺，并进一步加强合作，共同应对紧迫的全球卫生挑战。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/15-09-2026-who-and-commonwealth-secretariat-renew-partnership-to-strengthen-health-systems-and-advance-universal-health-coverage",
-      "publishedAt": "2026-09-15T09:07:07.000Z",
       "tags": [
         "健康",
         "育儿",

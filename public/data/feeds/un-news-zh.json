@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143127",
+      "title": "世卫组织：采取气候相关健康措施每年有望挽救160万人生命",
+      "meta": "联合国新闻 · 2026/11/4",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143127",
+      "publishedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143126",
       "title": "也门战火加剧，妇女和女童承受“毁灭性后果”",
       "meta": "联合国新闻 · 2026/11/3",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/30",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143097",
       "publishedAt": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143096",
-      "title": "难民署：四个受战争影响国家至少900万人急需过冬援助",
-      "meta": "联合国新闻 · 2026/10/29",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143096",
-      "publishedAt": "2026-10-29T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-04T16:22:00.692Z",
+  "updatedAt": "2026-11-04T23:43:08.201Z",
   "provider": "OneBench 公共资讯快照"
 }
