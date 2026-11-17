@@ -5,6 +5,13 @@
   "title": "世界卫生组织",
   "items": [
     {
+      "id": "who-zh-urn:uuid:699694c3-dd68-48d0-908f-d9ffd7f7b763",
+      "title": "在重重挑战之下，各国仍加大国内投资，以维护结核病防治进展",
+      "meta": "世界卫生组织 · 2026/11/12",
+      "url": "https://www.who.int/zh/news-room/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+      "publishedAt": "2026-11-12T16:16:10.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:720675e3-871a-45d6-a474-c0d1365df30d",
       "title": "世卫组织发起“携手共促科学与健康”运动，以增强世界各地对科学的信任",
       "meta": "世界卫生组织 · 2026/11/9",
@@ -136,22 +143,8 @@
       "meta": "世界卫生组织 · 2026/9/29",
       "url": "https://www.who.int/zh/news-room/29-09-2026-who-reports-latest-global-trends-in-cholera--meningitis-and-plague",
       "publishedAt": "2026-09-29T09:06:35.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:ff64657f-9387-4009-a0ec-b2235b841a31",
-      "title": "世界各国领导人重申承诺，誓要保护世界免受未来大流行的威胁",
-      "meta": "世界卫生组织 · 2026/9/25",
-      "url": "https://www.who.int/zh/news-room/25-09-2026-world-leaders-renew-commitment-to-protect-the-world-from-future-pandemics",
-      "publishedAt": "2026-09-25T16:21:49.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:4fd09a28-4a3a-4271-b4c5-509267adfeb2",
-      "title": "世卫组织公布2027年南半球流感季节的流感疫苗成分建议",
-      "meta": "世界卫生组织 · 2026/9/25",
-      "url": "https://www.who.int/zh/news-room/25-09-2026-recommendations-announced-for-influenza-vaccine-composition-for-the-2027-southern-hemisphere-influenza-season",
-      "publishedAt": "2026-09-25T12:50:57.000Z"
     }
   ],
-  "updatedAt": "2026-11-16T18:36:44.516Z",
+  "updatedAt": "2026-11-17T02:57:12.223Z",
   "provider": "OneBench 公共资讯快照"
 }
