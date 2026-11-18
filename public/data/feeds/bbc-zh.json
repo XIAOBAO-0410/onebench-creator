@@ -5,14 +5,28 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad#1",
-      "title": "台灣高雄市選戰：「知識藍」柯志恩對決「新潮流」賴瑞隆，國民黨有可能複製「韓流」嗎？",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad#0",
+      "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
+      "meta": "BBC 中文 · 2026/11/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T07:31:24.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad#0",
+      "title": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
+      "meta": "BBC 中文 · 2026/11/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T00:29:38.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad#0",
+      "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
       "meta": "BBC 中文 · 2026/11/17",
       "url": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T16:25:49.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#2",
       "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
       "meta": "BBC 中文 · 2026/11/17",
       "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-11-17T11:37:12.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad#1",
       "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
       "meta": "BBC 中文 · 2026/11/17",
       "url": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss",
@@ -47,7 +61,7 @@
       "publishedAt": "2026-11-17T08:44:40.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad#2",
       "title": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
       "meta": "BBC 中文 · 2026/11/17",
       "url": "https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss",
@@ -101,20 +115,6 @@
       "meta": "BBC 中文 · 2026/11/16",
       "url": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-16T09:03:22.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad#2",
-      "title": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
-      "meta": "BBC 中文 · 2026/11/16",
-      "url": "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T03:49:26.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad#2",
-      "title": "APEC深圳峰會：中方確認美中俄會晤，日方盼習近平與高市握手",
-      "meta": "BBC 中文 · 2026/11/16",
-      "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T01:43:29.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad#3",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-10-05T00:14:01.000Z"
     }
   ],
-  "updatedAt": "2026-11-17T22:26:53.595Z",
+  "updatedAt": "2026-11-18T07:35:46.947Z",
   "provider": "OneBench 公共资讯快照"
 }
