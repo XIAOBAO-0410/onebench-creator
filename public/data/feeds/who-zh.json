@@ -19,6 +19,13 @@
       "publishedAt": "2026-11-17T11:08:40.000Z"
     },
     {
+      "id": "who-zh-urn:uuid:a2a45f19-4c44-4d40-a721-996d9bceeafd",
+      "title": "更多国家有了抗微生物药物耐药性计划，但患者仍然缺乏检测和治疗",
+      "meta": "世界卫生组织 · 2026/11/16",
+      "url": "https://www.who.int/zh/news-room/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+      "publishedAt": "2026-11-16T15:57:23.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:c01b624f-6ad1-458b-9177-2368651d6998",
       "title": "厄立特里亚取得消除沙眼的重要公共卫生成就",
       "meta": "世界卫生组织 · 2026/11/16",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/10/12",
       "url": "https://www.who.int/zh/news-room/12-10-2026-who-welcomes-adoption-of-united-nations-political-declaration-on-pandemic-prevention-preparedness-and-response",
       "publishedAt": "2026-10-12T20:19:24.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:8d02afd7-fd06-4b09-9634-8515e6db5043",
-      "title": "粮食安全阶段综合分类伙伴关系就苏丹粮食不安全和营养不良问题发出警报",
-      "meta": "世界卫生组织 · 2026/10/12",
-      "url": "https://www.who.int/zh/news-room/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert",
-      "publishedAt": "2026-10-12T16:01:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-20T03:23:03.471Z",
+  "updatedAt": "2026-11-20T12:58:59.856Z",
   "provider": "OneBench 公共资讯快照"
 }
