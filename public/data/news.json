@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T14:00:12.440Z",
-  "expiresAt": "2026-11-27T20:00:12.440Z",
+  "generatedAt": "2026-11-27T22:44:27.973Z",
+  "expiresAt": "2026-11-28T04:44:27.973Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,239 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-28/10739094.shtml",
+      "title": "普京出席“彼尔姆”号核潜艇升旗仪式",
+      "category": "综合",
+      "summary": "中新社莫斯科11月27日电 俄罗斯总统普京27日在阿尔汉格尔斯克州北德文斯克出席“彼尔姆”号多用途导弹核潜艇海军军旗升旗仪式，标志着这艘新型攻击核潜艇正式加入俄海军战斗序列。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739094.shtml",
+      "publishedAt": "2026-11-27T22:40:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-28/10739093.shtml",
+      "title": "首只在印尼出生的大熊猫“里奥”迎来周岁",
+      "category": "综合",
+      "summary": "中新社雅加达11月27日电 (记者 李志全)首只在印度尼西亚出生的大熊猫“里奥”27日迎来一周岁生日。位于茂物的印尼野生动物园当天举行庆祝活动，“里奥”在熊猫宫户外展区与母亲一同亮相。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739093.shtml",
+      "publishedAt": "2026-11-27T22:40:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad#1",
+      "title": "台灣「九合一」選舉：六都市長候選人簡介",
+      "category": "国际",
+      "summary": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T16:04:01.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/11-27/10739092.shtml",
+      "title": "东西问｜普京与特朗普都爱中国菜：美食，是亚太相知最好的语言",
+      "category": "综合",
+      "summary": "中新社北京11月27日电 题：普京与特朗普都爱中国菜：美食，是亚太相知最好的语言",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dxw/2026/11-27/10739092.shtml",
+      "publishedAt": "2026-11-27T15:29:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-27/10739090.shtml",
+      "title": "信长星当选中共江苏省委书记",
+      "category": "综合",
+      "summary": "中国共产党江苏省第十五届委员会第一次全体会议11月27日选举信长星为省委书记，刘小涛、范波为省委副书记，当选为省委常委的还有周红波、张文兵、胡立杰(女)、边学文、李耀光、陈忠伟、马士光、沈剑荣、敬健、吴庆文。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739090.shtml",
+      "publishedAt": "2026-11-27T14:48:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-27/10739085.shtml",
+      "title": "中国成功发射遥感五十号04星",
+      "category": "综合",
+      "summary": "中新社北京11月27日电 (记者 马帅莎)据中国航天科技集团消息，北京时间11月27日21时05分，中国在太原卫星发射中心使用长征六号改运载火箭，将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739085.shtml",
+      "publishedAt": "2026-11-27T14:33:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-27/10739084.shtml",
+      "title": "两岸职工福州同场竞技 项目辅导及成果转化AI大模型上线",
+      "category": "综合",
+      "summary": "中新社福州11月27日电 (叶秋云)于27日在福州市举行的第七届海峡两岸(福州)职工创新创业创造大赛主题日活动上，面向两岸职工的职工创新项目辅导及创新成果转化AI大模型正式上线。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739084.shtml",
+      "publishedAt": "2026-11-27T14:32:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-27/10739086.shtml",
+      "title": "咕嘟咕嘟！河北人的味觉DNA里，一定刻着一锅大锅菜！",
+      "category": "综合",
+      "summary": "河北人的味觉DNA里，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739086.shtml",
+      "publishedAt": "2026-11-27T14:30:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
+      "title": "从在轨测试到开放服务 北京太空算力“朋友圈”扩容",
+      "category": "综合",
+      "summary": "中新社北京11月27日电 (记者 陈杭)2026太空数据中心建设工作推进大会27日在北京举办。会上宣布，太空数据中心在轨技术试验平台上线运行，将面向全国商业航天和人工智能领域，提供模型训练推理、载荷在轨验证等试验机会，为更多创新主体开展太空算力应用提供公共基础设施。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
+      "publishedAt": "2026-11-27T13:57:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-27/10739072.shtml",
+      "title": "聚焦“人工智能+能源” 2026兴隆湖能源电力创新发展大会在蓉举行",
+      "category": "综合",
+      "summary": "中新网成都11月27日电 (单鹏)随着人工智能技术加速发展并与能源深度融合，能源电力行业正迎来新一轮技术变革。27日，由清华四川能源互联网研究院、四川省电力行业协会联合主办的2026兴隆湖能源电力创新发展大会在成都举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739072.shtml",
+      "publishedAt": "2026-11-27T13:57:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-27/10739073.shtml",
+      "title": "中国驻马来西亚使馆举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”",
+      "category": "综合",
+      "summary": "中新网吉隆坡11月27日电 中国驻马来西亚使馆27日举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”。中国驻马来西亚大使姚文出席并作主旨发言，马国会议员、民主行动党顾问陈国伟，巫统最高理事洛克曼，人民公正党副总秘书艾迪，马中友好协会会长马吉德，亚太“一带一路”共策会会长翁诗杰等政党、智库学者及友好团体代表参加。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739073.shtml",
+      "publishedAt": "2026-11-27T13:56:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-27/10739069.shtml",
+      "title": "E法同行 向上向海｜在上海，遇见网络法治的N种打开方式",
+      "category": "综合",
+      "summary": "中新网上海11月27日电(记者 崔艳燕)当数字技术重塑城市生活，网络法治也面临着新的时代命题。上海，正在用一系列鲜活实践交出自己的答卷。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739069.shtml",
+      "publishedAt": "2026-11-27T13:56:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-27/10739074.shtml",
+      "title": "新能源装机容量十年翻两番 “一带一路”绿色能源合作跑出加速度",
+      "category": "综合",
+      "summary": "中新网青岛11月27日电(记者 张尼)11月26日，第四届“一带一路”能源部长会议在山东青岛举办。中国国家能源局局长王宏志在会上表示，过去10年共建“一带一路”国家新能源累计装机容量增至600GW以上，翻了两番。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739074.shtml",
+      "publishedAt": "2026-11-27T13:55:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-27/10739068.shtml",
       "title": "“广货行天下”冬季行动启动 兼容科技和年味",
@@ -356,222 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-27/10739042.shtml",
-      "title": "“九州攸同——周秦汉唐文物特展”在广西南宁启幕",
-      "category": "综合",
-      "summary": "中新网南宁11月27日电(俞靖 张广权)11月27日，“九州攸同——周秦汉唐文物特展”在广西壮族自治区博物馆开展。本次特展汇聚全国20家文博机构的164件(套)、共计280件珍贵文物，展期持续至2027年3月14日。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739042.shtml",
-      "publishedAt": "2026-11-27T13:44:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-27/10739040.shtml",
-      "title": "中国有望建成全球首个核聚变能源工程供热示范堆先导堆型",
-      "category": "综合",
-      "summary": "中新网成都11月27日电 (王利文)27日在成都召开的“Z箍缩聚变裂变混合堆供热示范堆(ZFFR-Dt)工程专家会”透露，该工程倡议分两阶段实施：第一阶段为2026年至2030年，完成聚变点火验证及核心工艺验证；第二阶段为2031年至2035年建造示范堆，设计聚变功率200兆瓦、热功率大于2000兆瓦，有望成为全球首个核聚变能源工程供热示范堆先导堆型。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739040.shtml",
-      "publishedAt": "2026-11-27T13:41:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-27/10739038.shtml",
-      "title": "2026—2027赛季国际滑联短道速滑世巡赛上海站开赛",
-      "category": "综合",
-      "summary": "中新网上海11月27日电(缪璐 娄瀚锟)2026—2027赛季国际滑联短道速滑世界巡回赛上海站27日开赛。本赛季短道速滑世巡赛共有七站，上海站为第四站。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739038.shtml",
-      "publishedAt": "2026-11-27T13:40:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211859.shtml",
-      "title": "中国成功发射遥感五十号04星",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211859.shtml",
-      "publishedAt": "2026-11-27T13:38:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-27/10739035.shtml",
-      "title": "中山：做好“侨”文章 让项目蓝图在生产线上“跑起来”",
-      "category": "综合",
-      "summary": "中新网中山11月27日电 题：中山：做好“侨”文章 让项目蓝图在生产线上“跑起来”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/11-27/10739035.shtml",
-      "publishedAt": "2026-11-27T13:38:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-27/10739033.shtml",
-      "title": "“天工开物城市文旅联盟”在江西新余正式发起",
-      "category": "综合",
-      "summary": "中新网新余11月27日电 (王剑)动画电影《天工开物》发布会暨天工开物城市文旅联盟发起大会27日在江西省新余市举办。大会现场，新余联合上海徐汇，江苏苏州、江阴、宿迁，浙江嘉兴、桐乡，四川绵阳及江西南昌、赣州、九江等十余座影片取景关联地，正式发起天工开物城市文旅联盟。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739033.shtml",
-      "publishedAt": "2026-11-27T13:36:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/11-27/10739060.shtml",
-      "title": "东西问·兰花奖丨福斯托·准奇利亚：认识和尊重文化多样性，应融入人工智能核心训练",
-      "category": "综合",
-      "summary": "中新社记者 肖欣 王宗汉",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/11-27/10739060.shtml",
-      "publishedAt": "2026-11-27T13:34:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-27/10739032.shtml",
-      "title": "大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南",
-      "category": "综合",
-      "summary": "中新网广州11月27日电 (记者 蔡敏婕)2026粤港澳大湾区服务贸易大会(广州)26日至28日在广州举办，本届大会首次设立国际医疗展区，《广东省国际医疗服务指引》在会上正式发布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739032.shtml",
-      "publishedAt": "2026-11-27T13:33:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-27/10739031.shtml",
-      "title": "哈萨克斯坦70名大学生运动员将赴长春参加大冬会",
-      "category": "综合",
-      "summary": "中新网阿斯塔纳11月27日电 (记者 单璐)据哈通社27日消息，哈萨克斯坦将派出70名大学生运动员，参加2027年1月在中国长春举办的第33届世界大学生冬季运动会，在8个大项中展开角逐。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739031.shtml",
-      "publishedAt": "2026-11-27T13:33:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
-      "title": "中方学者：亚太作为合作高地的基本面没有变",
-      "category": "综合",
-      "summary": "中新社北京11月27日电 (记者 李纯)“亚太总体保持稳定局面，作为世界经济增长引擎的地位没有变，作为合作高地的基本面没有变。”中国国际问题研究院亚太研究所副研究员王震宇27日在北京表示，只要选准方向，亚太合作前景可期。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
-      "publishedAt": "2026-11-27T13:31:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/11-27/10739062.shtml",
-      "title": "11月27日新闻夜读",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/11-27/10739062.shtml",
-      "publishedAt": "2026-11-27T13:29:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-27/10739061.shtml",
-      "title": "我国成功发射遥感五十号04星",
-      "category": "综合",
-      "summary": "中新网北京11月27日电 (马帅莎 李宸)北京时间11月27日21时05分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于国土普查、农作物估产和防灾减灾等领域。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739061.shtml",
-      "publishedAt": "2026-11-27T13:29:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "sspai-https://sspai.com/post/119658",
       "title": "本周看什么 | 最近值得一看的 8 部作品",
       "category": "科技",
@@ -742,40 +759,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad#1",
-      "title": "台灣「九合一」選舉：六都市長候選人簡介",
-      "category": "国际",
-      "summary": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T11:11:57.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad#1",
-      "title": "台灣九合一選舉：從「洋流」看民進黨戰略性擱置「抗中保台」牌",
-      "category": "国际",
-      "summary": "有學者指出，這並非「中國因素」消失，而是地方選舉本質以市政民生為主，民進黨也吸取去年大罷免的教訓，戰略性擱置了統獨議題，以此拉攏中間選民。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T09:38:20.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
@@ -1802,23 +1785,6 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad#1",
-      "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
-      "category": "国际",
-      "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-17T09:49:49.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
       "id": "who-zh-urn:uuid:a2a45f19-4c44-4d40-a721-996d9bceeafd",
       "title": "更多国家有了抗微生物药物耐药性计划，但患者仍然缺乏检测和治疗",
       "category": "健康",
@@ -1968,6 +1934,23 @@
         "育儿",
         "家庭",
         "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#1",
+      "title": "台灣時隔一年再「核電公投」：這次投什麼？通過門檻為何？",
+      "category": "国际",
+      "summary": "「廢除非核家園」公投案在今年11月28日的九合一選舉同日投票。這是台灣相隔短短一年後再有公投，也是當地近8年來，第4度舉行關於核電公投。BBC中文整理此次公投的背景和重點。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T07:56:51.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },
@@ -2138,6 +2121,23 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:49a296f5-6447-4836-838c-bb3362b0d0bb",
+      "title": "国际刑警组织与世卫组织签署协议，加强全球卫生与安全保护",
+      "category": "健康",
+      "summary": "国际刑警组织与世界卫生组织（世卫组织）签署了一项合作协议，旨在应对公共卫生与安保交汇领域一些最紧迫的威胁。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/16-10-2026-interpol-and-who-sign-agreement-to-strengthen-global-health-and-security-protection",
+      "publishedAt": "2026-10-16T07:58:44.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
       ],
       "hot": false
     }
